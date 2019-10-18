@@ -1,0 +1,15 @@
+Titel
+Java/Javascript-Fullstack Entwickler (w/m/d)
+Projektanbieter
+epos Systemhaus GmbH
+Beginn
+Einsatzort
+PLZ 8
+Beschreibung
+Java/Javascript-Fullstack Entwickler (w/m/d) Für einen unserer Kunden suchen wir zum nächstmöglichen Zeitpunkt einen erfahrenen Java/Javascript-Fullstack Entwickler (w/m/d). Aufgaben: - Eigenständige Konzeption und Implementierung neuer Funktionen in komplexen Anwendungslandschaften - Entwicklung diverser Frontends für Desktop, Tablet und mobile Endgeräte, Dashboard- Applikationen, d3-Datenvisualisierung und Prototypentwicklung - Zusammenarbeit in agilen, standortübergreifenden Teams - Erstellung von technischen Dokumentationen
+
+Anforderungen:
+- Fundierte Berufserfahrung in der Umsetzung von komplexen JavaScript-Anwendungen (z.B. insbesondere mit React, ausserdem mit Angular JS, Ember, Vue.js oder Backbone)
+- Erfahrung mit Java, Java EE
+- Sicherer Umgang mit JavaScript / TypeScript, HTML, CSS und Versionsverwaltungs- und Entwicklungstools sowie Cross-Browser-Know-how
+

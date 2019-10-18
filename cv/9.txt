@@ -1,0 +1,348 @@
+Java / J2EE / JEE - Architektur und Entwicklung von IT-Systemen, Backend, Frontend, Web-Anwendungen, Server-Komponenten; Weiter- und Neuentwicklung; Application-Engineering; Integrationsprojekte3
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D2Schweiz
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Deutschland: zurzeit nur Raum Hamburg
+Position
+Kommentar
+SW-Architektur
+Projekte
+01/2019 - 06/2019
+
+6 Monate
+
+Softwareentwicklung in einer komplexen Microservices- und Legacy-Umgebung
+
+Rolle
+SW Entwickler / SW Developer / Software Engineer
+Kunde
+ALD AutoLeasing D GmbH
+Einsatzort
+Hamburg
+Projektinhalte
+Stabilisierung, Optimierung, Erweiterung und Vorbereitung für die Produktionseinführung eines Verkaufts- und Vertragsabschluss-Prozesses. Fehleranalyse und Bugfixing in einer prozessgesteuerten Microservices-Umgebung. Entwicklung und Anbindung neuer Systemkomponenten.
+Kenntnisse
+BPMN 2Build Management Continuous Integration Java JavaScript MVC Object-relational mapping ORM OpenAPI Specification OAuth 2 REST API SQL Unix Webinterface Web Services
+Produkte
+Apache Wicket Camunda BPM Camunda Cockpit Camunda Modeler Eclipse Gradle Git GitLab Grafana HTML IDnow Java 8 Jenkins JPA JSON Kibana Liquibase Oracle Postman Sonatype Nexus Spring Boot Swagger Swagger Codegen Swagger UI Unix
+12/2017 - 12/2018
+
+1 Jahr 1 Monat
+
+Produktionseinführung, Optimierung, Erweiterung einer 24x7 Microservices-FTP-Java-Plattform
+
+10/2017 - 11/2017
+
+2 Monate
+
+Aktualisierung und Weiterentwicklung von Gangehi Approvals Open Source
+
+05/2017 - 09/2017
+
+5 Monate
+
+SW-Architektur und Implementierung einer zentralen Komponente für die Drucksteuerung.
+
+09/2016 - 04/2017
+
+8 Monate
+
+Aufbau eines Datenanalyse-, Control- und Chart-Dashboards auf der Basis von Elasticsearch (Elastic) und Highcharts
+
+07/2016 - 08/2016
+
+2 Monate
+
+Entwicklung neuer Service-Informationssysteme auf der Basis von Google Maps API.
+
+11/2015 - 06/2016
+
+8 Monate
+
+Wicket Umstellung auf "Responsive Design"-Komponenten
+
+01/2015 - 10/2015
+
+10 Monate
+
+SW-Produktentwicklung basierend auf WildFly (JBoss) und jBPM
+
+04/2012 - 11/2014
+
+2 Jahre 8 Monate
+
+Reengineering einer geschäftskritischen Business Process Anwendung (basierend auf jBPM); Weiterentwicklung; Wartung;
+
+01/2012 - 03/2012
+
+3 Monate
+
+Weiterentwicklung
+
+10/2011 - 12/2011
+
+3 Monate
+
+Überführung (Neuentwicklung) einer COBOL-Legacy-Anwendung
+
+01/2011 - 09/2011
+
+9 Monate
+
+Konzeption und Realisierung einer Komponente
+
+03/2009 - 12/2010
+
+1 Jahr 10 Monate
+
+Neuentwicklung und Reengineering
+
+10/2009 - 03/2010
+
+6 Monate
+
+Erweiterung einer bestehenden JEE/Struts-Anwendung
+
+06/2008 - 09/2009
+
+1 Jahr 4 Monate
+
+Modellierung in UML und Entwicklung in Java einer mehrschichtigen Web-Anwendung auf der Basis des.
+
+05/2008 - 05/2008
+
+1 Monat
+
+Erweiterung einer internen Referenzanwendung
+
+03/2008 - 04/2008
+
+2 Monate
+
+ALD Projekt
+
+Branchen
+Finanzdienstleistungen/Leasing/Banking/Bank
+Touristik
+Transport/Logistik
+Versicherungen
+Gesundheitswesen
+Wissenschaft
+Medien
+IT
+Großhandel
+Kompetenzen
+Programmiersprachen
+ABAP4
+Grundkenntnisse
+C
+C++
+MS MFC
+Cobol
+Grundkenntnisse
+Groovy
+Java
+SCHWERPUNKT
+Java 7
+Java 8
+Java 9
+Java EE 8
+Java SE 11
+JavaScript
+JAX-RS
+JDK1.9
+JEE 7
+jQuery
+JSON
+OpenJDK 11
+Parallelisierung
+PL/SQL
+UML
+Betriebssysteme
+IRIX
+Unix
+Linux
+Mac OS
+MS Pocket PC
+Windows Mobile
+Multithreading
+OS/400
+SUN OS, Solaris
+Unix
+Unix
+Windows
+Datenbanken
+Access
+DB2
+auf MS Win., IBM Großrechner, OS/400
+Elastic
+Hibernate
+O/R Mapping
+HSQLDB
+JDBC
+JPA
+O/R Mapping
+MS SQL Server
+MySQL
+NoSQL DB
+Oracle
+Postgres
+PostgreSQL
+SQL
+Sybase
+TopLink
+O/R Mapping
+Sprachkenntnisse
+Deutsch
+Muttersprache-Niveau
+Englisch
+fließend
+Polnisch
+Muttersprache
+Hardware
+AS/400
+IBM Großrechner
+Macintosh
+PC
+Silicon-Graphics
+SUN
+Datenkommunikation
+CORBA
+EDIFACT
+Grundkenntnisse
+Internet, Intranet
+SCHWERPUNKT
+ISO/OSI
+theoretische Kenntnisse
+Message Queuing
+insbesondere WebSphere MQ und JMS für Systemintegration
+Novell
+REST
+JAX-RS
+RESTful Web Services
+RPC
+SMTP
+TCP/IP
+SCHWERPUNKT
+Webservices
+(z.B. JAX-WS)
+Windows Netzwerk
+Winsock
+Produkte / Standards / Erfahrungen
+Agile Softwareentwicklung
+agiles Vorgehen
+Apache ActiveMQ
+Apache Ant
+Apache Camel 2.23.0
+Apache Jackrabbit (JCR)
+Apache Tomcat
+Apache Wicket
+asynchrone Datenverarbeitung
+BOSCH Inubit 7.1
+BPMN 2
+BPMN2
+Build Management
+Camunda BPM
+CDI 1.2
+Check_MK
+Continuous Integration
+CSS
+Dependency Injection
+Docker
+Dozer
+Eclipse
+Eclipse Luna
+Eclipse MicroProfile
+Eclipse Oxygen
+EclipseLink
+EJB 3.2
+Elasticsearch
+FTP
+Git
+GIT
+GitHub
+Google Maps API
+Gradle
+HeidiSQL
+Highcharts
+HTML
+IText
+Jackson
+Java EE 8 Security API
+jBPM 6.2
+jBPM 6.5
+jBPM 7.15
+JEE Application Server
+Jenkins
+Jersey
+Jira
+Jmockit
+JMS
+JPA 2.1
+JSF
+JSF2
+JUnit
+Kanban
+Komponentenarchitektur
+Komponentenentwicklung
+Liquibase
+Lobipanel
+Logz.io
+Maven
+Microservices Architecture
+Multitier Architektur
+MVC
+O/R-Mapping
+Objektrelationale Abbildung
+OpenJDK 11
+OpenShift
+pgAdmin
+PlantUML
+PrimeFaces
+PrimeFaces 5.1
+R/O-Mapping
+REST API
+RESTful services
+Selenium
+Sencha ExtJS 4.2.1
+Spring Boot 2.1.1
+Struts
+Swagger
+Test-Driven-Development
+TestNG
+Thorntail
+Twitter Bootstrap
+Web Services
+Web-Anwendung
+Web-Client
+WildFly 8.2 (JBoss)
+WildFly AS
+WildFly AS 11.0.0.Final
+WildFly AS 15
+Workflow-Engine
+XML
+XSLT
+Design / Entwicklung / Konstruktion
+Agile Softwareentwicklung
+Microservice-Architektur
+Schichtenarchitektur
+Strukturierte Programmierung
+Verteilte Systeme
+Bemerkungen
+Kontaktieren Sie mich. Auf Anfrage stelle ich Ihnen umgehend persönliche Unterlagen
+(Lebenslauf sowie Arbeitszeugnisse) auf elektronischem oder
+postalischem Wege zur Verfügung.
+Ausbildungshistorie
+2004 Feb. WebSphere Studio Device Developer (WSDD) Workshop bei IBM Developer Technical Support Center  2002 Nov. WebSphere Application Server 5.0 Workshop bei IBM WS Innovation Center  2000 Universitätsabschluss: Diplom-Informatiker  1992 – 2000 Studium der Informatik an der Universität Hamburg Vertiefung: Verteilte Systeme und Kommunikationssysteme Nebenfach: BWL  1987 – 1990 Grundstudium im Fach Nachrichtentechnik an der TU Danzig  1987 Abitur

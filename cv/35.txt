@@ -1,0 +1,120 @@
+Softwareentwicklung und Schulungen; zertifiziert für Java SE, EJB, Servlets & JSP, Java EE Architektur.
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.10.2019
+verfügbar zu
+100 %
+davon vor Ort
+20 %
+PLZ-Gebiet, Land
+ÖsterreichSchweizEinsatzort unbestimmt
+Städte
+Kiel
+20 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Arbeitserlaubnis: deutsche Staatsbürgerschaft (EU)
+Position
+Projekte
+06/2014 - 03/2015
+
+10 Monate
+
+Softwareentwickler
+
+Rolle
+Softwareentwickler
+Kunde
+Barmer GEK
+Einsatzort
+Gmünd
+Projektinhalte
+Für die Barmer GEK entwickle ich das Backend für zukünftige Abrechenverfahren. U. a. ist meine Software für die Abrechnung ärztlicher Sachkosten bereits in Produktion.
+Kenntnisse
+ScrumMDA
+Produkte 
+Java EE 6 JPA EJB 3 GlassFish 2.1 Intellij IDEA Subversion Java 5 Java 6 Java 7 DB2MS-SQL Innovator TestNG Mockito JProfiler
+Branchen
+Bildung, Schulung, Pädagogik, Lehrtechniken, Lerntechniken, Drucken, Drucktechnik, Forschung, Wissenschaft, Physik, Elektronik, IT, Dienstleistungen, Öffentlicher Dienst, gesetzliche Krankenversicherung
+Kompetenzen
+Programmiersprachen
+Assembler
+C
+nicht so gerne, aber Erfahrung aus mehreren Projekten vorhanden
+C++
+nicht so gerne, aber Erfahrung aus mehreren Projekten vorhanden
+Haskell
+Java
+von Sun zertifiziert: SCJA, SCJP, SCJD, SCWCD, SCBCD, SCEA
+JavaScript
+Perl
+nicht so gerne, aber Erfahrung aus mehreren Projekten vorhanden
+PHP
+nicht so gerne, aber Erfahrung aus mehreren Projekten vorhanden
+Scala
+SML
+auch Swing (Java), SQL, XML, Java EE, J2EE
+Schwerpunkte: OO allgemein,
+  UML,   Objektorientierte Analyse,   Objektorientiertes Design
+Betriebssysteme
+SUN OS, Solaris
+gut als Benutzer, keine Administration
+Unix
+gut als Benutzer, keine Administration
+Windows
+gut als Benutzer, keine Administration
+Sprachkenntnisse
+Deutsch
+sicher in Wort und Schrift, technische Dokumentation, Übersetzungen
+Englisch
+sicher in Wort und Schrift, technische Dokumentation, Übersetzungen
+Latein
+Spanisch
+Datenbanken
+DB2
+MS SQL Server
+Entwicklerperspektive; keine Administration
+MySQL
+Entwicklerperspektive; keine Administration
+SQL
+Datenkommunikation
+Message Queuing
+JMS
+Produkte / Standards / Erfahrungen
+Mockito
+TestNG
+Produkte:
+GlassFish / Oracle GlassFish Server
+Tomcat
+MySQL
+Intellij IDEA
+vim
+Apache Ant
+CAS (SSO)
+JUnit
+JBoss Seam
+JProfiler, profiler4j, VisualVM
+
+Spezifikationen und Standards:
+J2EE / JavaEE (Servlets, JSP, JSF, EJB 2.x, EJB 3.0, JPA)
+Bemerkungen
+Veröffentlichungen:
+
+RESOOM Magazine, Ausgabe März/April 2009
+Rubrik Wissen: "Sun Certified Professional - Beleg für echtes Können?"
+Ausbildungshistorie
+Sun Certified Java Programmer 1.4
+Sun Certified Java Programmer 6
+Sun Certified Java Developer
+Sun Certified Web Component Developer 1.4
+Sun Certified Business Component Developer for Java EE 5
+Sun Certified Business Component Developer for J2EE 1.3
+Sun Certified Java Associate
+Sun Certified Enterprise Architect
+
+Kontaktieren
+Auf die Merkliste

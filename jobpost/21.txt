@@ -1,0 +1,69 @@
+Titel
+Testautomatisierung mobiler Anwendungen - 2 Tage die Woche
+Beginn
+04.11.2019
+Dauer
+31.12.2020
+Einsatzort
+Dresden
+Beschreibung
+Beratungsleistung für den Ausbau eines Testautomatisierungs-Frameworks für Tests von Online-Anwendungen, die Verprobung von Praxisfällen und einer Monitoring-Infrastruktur.
+
+Aufgabenbeschreibung:
+
+In diversen Projekten entwickeln derzeit verschiedene Entwicklungspartner im Auftrag des Kunden Lösungen für digitale Gesundheitsangebote oder zur Vernetzung von Gesundheitspartnern. Beispielhaft sind an dieser Stelle Online-Filiale, Prozess-Tracking, Bonus-App, meine AOK-App, Online-Geschäftsstelle und yuble.de genannt. Ziel ist die Verbesserung beziehungsweise Sicherstellung der Qualität bezogen auf Apps, Software und Websites welche für die AOK entwickelt werden.
+
+Durch gegenseitigen Abhängigkeiten der Anwendungen und Systeme sowie die agilen Entwicklungsmethoden wird der Testbedarf absehbar massiv zunehmen. Ein Ausbau der Automatisierung ist unumgänglich.
+
+ 
+
+Gegenstand der gewünschten Beratung sind folgende Leistungen für das integrierte Testmanagement für iOS-, Android-, Desktop- und Web-Anwendungen:
+
+• Weiterentwicklung des vorhandenen Testautomatisierungsframeworks auf Basis Appium für die kubus IT und AOK
+
+• Pflege der relevanten macOS-Umgebungen und -Scripte
+
+• Weiterentwicklung der softwaretechnischen Automatisierungs-Infrastruktur
+
+• Erstellung automatisierter Testfälle für Web-Anwendungen, Android und iOS
+
+• Definition von Kriterien für Automatisierung Ja / Nein von Testfällen
+
+• Anleitung zur Beschreibung von automatisierten Tests
+
+• Rolloutplanung und Durchführung für automatisierte Tests
+
+• umfassende Dokumentationen
+
+Die Aufzählung ist nicht abschließend, sondern kann im Fortschritt des Vorhabens um weitere Fragestellungen im Kontext Testautomation ergänzt werden.
+
+ 
+
+Fähigkeiten und Erfahrungen:
+
+• Ausgeprägte Fähigkeiten und Erfahrungen bei der Konzeption von Testumgebungen
+
+• Erfahrungen in der Umsetzung von manuellen zu automatisierten Testverfahren
+
+• Didaktische Fähigkeiten bei der Anleitung und Steuerung von Entwicklern
+
+• Teameignung: Erfahrung bei der Konzeption von Testautomation (mindestens 2 Jahre).
+
+• Erfüllung technologischer Kompetenzen (Programmierung von iOS, Android, macOS, Windows, SQL-Datenbanken, GIT, Appium, XCUITest, Espresso, .net, Java, Javascript Kenntnisse)
+
+• Erfahrungen in der Dokumentation der automatisierten Tests und deren Infrastruktur (incl. Betriebshandbuch)
+
+• Erfahrung in Behaviour Driven Development
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Skills
+Testautomation Test-Frameworks Appium Selenium Programmierung von Web- Services Java IOS Android macOS SQL

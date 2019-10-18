@@ -1,0 +1,38 @@
+Titel
+Software Engineer Java (m/w/d)
+Beginn
+01.11.2019
+Einsatzort
+Ulm
+Ihre Aufgaben
+Du hast ein erfolgreich abgeschlossenes Studium der Informatik, Wirtschaftsinformatik, Medieninformatik oder eine vergleichbare Ausbildung.
+
+Zudem bringst Du Erfahrung in der Java-Entwicklung sowie im Bereich agiler Methoden mit.
+
+Ihr Profil
+Du hast praktische Erfahrung in den folgenden Bereichen:
+
+• Java / Java EE
+
+• Docker, Kubernetes
+
+• Automatisiertes Testing (JUnit, Selenium, ...)
+
+• Continuous Integration / Build-Management / Continous Delivery
+
+• Application Security
+
+Weiterhin sind folgende Kenntnisse wünschenswert / hilfreich:
+
+• Agile Softwareentwicklung
+
+• Atlassian Toolchain (JIRA, Confluence, Stash...)
+
+• Teamfähigkeit
+
+• Eigenverantwortliches und ergebnisorientiertes Denken und Handeln
+
+• Hohes Maß an Selbstorganisationsfähigkeit
+
+• Sehr gute Deutsch- und Englisch Kenntnisse
+

@@ -1,0 +1,18 @@
+Titel
+Java Tool-Entwickler (m/w/d)
+Beginn
+08.10.2019
+Dauer
+unbefristet
+Einsatzort
+Hannover
+Beschreibung
+Für ein Großprojekt bei unserem Kunden suchen wir derzeit Unterstützung im Bereich Java Tool-Entwicklung in Hannover (vor Ort). Die Aufgabe besteht in Behebung von Bugs, sowie angeforderter Weiterentwicklungen z.B. in den folgenden Tools liegen: - Dokumenten-Spezifikations-Anwendung - Testframework auf JUnit-Basis - Archivanwendung (Migration von Altanwendungs-Daten & Weiterentwicklung) - Ablösung von historischen Anwendungen durch neue Implementierungen.
+Die Unterstützung soll an mindestens 4 Tagen pro Woche in Hannover statt finden.
+
+Skills
+- Sehr gute Java-Kenntnisse
+- Beherrschung der Entwicklung von Eclipse RCP 3.x, SWT / JFace, Spring & Hibernate
+- Erfahrungen mit der Entwicklungsumgebung Eclipse
+- Praktische Kenntnisse in der Verwendung von GIT werden vorausgesetzt
+- Kenntnisse und praktischer Einsatz von SQL und XML sind vorhanden

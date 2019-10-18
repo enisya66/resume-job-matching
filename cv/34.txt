@@ -1,0 +1,156 @@
+Software Architektur sowie Entwicklung in J2EE, SOA, REST, Webservices, Java, C#, C++, Beratung und Coach3
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+80 %
+PLZ-Gebiet, Land
+D6D7
+Städte
+Bruchsal
+200 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Deutschland: Ich suche in den Räumen: Stuttgart, Mannheim, Karlsruhe, Frankfurt, Darmstadt, Bruchsal/Bretten.
+Projekthistorie
+Zeitraum: 07/2018 bis heute
+Branche: Energiekonzern
+Projekt: Entwicklung von intelligenten Energielösungen auf Basis von Microservices in der
+AzureCloud. Die Anwendungen wurden komplett neu entwickelt. Fokus lag auf der
+Erstellung eines Frameworks, mit dem neue Anwendungen schnell entwickelt und in
+erster Version produktiv gehen können.
+Eigene Aufgabe: Senior Entwickler/Architekt
+Mitentwicklung eines Basisframeworks für die Microservices
+Mitentwicklung der Authentifizierungslösung auf OAuth-Basis
+Entwicklung von REST-APIs und Integration mit dem Frontend
+Aufbau und Pflege von Kubernetes-Clustern in der AzureCloud – Konfiguration
+der Cluster (Ingress, Datenbanken)
+Details: Erstellung von Services auf Basis von SpringBoot/NGINX
+Entwurf von REST-API zum UI Mockup
+ Fokus auf die Implementierung intelligenter Abläufe
+ Integration der APIs mit dem Frontend (Angular 5)
+ Mitarbeit im SCRUM-Team – Weiterentwicklung der Produkte
+ 6 Services getrennt entwickelbar und deploybar (OAuth-Service, SMS/Email-
+Service, Service zur Energieüberwachung, Service zur Energieerzeugung,
+Service zur Immobilienverwaltung (Zähler, Rechnungen), Service zur
+Unterstützung von Energieaudits
+ Tools/Techniken Java 8,9,11, MS-Azure, Visual Studio Online (CI), MS-SQL, Docker, Kubernetes 
+SpringBoot, OAuth2, Redis, NGINX, Hibernate, GIT, Gradle, Angular 5 
+  Zeitraum: 08/20017 bis 06/2018
+Branche: Softwarehaus für Kultusministerien
+Projekt: Migration einer Webbasierten zentralen Planungssoftware für den Religionsunterricht für Bayern (RELIS) sowie bei der Weiterentwicklung der amtlichen Schulverwaltung der Länder Bayern und Baden-Württemberg (ASV)
+Eigene Aufgabe: Verantwortlicher Architekt (RELIS) sowie Senior Entwickler
+Lösung von zentralen Problemen der Migration
+Portierung von Background-Jobs
+Unterstützung der Entwickler durch Basisklassen/Verallgemeinerungen
+Details: Migration von RichFaces auf PrimeFaces und von Jboss 6 auf Jboss 7 unter Austausch von SEAM zu WELD
+Fehlerbehebung, Anzeige soll zentral erfolgen
+klare Budgetvorgaben -> klare Prioritäten
+zusätzlich Unterstützung der Fehlerbehebung und Weiterentwicklung eines zweiten Projektes in Vaadin (Notenerfassung Online für Bayern und Baden Württemberg)
+zusätzlich Planung und Design sowie Entwicklung einer Erweiterung für die amtliche Schulsoftware von Bayern (Konsistenzprüfung der Daten)
+Tools/Techniken: Java 8, Eclipse Neo, Hibernate, Richfaces, Primefaces, JSF, Jboss 7, Jboss 6, Vaadin, OSGI, CAMEL
+
+Branchen
+Telekommunikation
+Innere Sicherheit
+Softwarehäuser
+Chemie/Chemische Industrie
+Controlling
+Versicherung
+Banken
+Bausparkasse
+Applicationserver
+Kompetenzen
+Programmiersprachen
+C
+C#
+C++
+CORBA IDL
+Fortran
+Groovy
+Imake, GNU-Make, Make-Maker etc...
+Java
+Primäre Sprache
+JavaScript
+PL/SQL
+Ruby
+ 
+Betriebssysteme
+CentOS
+HPUX
+MS-DOS
+OS/2
+SUN OS, Solaris
+Unix
+Windows
+SuSE Zertifikat für Linux Administration
+Datenbanken
+Access
+DB2
+Informix
+JDBC
+MariaDB
+MS SQL Server
+MySQL
+ODBC
+Oracle
+PostgreSQL
+SQL
+Vertia
+ 
+Sprachkenntnisse
+Deutsch
+Englisch
+Sehr sicher
+Französisch
+Grundkenntnisse
+Hardware
+PC
+SUN
+Unix-Systeme
+Bisher keine Hardware Entwicklung
+Datenkommunikation
+Apache Camel
+CORBA
+Omni ORB, Mico, Java EE
+Internet, Intranet
+JMS
+JSON-RPC
+REST
+SOAP
+TCP/IP
+Entwicklung
+Webservices, SOAP
+XML-RPC
+Produkte / Standards / Erfahrungen
+Methoden
+Objektorientierte Programmierung
+Objektorientierte Analyse und Design Entwurfsmuster/Designpatterns Datenbankentwicklung Datenbankdesign SOA Microservices  
+
+Produkte
+Java:
+                Vaadin/GWT
+                Eclipse/Plugins/RPC
+                Net Beans
+J2EE, Java EE Servlets, JSP EJB JUnit Spring Hibernate Hazelcast Infinispan Struts JSF WSAD C++:    GCC (Auf Unix Systemen) Visual Age C++ MS Visual Studio C++ und MFC MS Visual Studio .NET C++ (Managed C++)
+C#: Kenntnisse der .NET Bibliotheken MS Visual Studio .NET C#
+OOA/OOD:  Magic Draw UML Enterprise Architekt  Argo UML Signavio
+Sonstiges: JBoss Application Server Maven Subversion CVS Mockito Diverse HTML Editoren XML Spy (Entwicklung von XML/XSL) Websphere Tomcat antlr Sonar, FindBugs, PMD, CheckStyle Hudson/Jenkins Eclipse CSS/SASS
+Bemerkungen
+SuSe Linux Admin (SLCT 2003) zertifiziert.
+Für mein Projekt bei der 1&1 liegt mir eine Referenz in Dateiform vor, die Ich Ihnen gerne zusende.
+Ausbildungshistorie
+Hochschulreife (1989)
+
+Diplom Physiker (Universität Ulm)
+Diplomarbeit: Computersimulation von Polymeren
+Studium der Mathematik (Parallelstudium bis zum Vordiplom)
+
+Seit Anfang 1995 bin ich in Softwareprojekten und als Dozent tätig.
+Seit Ende 1997 arbeite ich als selbständiger Berater im objektorientierten Umfeld.

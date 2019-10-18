@@ -1,0 +1,41 @@
+Titel
+SAP BI Application Development Expert (m/w)
+Beginn
+01.10.2019
+Dauer
+31.12.2019
+Einsatzort
+Basel
+Beschreibung
+ 
+
+• Act as provider and coordinator of technical expertise in SAP integration / de-velopment technologies like PO, CPI, API management and ABAP, S/4Hana, and UI5
+
+• Acts as gatekeeper that is responsible for completeness, and quality of development work delivered for deployment into ERP systems through formal review and acceptance/rejection of this work.
+
+• Act as arbitrator and mediator for escalations related to technical design deci-sions. Coach and mentor development coordinators, developers and new join-ers to achieve service line goals.
+
+• Design, develop and implement services provided by Development Factory.
+
+• Evaluate vendor performance by measuring KPIs
+
+• Implements and ensures conformity and compliance to the technical standards, practices and processes that govern and control Factory Services work (e.g. design, development, configuration); also contributes to definition and evolution of these.
+
+• Develop and maintain strong working relationships with internal customers, peers and external partners.
+
+• Understands and drives application of vendor and industry-driven best practices in ERP solutions, such as code reuse and customization avoidance.
+
+• Ensures that work activities and work product comply with all relevant regulatory and internal policy controls (e.g. GxP, SOX, Security Baseline).
+
+• Recognizes and leverages opportunities for reuse of work or techniques across ERP applications to promote efficiency and consistency.
+
+• Provide and validate effort estimations
+
+• Conduct interviews for key development resources
+
+ 
+
+Verlängerung in 2020 geplant
+
+Skills
+Education: University degree in Computer Science, Information Management or related discipline; or other degree with significant work experience in similar disciplines Hands-on Experience: 10 or more years of hands-on work with relevant technologies (SAP PO, CPI, ABAP, S/4 Hana, UI5, ...). Additional functional, technical experience with related SAP and ERP tools and technologies is desirable Supervisory Experience: 2 or more years in roles having accountability for the technical work of others is preferred Remote / Virtual Teams: Experience demonstrating effective working with distributed or off-shore teams is preferred Communication: Very strong written and verbal English is minimum requirement Must have and maintain deep knowledge of relevant SAP technology and tools (SAP SAP PO, CPI, ABAP, S/4 Hana, UI5, ..) and of application development and lifecycle management theory and practice Must have strong technical writing and reading skills Requires strong negotiation and consensus-building skills General knowledge of ITIL framework, ITIL certification preferred and specialized certi-fication in service design and delivery ideal.

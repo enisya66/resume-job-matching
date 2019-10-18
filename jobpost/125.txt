@@ -1,0 +1,33 @@
+Titel
+Softwareentwickler C# (m/w/d)
+Beginn
+01.11.2019
+Einsatzort
+Mannheim
+Ihre Aufgaben
+Sie sind für die Software-Entwicklung im Bereich Digitalisierung zuständig
+Sie übernehmen die Software-Entwicklung C# (.Net) und Visual Studio
+Sie erstellen die Konzeption, Weiterentwicklung und Implementierung zentraler und dezentraler Softwarekomponenten
+Sie übernehmen die Durchführung von Aufwandsschätzungen und Machbarkeitsstudien
+Sie übernehmen die Sicherstellung von 2nd-/3rd-Level-Support
+Sie testen von Artefakten, insbesondere Erstellung automatisierter UnitTests
+Sie verantworten die Dokumentation von Code und Ergebnissen
+ 
+
+Ihr Profil
+Sie bringen eine abgeschlossene Ausbildung oder einen abgeschlossenes Studium aus dem IT-Bereich mit
+Sie bringen Kenntnisse in der Programmsprache C# (.Net) und Visual Studio mit
+Sie haben Kenntnisse in Azure DevOps Server/Team Foundation Server (TFS)
+Sie bringen Kenntnisse in MS SQL-Server und TSQL Kenntnisse im Bereich XML, XSD, XSL und zugehörige Toolsets (Altova XMLSpy) mit
+Sie haben Kenntnisse im Bereich JavaScript, Angular, TypeScript, Webentwicklung
+Sie haben bereits nach agilen Methoden gearbeitet
+Gute Deutsch- und Englischkenntnisse runden Ihr Profil ab
+ 
+
+Wir bieten außerdem
+sehr gute fachliche Entwicklung innerhalb der vielfältigen Projektlandschaft bei namhaften internationalen Unternehmen
+individuelle, verbindliche Weiterentwicklungsmöglichkeiten
+dynamisches Umfeld mit spannenden Kontakten
+markt- und leistungsorientierte Vergütung
+alle Vorteile einer Konzernzugehörigkeit
+ 

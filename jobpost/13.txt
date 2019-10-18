@@ -1,0 +1,41 @@
+Titel
+Android Entwickler (m/w/d)
+Beginn
+14.10.2019
+Dauer
+31.12.2019
+Einsatzort
+Frankfurt am Main
+Beschreibung
+Die Leistungen des Auftragnehmers werden für die Projekte FGMT (Folgegeneration Mobiles Terminal) und MTx erbracht. In diesen Projekten werden folgende Aufgaben durchgeführt:
+
+ 
+
+Wartung und Weiterentwicklung der Software des MT-Endgeräts und des MT-Servers
+MTx-Vendo-Kanalintegration
+Entwicklung der FGMT
+Anpassung betroffener Verfahren und Schnittstellen
+Leistungsbeschreibung:
+
+ 
+
+Programmierung / Implementierung / Customizing technischer Komponenten in Applikationen auf Basis der genutzten Technologien inkl. dazugehöriger Schnittstellen, Module und entsprechender Datenbanken unter Einhaltung der Standards des Auftraggebers (z.B. Nutzung der standardisierten Entwicklungsumgebungen und Programmierrichtlinien)
+Beheben von Fehlern aus den Testphasen in den Applikationen / Komponenten
+Dokumentation der technischen Komponenten
+Erstellen von Systemdokumentationen
+Erstellen von Lieferpaketen für die betreffenden Applikationen
+Erstellen von Aufwandsschätzungen
+Einrichten von Entwicklungsumgebungen inkl. Continuous Integration
+Durchführen von Code-Reviews, Komponententests, Modultests, Modulgruppentests
+Vorbereitung von Entscheidungsvorlagen zu technischen Themen
+Präsentationen zu technisch komplexen Themenstellungen
+Aktive Kommunikation von Risiken und Problemen an den technischen Architekten und an das Projektmanagement sowie Aufzeigen von Handlungsalternativen
+Entstörung und Fehlerbehebung zu den Releaseterminen
+ 
+
+Auslastung: 100%
+
+Remote: 20%
+
+Skills
+J2EE Java Kotlin Android ADB QS per JUnit QS per UI Testing Eclipse Android Studio Sonar Hudson, Maven, Gradle SVN/GIT RxJava Espresso

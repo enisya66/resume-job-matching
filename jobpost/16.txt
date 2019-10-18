@@ -1,0 +1,18 @@
+Projekt-Titel
+iOS und Android App-Entwicklung in Kiel
+Projekt-Rolle
+Entwickler
+Beginn
+10.10.2019
+Dauer
+länger
+Auslastung
+60
+Einsatzort
+Kiel
+Projekt-Beschreibung
+Unterstützung unserer App Entwicklung in Kiel
+Es ist erforderlich in Kiel zu arbeiten (zeitweiße Remote natürlich möglich), aber bzgl. Abstimmung mit unserem Entwicklungs-Team ist die Anwesenheit erforderlich. Daher bitte nur Bewerber aus dem Raum Kiel (Schleswig-Holstein).
+Must-Have Skills
+iOS Android Java Swift
+Nice-to-Have Skills

@@ -1,0 +1,41 @@
+Titel
+Java Entwickler (m/w/d) Backend
+Beginn
+10.10.2019
+Dauer
+12 Monate
+Einsatzort
+Heusenstamm
+Beschreibung
+Unser Kunde plant die Erstentwicklung der webbasierten Anwendung und ist hierfür auf der Suche nach 2 Java Entwicklern (w/m/d).
+
+Aufgabenbereich: 
+
+• Erstentwicklung der webbasierten Anwendung Selbsthilfeförderung
+• Anfertigen von Architekturkonzepten für die webbasierte Anwendung Selbsthilfeförderung
+• Fachlicher und technischer Austausch mit den Systemadministratoren des Kunden
+• Aufnahme der Anforderungen in Workshops mit den Kunden
+• Arbeiten mit dem Entwicklungsplanungssystem MS Team Foundation Server (TFS)
+• Entwickeln und Testen der einzelnen Komponenten und Schnittstellen unter Einhaltung
+der Kunden Java Codierrichtlinien
+• Testen des Gesamtsystems
+• Mitwirkung innerhalb der projekt-/liferayspezifische Deploymentprozesse
+• Dokumentation des Quellcodes in deutscher Sprache
+• Erstellung Pflichtenheft, Installationshandbuch, technisches Handbuch
+
+Die Implementierung des webbasierten Anwendung Selbsthilfeförderung basiert auf den folgenden
+Technologien:
+
+• Java 8
+• Liferay Portal 6.2/7
+• OSGi Module in/für Liferay
+• REST Sevices in/für Liveray
+• IDE JetBrains IntelliJ
+• My SQL DB 5.6.28
+• HTML5, CSS und JS Framework Bootstrap
+• DB Abstraktionslayer Spring Data
+
+Das Projekt ist für die Dauer von 1 Jahr angesetzt und jeweils 200 Projekttagen pro Entwickler. Bitte beachten Sie, dass die Abgabe der Angebote am 22.08.2019 erfolgt und die Entscheidung des Kunden wird bis spätestens Ende September erfolgen. 
+
+Skills
+Java 8 Team Foundation Server OSGi Module REST Services IDE JetBrains IntelliJ My SQL DB 5.6.28 HTML5, CSS und JS Framework Bootstrap DB Abstraktionslayer Spring Data

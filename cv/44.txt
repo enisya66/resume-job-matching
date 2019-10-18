@@ -1,0 +1,213 @@
+Principal SAP - IT Consultant / SAP Process Integration PI & Orchestration PO / SAP Cloud Integration CPI / IT Consulting
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+31.12.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+ÖsterreichSchweizEinsatzort unbestimmtD9D8D7D6D5D4D3D2D1D0
+Position
+Kommentar
+Consultant, Developer, Coach, Quality Advisor, Integration Architect, Solution Architect, Technical Project Manager
+Projekte
+07/2017 - 02/2018
+
+8 Monate
+
+Rollout SAP S/4HANA, SAP Hybris, SAP Ariba, SAP Concur, SAP SuccessFactors, SAP PO, SAP CPI, SAP HCP
+
+Rolle
+Integration Stream Lead / Integration Architect
+Kunde
+IT-Security
+Einsatzort
+Ismaning (DE), Reading (UK)
+Projektinhalte
+– Requirements analysis / blue print
+– Architecture design for hybrid Integration (onPrem-2-onPrem,
+Cloud-2-Cloud, Cloud-2-onPrem)
+– Consulting and Integration (based on Best Practices / SAP HEC)
+– Design/QA of Interface specification
+– Implementation and Support
+– Team leading and technical project management
+02/2012 - 10/2017
+
+5 Jahre 9 Monate
+
+Master Data Management and Integration of SAP- and nonSAP-systems with SAP PI, SAP CE, SAP PO
+
+Rolle
+SAP PI/PO Integration Architect / Solutions Architect
+Kunde
+Institution under public law
+Einsatzort
+Munich
+Projektinhalte
+– Creation of development guidelines and naming conventions
+– Architecture consulting and coaching for setup connectivity of
+SAP and third-party systems to SAP ERP using SAP Process
+Integration and Composite Environment NetWeaver Java 7.3.
+– Creation of Business Blueprint (software requirements specification and development of integration architecture)
+– Conception and implementation of the JEE application
+– GoingLive support
+– SAP PI/PO knowledge transfer
+– Technical project lead (Integration and Orchestration)
+– Support SAP PI upgrade to 7.31
+– Business End-2-End Monitoring
+– Consulting about SAP PO 7.4
+– Release Management
+– SAP Application Interface Framework (PoC)
+– Technical and functional migration from PI 7.31/CE 7.3 to SAP PO 7.5
+03/2016 - 09/2017
+
+1 Jahr 7 Monate
+
+Rollout SAP ECC, sFin, SAP S/4HANA and Integration based on SAP PO
+
+09/2011 - 12/2015
+
+4 Jahre 4 Monate
+
+Rollout Global SAP / Interface and performance optimization with SAP PI
+
+03/2014 - 02/2015
+
+1 Jahr
+
+Integration of SAP- and nonSAP-Systems with SAP PI
+
+10/2011 - 02/2012
+
+5 Monate
+
+Migration of integration scenarios from SAP XI to SAP PI
+
+12/2010 - 07/2011
+
+8 Monate
+
+Integration of SAP- and nonSAP-systems, data migration
+
+12/2008 - 11/2010
+
+2 Jahre
+
+SAP PI Implementation project
+
+11/2008 - 11/2009
+
+1 Jahr 1 Monat
+
+SAP WM implementation project (warehouse management system)
+
+06/2007 - 08/2009
+
+2 Jahre 3 Monate
+
+SAP warehouse management system implementation project for automatic storages
+
+SAP Experience – Summary
+SAP (NetWeaver)
+SAP XI (Exchange Infrastructure) / PI (Process Integration) & PO (Process Orchestration)
+Landscape design
+Administration and configuration
+Mapping (JAVA, ABAP, XSLT, Groovy)
+Conception and implementation of business processes based on BPMN
+Migration from ccBPM to BPM
+(de-)central AAE, AEX, J2SE
+Adapter module & Driver deployment
+Monitoring / XPI Inspector / Performance
+B2B Add-On / Integration
+SAP Business Connector
+SAP Application Interface Framework (AIF)
+SAP Solution Manager (monitoring, CR/transport/Incident/test management, project organization, LMDB, SLD)
+SAP NetWeaver Development Infrastructure (NWDI)
+SAP WebDynpro for Java/ABAP
+SAP NetWeaver Web AS Administration
+SOA Management/Web Service Runtime/Java und ABAP Proxy
+Business Process Management (BPM) / Business Rules Management (BRM)
+SAP Cloud Platform, Cloud Platform Integration / API Management / SAP IPS
+SAP Ariba Cloud Integration Gateway
+SAP Concur, SAP SuccessFactors, SAP Ariba Network & P2P, SAP Hybris - Integration
+SAP Analytics Cloud / Digital Boardroom
+SAP Cloud Connector / SAP Web Dispatcher / Reverse Proxy
+SAP Business Suite
+IDoc/ALE/RFC/BAPI Technology
+Basic knowledge in the ERP Modules: FI, HR, SD, MM, RM-CA.
+SRM, WM/EWM, TM, EM, MII, APO/gATP – Integration
+SAP S/4HANA OP 1511, 1610, 1709, Cloud Edition 1705, 1711, 1802
+ Methodical Knowledge:
+IT service management with ITIL
+Technical project management
+Procedure model for the integration projects
+Modeling and integration of complex processes and scenarios
+Scrum / agile software development
+SAP Activate
+SAP Value Assurance Service for SAP S/4HANA
+Model Company
+ISAM
+ Additional Expertise:
+Process knowledge
+Supply Chain Management
+Advanced Planning & Optimization / gATP
+SAP ECC (FI/CO)
+Supplier Relationship Management
+Development & internet technologies
+Internet protocols and –standards ((S)FTP, HTTP(S), SMTP, XML)
+Development experience in J2EE and ABAP/OO
+Non-SAP product knowledge
+WebSphere - Integration Developer, - Process Server, - AS
+NetBeans
+Apache Web Server
+ Professional Experience  Since 2018
+SSITC – Stan Scharf IT Consulting
+Principal SAP / IT Consultant  2017 - 2018 SAP Deutschland SE & Co. KG, Munich
+Principal Technology Consultant  2013 – 2016 SAP Deutschland SE & Co. KG, Munich
+Senior Technology Consultant  2011 – 2013 SAP Deutschland SE & Co. KG, Munich
+Technology Consultant  2007 – 2011 Salt Solutions GmbH, Wurzburg
+SAP and IT Consultant
+Programmiersprachen
+ABAP
+Groovy
+Java
+JavaScript
+XSLT
+Datenbanken
+IBM DB2
+My SQL
+Oracle 10g
+Oracle 11g
+Oracle 8
+SAP ASE
+SAP HANA
+SAP HDB
+SAP MaxDB
+Sprachkenntnisse
+English
+advanced
+German
+mother tongue
+Russian
+mother tongue
+Aus- und Weiterbildung
+03/2013 - 03/2013
+
+1 Monat
+
+SAP Certified Technology Process Integration
+
+10/2002 - 04/2007
+
+4 Jahre 7 Monate
+
+Business Informatics
+Abschluss
+Diploma Business Informatics with the main focus on Business Application Systems
+Institution, Ort
+University of Applied Science, Ansbach
+Schwerpunkt
+Business Application Systems

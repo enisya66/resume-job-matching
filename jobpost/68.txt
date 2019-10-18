@@ -1,0 +1,22 @@
+Titel
+Software-Tester (m/w/d) Digital Solutions
+Beginn
+23.09.2019
+Einsatzort
+Laupheim
+Ihre Aufgaben
+Sie sind verantwortlich für die Erstellung und Pflege von Testfällen und Testplänen im Rahmen der Abarbeitung in agilen Sprints
+Sie bringen automatisierte Tests selbständig lauffähig in die Continuous Integration ein. Manuelle Funktionstests führen Sie selbständig durch und dokumentieren die Ergebnisse
+Sie arbeiten im Sprintverlauf eng mit den TesterInnen des Integrationsteams zusammen, um auf diese Weise die frühzeitige Erstellung und Aktualisierung von Systemtests und Testplänen zur Durchführung von Release-Tests zu ermöglichen
+ 
+
+Ihr Profil
+Sie verfügen über praktische Programmierkenntnisse in Python, Java und/oder C#/.NET
+Sie haben Erfahrung bei der Konzeption automatisierter Tests im Bereich Schnittstellen- und Systemtest und im praktischen Einsatz geeigneter Test-Frameworks, z. B. MSTest, NUnit, PyTest, Jasmine, Selenium oder Ranorex.
+Sie bringen die Begeisterung für eine intensive kollegiale Zusammenarbeit in agilen Teams mit und haben im Idealfall bereits entsprechende Arbeitserfahrung
+Sie haben Freude daran als Teil unseres Test-Teams die Prozesse und Methoden zum agilen Testen kontinuierlich zu überprüfen und mit KollegInnen anderer Organisationseinheiten zu optimieren
+Sie haben die Fähigkeit eigene Ideen/Methoden zur Verbesserung der Qualität unserer Produkte zu entwickeln und erfolgreich einzuführen
+Sie besitzen dazu eine ausgeprägte Analysefähigkeit und eine selbständige Arbeitsorganisation und verfügen über ein hohes Qualitätsbewusstsein sowie wirtschaftliches Denken
+Sie haben eine hohe Kundenorientierung und sind ein Team-Player mit guter Kommunikationsfähigkeit
+Sie verfügen über gute Englischkenntnisse und bringen die für die Zusammenarbeit mit externen Entwicklungsteams notwendige Reisebereitschaft mit
+ 

@@ -1,0 +1,43 @@
+Titel
+München: Java / Angular Entwicklung POS49480 JavaEE JEE JavaScript
+Projektanbieter
+Chiffre-Kunde
+Beginn
+14.10.2019
+Einsatzort
+München
+Beschreibung
+München: Java / Angular Entwicklung POS49480 JavaEE JEE JavaScript Einsatzort: München Java/Angular Development Leistungszeitraum: Starttermin: 14.10.2019 Einsatzende: 31.12.2019+ Ort: München Gesamtstunden: 800 Leistungsbeschreibung: Es handelt sich um eine Web Anwendung, die vom Service Berater* verwendet wird, um den Fortschritt des Vorgangs zu verfolgen. Sie verfügt über ein Java EE Backend ein AngularJS Frontend. Aufgaben: • Frontend (AngularJS) und Backend (Java EE) Entwicklung. • Erstellung  von Unit Tests
+•             Erstellung und Wartung einer CI-CD Pipeline in Jenkins anhand vordefinierten Templates 
+(Infrastructure as Code).
+•             Abstimmung mit Kunde auf Basis von User Stories
+ 
+
+Skills:
+•             Java EE (Seniorkenntnisse)
+•             AngularJS (Seniorkenntnisse)
+•             PostgreSQL (Seniorkenntnisse)
+•             REST  (Seniorkenntnisse)
+•             Docker
+•             Payara
+•             Openshift (Grundkenntnisse)
+•             CI-CD (Jenkins) (Grundkenntnisse)
+•             UI/UX Kompetenz
+
+ 
+
+Projektsprachen: Deutsch oder Englisch
+
+ 
+
+Notwendige Skills:
+
+·         Java: Seniorkenntnisse
+
+·         Redhat OpenShift: Grundkenntnisse
+
+·         Angular JS: Seniorkenntnisse
+
+·         PostgreSQL: Seniorkenntnisse
+
+·         ORDS (Oracle REST Data Services): Seniorkenntnisse

@@ -1,0 +1,34 @@
+Titel
+IT-Systemadministrator für Linux Betriebssysteme (m/w/d)
+Beginn
+01.11.2019
+Einsatzort
+Hamburg
+Ihre Aufgaben
+Sie sind zuständig für die Sicherstellung des Linux basierenden System- und Anwendungsbetriebs (SAP ERP, SAP BC, SAP ADS, e-Invoicing, Zeiterfassung) unter Einhaltung vorhandener SLAs
+Administration der zugrundeliegenden Betriebssysteme sowie der Anwendungs-Software
+Sie übernehen die Incident- und Problem-Bearbeitung
+Regelmäßiges Patchen auf Betriebssystem- (Security-Patches) und Anwendungsebene (Hot-Packages) in Abstimmung mit den Fachabteilungen und/oder externen SAP Modulberatern
+Einspielung von SAP-Hinweisen
+Installation und Konfiguration neuer Systeme und Anwendungen
+Planung und Durchführung von Migrationen, Rollouts, Release-wechseln und weiteren Changes
+Für die Erstellung und Pflege technischer Dokumentationen sind Is everantwortlich
+Sie arbeiten aktiv in abteilungsübergreifenden IT-Projekten mit
+Sie übernehmen die Koordination und Zusammenarbeit mit externen Dienstleistern
+Ihr Profil
+Folgendes sollten Sie unbedingt mitbringen:
+
+Sie haben eine abgeschlossene Ausbildung zum Fachinformatiker Systemintegration oder eine vergleichbare Qualifikation
+Sie bringen mindestens 3 Jahre Berufserfahrung mit
+EIn fundiertes Wissen in der Administration von Linux-basierenden Infrastrukturen zeichnet SIe aus
+Wissen in der SAP Basis-Administration für SAP ERP6
+Gute Deutsch- und Englisch-Kenntnisse
+Folgendes wäre wünschenswert:
+
+Selbständige und strukturierte Arbeitsweise
+Motivierte und engagierte Art
+Wir bieten außerdem
+Unbefristete Vollzeittätigkeit
+Vergütung nach Qualifikation und Berufserfahrung mit einer Tätigkeit in einem motivierten Team
+Einen zentralen Arbeitsplatz in Hamburgs City in modernen Büroräumen
+Eine anspruchsvolle, eigenverantwortliche Tätigkeit in einem etablierten Unternehmen

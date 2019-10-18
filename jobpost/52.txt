@@ -1,0 +1,20 @@
+Titel
+IT-Administrator Linux (m/w/d)
+Beginn
+04.10.2019
+Einsatzort
+Bonn
+Ihre Aufgaben
+Administration von Linux-Systemen auf Basis von Debian und SLES
+Konfiguration von Deployments mit JAVA, Tomcat, JBoss, WildFly und PHP
+Betreuung der PLESK-Umgebung und des Outputmanagementssystems
+Erarbeitung von Automatisierungslösungen
+Administration von Webservern sowie Portalservern
+ 
+
+Ihr Profil
+Abgeschlossene Ausbildung zum Fachinformatiker (m/w/d) mit Schwerpunkt Systemadministration oder mehrjährige Berufserfahrung in einer vergleichbaren Position
+Sehr gute Linux Kenntnisse
+Kenntnisse in den Bereichen Internetsecurity und Microsoft Server
+Erfahrungen im Scripting mit Bash, Java, PHP oder Pearl
+Strukturierter, selbstständiger und verantwortungsbewusster Arbeitsstil

@@ -1,0 +1,320 @@
+Software-Architekt/-Entwickler, Java/J2EE/JEE7, Datenbankanwendungen, Datenaufbereitung, Kryptografie, Volltextsuche, Android2
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.11.2019
+verfügbar zu
+40 %
+davon vor Ort
+50 %
+PLZ-Gebiet, Land
+D6D7
+Städte
+Mannheim
+50 km
+Karlsruhe (Baden)
+20 km
+Frankfurt am Main
+20 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Deutschland: Bevorzugt in D7/D6 (Mannheim/Darmstadt/Frankfurt/Karlsruhe)
+Projekte
+07/2010 - Heute
+
+9 Jahre 3 Monate
+
+Entwicklung eigener Android-Apps
+
+Projektinhalte
+Free-Version: > 200.000 Downloads, 4 von 5 Sternen
+Pro-Version: > 15.000 Käufe, 4,4 von 5 Sternen  Last-/Prozessmonitor
+Free-Version: > 180.000 Downloads, 4,3 von 5 Sternen
+Pro-Version: > 4.000 Käufe, 4,5 von 5 Sternen  Technologien Android
+Java, Scala, C, C++, JNI/NDK
+Online-Synchronisation via HTTP(S) REST Services
+Sockets, X509, Oauth 2.0
+HTML, HTTP(S), XML, JSON
+Sqlite Datenbank, SQL inkl. Volltextanfragen mit sqlite
+Audiosignalverarbeitung unter Quasi-Realtime-Bedingungen,
+Lock-free data structures
+Gradle, Android Studio / IntelliJ Idea
+Ant, Eclipse
+06/2017 - 09/2017
+
+4 Monate
+
+Serverseite einer REST-Schnittstelle für eine Versicherungsapp
+
+Rolle
+Entwickler, Datenmodellierung, Implementierung der Schnittstelle
+Kunde
+Versicherung
+Projektinhalte
+Eclipse / Spring STS, Java 8, Maven, Jenkins, Subversion, Tomcat, Cisco Spark , Confluence, Jira Junit/Mockito, Lombok, JSR 354/Moneta, Json Web Token /JWS, REST, Jackson, XML
+Spring Boot, Spring Data, Spring Security, LDAP/Active Directory, Spring
+JPA/Hibernate, JTA, Liquibase, MySQL, H2
+WebUI: Thymeleaf, Bootstrap, DataTables, Chart.js, Typeahead.js, JavaScript, jQuery, Moment.js, Font Awesome, ...
+06/2009 - 06/2010
+
+1 Jahr 1 Monat
+
+Elternzeit, daneben Beratung für Quentia AG / Neuerstellung einer Logistiklösung für Speditionen
+
+03/2005 - 06/2009
+
+4 Jahre 4 Monate
+
+Design und Entwicklung eines Frameworks, um Datenaufbereitungsprojekte im Chipkartenbereich schnell und standardisiert umsetzen zu können
+
+12/2003 - 02/2005
+
+1 Jahr 3 Monate
+
+System zur Personalisierung von Chipkarten für EU-Richtlinie zur Einführung von Digitalen Tachographen für LKW und Busse, Teilbereich Aufbereitung von Personalisierungsdaten. In zwei Folgeprojekten wurde das System jeweils an Länderspezifika angepasst.
+
+02/2003 - 05/2003
+
+4 Monate
+
+Verwaltung und Synchronisation von Kundendaten eines großen Konzerns weltweit.
+
+09/2002 - 01/2003
+
+5 Monate
+
+Juristische Online-Datenbank zum Kapitalmarktrecht
+
+06/2002 - 07/2002
+
+2 Monate
+
+Anwendung zur Planung, Durchführung und Auswertung von Ski-Wettbewerben
+
+Branchen
+Banken (Smartcards), Industrie, IT-/Dienstleistungs-Unternehmen, Softwarehersteller
+Forschung/Entwicklung (Universität)
+Kompetenzen
+Programmiersprachen
+C
+C++
+ESQL/C
+Forth
+HQL
+Imake, GNU-Make, Make-Maker etc...
+Java
+bevorzugt
+Java 5
+Java 6
+Java Server Pages
+JAXP
+JEE5
+Occam
+Pascal
+Perl
+PL/SQL
+Prolog
+Scala
+Scriptsprachen
+Shell
+insbesondere bash
+TeX, LaTeX
+Xt, Motif
+yacc/lex
+Haskell, Groovy, Erlang
+Betriebssysteme
+Android
+HPUX
+Linux
+Mac OS
+MS-DOS
+OS X
+OSF/Motif
+PalmOS
+SUN OS, Solaris
+Unix
+Windows
+Windows 2000
+Datenbanken
+Android SQLite
+DB2
+H2, HSQLDB, Hypersonic SQL
+HSQLDB
+JDBC
+MS SQL Server
+MySQL
+Oracle
+Oracle DBMS
+Postgres
+SQL
+Transbase
+Weitere: sqlite, Hypersonic SQL / HSQLDB, Postgres, TransBase, ...  Anfragesprachen: SQL, PL/SQL, SQLJ, JDBC, ESQL/C, Java Stored Procedures  O/R-Mapping: Hibernate, JPA, Entity Java Beans  Design: ER-Modellierung, Relationen-Modell, ... Tools Toad, S-Designor (ER-Design)
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+fließend in Wort und Schrift
+Spanisch
+Grundkenntnisse
+Hardware
+Android
+Apple
+PC
+Datenkommunikation
+Ethernet
+HTTPS
+Internet, Intranet
+OSF/DCE
+TCP/IP
+Windows Netzwerk
+Produkte / Standards / Erfahrungen
+3-DES
+AspectJ
+BC4J
+C++ 6.0
+C++/Visual
+Cash-Mouse
+Castor
+Castor XML/JDO
+ClearCase
+ClearQuest
+CVS/WinCVS
+Datacard 7000
+DSIG
+Eclipse
+EJB 3.0
+Hibernate 3
+HTML
+Hypersonic SQL
+J2EE 1.4
+Java / JBuilder X
+Java Servlets
+Java-Anwendung
+Java-Web-Application
+JCE
+JDeveloper
+JDOM
+JSSE
+Junit
+List & Label 10.0
+Maven 2
+MDA / Code-Generierung
+MPR 5000
+Omnikey CardReader
+OpenBP
+Oracle 9i/10g
+Oracle Enterprise Manager
+PKCS#1
+RMI
+RSA
+Scrum
+SOAP Swing
+SQLJ
+Struts
+Sun One Studio
+Sun One Studio/Forte4Java
+Swing
+Tomcat
+UML/MagicDraw WebServices
+Visual Source Safe
+Windows 2000/XP/2003 Server
+Windows XP/2003 Server
+x509
+Xerces
+XKMS
+XML
+XMLSpy
+XSD
+Methodologien
+Scrum
+XP
+Unit/Acceptance Testing
+Produkte / Umgebungen
+Java EE/JEE/J2EE/ (Glassfish, Servlets, JSP, JSF, EL, WebServices, ReST-Services, EJB, JPA, JDBC, CDI, JNDI, RMI, JMS, Struts, ...)
+J2SDK (auch Swing, JCA, ...)
+Tomcat Applikationsserver, Apache HTTP-Server
+Oracle DBMS, SQLite, SQL-Server, HSQLDB, DB2, Transbase
+Hibernate, JPA
+XML, XSL, JAXP, SAX, Xerces/Xalan, Castor
+Eclipse, Android Studio/IntelliJ Idea, Borland JBuilder, JDeveloper, Netbeans
+S-Designor
+CVS
+Together J
+Toad
+Erfahrungen im Bereich:
+Software Architektur
+Anwendungs- und Systementwicklung
+Spezifikation, Programmierung, Test
+Schulung
+Messeauftritt
+Methoden:
+Objektorientierte Analyse, Design (OOA, OOD, UML)
+Web-Applikationen: Java-Servlets, Java Server Pages (JSP), EJB, Struts, Taglibs, HTML, XML, XSL, XPath, ...
+Datenbanken Design: ER-Modell, Relationen-Modell, ...
+Spezialkenntnisse:
+Datenbanksysteme
+Volltext-Suche / Suchmaschinen / Information Retrieval
+Retrievalmodelle, Evaluation, ... (im Rahmen der Promotion)
+Internet-/Datenbank-Programmierung
+Kryptografie
+ 
+Android
+Programmiersprachen: Java, C/C++ mit JNI/NDK GCC/Clang, Scala
+Netzwerk: Anbindung on REST-Services, HTTP/HTTPS, Sockets, X509, Oauth 2.0
+Datenbanken:  sqlite
+Build Tools: Gradle,Ant, ndkbuild
+Entwicklungsumgebungen: Android Studio, Eclipse
+ 
+Java
+Plattformen:
+J2EE/JEE
+J2SDK
+Android-SDK/NDK
+ 
+Applikationsserver:
+Glassfish
+Tomcat
+Apache HTTP-Server
+ 
+J2EE/JEE:
+JEE7
+Servlets, JSP, Taglibs/JSTL, EL, JSF, WebServices, Jax-RS/ReST,
+WebSockets, Struts
+EJB, JNDI, RMI, JMS, JCA, …
+JPA, JDBC, JTA
+ XML: XML, XSL, JAXP, SAX, XPath, DSIG, SOAP, …
+Xerces/Xalan, Castor  Internet-Technologien: HTML, HTTPS, Webservices, REST
+J2EE/JEE, Spring
+CGI  UI-Technologien: Swing, Java Server Pages (JSP), Taglibs,JSF, HTML, Struts,  Entwicklungsumgebungen: IntelliJ Idea/Android Studio, Eclipse, Netbeans, JBuilder, JDeveloper  Build-Tools: Gradle, Maven, Ant, Make  Test-Tools: JUnit, Emma  Source Code Management: Git, CVS, ClearCase, Visual SourceSafe, Subversion  Bug-Tracking: ClearQuest  Modellierung: Objektorientierte Analyse & Design (OOA, OOD), UML
+MagicDraw (UML-Designtool)  Entwicklungsmethoden: Scrum, XP
+ Erfahrungen in den Bereichen:
+Software Architektur
+Anwendungs- und Systementwicklung
+Analyse, Design, Spezifikation, Programmierung, Test
+Schulung
+Messeauftritt
+ Spezialkenntnisse:
+Android
+Internet-/Datenbank-Programmierung
+Datenbanksysteme (wiss. Mitarbeiter an DB-Lehrstuhl)
+Datenaufbereitung
+Kryptografie
+Volltext-Suche / Suchmaschinen / Information Retrieval
+Retrievalmodelle, Evaluation, ... (im Rahmen der Promotion)
+Schwerpunkte
+Tätigkeits-Schwerpunkte: Architektur, Softwareentwicklung, Beratung und Projektleitung  Fachliche Schwerpunkte: Mobile/Android, Java/JEE, Datenbankanwendungen, Datenaufbereitung, Kryptografie, Volltextsuche
+Aus- und Weiterbildung
+12/2001 - 12/2001
+
+1 Monat
+
+Promotion im Bereich Datenbanken / Volltextsuche (Information Retrieval)am Lehrstuhl für Datenbanken und Informationssysteme
+
+10/1989 - 09/1995
+
+6 Jahre
+
+Informatik-Studium, Nebenfach Physik

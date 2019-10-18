@@ -1,0 +1,145 @@
+Professional
+Summary
+Leading people, projects, and managing customer requirements with
+demonstrated capacity to keep track of details, juggle priorities, and clear
+roadblocks so people can get the work done with 15 years of professional
+experience. Reputation for building high-performance teams, for excellent verbal,
+writing, and analytic skills, and for fostering effective inter- and
+intra-departmental communication. Adept at managing client requirements.
+Currently working as Head of IT / Program Manager for Enerjisa Power
+Generation (E.on Turkey) Company.
+Area of
+Expertise
+Include
+● Software Design / Refactoring
+● Attract and Retain Talents
+● Agile Development
+● Linux / Unix
+● Cloud PaaS / IaaS (Azure/AWS)
+● Situational Leadership
+● C++
+● .Net
+● Java
+● Python
+● JavaScript
+● Objective-C
+● PostgreSQL / PostGIS
+● Microsoft SQL Server
+Skills
+Experience
+● Demonstrated accomplishments in leading teams and projects that
+leverage emerging technologies to deliver innovative and quality
+solutions.
+● Deep knowledge and understanding of core software concepts, mobile
+technologies, architectures, and trends.
+● Strong experience in recruiting tech talents, building high performing
+teams, mentoring and coaching.
+Enerjisa Power Generation 2018-Present
+Head of IT
+Rebuilding technology organization, capabilities and IT infrastructure by
+outsourcing non-core capabilities and transforming IT from its traditional service
+provider role to a value generator.
+● Drive Cloud transformation sustaining compatibility to regulations (EMRA,
+TPDPL)
+● Drive Refactoring/Re-Engineering of in house software development
+projects
+● SAP S/4HANA transformation
+● HR platform cloud transformation
+● Outsourcing IT infrastructure to IBM
+● SCADA Security implementation for Power Plants
+Technologies : AWS, .Net Core, Linux, PostgreSQL, Kubernetes
+EnerjiSA 2014-2018
+Software Development Manager
+● Manage a team of 20 people including Software Engineers, Technical
+Analysts and Testers located in Ankara and Istanbul.
+Allocate appropriate resources, work close to project managers to satisfy
+delivery on-time of multiple projects with regard to the development
+methodologies.
+● Partner with product management and enterprise architecture to set the
+direction for application development
+● Attract exceptional engineers, team building, and motivating the team.
+● Handle recruitment, training and performance management of the team
+members.
+Featured Projects:
+● Enerjisa Mobile Application for B2C and B2B customers
+● Mobile Application for Enerjisa’s smart home product Akıllı Kutu
+● Alo 168: Outage notification mobile application for Enerjisa Distribution
+Company
+● Online Enerjisa: Online service portal for B2C customers, handles 6000
+unique visits per day and more than 1MTL of payment is being transacted
+to company through the site
+● www.enerjisa.com.tr: Homepage of Enerjisa
+● www.baskentelektrik.com.tr: Homepage of Enerjisa Distribution Company,
+a Microsoft Sharepoint portal.
+● Handheld application for billing and reading meters used by 4500 field
+workers every day. Works on Android and Windows 6.5.
+● Developing software products for Enerjisa Power & Gas Trading Company’s
+fundamental market models.
+● Hybrid mobile application for sales activities. More than 300 field workers
+are using this app every day.
+● Enerjisa Energy Efficiency Game
+Other Activities :
+● Member of Enerjisa Innovation Team participating various activities
+including boot camps, idea generation activities and development of
+winning ideas.
+● Participate vendor management activities.
+Technologies : .Net Core, React, Telerik, Spring Boot, AWS, Android, IOS
+PlusOneMinusOne 2011-2014
+Software Team Manager / Platform Architect
+● Managing Software Projects and Solutions and Software Engineering team
+● Design and establishment of all IT infrastructure and software stack on top
+of Microsoft Azure. (PaaS / IaaS)
+● Architectural design, key developments, integration model developments
+and lead the team for following projects
+○ Yapı Kredi Bank Cash Management Software
+○ Yapı Kredi Bank Workforce Optimization
+○ ING Bank Cash Management Software
+○ TEB Bank Cash Management Software
+○ Finans Bank ATM Location Suggestion System
+○ AVEA Telecom Inventory Management
+○ AVEA 2G and 3G Data Forecasting
+○ AVEA Telecom Network Optimizer
+● Projects including advanced analytics engine developed on Hadoop making
+sentiment analysis in Turkish language, in-house developed geocoding
+server.
+Technologies : .Net, Python, TypeScript, Javascript, HTML5, j2EE, Android, Azure,
+IBM Smart Cloud Enterprise, Amazon EC2
+NETCAD&ULUSAL CAD . 2009-2011
+Senior Software Developer
+● Develop spatial data extraction module BelnetNC which is scalable
+platform for developing applications in various business domains.
+● Silverlight based GIS SDK that is being used in over 50 municipalities.
+● Some part of the mining module NetPro/Mine
+● Design and develop the concept of the GIS integration approach being
+widely used in Turkey (http://www.e-bldy.com)
+● Glonet(3D+) Engine, Core patches
+● IPhone and Android applications
+Technologies : SOA,.Net, Silverlight, HTML5, C++, WCF, Azure
+National Service 2008-2009
+NETCAD&ULUSAL CAD . 2006-2008
+Software Developer
+● One of the largest National Project RABIS, design and develop data layer.
+● Development of various applications for over 30 municipalities.
+● Development of award winning web site, which shows pharmacies whose
+turn it is to be open at night or during a holiday
+(http://www.bilisimyildizlari.com/forms/sonuclar_2009.aspx
+http://onlineharita.pendik.bel.tr/eczane/index.aspx)
+● Development of online city guide web applications
+Technologies : .Net, Ajax, Prototype.js, JQuery, Openlayers
+İ.T.Ü. Satellite Ground Station 2005-2006
+GIS Specialist / Developer
+● Design of a software based on Object Oriented Classification algorithms
+● Development of a Satellite Ground Station Workflow application
+● Design and development of a software for UVDF (National Data Exchange
+Format) data visualization
+Technologies: C++,Qt, Linux, Solaris, Oracle
+NETCAD&ULUSAL CAD. 2003-2005
+GIS Application Developer
+● Custom GIS applications for various Municipalities.
+● Design and development of integration services with other companies.
+● Design and development of web applications using NetGis Server and
+products.
+Technologies : .Net, COM, VB, SOAP, ASP, JavaScript, Oracle
+Education
+Istanbul Technical University / Geodesy and Photogrammetry Engineering
+1997-2003

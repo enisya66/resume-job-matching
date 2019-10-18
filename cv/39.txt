@@ -1,0 +1,325 @@
+SAP; SAP EWM; Enterprise Architektur; Programm Management; Projekt Management; Business-IT-Alignment; IT Strategie, IT Management, IT Architektur
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.09.2019
+verfügbar zu
+100 %
+davon vor Ort
+80 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9ÖsterreichSchweizEinsatzort unbestimmt
+Kommentar
+Einsatz weltweit möglich in sicheren Gebieten
+Position
+Kommentar
+Langjähriger Mitarbeiter der SAP im Business Consulting, Walldorf (2008-2013) Langjähriger Mitarbeiter der Siemens AG (2000-2008)   Expertise in globale, multi-nationale Unternehmen   Rollen: Business Consultant, Programm Manager, Projekt Manager, Business Analyst, Software Engineer, Systemintegrator   Weit reichende Erfahrungen in Konzeption, Design, Planung und Implementierung in hochkomplexen und heterogenen Systemlandschaften.  
+Projekte
+09/2016 - Heute
+
+3 Jahre 1 Monat
+
+Merck LEAN Global Template for Healthcare - SAP S/4HANA
+
+Rolle
+Business Architect
+Kunde
+Merck KGaA; Chemie/Pharma (49.000 Mitarbeiter, aktiv in 66 Ländern)
+Einsatzort
+Darmstadt, Deutschland
+Projektinhalte
+Global Template für Merck Healthcare – Digitalization Journey of Merck
+Konzeption (BBP/Business Blueprints), Implementierung und Rollout des Global Templates auf Basis SAP S/4HANA
+Daten Governance & Architektur / Daten Management / Stammdatenmanagement (MDGx) mit Anbindung an die Archivierung (u.a. ArchiveLink), sowie Konzeption des Output Managements
+Master Data Management Harmonisierung (MDGx)
+Anforderungserhebung und –analyse, unter anderem im Rahmen von Workshops (Aufsetzen und Durchführung) mit Key Usern, Stakeholdern
+Erstellung von Entscheidungspräsentationen für das Management
+Sicherstellung der technologischen und fachlichen Lösungsarchitektur (ECC, BI/BW, SAP SCM, SolMan, CRM, XI/PI, TREX, HANA, externe Systeme/Subsysteme)
+Integration der Cloud (u.a. SAP SuccessFactors) und HANA
+Entwicklung der Projektplanung und Roadmap (Vorgehen, Aufgaben, Meilensteine, Kosten) mit der Landschaftsplanung (u.a. Sizing, Verfügbarkeiten, Releasewechsel/Updates, Systemkopien, Performance, Transport & Change Management)
+Umsetzung des Projektplans nach den Prinzipien des "magischen Vierecks": Kosten, Zeit, Qualität, Scope
+Schnittstellen Management mit Anbindung an Vendor/Supplier, Telematics, Fulfilment, Kunden, Subsysteme, etc.
+Dokumentation der SAP Landschaft in SAP Solution Manager/SolMan
+Berechtigungskonzept / Berechtigungsmanagement mit Dokumentation in SAP SolMan; Workflows, Benutzerprofile
+Integration der End-to-End (E2E) Prozesse: Order-to-Cash, Purchase-to-Pay; Assort-to-Refund, Acquisition-to-Refund, Record-to-Report, Hire-to-Retire, Request-to-Support, Promotion Management, Master Data Management, Business Intelligence, Quality Management, Strategies to Services, Other Processes (Facility Management, Corporate Communication, Innovation Management)
+07/2016 - 01/2017
+
+7 Monate
+
+Global Template
+
+01/2015 - 07/2016
+
+1 Jahr 7 Monate
+
+VW SAP UNIT – Volkswagen SAP Warehouse Management Global Template
+
+09/2014 - 01/2015
+
+5 Monate
+
+SAP ATLAS – SAP Global Template - Dienstleisterabrechnung
+
+07/2013 - 08/2014
+
+1 Jahr 2 Monate
+
+SAP Global Template für Retail für 6 Länder
+
+10/2012 - 05/2013
+
+8 Monate
+
+SAP CIO Advisory – SAP Mobility / Mobile, Cloud Computing, Big Data / SAP HANA
+
+07/2012 - 02/2013
+
+8 Monate
+
+Enterprise Architektur - Global SAP Enterprise Service Repository governance
+
+07/2012 - 01/2013
+
+7 Monate
+
+CIO Advisory – Enterprise Architektur
+
+02/2010 - 01/2013
+
+3 Jahre
+
+Transactional Banking / SAP Core Banking Implementierung basierend auf der SAP Service Oriented Architecture (SOA) Plattform in einer großen heterogenen legacy Systemlandschaft
+
+01/2012 - 07/2012
+
+7 Monate
+
+SAP Global Template in 40 Ländern zur Verbesserung der Transparenz, Nachhaltigkeit, Integrität und Effizienz
+
+07/2009 - 05/2011
+
+1 Jahr 11 Monate
+
+Demand and Portfolio Management
+
+12/2009 - 01/2011
+
+1 Jahr 2 Monate
+
+SAP Global Enterprise Agreement (GEA) Programm Management
+
+08/2009 - 02/2010
+
+7 Monate
+
+Clear IT – Strategic Realignment
+
+07/2009 - 12/2009
+
+6 Monate
+
+AP Landscape Assessment, Konzeption eines SAP Greenfield Ansatzes für die SAP Landschaft
+
+06/2009 - 08/2009
+
+3 Monate
+
+IT Assessment
+
+Kompetenzen
+Programmiersprachen
+ABAP4
+ABAP OO
+C#
+HTML / XHTML, XML, XSLT, XPATH, XQUERY, XPDL, XBRL
+Java
+JavaScript
+Perl
+PHP
+PL/SQL
+Python
+Ruby
+Shell
+TeX, LaTeX
+sehr gute Kenntnisse Java EE (JEE, J2EE), EJB, JSF, JSP, AWT, JFC/Swing, SWT, Applets, JavaBeans, Servlets, Spring, JBoss Seam, Eclipse RCP (Rich Client Platform)
+Betriebssysteme
+BS2000
+HPUX
+Mac OS
+MS-DOS
+OS/2
+SUN OS, Solaris
+Unix
+SUSE Linux (SLES), Red Hat Enterprise Linux, Reliant Unix, SINIX
+Windows
+Datenbanken
+Apache Hadoop
+Big Data
+Data Management Strategien
+langjährige Erfahrung
+Daten Architektur
+langjährige Erfahrung
+Datenbank-Design relationaler Datenbanken
+langjährige Erfahrung
+DB2
+Entity Relationship Modell (ERM)
+langjährige Erfahrung
+JDBC
+Hibernate; Java Persistence API (JPA)
+MS SQL Server
+Zertifizierung
+MySQL
+ODBC
+Oracle
+Zertifizierung
+Postgres
+SAP HANA
+langjähriger SAP Mitarbeiter im Headquarter in Walldorf
+SQL
+Sybase
+langjähriger SAP Mitarbeiter im Headquarter in Walldorf
+Sprachkenntnisse
+Deutsch
+native language
+Englisch
+fluent in written and spoken – 2 years project in United Kingdom + many international projects; Global coordinations of project members in USA, Canada, India, Mexico, Brasil, Malaysia, etc.
+Französisch
+school knowledge
+Hardware
+Amiga
+AS/400
+Bus
+IBM Großrechner
+Industrie-Roboter
+Mikrocontroller
+PC
+Scanner
+Siemens Großrechner
+Siemens MX
+Siemens-SPS STEP x
+SPS
+SUN
+Datenkommunikation
+Bus
+CORBA
+JNDI
+EDIFACT
+Ethernet
+Internet, Intranet
+ISDN
+ISO/OSI
+LDAP
+OS/2 Netzwerk
+PC-Anywhere
+RFC
+Router
+RPC
+SAP Java Connector (SAP JCo)
+SMTP
+SNMP
+TCP/IP
+UUCP
+Windows Netzwerk
+Produkte / Standards / Erfahrungen
+Weit reichende Erfahrungen in Konzeption, Design, Planung und Implementierung in hochkomplexen und heterogenen Systemlandschaften.   Methodiken:
+Enterprise Architecture Management (The Open Group Architecture Framework (TOGAF), SAP Enterprise Architecture Framework (EAF)) - Zertifizierung
+Modeling methodologies: ARIS Event-driven Process Chains (EPCs) / Business Process Modeling (BPM) / Business Process Modeling Notation (BPMN) / Business Process Execution Language (BPEL) - Zertifizierung
+Agile Software Development, SCRUM; Waserfall-Modell, V-Model
+ITIL
+COBIT
+Programm Management / Projekt Management (PMI, Prince 2)
+Big Data / SAP HANA, Enterprise Mobility / Mobile, Cloud Computing
+Service Oriented Architecture (SOA, ESOA, EDA)
+Enterprise Application Integration (EAI)
+IT Strategie
+IT Management; IT Architektur; IT Governance; IT Capability Framework
+CMMI
+Enterprise Services Modeling (Process Integration Content (PIC), Enterprise Service Repository (ESR))
+Software-Design: Objektorientierte Analyse (OOA), Objektorientiertes Design (OOD), Objektorientierte Programmierung (OOP)
+System-Modellierung (UML / UML 2) & Requirements Engineering (RE) / Anforderungsmanagement
+Entwicklungsplattformen SAP, Java (J2EE / JEE), .NET
+SAS70 / SOX compliance
+SAP ASAP: Global ASAP, Roll-out, SAP ASAP mit SCRUM, Major Acceleration Techniques, Business Add-Ons
+  Tools:
+SAP R/3
+SAP NetWeaver
+SAP Solution Manager
+SAP Enterprise Service Repository / SOAManager
+SAP Extended Warehouse Management (EWM)
+SAP Portal
+SAP CRM
+SAP eCATT
+SAP PI/XI
+TIBCO
+ARIS Platform
+IBM WebSphere
+IBM Rational DOORS
+Sybase PowerDesigner
+Sybase Afaria, Sybase Unwired Platform (SUP)
+VMWare
+HP Quality Center / HPQC, HP LoadRunner
+Microsoft Sharepoint
+iRise
+JBoss Application Server
+CVS / Subversion SVN / Git / GitHub
+Ant / Maven
+CruiseControl, Continuum, JIRA, Hudson, Trac
+Eclipse, Together
+IBM Jazz, IBM Rational ClearCase
+Microsoft Team Foundation Server
+Webserver: Apache, IIS, Tomcat, Jetty, XAMPP
+CMS-Systeme: Typo3, WordPress, Dupal, Joomla, MoinMoin, Mambo
+Wikis: Confluence, MediaWiki
+XDoclet
+Junit / TestNG
+log4j
+Microsoft MS Office, Microsoft MS Word, Microsoft MS Excel, Microsoft MS PowerPoint, Microsoft MS Outlook, Microsoft MS Access, Microsoft MS Project, Microsoft MS Visio, IBM Lotus Notes
+Bemerkungen
+-
+Ausbildungshistorie
+12/2003-12/2006:
+Nebenberufliches Studium an der Fachhochschule in Stuttgart zum
+Diplom Wirtschaftsinformatiker (FH)
+  09/2000–07/2003:
+Ausbildung zum Fachinformatiker
+Siemens AG, Abteilung Industrial Solutions and Services
+IT Plant Solutions
+  Zertifizierungen:
+Certified Business Process Expert
+Certified SAP Associate Enterprise Architect
+Certified SAP Solution Architect
+JBoss Administration
+Oracle 8i/9i Admin Basics
+MS-SQL Server 2000 Administration
+  Trainings:
+ARIS M1: Introduction to Process Modeling
+ARIS M2: First Steps with ARIS
+ARIS M3: Basic Process Modeling with ARIS
+ARIS M4: Advanced Process Modeling with ARIS
+ARIS M5: Using extended functions of ARIS
+BCTOT – Intro to Business Process Mgmt
+BIT420 – PI-Proxy Development and Service Provisioning with ESR
+BPM100 – Business Process Management Methodology
+BPM130 - SAP Business Designer by IDS Scheer (Business Process Modeling)
+BPM300 - Business Process Management Governance Overview
+Eclipse Rich Client Platform
+FS200 - Overview of SAP for Banking
+FS243 - Postprocessing Office in Banking
+Product Security Quality
+RA Requirements Analysis
+Sales Efficiency
+SAP200 - Order to Cash
+SAP HANA: Overview/Use Cases/Roadmap
+SAP NetWeaver – Ein Überblick
+SAP Six Sigma
+SMI Solution Manager Implementations
+SOA110 – SAP SOA – Roadmap
+SOA120 – SAP Business Process Modeling
+SOA200 – SAP SOA – Enterprise Architecture Framework
+SOA300 – Design Time Governance in SOA
+SOA400 – SAP SOA – Erstellen von Konsumenten Anwendungen
+TBPM10 - Business Process Management
+TERP10 – SAP ERP – Integration of Business processes
+TZH100 - SAP In-Memory Appliance
+TZH300 - SAP HANA Implementation & Modeling

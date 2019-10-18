@@ -1,0 +1,34 @@
+Titel
+Java-Developer (m/w/d)
+Beginn
+09.10.2019
+Dauer
+5 Monate
+Einsatzort
+Hamburg
+Beschreibung
+Unser Kunde aus dem Handel sucht einen versierten Software - Entwickler im Rahmen einer ERP-Einführung von Odoo.
+
+Ihre Aufgaben:
+
+Java Programmierung
+Python Programmierung
+Aufbau von ESB -Routen mit Apache Camel
+XLST und XML
+Container-Anwendungen: Docker, Kybernetes
+Spätester Start-Termin ist der 01.11.2019.
+
+Die Projektlaufzeit ist bis mindestens Ende Januar ggf. Ende Februar 2020 geplant. Gewünscht sind 4-5 Tage vor Ort in Hamburg. Remote ist hier leider keine Option.
+
+ 
+
+Skills
+·         Java Programmierung (gut bis sehr gut)
+
+·         Python Programmierung (mind. gut)
+
+·         Aufbau von ESB -Routen mit Apache Camel
+
+·         XLST und XML
+
+·         Docker, Kybernetes

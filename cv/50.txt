@@ -1,0 +1,53 @@
+June, 2018 - present (4 months)
+Software developer @ VISMA SOFTWARE SRL, Sibiu, Romania
+Involved in different projects which target the financial or government tasks, for
+the Nordic countries.
+Tehnologies:
+* backend - Java, Spring framework(APIs) & Wicket;
+* frontend - Wicket, Html, CSS, JS;
+
+July, 2015 - present (3 years 3 months)
+Java Software Engineer, Programator @ IQuest Solutions SRL, Sibiu,
+Romania
+Involved in development/deployment/maintenance & customer support of
+Platform API for a large architecture, Adtech Germany (recently owned by AOL
+which merged with Yahoo into new brand OAth).
+Working with Java for tomcat platform on Linux/Centos, with different
+frameworks as Apache CXF - [WSDL, SOAP] as server side and for clients side
+with Java, .NET & PHP.
+Familiar with developing, testing and deploying process, through
+Maven/Jenkins, Stash(git), Jira - Agile/Kanban / Confluence, Yum/RPM -
+Ansible (automatization, kind of CICD concept)...
+2018 - since January, I'm involved into new API project (REST - Spring-Boot,
+Docker, MyBatis, Swagger[doc-api]).
+
+October, 2006 - July, 2015 (8 years 9 months)
+Operator PC, PC Operator @ Asociatia Misionara pentru Educarea Copiilor,
+Sibiu, Romania
+PC maintainances and Web developer, I worked with PHP [Prestashop/WP
+frameworks - online library], MySQL, Javascript[JQuery], Html5, Flash-
+Actionscript2/3 (I deployed activities, games & bible adventures for children -
+wonderzone ministry).
+
+February, 2005 - April, 2006 (1 year 2 months)
+Car paints preparation @ TOP LAC GROUP - GLASURIT, Sibiu, Romania
+Preparing color paints for autos.
+Need good eyes and good lungs :)
+
+February, 2002 - August, 2004 (2 years 6 months)
+Waiter @ Ristorante AL CENTRO, Nettuno, Italy
+Providing excellent customer service to ensure satisfaction [good food :)].
+Taking customer orders and delivering food and beverages in a timely fashion.
+Making menu recommendations, answering questions and sharing additional
+information upon request.
+Once in a while, I enjoy to do it again.
+
+EDUCATION
+2011 - 2015 (4 years)
+Computer Science, Multimedia Systems - ULBS, "Lucian Blaga"
+University of Sibu - Engineering @ University (graduate) , Sibiu
+
+1995 - 1999 (4 years)
+Colegiul National "Doamna Stanca" - Computer Science @ High School /
+Vocational School , Făgăraș, România
+

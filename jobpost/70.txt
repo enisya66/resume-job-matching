@@ -1,0 +1,26 @@
+Projekt-Titel
+SAP Netweaver Experte (m/w)
+Projekt-Rolle
+SAP Netweaver Experte
+Beginn
+01.11.2019
+Dauer
+6 Monate
+Auslastung
+45
+Einsatzort
+Nürnberg
+Projekt-Beschreibung
+Für einen Kunden im öffentlichen Sektor suchen wir einen Netweaver Experten.
+
+Aufgabengebiet:
+Betrieb, Administration und Weiterentwicklung des SAP BW Produktivsystems Entwicklung User Exits und Reports
+Technische Implementierung von SAP Notes
+Korrektur von Problemen, die durch Nicht-Standard-Code verursacht werden 	
+Programmierung von Extraktoren 	
+Datenmodellierung in SAP BW 	
+Unterstützung bei Upgrades
+Must-Have Skills
+SAP Netweaver SAP BW ABAP SAP S/4 HANA
+Nice-to-Have Skills
+SAP S/4 HANA Migration

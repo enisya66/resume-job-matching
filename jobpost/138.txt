@@ -1,0 +1,53 @@
+Titel
+Azure DevOps Engineer / Consultant (m/f/d)
+Beginn
+01.09.2019
+Einsatzort
+Berlin
+Ihre Aufgaben
+Azure DevOps Engineer / Consultant
+
+Work closely with the development teams to brainstorm, design and implement technical build and deployment solutions
+Work collaboratively with development teams to build and maintain tools for deployment, monitoring and operations
+Build and maintain pipelines for CI and CD
+Support development and production systems and deployments
+Structure and maintain software configuration management
+Support system and software test automation
+Develop automated scripts for packaging software
+Develop automated scripts to deploy packaged software, and ensure all deployments follow established workflows
+Manage environments in Azure to ensure optimal capacity, performance, security, and availability
+Ihr Profil
+must have:
+
+5 years of hands-on experience in software design/development and/or operations (senior level)
+Background in development, systems architecture, and/or operations
+Demonstrated work experience in CI/CD solutions, DevOps principles, automation & configuration management tools, cloud platforms, micro-services architecture, containers
+Demonstrated work experience in using the tools in the Microsoft SQL Server suite (Management Studio, Analysis Services, Integration Services, etc.) and development/debugging of stored procedures in T-SQL.
+Experience with source control systems such as TFS and GIT
+Experience working with Microsoft stack of technologies in an Azure environment
+Proven analytical, evaluative, and problem-solving abilities
+nice to have:
+
+Scripting experience in PowerShell
+Ability to document deployment processes and transfer knowledge to other operational team members
+Experience within an Agile environment, including the use of Scrum and Kanban
+Experience deploying infrastructure resources utilizing ARM templates
+Azure certifications preferred
+Wir bieten außerdem
+Vielfältige Stellenangebote und persönliche Beratung
+
+Breite Präsenz deutschlandweit in dynamischen Umfeldern mit spannenden Kontakten
+persönliche Betreuung und Beratung 
+regelmäßiger Mitarbeiteraustausch
+abwechslungsreiche und vielseitige Aufgabenfelder, herausfordernde Projekte
+Individuelle Weiterentwicklungsmöglichkeiten
+
+zielgerichtete berufliche Weiterentwicklung in Form von eLearnings renommierter Partner
+persönlicher Onboardingprozess
+Attraktive Arbeitsgestaltung
+
+unbefristete Arbeitsverträge
+übertarifliche Gehaltsentwicklung und Sondervergütungen
+attraktive Urlaubsregelungen
+offene Unternehmenskultur
+Vorteile durch die Einbindung in Konzernstrukturen

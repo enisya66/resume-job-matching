@@ -1,0 +1,13 @@
+Titel
+Full-Stack-Entwickler (m/w/d) Schwerpunkt Middleware
+Beginn
+01.11.2019
+Dauer
+31.01.2020
+Einsatzort
+Freiburg im Breisgau
+Beschreibung
+Für unseren Industriekunden suchen wir einen Fullstack-Entwickler (m/w/d), der seinen Schwerpunkt im Bereich Middleware (oder Backend) sieht. Hierbei handelt es sich um die Umsetzung und Weiterentwicklung einer Microservices Architektur im Bereich Sensorik.
+
+Skills
+Spring Boot Java/JEE Docker Jenkins (optional) Deployment Themen (Git)

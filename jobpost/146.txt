@@ -1,0 +1,25 @@
+Titel
+Unterstützung bei Projektmanagement (agil) und Requirements Engineering
+Beginn
+01.11.2019
+Dauer
+31.12.2019
+Einsatzort
+Bonn
+Beschreibung
+Aufgaben:
+
+Weiterentwicklung eines IT-Systems zum Europa-weitem Datenaustausch
+Unterstützung des Projektmanagers bei der Durchführung des IT-Projektes nach SCRUM
+Eigenverantwortliche Analyse und Abstimmung der IT-Anforderungen mit den Stakeholdern (Fachbereichen, Business IT, Verantwortlichen von Partnersystemen)
+Konzeption und Bewertung von Lösungsansätzen
+Erstellen von User Stories
+Steuerung des Entwicklungsteams bei der Umsetzung der IT-Anforderungen
+Pflegen des Backlogs
+Definition der Abnahmekriterien
+Unterstützung der Testaktivitäten, insbesondere Mitwirkung bei der Erstellung von Testszenarien und Testfällen sowie Erstellung von Testdaten
+Fehleranalyse bzw. Unterstützung bei der Identifizierung von Fehlerursachen (Bugs)
+ 
+
+Skills
+WebService-Technologien Planung, Durchführung und Steuerung von IT-Projektenagiles Umfeld (SCRUM) Requirements Engineering Methoden in agilen Projekten User Stories Epics„State-of-the-Art“ Architektur konzepten analytische Fähigkeiten Umgang mit den Stakeholdern Sehr gute Englisch-Kenntnisse

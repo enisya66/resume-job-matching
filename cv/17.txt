@@ -1,0 +1,221 @@
+Senior-Software-Entwickler, Architekt, Projektleiter, JEE2
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+07.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D7D8
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Deutschland: bevorzugt Raum München
+Position
+Kommentar
+Als Senior Software-Ingenieur mit mehr als 15 Jahren Erfahrung biete ich Leistungen in allen Phasen der Software-Entwicklung - bei  Entwurf und Realisierung, Konzeption und Analyse.
+
+Mein technischer Fokus liegt derzeit im Bereich der Java Enterprise-Technologien (JEE): Entwurf und Realisierung unternehmensweiter oder übergreifender Informationssysteme,  Kopplung von Anwendungen und Portallösungen sind typische Inhalte der durchgeführten Projekte.
+
+Überdurchschnittliche Fähigkeiten bei der Problemanalyse und beim Lösungsentwurf, schnelles Eindenken in die fachlichen Anforderungen, detailliertes Wissen über aktuelle Software-Technologien sowie fundierte Erfahrungen mit Softwareentwicklungsprozessen zählen zu meinen Stärken. Als Projektleiter verbinde ich Erfahrung, Methodenwissen und Menschenkenntnis mit fundiertem softwaretechnischen und Entwicklungsprozess-Know-How.
+
+Neben Entwurfs- und Realisierungsaufgaben übernehme ich auch gern die technische und organisatorische Verantwortung in Projekten. Zu meinem Leistungsspektrum gehört außerdem die Unterstützung bei der Konzeption von System- und Softwarearchitekturen sowie bei der Gestaltung des Softwareentwicklungsprozesses. Bei ausreichend spezifizierten und  abgrenzbaren Werken wickle ich komplette Entwicklungsaufgaben auch zum Festpreis ab.
+Projekthistorie
+Zeitraum: ab 09/2015
+Firma: Finanzdienstleister Leasing
+Projekt: Technologiemigration einer SEAM-Anwendung auf CDI bei fachlicher und architektureller Weiterentwicklung.
+Position/Rolle: Architekt, Senior-Entwickler
+Software-Umgebung:
+ Java 8, JSF 2.2, Rich Faces 4.5, JQuery, Jasper Reports, JPA (Hibernate 4.3), JBoss SEAM 2.3, CDI 1.2 (Weld 2.3.3), Quartz 2.2.2, RestEasy 3.0.12,  DeltaSpike 1.6.0, Tomcat 8, Datenbank Oracle 11g, Schnittstellen zu ERP-System Oracle e-Business Suite, Dokumentenmanagement ELO und LDAP AD, Intelli-J, FlyWay, Maven, Nexus, Jenkins, Redmine, Subversion
+ 
+Beschreibung:
+Parallel zur fachlichen Weiterentwicklung einer Leasing-Applikation auf der Basis von Jboss SEAM 2.3 wurde diese auf JEE7-Standard mit CDI migriert. Durch einen minimalistischen Ansatz konnte trotzdem Tomcat 8 als Container beibehalten werden.
+Zusätzlich wurde die schrittweise Umstellung der Architektur auf RESTful-Services begonnen.
+ 
+Zeitraum: 06.2015-08/2015
+Firma: Automobilhersteller
+Projekt: Weiterentwicklung eines Systems zur Aufbereitung von Produktdaten für Konfiguratoren
+Position/Rolle: Senior-Entwickler
+Software-Umgebung:
+ Java 7, JEE6, Glassfish 3.1, EJB, JSF 2, RichFaces 4.4, JPA (Eclipse Link), Datenbank Oracle 12,    LDAP,  FlyWay, JIRA, Maven, Generierung aus UML-Modell, Nexus, Jenkins, GIT, Intelli-J
+Beschreibung:
+Umsetzung von Anforderungen aus dem Backlog vor allem im UI-Bereich, Agiles Vorgehen mit SCRUM
+ 
+Zeitraum: 11.2014-05/2015
+Firma: Automobilhersteller
+Projekt: Neuentwicklung einer JEE6-Anwendung zur Analyse von Pannenfällen für einen Automobilhersteller
+Position/Rolle: Architekt und Senior-Entwickler
+Softwareumgebung:
+Java 7, JEE6, Glassfish 3.1, EJB, JSF 2, Apache Tomahawk , JavaScript, JQuery, JPA, Eclipse Link, Datenbank Oracle 12, ETL, LDAP , Maven, Nexus, Jenkins, Subversion Beschreibung:
+Konzeption und Entwicklung einer JEE6-Applikation in klassischer Mehrschichtenarchitektur mit JSF-UI, vielen Hintergrundprozessen und Schnittstellen zu Quellsystemen. Als Architekt verantwortete ich die Entwicklung der Architektur in der Fachkonzeptionsphase, die Erstellung der IT-Konzeption und das Aufsetzen der Entwicklung. Beteiligt war ich auch bei der Erstellung von Angeboten. In der Umsetzungsphase war ich Team-Coach, Architekt und Entwickler.
+
+Branchen
+Finanzdienstleister
+Telekommunikation
+Versicherungen
+Automatisierung
+Automobilindustrie
+Bahn
+Gesundheitswesen: Krankenhaus
+Luftfahrt
+Medizintechnik
+Softwarehersteller
+Verkehrstechnik
+
+Fachliche Prozesse im Unternehmen: Vertrieb, Einkauf
+Kompetenzen
+Programmiersprachen
+Assembler
+68k, Z80, 8051, C166
+Basic
+C
+verschiedendste Compiler und Plattformen
+C++
+Visual C++ 6.0, gnu
+Clipper
+dBase
+Imake, GNU-Make, Make-Maker etc...
+Java
+Schwerpunkt, Groovy
+JavaScript
+Schwerpunkt, jQuery
+Modula-2
+Pascal
+Turbo-Pascal, VMS-Pascal
+PHP
+PL/SQL
+PLM
+schon eine Weile her
+Python
+Scriptsprachen
+awk ...
+Shell
+besonders Korn-Shell
+yacc/lex
+Betriebssysteme
+CP/M
+schon eine Weile her...
+Echtzeitbetriebssysteme
+QNX, LynxOs, VxWorks, pSOS+, OS9, Nucleus,
+MS-DOS
+OS/2
+wenig
+OS/9
+pSOS
+SUN OS, Solaris
+Unix
+Ubuntu, RedHat, HP-UX
+VMS
+das liegt schon eine Weile zurück...
+VxWorks
+Windows
+Windows NT 4.0, Windows 95, Windows 98
+Datenbanken
+DB2
+JDBC
+MySQL
+Oracle
+Oracle 8i, 9i, 10g, 11g
+SQL
+xBase
+dBase iV, Clipper
+Hypersonic SQL
+LDAP
+Sprachkenntnisse
+Deutsch
+Englisch
+fließend
+Französisch
+Grundkenntnisse
+Italienisch
+Grundkenntnisse
+Russisch
+gut
+Hardware
+Bus
+Echtzeitsysteme
+VME-Bus, Microcontroller, Industrie-PCs, Power-PC
+embedded Systeme
+VME-Bus, Microcontroller
+Emulatoren
+Mikrocontroller
+C166 etc, 8051 etc, Power-PC, Hitachi H8, NEC V35
+Motorola
+68k
+PC
+SUN
+VAX
+Datenkommunikation
+Bus
+CAN, I2C, IEC
+CORBA
+RMI
+Internet, Intranet
+HTTP, SOAP
+Message Queuing
+JMS, MQSeries
+Proprietäre Protokolle
+SOAP
+RS232
+RS 485, verschiedendste Protokolle, auch Sliding Window
+TCP/IP
+Sockets
+Windows Netzwerk
+Winsock
+SOAP
+Produkte / Standards / Erfahrungen
+Laufzeitumgebungen/ Frameworks
+J2EE Applikationsserver Glassfish 3.1 Bea WebLogic Server (auch Cluster, Versionen 5.1, 6.1 und 7.0, 8.1, 9.2, 10, 11) Bea Aqualogic Service Bus JBoss AS 4.2, 7            Apache Tomcat: Apache Servlet- und JSP- Container, 3.2, 4.0,... 5.5, 6.0, 7, 7, 8
+Jetty       Webserver Apache Webserver lighttpd        Portalserver                 Liferay
+   Messaging
+      IBM MQ-Series
+      Weblogic JMS
+      MULE
+
+Informatica PowerCenter 8.1 (ETL)
+Fuzzy! Post und Fuzzy! Double (Suche/Überprüfung postalischer Adressen, Doublettenbereinigung)
+
+Java-Frameworks und Komponenten    JEE Weld 2.3.3 DeltaSpike 1.6.0 Quartz 2.2.2 RestEasy 3.0.12 JBoss SEAM,bis 2.3 JSF RI (Mojarra) bis 2.2 JBoss RichFaces (JSF, Ajax) 3 und 4 Spring 2.0, 3 Apache SOAP 2.2, Apache Axis, Apache CFX Apache Struts Framework einschließlich Tiles Hibernate 3.2.4, 4.3 Eclipse Link Apache MyFaces, Facelets Apache FOP Apache Cocoon: Internet Publishing Framework JAXB, XMLBeans, CASTOR (u.a. XML-Java Mapping Framework) Xerces, Xalan (XML Parser, XSL Transformer) JAAS JMX iText Jasper-Reports JExcel, POI XText Laufzeitumgebung JavaCC (Compiler Generator)   Test und Profiling
+JUnit (Unit Test Framework), dbUnit EasyMock, The Grinder HPJMeter, Jamon     Werkzeuge
+=========
+Entwicklungswerkzeuge/IDEs   Intelli-J   Eclipse   Netbeans   XText Generierungsframework   Maven, Maven Plugins   Nexus   Ant,   Hudson   Jenkins   Luntbuild   XML-Spy   MS Visual Studio   XDoclet, EjbDoclet   UML OOAD CASE Tools:    Enterprise Architect Together Control Center Visual Paradigm Rational Rose Rhapsody   Requirement Engineering: Analyse und Managment DOORS (Telelogic): Requirements Management Tool Bug Tracking    JIRA    Redmine Bugzilla Clear DDTS (Bug Tracking) Version Control, Konfigurationsmanagement Subversion GIT CVS MS Source Safe   ClearCase UCM   Datenmodellierung (Entity Relationship) Sybase PowerDesigner Erwin Together   Datenbankmanagement (Oracle) TOAD SQL-Navigator   Dokumentation    Conluence    Redmine
+Java Technologien
+=================
+J2EE: EJB, Servlets, JSP, JDBC, RMI, JMS, Applets, JSF, Ajax
+XML
+===
+DOM, SAX, XSL, XSP (Cocoon), JAXP, SOAP, FOP
+
+
+Prozess-Standards
+=================
+SCRUM RUP: Rational Unified Process V-Modell SPICE: Prozessbewertung von Softwareentwicklungsprozessen
+sonstige Erfahrungen
+====================
+Skalierende und verfügbare J2EE Architekturen Domänenspezifsche Sprachen (DSL) Methodik des Projektmanagement: Führung kleiner Teams (10 Leute) bei iterativer und  inkrementeller Entwicklung Methodik des Requirements Engineering: Anforderungsaufdeckung, -analyse und -verwaltung Objektorientierte Analyse und Design: UML und OMT Geschäftsprozessmodellierung mit UML Entwurfsmuster (Design Patterns) Konfigurationsmanagement Strukturierte Analyse, Strukturiertes Design OO-Beratung: Beratung bei OOAD und Tooleinsatz Training: Kurse in OOAD und Requirements Engineering Reverse Engineering Zustandsautomaten, Eventbasierte Architektur
+Design / Entwicklung / Konstruktion
+keine
+Berechnung / Simulation / Versuch / Validierung
+keine
+Ausbildungshistorie
+76-81: Universitätsstudium Mathematik, Abschluß als Diplom Mathematiker
+
+81-84: festangestellter Softwareentwickler in Software- und Systemhaus
+
+84-91: IT-Verantwortlicher in einer Klinik
+
+91-93: festangestellter Softwareentwickler in Software- und Systemhaus
+
+93-98: Projektleiter und Senior-Software-Ingenieur in Software- und
+ Systemhaus
+98-00: Verantwortlicher für Technik und Senior-Berater bei einem CASE-Tool-
+ Distributor
+ab 09.00: freier IT-Berater
+
+Verschiedene Fach- und Managementkurse, u.a. Dale Carnegie Führungstraining, "98
+
+BMW JOIN-IT Ausbildung und Zertifizierung 2006

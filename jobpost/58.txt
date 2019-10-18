@@ -1,0 +1,23 @@
+Titel
+Softwareentwickler (m/w/d) mit Diesel im Blut
+Beginn
+01.11.2019
+Einsatzort
+Ulm
+Ihre Aufgaben
+Als Softwareentwickler (m/w/d) sind Sie zuständig für innovative und aufregende Applikationen
+Sie sind tätig als Experte (m/w/d) in der Entwicklung und stellen individuelle, agile IT-Services bereit
+Sie tragen zur Integration von innovativen und qualitativ hochwertigen Lösungen bei
+Sie bringen Ihre Ideen für nachhaltige und zukunftsfähige IT-Leistungen und -Produkte ein
+Sie probieren täglich neue Anforderungen, Technologien, Methoden und Produkte aus, um Probleme zu lösen
+Ihr Profil
+Sie verfügen über ein erfolgreich abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder Elektrotechnik
+Sie haben fundierte Erfahrungen in den Themen: Java / C#-Entwicklung, Continuous Integration / Build-Management und Application Security
+Außerdem bringen Sie Erfahrung im Bereich agiler Methoden mit, wie vorzugsweise Scrum 
+Darüber hinaus kennen Sie sich idealerweise mit folgenden Produkten und Tools aus:
+Microservice Architekturen
+Spring Boot Entwicklung
+Cloud Technologien, insbesondere MS Azure
+Atlassian Toolchain, z.B. JIRA, Confluence, Stash, …
+GIT
+Und Sie haben sehr gute Deutsch- und Englischkenntnisse

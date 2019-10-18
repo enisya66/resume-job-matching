@@ -1,0 +1,24 @@
+Titel
+Java Entwickler API (m/w/d)
+Projektanbieter
+emagine
+Beginn
+06.01.2020
+Einsatzort
+Frankfurt am Main
+Beschreibung
+Java Entwickler API (m/w/d) Reference: CR/076221 Duration: 31.12.2020 Location: Frankfurt am Main Start: 06.01.2020 Language: German Benedens, Lukas +49 211 863266-44 +49 211 863266-11 jobGUCR_076221@jobs.emagine.org Für unseren Kunden, ein führendes Unternehmen im Finanzdienstleistungssektor in Frankfurt am Main, suchen wir Unterstützung im Bereich Java Entwicklung. Aufgaben: Konzeption und Entwicklung einer Microservice-Landschaft in einem crossfunktionalen Scrum Team Anforderungen: Sehr gute Java Kenntnisse (besonders: Spring Boot, Hibernate und Flyway für Deployment)
+Domain Driven Design (DDD) für eventgetriebene Entwicklung (Domainenevents)
+Datenbankabfragen über Hibernate/SQL
+Datenbanksysteme Oracle/PostgreSQL
+Solide Kenntnisse im Bereich RESTfull API Design
+Solide Kenntnisse mit Swagger (zur Dokumentation)
+Solides Know-how im Bereich Testautomatisierung (z. B. Spock, JUnit und Karate)
+Strukturierte, eigenverantwortliche, präzise und analytische Denk- und Arbeitsweise
+Flexibilität und Teamfähigkeit
+Gute Deutschkenntnisse in Wort und Schrift
+Solide Kenntnisse der agilen Entwicklung, insbesondere mit Scrum
+Solide Kotlin Kenntnisse
+Solide Kubernetes Kenntnisse
+Solide Erfahrung mit Codegeneratoren
+Solide Erfahrung mit Eventing und Microservice-Architekturen

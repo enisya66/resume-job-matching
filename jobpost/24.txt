@@ -1,0 +1,19 @@
+Titel
+SAP Basis Administrator (m/w/d)
+Beginn
+21.10.2019
+Dauer
+unbefristet
+Einsatzort
+Berlin
+Beschreibung
+Unser Kunde sucht zum nächstmöglichen Zeitpunkt einen erfahrenen SAP Basis Administrator.
+
+Aufgaben:
+
+Beratung im fachlichen Bereich der SAP Technologien, Datenbanken und technische Infrastruktur  
+Konfiguration und Administration der zentralen SAP Systeme (ABAP und JAVA)
+Betreuung der Oracle und SAP HANA Datenbanken
+Systembetrieb der zentralen SAP Verfahren 
+Skills
+Systemadministration SAP Basis Netweaver 7.0 und 7.50 (ABAP und Java) Installation, Upgrade und Systemkopien von SAP-Systemen Administration, Installation und Wartung von Oracle Datenbanken (>= 11g) Installation, Wartung und Konfiguration der SAP HANA Datenbanken Backup und Restore im SAP-Umfeld mit HP Dataprotector Konfiguration und Wartung des SAP Web Dispatchers und SAP Solution Managers Zentrales Druckmanagement für SAP Systemadministration der Betriebssysteme HP-UX und SLES inklusive HP Serviceguard Cluster

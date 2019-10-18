@@ -1,0 +1,87 @@
+Titel
+Scrum Master (m/w/d)
+Beginn
+01.11.2019
+Dauer
+unbefristet
+Einsatzort
+Frankfurt am Main
+Beschreibung
+Die Leistungen des Auftragnehmers (Dienstleisters) werden für das Programm Vendo erbracht. Initial erfolgt der Einsatz im Teilprojekt Kundenkonto (KTO). Mit dem Projekt wird eine vertriebskanalübergreifende Kundendatenbank sowie kanalspezifische Kunden-Cockpits (Services) umgesetzt.
+
+Ziele des Projekts sind:
+
+-       Einführung einer einheitlichen zentralen Kundenstammdatenhaltung für bahn.de, Reisezentrum, Call-Center, Automat und MT; mit zukünftiger Erweiterbarkeit um weitere Vertriebskanäle in Folgeprojekten.
+
+-       Einführung der zentralen Kundenstammdatenhaltung als führendes Kundenstammdaten-haltendes System für synchron angebundene Verfahren als „single source of truth“ / „Golden Record“, mit der dazu gehörigen Migration.
+
+-       Berücksichtigung datenschutzrechtlicher Vorgaben für die Kundenstammdatenhaltung und –Nutzung.
+
+-       Synchrone Anbindung des BahnCard-Services.
+
+-       Bereitstellung von Kundenstammdaten als Basisfunktionalität zur Nutzung durch andere Domänen und damit:
+
+-     Sicherstellung der Kundenstammdatenverfügbarkeit für nicht-anonyme Buchungen.
+
+-     Sicherstellung der Kundenstammdatenverfügbarkeit für Zahlung ohne Speicherung expliziter Zahlungsinformationen und –status in der zentralen Kundenstammdatenhaltung.
+
+-     Sicherstellung der Kundenstammdatenverfügbarkeit für CRM-Module.
+
+-       Einführung zentraler Services zur Nutzung kanalspezifisch ausgestalteter Kundencockpits.
+
+Das Projekt soll unter Anwendung agiler Methoden (SCRUM/SAFe) umgesetzt werden.  
+
+ 
+
+Der Dienstleister erbringt folgende Leistungen:
+
+-       Coachen des Projektteams Kundenkonto (1 Scrum Team, 1 Migrations Team (Kanban))
+
+-       Betreuung der agilen Zeremonien
+
+-       Erhebung das agilen Reifegrades des Teams
+
+-       Weiterentwicklung des Teams im agilen Kontext
+
+-       Managen von Impediments
+
+-       Schnittstelle zum ScrumOfScrums und dem Team der Release Train Engineer
+
+-       Reporting – Teamintern & Programmweit
+
+-       Berichten von Risiken und Problemen an die Technischen Architekten und an das Projektmanagement
+
+-       Durchführung von Retrospektiven
+
+-       Unterstützung bei der Vorbereitung von Planning und Planungskonferenzen
+
+-       Tracken und Nachhalten der Retro Maßnahmen
+
+-       Moderieren von Workshops mit andren Projekten und Fachbereichen
+
+Skills
+ 
+
+·       Ein erfolgreich abgeschlossenes Studium in Informatik, Wirtschaftsinformatik oder eine vergleichbare Ausbildung bzw. entsprechende Kenntnisse aus der Praxis der Softwareentwicklung
+
+·       Mehrjährige Erfahrung als Scrum Master in einem Software Entwicklungsteam
+
+·       Zertifizierung als ScrumMaster (Certified Scrum Master, Professional Scrum Master, SAFe Scrum Master oder vergleichbare Zertifikate)
+
+·       Sehr gute Kenntnis der Scrum-Methodik
+
+·       Praktische Erfahrung mit weiteren agilen Entwicklungsmethoden wie Kanban und XP
+
+·       Ausgeprägtes Kommunikations- und Konfliktmanagement Know-how
+
+·       Ausgeprägte Moderationsfähigkeiten
+
+·       Freude und Erfahrung im Coachen von Entwicklern, Produkt Ownern und Testern
+
+·       Gute Kenntnisse agiler Tools, insbes. JIRA (inkl. Plug-ins wie Structure etc.), Confluence
+
+·       Ausgeprägtes Organisationstalent
+
+·       Selbstorganisierte Arbeitsweise, team- und zielorientiert, analytisch und initiativ
+
+·       Umfangreiche praktische Erfahrung in der Erstellung von User Stories und dem Management von Product Backlogs

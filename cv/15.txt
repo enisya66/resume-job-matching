@@ -1,0 +1,501 @@
+Java Enterprise Entwicklung - JEE, Backend Entwicklung, Web-Technologien2
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.11.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D1
+Städte
+Berlin
+10 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Projekte
+05/2016 - 03/2018
+
+1 Jahr 11 Monate
+
+Cosach
+
+Rolle
+Senior Backend-Entwickler
+Kunde
+Bundesargentur für Arbeit
+Projektinhalte
+Umstellung des Projekts von Ant auf Maven
+Hudson-Konfiguration/Anpassung und Anpassung von Ant-Skripten für automatische Tests
+Weiterentwicklung mit Java/JEE
+Entwurf von Modulen in UML
+Programmierung von Modulen für Teil-Projekt Kassensicherheit
+
+02/2016 - 03/2016
+
+2 Monate
+
+RiskApp
+
+04/2015 - 01/2016
+
+10 Monate
+
+ELVS-Ablösung
+
+03/2014 - 03/2015
+
+1 Jahr 1 Monat
+
+DCM-Integration und OTP-/SSO-Integration
+
+03/2011 - 01/2014
+
+2 Jahre 11 Monate
+
+Außenschnitstellen
+
+09/2010 - 02/2011
+
+6 Monate
+
+Migration einer Webapplikation
+
+01/2010 - 07/2010
+
+7 Monate
+
+KonzerPerson 2.0
+
+06/2008 - 10/2009
+
+1 Jahr 5 Monate
+
+Entwicklung einer Architektur zur Migration einer JEE-Plattform (Erreichen von Testbarkeit)
+
+11/2006 - 05/2008
+
+1 Jahr 7 Monate
+
+Mailstore web.de
+
+04/2005 - 09/2006
+
+1 Jahr 6 Monate
+
+HLRi/VLR
+
+06/2004 - 03/2005
+
+10 Monate
+
+IN Dienst Feature Entwicklung
+
+04/2003 - 05/2004
+
+1 Jahr 2 Monate
+
+IN TPD (Technischen Projekt Daten) Konfigurator
+
+01/2002 - 11/2002
+
+11 Monate
+
+Verkehrsdatenauswertung und -repräsentation
+
+05/1999 - 12/2001
+
+2 Jahre 8 Monate
+
+VSR5000 System zur zentralen Überwachung und Steuerung von Lichtschaltanlagen (Verkehrssteuerungssystem)
+
+Projekthistorie
+weitere Projekte auf Anfrage
+Branchen
+Banken
+Telekommunikation
+IT-Dienstleistung
+Verkehrstechnik
+Mobilfunk
+Internet
+Logistik/Lagerhaltung
+Kompetenzen
+Programmiersprachen
+ABAP4
+AJAX
+AspectJ
+Assembler
+eingebettet als Routinen in Pascal
+Basic
+auf Amiga, VBA
+C
+auf Amiga, PC (Borland Turbo C), Sun, Microcontroller (Codewright)
+C++
+Borland C++ 3.1, Visual Studio 6.0
+CORBA IDL
+Visibroker 4.0, JacOrb, Orbacus
+Groovy
+Java
+JEE / Eclipse, IBM RAD, JBuilder 3.5, Together 4.2, Visual J++ 6.0, NetBeans 3.5
+Java 1.5
+Java 1.6
+Java 1.7
+Java 1.8
+Java 6
+Java SE 7
+JavaScript
+JSON
+JAX-RS
+JAX-WS
+JAXB
+Jaxp
+JDK 1.6
+JEE
+JEE 6
+JEE5
+JEE7
+JPA
+JPQL
+JQuery
+JSP
+JTA
+Makrosprachen
+Modula-2
+Pascal
+Turbo Pascal 7.0
+Perl
+PL/SQL
+Prolog
+Scriptsprachen
+JavaScript, SQL, HTML, CCS, XML, DTD, XSL, CGI, Perl, Sed, AWK
+SDL
+Shell
+SunOS/Solaris(Bourne-Shell, Korn-Shell), Linux (bash, Korn-shell)
+UML
+Betriebssysteme
+Amiga OS
+Linux
+MS-DOS
+OS/2
+Solaris
+SUN OS, Solaris
+Sun-OS
+Unix
+System V, Solaris, Linux
+Windows
+3.11, 95, 98, NT, 2000, XP, Vista & 7
+Windows 2000
+Windows 7
+Windows 8.1
+Windows XP
+Windows2000
+WindowsNT
+Datenbanken
+Access
+(SQL & VBA)
+DB2
+DMS
+JDBC
+MySQL
+ODBC
+Oracle
+Oracle 10g
+Oracle 11g
+SQL
+Sprachkenntnisse
+Englisch
+fließend in Wort & Schrift
+Hardware
+Amiga
+Bus
+CAN - Bus
+CD-Writer / Brenner
+Drucker
+Mikrocontroller
+Controller programmiert, in C mit Codewright.
+Modem
+PC
+Windows & Linux
+Scanner
+Soundkarten
+SUN
+Sun-OS, Solaris
+Datenkommunikation
+Bus
+CAN
+CGI
+CORBA
+Visibroker 4.0, JacOrb
+Ethernet
+ICE 3.1.1
+Middleware vergleichbar mit Corba
+Internet, Intranet
+WWW, HTML, XML, XSL, http, CGI, JSP, Apache-Webserver, Tomcat
+PC-Anywhere
+SOAP
+TCP/IP
+Socket-Programmierung, Konfiguration, Routing
+WebSphere MQ
+Windows Netzwerk
+WindowsNT, Windows2000, Windows3.11, Windows95, Windows98
+X.509
+Produkte / Standards / Erfahrungen
+0
+2 Enterprise
+5
+>200 SOAP Services
+@vantage
+Access 97  (SQL, VBA)
+AeroGear UnifiedPush Server 1.1.0
+Ant 1.5.1 / 1.6.2
+ANTLR 2.7
+Apache
+Apache 2.0
+apache-sshd 0.12
+Aspect-Oriented Programming
+AspectJ
+Beans
+Benthic Software Golden32 5.7
+Bitbucket
+Boost C++ Libraries
+C++ Visual studio 6.0
+CDI
+Cobertura
+Code Wright
+Confluence
+CORBA 2.3.1 & CORBA-Services 2.3.1
+CppUnit
+CSS
+CVS 1.11.14
+DB2 9.7 (for Linux)
+DB2 v9.5
+DB2 v9.5.200.315
+DbUnit 2.0
+dbUnit 2.2
+derby-10.12.1.1
+DOM
+dom4j-1.6
+Doxygen
+dozer 1.5/5.3.2 (DozerBeanMapper)
+DSA
+DTD
+Eclipse 3.1.2
+Eclipse 3.3
+Eclipse 3.6.2
+eclipse 4.4.1
+EclipseLink
+ehcache 2.5
+EJB2
+EJB3
+EMF (Eclipse Modelling Framework)
+EMMA
+Enterprise Architect 7.0
+Enterprise Architect 7.5
+Excel 97 (VBA)
+facelets
+facelets 1.1.14
+Fault Report System Fekat/CM-Suite
+Flyway 3.0
+FOP
+Git
+Git 1.7.7/Git Gui 0.13
+Git bash
+Git Lab 6.5.1
+Git-Extention 2.48
+GlassFish Jersey 2.13
+gradle 2.1
+GSOAP
+H2 DB 1.4.186
+Hibernate
+hibernate 2.3
+Hibernate 3.0
+Hibernate 3.3.2
+HornetQ
+HP Application Lifecycle Management 11
+HP OpenView service desk 4.5
+HP Quality Center 9.2
+HP QuickTest Professional 9.5
+HTML
+https-Server-Mock
+Hudson
+Hudson 3.1.2
+IBM Rational Application Developer 7.0
+IBM Rational Synergy 7.1
+ICE 3.1.1 (Middleware vergleichbar mit Corba)
+ICEfaces 1.7
+IndigoPerl 5.8
+Inprise Application Server 4.0
+InstallShield Developer 8.0
+IntelliJ IDEA
+iReport 3.0.0
+J2EE
+j4fry 1.2
+Jackson-xc-1.9.13
+JacOrb
+Jakarta commons-logging 1.0.4
+jasper 2.0.1
+Jasper/JasperReports
+java 1.7/1.8
+JBoss 4
+JBoss 4.2.3
+JBoss 5
+jboss eap 6.3/7
+JBuilder 3
+JBuilder 3.5 / 10 / X
+JBuilder 7.0
+JBuilder X
+Jenkins
+Jenkins 1.584
+jersey
+Jersey 2.13
+Jira
+Jira 6
+Jira v6.4.1
+JMeter 2.3.2
+jmokit 1.7
+JPA 1
+JPA 2
+JPA 2.0
+JSF
+JSF 1.1
+JSF 1.1/1.2/2.0
+JUnit
+JUnit 3.8.1
+JUnit 4.11
+LDAP
+Linux 9.1
+Liquibase 3.4.2
+log4j 1.2.17
+log4j 1.2.9
+MagicDraw 17.0.2
+Maven 1.1-beta-2
+Maven 2.0.9
+maven 3
+maven 3.3.9
+maven2
+MDA (Model Driven Architecture)
+MDSD (Model-Driven-Software-Development)
+Mockito
+Mockito 1.9.5
+MS Internet Explorer 3. - 5.5
+MS Visual C++ 6.0
+MyFaces
+MyFaces 1.2.5/1.2.6
+mySQL
+MySQL 5.0
+MySQL 5.1.41
+MySQL 5.6
+NetBeans 3.5
+Netbeans 7
+Netscape - 4.7
+OAuth2
+oAW 4.1.2 open Architekture Ware
+Open SSL
+Open SSL 0.9
+Oracle PL/SQL
+Oracle SQL Developer 2.1.1.64
+Oracle8i, Oracle9i
+ORBacus 3.2
+PC-Anywhere
+PKI
+PlantUML Confluence
+PowerMockito
+Putty
+Putty 0.60
+QuickBuild 5.1
+Rational Application Developer 7.5.4
+Rational ClearCase 4.2 / 5.0
+Rational PureCoverage
+Rational PureCoverage 7.0
+Rational PurifyPlus 7.0
+Rational Rose 7.6
+REST
+richfaces 4.0.0
+SAAJ
+SCRUM
+SCRUM HP QuickTest Professional 9.5
+scrumwise
+Seam 2.1.
+Servlet
+Slack
+SOA
+SOAP
+SOAP over JMS
+SOAP over JMS
+soapUI 3.6.1
+SoapUI-x64-5.2.1
+SonarQube
+Source Tree 1.9.10
+Specification CORBA 2.3.1 & CORBA services 2.3.1
+Spock Testframework
+Spring 2.0.5
+spring 3.0
+spring boot 1.5.6
+spring web
+SQL-Developer 4.0.2.15
+SQLyog v12.2
+SQuirel SQL 3.4
+SSH/sftp mit Jsch 0.1.5
+Struts
+struts 1.3.8
+Struts 1.3.8. JUnit
+struts-faces 1.3.8
+SVN 1.2.1.
+svn 1.8
+Swing
+TDD
+Testdriven Development
+Toad for Oracle 9.0.1
+Together 4
+Together 4.0
+Together 4.2 Enterprise (UML, OOA, OOD)
+Together Enterprise
+Tomcat 4.06
+tomcat 6.0
+Tomcat 6.0.14
+Visibroker 4
+Visibroker 4.0
+Visio Pro
+Visual J++ 6.0
+Visual Paradigm 6.2
+Visual SourceSafe
+Visual SourceSafe 6.0
+Visual SourceSave 8.0
+Visual Studio 2003
+Visual Studio 2005 8.0
+Visual Studio 6.0
+VMware 1.0.3
+VMware 1.0.3
+WebFunctions
+Weblogic 11g 10.3.6.0
+WebLogic 8
+WebSphere MQ
+WebSphere v6.1/v7.0
+WebSphere WAS v6.1
+Wildfly 9
+WinSCP
+WinSCP 4.1.8
+Xalan
+Xerces
+xhtml
+XMI (Metadata Interchange)
+XML
+XML Spy 4
+XML, XPath
+XML-Notepad
+XPath
+XSD
+XSD (XML Schema Definition)
+XSL
+XSLT (FOP)
+YourKit Java Profiler 8.0.0
+Ausbildungshistorie
+Hochschulstudium Informatik an der Humboldt-Universität zu Berlin
+Abschluß: Diplom Informatiker
+Nebenfach: Psychologie (Schwerpunkt: Ingenieurpsychologie/Software-Ergonomie)
+
+Hochschulstudium BWL an der Humboldt-Universität zu Berlin

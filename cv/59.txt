@@ -1,0 +1,57 @@
+Employment History
+08/2016 06/2018: Software4Insurence,
+Synergy BC, Skopje, Macedonia
+Working as an Angular
+4/Redux and
+ASP.NET MVC developer in a team
+consisting of 8 members. Our goal is
+building a single page application called
+Transactor
+http://w ww.transactorgsl.com/ com/), a B2B
+and B2C outsource insurance solution,
+mainly intended for use among the UK
+clients.
+06/2015 12/2015: Intern at Infinitum
+doo, Skopje, Macedonia
+Fulfilling my intern program as a Web and
+Android developer on a restaura nt
+management mobile solution called
+Birtzer (http://birtzer.com/), In a team of
+8 members.
+Projects worth of mentioning
+Android (Java 8/Kotlin) and BLE
+technology (07/2018 09/2018):
+Working on a two months Wabco project
+for displaying the state of the truck and its
+trailer using the sensor measurements
+from the BLE devices attached in it.
+My task was consisted of:
+Independent development using Android
+studio as IDE and Java 8 and Kotlin as
+programming languages. I learned about
+some libraries like RxJava and Dagger
+along the way.
+Designing the user interface and the
+architecture of the application itself.
+Always putting the client expectations on
+first place even if it required overtime
+work.
+Bringing fresh ideas about the workflow
+and collaborating with the backend guys.
+Robotics and Intelligent systems
+Developed a Lynx robotic arm model in
+Matlab, intended for drawing shapes on
+paper
+https://drive.google.com/open?id=0B1 Ko
+mDyJMBHbQkZiSDctdXdCTVE
+Web services : Developing of a news
+aggregator in the Django (Python)
+framework called Magregator
+https://bitbucket.org/111030/magregatordjango
+Computer graphics and Computer graphics and Animation Animation:: Developed a Rubik Cube game in OpenGL, Developed a Rubik Cube game in OpenGL, with C++ as a programmiwith C++ as a programming language ng language ((https://www.dropbox.com/s/bjja8ai17uehttps://www.dropbox.com/s/bjja8ai17ue2nmr/RubicCube.zip?dl=02nmr/RubicCube.zip?dl=0).). Machine learningMachine learning:: Writing a conference paper in a team of 4 Writing a conference paper in a team of 4 members with the thesis members with the thesis „„Analyzing the Analyzing the lifespan of patients who suffered heart lifespan of patients who suffered heart attack attack““ (https://1drv.ms/b/s!A(https://1drv.ms/b/s!AqFtZk2OKvDoxVSClqFtZk2OKvDoxVSClgScUrXqUZ1C). The thesis involved using gScUrXqUZ1C). The thesis involved using techniques like Machine learning and Data techniques like Machine learning and Data mining. We reached top 10 at our college mining. We reached top 10 at our college conference. conference.
+Qualifications
+Qualifications 09/201109/2011--04/2017:04/2017: Graduate Graduated from the St. d from the St. Cyril and Methodius University of Skopje Cyril and Methodius University of Skopje with a bachelor degree in the field of with a bachelor degree in the field of Computer Science and Engineering. Computer Science and Engineering.
+Main course components:
+Main course components: Algorithms and Algorithms and problem solving, Artificial Intelligence, problem solving, Artificial Intelligence, Machine learning, Robotics and Intelligent Machine learning, Robotics and Intelligent systems, Wsystems, Web development and Mobile eb development and Mobile development.development. The thesis of my graduation exam was a The thesis of my graduation exam was a mobile (Android) application with a NoSQL mobile (Android) application with a NoSQL (MongoDB) solution as a back(MongoDB) solution as a back--end service, end service, intended for collecting and reading comic intended for collecting and reading comic books books (https://1drv.ms/v/s!AqFtZk2OKvDoxBjDe(https://1drv.ms/v/s!AqFtZk2OKvDoxBjDeW_Yd0phtW_Yd0phtjqU).jqU).
+Other skills
+Other skills Software design Software design: UML 2.0, Design : UML 2.0, Design patterns. patterns. Computer graphics and Animation Computer graphics and Animation: : Autodesk Maya, Adobe Photoshop. Autodesk Maya, Adobe Photoshop. Software development management Software development management: : SCRUM, RAD, VCS, Git/BitBucket. SCRUM, RAD, VCS, Git/BitBucket. Web services Web services:: Azure Active Azure Active Directory, REST, SPARQL Directory, REST, SPARQL (Semantic Web).(Semantic Web).

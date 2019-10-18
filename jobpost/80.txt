@@ -1,0 +1,28 @@
+Titel
+SAP Entwickler mit ABAP-OO- und UI5-Expertise (m/w/d)
+Beginn
+14.10.2019
+Dauer
+31.12.2020
+Einsatzort
+Basel
+Beschreibung
+Unser Kunde aus dem Bereich der Versicherungs / Finanzdienstleistung sucht einen SAP Entwickler mit ABAP OO und UI5 Expertise zu 100% Auslastung, vor Ort in Basel Stadt (Sehr gute erreichbarkeit, Zentral gelegen)
+
+Der Kunde plant eine Eigenentwicklung zur Realisierung/Modernisierung eines Unternehmenskundenportals, sowie weitere Applikationen im SAP-Umfeld. Zudem wird der Kunde künftig seine Neutentwicklungen mit der Hana XSA Plattform durchführen, weshalb es Ideal wäre eine Unterstützung in diesem Bereich zu haben, welche den Kunden bei diesem Vorhaben begleitet.
+
+ 
+
+Wir suchen zusammengefasst engagierte, teamfähige, agile SAP UI5/ Fiori Entwickler/ -innen:
+
+Architektur von UI Applikationen in SAP UI5/ Javascript Umfeld
+Mehr als 2 Jahre Erfahrung in der Entwicklung mit SAP UI5
+Erfahrung in Design und Entwicklung von OData-Schnittstellen mit SAP Gateway
+SCRUM / SAFe
+idealer Weise mit HANA XSA - Kenntnissen
+Zentrale Lage in Basel, sehr gute Anbindung an den ÖV, sowie die Arbeit in einem sehr freundlichen, hochmotivierten und begeisterten Team, welche stets daran interessiert ist neue Technologien zu erforschen und kreativ einzusetzen.
+ 
+
+*** START bis 01.01.2020 MÖGLICH  ***
+
+*** REMOTE z.Z NICHT MÖGLICH  ***

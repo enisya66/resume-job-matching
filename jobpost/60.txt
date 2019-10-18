@@ -1,0 +1,40 @@
+Titel
+Software Engineer für Infrastruktur / DevOps (m/w/d)
+Beginn
+01.11.2019
+Einsatzort
+Hamburg
+Ihre Aufgaben
+Sie implementieren neue Funktionen in die Cloud Infrastruktur, die anderen Entwicklerteams in ihrer Produktivität hilft und für die schnelle Bereitstellung ihrer Beiträge
+Sie bereichern die interne PaaS, indem Sie die APIs, verschiedene Services und Systeme designen, bauen und warten
+Sie sind verantwortlich für das Debugging in Produktionsthematiken, von Services und mehreren Level des Stacks
+Sie verbessern die Engineering Standards, die Auswahl des Tech-Stack und Prozesse
+Ihr Profil
+Folgendes sollten Sie unbedingt mitbringen:
+
+Sie haben Erfahrungen in der Entwicklung von Software im Cloud Bereich
+Sie fühlen sich wohl in einem vielfältigen Tech Stack
+Sie bringen sehr gute Erfahrung in der Softwareentwicklung mit, in verschiedenen Sprachen und Umgebungen (bspw. Go, Python, PHP, Java, Ruby)
+Sie haben Erfahrung mit dem Bau und der Betreuuung von Produktionssystemen
+Ihnen ist Automatisierung wichtig
+
+Folgendes wäre wünschenswert
+
+Sie kennen sich mit AWS aus
+Sie bringen Erfahrungen in Datenbank und Schema Design (z.B. MySQL, Postgres, DynamoDB)
+Wir bieten außerdem
+Homeoffice nach Rücksprache
+Gleitzeit 10-16 Uhr
+40h/Woche
+26 Urlaubstage + Weihnachten und Sylvester frei
+Weiterbildungen
+Kantine, Kaffee, Softdrinks
+HVV-Proficard
+Altersvorsorge
+Firmeneigene Appartments
+Kicker, Sportraum, Leihfahrräder
+Arbeitsmaterialien: Handy + Tablet
+Casual Dresscode
+Hund im Büro
+Fahrradkeller
+offene Kultur, Fehlerkultur, Menschlich & Human

@@ -1,0 +1,13 @@
+Titel
+SAP Banking Experte (m/w/d)
+Beginn
+21.10.2019
+Dauer
+3 Monate
+Einsatzort
+Frankfurt
+Beschreibung
+In einer Vorstudie soll untersucht werden, ob das aktuell genutzte Mandatsverwaltungssystem durch den SAP Standard für SEPA Mandate abgelöst werden kann. Zusätzlich soll geprüft werden, in wieweit weitere Systeme auf die Mandate in MMG zufreifen, und ob es möglich ist, dass diese Systeme ebenfalls auf die Mandate in SAP zugreifen können.
+
+Skills
+tiefes und langjähriges Know How im SAP Umfeld Detaillierte Modulkenntnisse in den SAP Banking Modulen BP, CML, hier allen voran FI Erfahrung in der Prozess und Business Analyse Gute Kenntnisse im Bereich SEPA Zahlungsverkehr

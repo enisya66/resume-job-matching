@@ -1,0 +1,87 @@
+PROFIL
+Looking for a dynamic and challenging job in a
+creative and technical environment where there
+are scope to demonstrate my knowledge,
+initiative and hard-work.
+Experienced in object-oriented programming,
+developing, testing and debugging code,
+designing interface, administering systems and
+networking.
+Quickly learn and master new technologies.
+A U S B I L D U N G
+Technische Universität Chemnitz
+Master’s Degree 04/17 - aktuell
+Automotive Software Engineering
+Rajshahi University
+Bachelor’s Degree 11/09 – 10/13
+Computer Science and Engineering
+BERUFSERFAHR
+UThNe GM essenger
+Software Engineer 11/13 – 03/17
+Work as an android developer and during my work time in The Messenger me and my team work in several
+android projects and completed several android projects. During my development I use Eclipse as software tool
+and Java as a language in the end of 2016 we switch to android studio.
+ASHIK DAS
+SOFTWARE DEVELOPER
+FÄHIGKEITEN
+Creative
+Teamwork
+Innovative
+Organization
+Communication
+TECHNISCHE FÄHIGKEITEN
+Languages/Methodologies:
+Java, C#, C, C++, XML/XSL, UML, JavaScript, PHP
+Technologies and Repository:
+JNDI, JMS, RMI, JDBC, Servlets, JSP, SAX/DOM, Web Services, SOAP, WSDL,
+UDDI, JAXB, Java Mail, WAP, WML, HTML, GitHub, SVN
+Software Tools and Utilities:
+Eclipse, Android Studio, Tomcat, Apache, Apache, Jserv, JRun, JBuilder, Visual Studio
+Database Technologies:
+Oracle 8.x/9.x, SQL Server, MS Access
+Data Communication and Networking:
+TCP/IP, SNMP, POP3, SMTP, Sendmail, DNS
+Nowadays people need to explore their interest and share their knowledge, also in a
+society people try to create event for various purpose and they want others to
+participate in their events and try to know how others feel about their events. This is it,
+this app will help you to explore your event, and all you need to do create your event
+and explain your events through this app.
+ Create events with images.
+ Add event name, location, tags, dates.
+ Search event with three kind of search form which is tag search, map search and date
+search.
+ Write comments and also see your own event comments.
+ See and search nearest events from your location.
+ Delete events.
+ Report events.
+ Favourite events.
+Tamemap
+Attendro
+This app will help Entrepreneur to track their employee in a proper way. Entrepreneur
+want to know when the employee came to office and when they leave and who did the
+overtime work and who leave earlier, so this will help to track all this.
+ Time Capture & Approvals
+ Track time for any employee type with our highly configurable and intuitive timesheets.
+Leverage flexible approval workflows that adapt to your business processes to ensure
+accuracy and compliance.
+ Overtime Management
+ Keep overtime costs in check with configurable calculation rules that increase accuracy
+and improve compliance with overtime laws.
+ Absence Management
+ Automate your time off management with self-service time off request capabilities and
+advanced accrual rules and calculations.
+ Real-time Reporting.
+ Enjoy real-time insights with pre-delivered reports that can be customized with filters and
+groupings to get the exact data you need.
+Peek@you
+When we go some new place where we don’t know any people and try to make some
+friends and introduce ourselves but can’t find a way to do it this app will help you to
+make some new friends in new place. All you need to do is join that location chat room
+and have fun.
+ List of chat room to join.
+ Search room over map.
+ Find nearest chat room.
+ Text and video chat.
+ File share.
+ Block request.
+ Private chatting

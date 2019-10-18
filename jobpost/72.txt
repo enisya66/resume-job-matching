@@ -1,0 +1,35 @@
+Projekt-Titel
+SAP Berater / SAP Security Berater (w/m/d)
+Projekt-Rolle
+Berater, Technical Consultant
+Beginn
+02.12.2019
+Dauer
+3 Monate
+Auslastung
+100
+Einsatzort
+München
+Stundensatz
+93 EUR (vom Auftraggeber angepeilter Stundensatz)
+Projekt-Beschreibung
+Ihre Aufgaben: 
+• Einarbeitung in das Produkt- und Lösungsporfolio
+• Implementierung und Customizing der verschiedenen Produktvarianten
+• Integration von SAP® in IT-Security Monitoring-Lösungen
+• Durchführung von Proof-of-Concept Testinstallation und Kundenworkshops
+• Beratung und Support in Kundenprojekten sowie Kundenbetreuung (vor Ort)
+• Use Case Erstellung sowie Ticketbearbeitung
+
+Ihre Qualifikationen: 
+• Erfolgreich abgeschlossenes Studium der Fachrichtung Informatik, Wirtschaftsinformatik oder Mathematik oder eine vergleichbare Ausbildung mit mehrjähriger, relevanter Berufserfahrung
+• Idealerweise SAP®-Allrounder mit mehrjähriger Berufserfahrung als SAP® Solutions/Technology Consultant
+• Sehr gute Kenntnisse in mehreren der Bereiche SAP® Systemadministration, Systemarchitektur und SAP®-Kommunikationstechnologien wie z.B. RFC, Transportmanagement, User Administration, SAP®-Berechtigungen
+• Idealerweise sehr gutes Verständnis der Sicherheitsaspekte in SAP® NW AS ABAP und SAP® HANA
+• Fundierte Projekterfahrungen im Bereich SAP®-Security und damit zusammenhängend SAP®-Basisadministration, SAP® Logs, Rollen-/ Berechtigungskonzept, SAP® GRC und Solution Manager sind von Vorteil
+• Sehr gute Deutsch- & Englischkenntnisse in Wort und Schrift
+• Reisebereitschaft von 30-40%
+Must-Have Skills
+Security Monitoring IT-Security SIEM SAP Basis Admin SAP Basis Administrator SAP Berater SAP Consultant Deutsch fließend Englisch fließend Use Cases Konzepterstellung
+Nice-to-Have Skills
+SAP Security SIEM Consultant

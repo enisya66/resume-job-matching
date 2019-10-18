@@ -1,0 +1,24 @@
+Titel
+Automation Deployment Engineer (m/w/d)
+Beginn
+14.10.2019
+Dauer
+3 Monate
+Einsatzort
+München
+Beschreibung
+The Deployment Automation Engineer will define the customer deployment tools, procedures and processes that better fits the customer products and solution requirements. She/he will be responsible to propose and document the best technologies and resources to be used, their interactions and interfaces in order to put in place DevOps best practices. This is a position for a highly qualified engineer with a proficiency knowledge on deployment automation.
+
+ 
+
+Main Responsibilities:
+
+Interface with all technical teams and understand the end-to-end picture of products, deployment processes and procedures.
+Partition large systems into subsystems or components that can be handled separately.
+Analyze, document and highlight the main constraints and weak points of the current deployment procedures.
+Advice about the set of deployment tools, which are the most adapted for each domain and subsystem(s).
+Propose the DevOps toolchain/automation that enables ECT to implement pragmatic, systematic and standardized implementations following best delivery practices.
+Propose the best way of managing release branches as well as maintaining the build process to support continuous integration.
+Clearly document the proposal and the required steps for ECT to reach a robust, consistent and scalable level of automation.
+Skills
+Master or Bachelor degree in IT or Telecommunications or comparable professional education/experience. Extensive experience in automation of CI/CD tasks using tools such as Ansible and Gradle. Strong background in Java and bash scripting. Proficient in creating fully automated CI/CD infrastructure and processes for multiple environments (DEV, TEST, STAGING and PROD). Very Good knowledge about Release Management, SVN and GIT (or Jenkins) tools. Outstanding documentation skills Excellent verbal and written communications skills in English.

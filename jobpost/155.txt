@@ -1,0 +1,40 @@
+Titel
+Frankfurt: KURZEINSATZ Front End Entwicklung JavaScript bzw Angular POS49479
+Projektanbieter
+Chiffre-Kunde
+Beginn
+14.10.2019
+Einsatzort
+Frankfurt
+Beschreibung
+Frankfurt: KURZEINSATZ Front End Entwicklung JavaScript bzw Angular POS49479 Einsatzort: Frankfurt Front End Entwicklung JavaScript bzw Angular Leistungszeitraum Starttermin: 14.10.2019 Einsatzende: 31.11.2019 Ort: Frankfurt; remote ist nicht möglich Leistungsbeschreibung: Projekteinsatz und Dauer: Zwischen ASAP und Ende November für mindestens 20-30 Tage Rolle (Frontend-) Entwickler * mit Kenntnissen in JavaScript ODER Angular Einfache Anpassungen in der bestehenden Oberfläche wie: JS Mashup WebSeiten mit Qlik Elementen neu aufzubauen
+    Funktionalitäten von Qlik Elementen zu realisieren
+    Menu und Filter aufzubauen
+    Defect Management
+    Bugs der Funktionalitäten und Designe zu fixen
+    Responsive Web Design
+
+ 
+
+Dabei wird der Entwickler * von einem erfahrenen Berater als Backup unterstützt.
+
+ 
+
+Notwendige Skills:
+
+·         Programmiersprachen JavaScript: Fortgeschrittene K.
+
+·         Entwicklungserfahrung im Frontend
+
+ 
+
+Optionale Skills:
+
+·         JavaScript, Mashup, jQuery
+
+·         Webtechnologien
+
+·         Bank-Fachlichkeit
+
+·         Qlik Erfahrung
+

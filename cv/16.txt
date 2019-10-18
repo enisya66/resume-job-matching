@@ -1,0 +1,238 @@
+Softwareentwickler, Architekt, Java, J2EE, EJB, Scala, Play, Wicket, JSF, Spring, Hibernate, MongoDB, Oracle, SQL, JBoss, Weblogic, Scrum, Performance
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.12.2019
+verfügbar zu
+85 %
+davon vor Ort
+90 %
+PLZ-Gebiet, Land
+D8
+Städte
+München
+50 km
+Kontaktwunsch
+Ich möchte ausschließlich für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Bitte nur Großraum München.
+Projekte
+05/2014 - 06/2015
+
+1 Jahr 2 Monate
+
+TARGET2-Securities / T2S
+
+Rolle
+Senior Softwareentwickler
+Kunde
+Deutsche Bundesbank
+Einsatzort
+München
+Projektinhalte
+Entwicklung eines neuen Web-Portals zur Verwaltung und Monitoring der Prozesse von Wertpapierabwicklung in Zentralbankgeld im Rahmen von TARGET2-Securities (T2S) Projekt des Eurosystems. Implementierung von Web GUI, Excel & PDF Exporting; Integration mit Message Broker und IBM DB2 Datenbank. Performance Optimierung auf den JPA / Services und Front-End ebenen.
+Kenntnisse
+Java EJB J2EE CDI JSFPrimeFaces Facelets AJAX JavaScript CSS HTML JQuery JPA JMS TestNG Xerces SAX StAX Unixz/Os Scrum
+Produkte
+IBM WebSphere Application ServerOpen JPA IBM DB2 Message Broker RAD Eclipse DbVisualizer Subversion Jenkins Remedy iText Unixz/Os Selenium
+01/2014 - 12/2014
+
+1 Jahr
+
+Online Auction Trading Platform
+
+05/2013 - 05/2014
+
+1 Jahr 1 Monat
+
+Global Plan Management
+
+01/2013 - 04/2014
+
+1 Jahr 4 Monate
+
+Calendar & Scheduling Service
+
+Branchen
+Versicherungen
+Telekommunikation
+Banking
+Internet
+Finanz E-Commerce Kundenbindungsprogramme (Loyalty Programme)
+Customer Relationship Management (CRM)
+ 
+Kompetenzen
+Betriebssysteme
+Linux
+SUN OS, Solaris
+Ubuntu
+Unix
+Windows
+z/OS
+Datenbanken
+Apache Cassandra
+IBM DB2
+MongoDB
+MySQL
+NoSQL
+Oracle
+PL/SQL
+PostgreSQL
+SQL
+Sprachkenntnisse
+Deutsch
+fließend
+Englisch
+fließend
+Russisch
+Muttersprache
+Ukrainisch
+Muttersprache
+Hardware
+Macintosh
+PC
+Datenkommunikation
+Ethernet
+Internet, Intranet
+Message Queuing
+REST
+RFC
+RPC
+TCP/IP
+Programmiersprachen
+Java
+JavaScript
+PL/SQL
+Ruby
+Scala
+Shellprogrammierung
+SQL
+ 
+Produkte / Standards / Erfahrungen
+Spezialgebiete:
+- J2EE, EJB
+- Spring
+- Hibernate, JPA
+- Wicket
+- JBoss, WebLogic
+- Web Services, REST
+- AOP
+- MDA
+- Oracle PL/SQL
+- NoSQL
+- Scala
+
+
+Praxis in:
+- Software Entwicklung
+- Software Architektur
+- OOA, OOD, OOP
+- Testgetriebene Entwicklung
+- Performance Optimierung
+- Entwicklung von Web Anwendungen
+- Entwicklung von Backend Anwendungen
+- Entwicklung von Web Services
+- Entwickung von Event-orientierten Anwendungen
+- Entwicklung von Anwendungen für Batchdatenverarbeitung
+- MDA
+- SOA
+- Analyse
+
+Technologies:
+- J2EE5, J2EE6, J2EE,7, EJB, JPA, CDI, EJB-QL, ORM, JMS, Web Services, REST, AOP, ETL
+
+Applikationsserver
+- Jboss AS/EAP, BEA WebLogic, GlassFish, IBM WebSphere Application Server
+- Apache Tomcat, JBossWeb
+
+
+Frameworks
+- Spring, Hibernate, OSGi / Equinox
+- Ruby-on-Rails
+- Scala Play
+- Node.Js
+ 
+Test Frameworks und Tools
+- JUnit, TestNG, Mockito, EasyMock, Arquillian
+- Selenium, Molybdenum, JMeter, Selenide
+ 
+WebPortal-Entwicklung
+- Wicket
+- JSF, Richfaces, MyFaces, Facelets
+- Spring MVC, Spring Web Flow
+- Struts, Opensymphony WebWork / XWork
+- abaXX, Apache Cocoon 
+- AJAX, XMLHttpRequest, Servlets, JSP, HTML, CSS
+- jQuery, Bootstrap
+- Apache HTTP Server
+- Selenium, Molybdenum, JMeter, Selenide
+- Scala Play, Node.Js
+   
+Template Engines
+- Velocity, FreeMarker
+
+Web Services und XML
+- Apache CXF
+- Axis, Axis2
+- JAX-RPC, JAX-WS
+- SOAP, WSDL, SAAJ, WS-Security, UDDI, JAXR
+- JAXB, JAXP (SAX, DOM), XMLBeans, Xerces
+- XML, XSL, XSD, XPath
+ 
+RESTful Web Services
+- JAX-RS
+- RESTEasy, Jersey
+- Apache CXF, Spring, 
+- JSON, JSONP, Jackson, Jettison
+- HATEOAS
+
+Methoden und Architekturen
+- Unified Modelling Language (UML)
+- Extreme Programming (XP)
+- Model-driven architecture (MDA)
+- Event-based architecture (EBA)
+- Serviceorientierte Architekturen (SOA) / ESB Konzept
+- Test Driven Development
+- Solid Principles
+
+Architectural Patterns
+- GoF Design Patterns
+- J2EE Design Patterns
+ 
+Content Management
+- Coremedia CMS
+
+CASE-Tools
+- MagicDraw UML, IBM Rational Software Architect, TogetherJ
+
+Entwicklungsumgebungen (IDE)
+- Eclipse, IDEA IntelliJ, NetBeans, IBM Rational Application Developer
+- TOAD, PL/SQL Developer, DbVisualizer
+
+Build-Umgebungen
+- Maven 2.x, 3.x, Ant, SBT
+- Hudson / Jenkins, Cruise Control, LuntBuild
+
+Source-Verwaltungen
+- Git, Gitflow, Subversion, CVS
+- Rational ClearCase, Serena Dimensions, PVCS
+
+Sonstiges
+- Hohe Problemlösungskompetenz, Kreativität, Innovationsfähigkeit, Teamfähigkeit
+- Scrum
+Ausbildungshistorie
+Computer Science an der Nationale Technische Universität der Ukraine
+Zwischendiplom:  Bachelor Informatik
+Abschluss: Diplom Informatik (=Dipl.-Inform. (Univ.))
+
+
+Zertifizierungen:
+-----------------
+* Sun Certified Business Component Developer
+* IBM Certified Solution Developer - Web Services Development for WebSphere Application Server V6.1
+* Sun Certified Developer for Java Web Services
+* IBM Certified SOA Associate
+* Oracle PL/SQL Developer Certified Associate
+* Sun Certified Java Programmer

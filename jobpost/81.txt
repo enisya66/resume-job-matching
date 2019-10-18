@@ -1,0 +1,18 @@
+Projekt-Titel
+SAP FI-CA Beratung
+Projekt-Rolle
+Architekt und Entwickler
+Beginn
+21.10.2019
+Dauer
+6 Monate
+Auslastung
+100
+Einsatzort
+München und Remote
+Projekt-Beschreibung
+Wir sind auf der Suche nach einem erfahrenen FI-CA Berater für ein spannendes Einführungsprojekt im SAP S4-Umfeld. Schwerpunkt ist die Aufbau Architektur und technische Umsetzung von Entwicklungen in einer Multisystemlandschaft (Hauptbuch / Nebenbuch) .
+Must-Have Skills
+- Erfahrener FI-CA Berater - Technischer Berater Multisystemlandschaft (Hauptbuch Nebenbuch)
+Nice-to-Have Skills
+Fiori Anwendungen

@@ -1,0 +1,195 @@
+Java-Entwicklung, DevOps
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+06.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D4D5
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Position
+Kommentar
+Entwicklung und DevOps
+Projekte
+11/2017 - 04/2018
+
+6 Monate
+
+Entwicklung Portfolio Management System
+
+Rolle
+Softwareentwickler, Berater
+Einsatzort
+Aachen, teilweise Remote
+Projektinhalte
+Weiterentwicklung eines Portfolio Management Systems. Vor allem Vorverarbeitung von Orders.  Aufgaben: Konzeptionierung und Implementierung von fachlichen Anforderungen. Fehleranalyse und Fehlerbehebung. Performanceoptimierung.  Unternehmensgröße: > 50  Branche: IT-Dienstleister – Banken
+Kenntnisse
+J2EE Linux Kafka JDBC JPA/Hibernate Scrum SwaggerUI Jackson JAX-RS TestNG
+02/2016 - 10/2017
+
+1 Jahr 9 Monate
+
+Common Reporting System (CRS)
+
+01/2017 - 03/2017
+
+3 Monate
+
+Performance-Analyse (3 einzelne Wochen zwischendurch)
+
+10/2015 - 12/2015
+
+3 Monate
+
+Optimierung von Build und Delivery Prozessen
+
+08/2015 - 10/2015
+
+3 Monate
+
+Diverse kleinere Projekte im Web-Umfeld
+
+11/2011 - 06/2015
+
+3 Jahre 8 Monate
+
+Festanstellung - gilt für alle Projekte in diesem Zeitraum
+
+01/2015 - 02/2015
+
+2 Monate
+
+Konzeption eines Big Data Archivsystems – in Festanstellung
+
+04/2014 - 10/2014
+
+7 Monate
+
+Einführung eines Integration Servers (EAI) während Festanstellung
+
+06/2012 - 03/2014
+
+1 Jahr 10 Monate
+
+Cross Component Monitor (CCM) Prozessmonitor - in Festanstellung
+
+06/2012 - 03/2014
+
+1 Jahr 10 Monate
+
+B2B Marktkommunikation - in Festanstellung
+
+11/2011 - 03/2014
+
+2 Jahre 5 Monate
+
+Weiterentwicklung und Wartung einer Marktkommunikationslösung während Festanstellung
+
+08/2013 - 10/2013
+
+3 Monate
+
+Entwicklung eines ESB für Herstellerprodukte während Festanstellung
+
+01/2012 - 06/2013
+
+1 Jahr 6 Monate
+
+Big Data Management System (BDM) - in Festanstellung
+
+01/2012 - 06/2013
+
+1 Jahr 6 Monate
+
+My Business Smart Energy - in Festanstellung
+
+05/2012 - 05/2012
+
+1 Monat
+
+LDAP Anbindung eines Portals während Festanstellung
+
+11/2010 - 10/2011
+
+1 Jahr
+
+Portalintegration und Erweiterung eines CMS während Festanstellung
+
+Projekthistorie
+ältere Projekte gerne auf Anfrage
+Branchen
+Energiewirtschaft Banken/Finanzwirtschaft
+Kompetenzen
+Programmiersprachen
+Java
+Java EE
+JavaScript
+Perl
+PHP
+Shell
+TeX
+LaTeX
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+gute Kenntnisse
+Datenbanken
+Hazelcast
+JDBC
+MySQL
+Oracle
+PostgreSQL
+SQL
+Datenkommunikation
+TCP/IP
+Betriebssysteme
+Android
+Linux
+Debian, Ubuntu, CentOS, Redhat
+Windows
+Produkte / Standards / Erfahrungen
+ActiveMQ
+Akka
+Android Studio
+Apache Ant
+Apache Camel
+Grundlagen
+Apache CXF
+Apache Directory
+Apache FOP
+Apache HTTP Server
+Apache Lucene
+Apache POI
+Apache Tomcat
+Clean Code
+CSS3
+Eclipse
+Elastic Search
+GSON
+Hibernate
+HTML
+HTML5
+JBoss Application Server
+Grundlagen
+Jenkins
+JPA
+JSON
+LDAP
+Maven
+Scrum
+Spring
+Spring Batch
+Fachliche Kenntnisse: Marktkommunikation, Geschäftsprozesse GPKE  Sonstiges: Debugging/Fehlerbehebung, Performanceoptimierung, DevOps (Build & Deployment), Schulungen/Coaching
+Aus- und Weiterbildung
+10/2004 - 09/2010
+
+6 Jahre
+
+Studium der Informatik

@@ -1,0 +1,204 @@
+BERUFSPRAXIS
+03/2018 -Jetzt           GKV-DVKA - Bonn (Modulo3 GmbH - Kaarst) (Projekt)
+                                     Senior Qualitätssicherungs Ingenieur (Testautomatisierung)
+Aufgaben:              Testobjekte zu definieren, Testfälle für fachliche                                      
+                               Funktionstests aufzustellen und diese durchzuführen.
+
+                               Analyse von Fachanforderungen (Epics, User Stories, 
+                               Prozessmodelle, Datenmodelle)und Ableitung von    
+                               Testszenarien.
+                                    Erstellung von den Testautomatisierungsplan und   
+                                    SkripteTestfällen. 
+                              Systematische Durchführung von GUI-, Funktions-, 
+                              Integrationstests. 
+                              Dokumentation und Bewertung der Testergebnisse.
+
+                              Verbesserung die Prozess in der Projekt.
+Projekt:                        GKV - DVKA EU Project 
+
+
+10/2017 -12/2017                  ATRICS GmbH - Freiburg  (Projekt)
+                                     Senior Qualitätssicherungs Ingenieur (Testautomatisierung)
+Aufgaben:                Analyse von Fachanforderungen und Ableitung von 
+                                 Testszenarien. 
+                                 Erstellung von den Testautomatisierungsplan und  
+                                 SkripteTestfällen . 
+                                 Systematische Durchführung von GUI-, Funktions-, 
+                                  Integrations- und Systemtests. 
+                                 Dokumentation und Bewertung der Testergebnisse.
+                                 Wartung der Testumgebung. 
+
+                                 Verbesserung die Prozess in der Projekt.
+Projekt:                          Abu Dhabi Flughafen Luftverkehrsmanagement  Software
+
+
+
+07/2017 -09/2017           VolksWagen Group - Wolfsburg (Four Energy GmbH) (Projekt)
+                                      Senior Qualitätssicherungs Ingenieur (Testautomatisierung)
+Aufgaben:                Analyse von Fachanforderungen und Ableitung von 
+                                 Testszenarien. 
+                           Erstellung und Dokumentation von Testfällen und Testdaten. 
+                           Systematische Durchführung von GUI-,Funktions-, 
+                           und Integrationstests. 
+                           Testautomatisierung, Smoke und Regression testen von  
+                           Testfällen und Testszenarien unter Verwendung von 
+                           etablierten Testtools.                 
+                           Wartung der Testumgebung.                             
+Projekte:                  VW neu Job Portal website testing
+
+01/2017 - 04/2017           Freiberufler in Softwareentwicklung (Ohne vertrag ) online (Upwork.com -Freelancer) Ägypten
+     Aufgaben:                 Software Entwicklung, Arduino, Android & Matlab Simulink / C/ C++ Embedded systems.
+     Projekte:                  - Arm Robot Arduino Programmierung C++.
+                                     - Waypoint GPS Projekt -Reads GPS outputs distance to LCD (Arduino/C++).
+                                     - Optimierung UI Android Apps für Automotive Glas Firma.
+                                     - Matlab Mathematik kalkulation-Modellierung und Simulation.
+08/2015 -12/2016           Software Quality Systems  SQS GmbH,Kairo/Ägypten
+                                       Qualitätssicherung software Ingenieur
+Aufgaben:                 Analyse von Fachanforderungen und Ableitung von 
+                                 Testszenarien. 
+                                 Erstellung und Dokumentation von Testfällen und Testdaten. 
+                                 Systematische Durchführung von Unit-, Funktions-, 
+                                  Integrations- und Systemtests. 
+                                 Dokumentation und Bewertung der Testergebnisse.
+                                 Testautomatisierung, Smoke und Regression testen von  
+                                 Testfällen und Testszenarien unter Verwendung von 
+                                 etablierten Testtools.                 
+                                  Verbesserung die Prozess in der Projekt.
+Kurse:		
+	          
+                   1-ISTQB-FL bestanden.
+                   2-On-line Kurse:
+       -An Overview of Agile Methodologies
+       -Lean and Six Sigma
+       -Project Management Essentials
+       -Value Stream Maps for Non-manufacturing Processes
+       -Five Steps to Perfection: Implementing Lean
+       -Kaizen Events
+       -Six Sigma Management and Planning Tools
+       -Root cause analysis and waste elimination in Six Sigma
+                  
+
+08/2014 -07/2015           	High Tech. For Projects GmbH, Kairo /Ägypten
+
+Projektemanager für Elektrotechnik und Erneuerbare Energien
+Aufgaben:                         	Entwurf und Implementierung für Photovoltaikanlagen.
+                                            Projektsteuerung ,Eigenverantwortliche Projektierung.
+                                            Planung und Ausschreibung elektrotechnischer Anlagen.
+                                            Koordination aller Projektbeteiligten.
+                                            Vorbereitung und  Durchführung von Projekt-
+                                            besprechungen Dokumentation und Berichtswesen.
+                                            Überwachen, Anpassen und Aktualisieren des Berichts
+                                            zur Risikobewertung.
+
+01/2014 - 08/2014               American University in Cairo(AUC), Kairo/Ägypten
+                                            Wissenschaftlicher Mitarbeiter (Fellowship)
+Aufgaben:                        	Projekt: Design Simulation and Implementation of Photovoltaic system.
+
+10/2010 - 11/2012       	UFAR GmbH,Siegen/Deutschland
+                                             Produktionsingenieur (Studentjob)
+Aufgaben:	Praktische Erfahrung bei Stahl und Automotive Werken.
+                                            GuteErfahrung in Stahlblech-Prozess (Elektro und Gas Schweißen – Schneiden –Lochen – Rollend –und Robotanlagen).
+	Schweißen-Qualitätsprüfer.
+
+
+
+02/2009 – 09/2009	Trio-Akmy Gruppe Kairo/Ägypten
+                                            Projektemanager für Elektrotechnik
+
+Aufgaben:                           Vorbereitung und Prüfung von Angeboten und 
+                                            Ausschreibungen.
+                                            Erstellen von Voranschlägen, Anträgen und Zeitplänen
+                                           für die Projektartikel.
+                                           Verhandeln mit Verkäufern und Zulieferern überPreise
+                                           der Materialien.
+
+Projekten: 	 Nile Universität in 6th OctoberStadt.
+                                               Technologie Zentrum in MaadiStadt
+
+
+
+
+01/2007- 01/2009          SAAD Gruppe , Al-khobar/Saudi Arabien
+
+                                     Ingenieur für Projektmanagmenet und Qualitätssicherung
+
+Aufgaben:                       Projektsteuerung ,Eigenverantwortliche Projektierung.
+                                       Planung und Ausschreibung elektrotechnischer Anlagen.
+                                        Koordination aller Projektbeteiligten.
+                                        Vorbereitung und  Durchführung von Projektbesprechungen
+                                        Dokumentation und Berichtswesen.
+                                       Überwachen, Anpassen und Aktualisieren des Berichts zur
+                                       Risikobewertung.
+                                       Sicherstellen, dass alle Inspektionen und Prüfungen
+                                      aufgezeichnet sind Einhaltung aller gültigen Gesundheits-und
+                                       Sicherheitsumgebungen Anweisungen.
+                                       Sicherstellung der ordnungsgemäßen Wartung, Kalibrierung
+                                       und Betrieb aller Geräte und Aufzeichnungen. 
+                                       Audit und Überprüfen der Materialanlieferung, Lagerung und
+                                       Entsorgung. 
+                                       Sicherstellung der Erreichung von Projektzielen unter
+                                       Einhaltung von Budget, Terminen und Qualität.                                       
+
+Projekten:
+                                       Ma'aden Industriebauten mit Kraftwerk und Nebenanlagen in 
+                                       Ras  AZ Zawr (Worley Parsons).
+                                       Saad Industrieanlagen - Oasis Villen Kampus.
+                                       Zentrum der Onkologie - 40MW Diesel Energie Kraftwerk
+
+
+
+
+
+06/2006-12/2006            Al-Banna GmbH, Kairo/ Ägypten
+
+                                       Projektingenieur
+
+Aufgaben:                      Vorbereitung und Prüfung von Angeboten und
+                                       Ausschreibungen.
+                                       Erstellen von Voranschlägen, Anträgen und Zeitplänen für
+                                        die Projektartikeln.
+                                       Verhandeln mit Verkäufern und Zulieferern über Preise der
+                                       Materialien.
+Projekten:                       Kultur-Zentrum in Luxor stadt-Wohngebäude in Marsa
+                                       Alamstadt.
+
+STUDIUM
+Seit  05/2015                  Anerkennung Mein ausländischer Bildungsnachweise als
+                                       Deutsch Ingenieur. Bezirksregierung Arnsberg-NRW.
+
+10/2009 – 10/2013         Masterabschluss in Mechatronik, Universität Siegen.(Nicht beendet)
+
+                                        Thema: Image Processing (Tracking Colored Object in
+                                        Real Time using Flying Robot Camera). 
+
+10/2001- 05/2006            Bachelorabschluss in Elektrotechnik , AL-Azhar Universität.
+                                        Thema : Voltage and Reactive Power Control in
+                                        interconnected Power systems using neural networks.                               
+
+Weiterbildung
+
+
+
+08/2015 –08/2015               ISTQB-FL Kurs  bei SQS GmbH
+10/2011-10/2012                 Projekte Management (PMP)  Kurse in Uni Siegen
+
+10/2007 – 10/2007              Six Sigma Improvement Program, American Universität in Kairo
+11/2007 – 11/2007              Planning of maintenance operations, American 
+                                            Universität in Kairo
+08/2005 – 09/2005              Microcontroller (Atmel) , Kairo Universität
+
+
+IT- und Sprachkenntnisse
+
+IT	
+Programmiersprache: C/C ++ HW& SW und Assembly, QT, XML , UML, Java, Python, Android, Arduino ,VHDL,Visual Basic.
+Software testen: ISTQB-FL, HP ALM ,HP UFT ,Tosca, SQL, Selenium, Ranorex, SAP TAO, Jmeter, Squish, Jira, VB script, Mantis , Polarian.
+Embedded Systems: Mikroprozessor- Mikrokontroller Atmel - FPGA  Xillinx -JTAG- Debugger.
+Operating System: windows, Linux Ubuntu- Centos 7 - Suse ,Android.
+Design: MATLAB, SIMULINK, Eagle Board ,Design Spark, Dialux ,Inventor,Solid works ,AutoCAD 2D,3D , CATIA v5.
+Projektleitungs-tools: Microsoft Office  (Word, Excel, PowerPoint, Access), Primavera P6, MS-Project,  SAP R/3.
+
+Sprachen
+Deutsch (B1), Englisch (C2), Arabisch (Muttersprache) und Spanisch (A1)
+Freizeit
+Reisen -Laufen -Schwimmen -Fallschirmspringen -Frei tauchen- Lesen.

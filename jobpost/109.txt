@@ -1,0 +1,22 @@
+Projekt-Titel
+WebPortal "Flugzeugbetankung" / Fahrzeug GPS-Map
+Projekt-Rolle
+Entwickler
+Beginn
+01.11.2019
+Dauer
+mittel
+Auslastung
+50
+Einsatzort
+Hamburg oder Wiesbaden
+Projekt-Beschreibung
+Auf Basis von GPS-Informationen, die für Betankungsfahrzeuge zunächst eines deutschen Flughafens verfügbar sind, soll die Position dieser Fahrzeuge auf einer sogenannten Airport-Map mit einem geeigneten Tool visualisiert werden. 
+
+Die Visualisierung soll in ein bestehendes Projekt unter Angular/node.js eingebunden werden. 
+
+Eine Umsetzung kann je nach möglicher Auslastung erfolgen.
+Must-Have Skills
+Node.js angular
+Nice-to-Have Skills
+Mongo-Database

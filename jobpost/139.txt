@@ -1,0 +1,29 @@
+Titel
+Manager Digitale Transformation (m/w/d)
+Beginn
+01.11.2019
+Einsatzort
+Hamburg
+Ihre Aufgaben
+Du übernimmst die Projektleitung, inkl. Budgetverantwortung für die Umsetzung und Einführung einer neuen Applikationslandschaft zur Lösung komplexer und automatisierter Business-Prozesse für eine der Tochterfirmen
+In enger Zusammenarbeit mit dem Fachbereich und der IT-Entwicklung analysierst Du die Geschäftsprozesse und Anforderungen, entwickelst Lösungen und leitest daraus Implikationen für die IT ab
+Wesentlich ist auch die Neu-Organisation der Datenbankstruktur, die Einführung von Data Governance sowie die Erstellung eines Migrationsplans zur schrittweisen Ablösung der alten Systeme
+Als Projektverantwortlicher bist Du für die Steuerung und Motivation des Teams, die Koordinierung der Programmierung in einem agilen Umfeld sowie für die Kommunikation mit Stakeholdern und Sponsoren des Projekts verantwortlich
+Die Vorbereitung und Begleitung von Auswahlprozessen für externe System-Anbieter und Entwicklungshäuser gehören ebenfalls zu Deinen Aufgaben
+Ihr Profil
+Folgendes solltest Du unbedingt mitbringen:
+
+Du bringst mehrjährige Berufserfahrung in den Bereichen agiles Projektmanagement, Applikationsentwicklung, Digitalisierung und Automatisierung mit
+Du verfügst über ein abgeschlossenes Studium im Bereich Wirtschaftsinformatik o.ä. und kannst Dich für die neuesten Technologien begeistern
+Analytische Fähigkeiten, ein hohes Verständnis für Business-Logiken sowie Erfahrung in der Prozessberatung und im Einsatz von SCRUM zeichnen Dich aus
+Als eine erfahrene Persönlichkeit (m/w/d) mit einer guten Portion Selbstsicherheit fällt es Dir leicht, große Meetings zu moderieren und auch bei Interessenskonflikten als neutraler Außenstehender die richtigen Worte zu finden, um diese zu klären
+Folgendes wäre wünschenswert:
+
+Fundierte Kenntnisse in .NET, C# und Angular
+Erfahrung in der Einführung von MS Dynamics NAV 
+Wir bieten außerdem
+Es erwartet Dich ein modernes, offenes und kommunikatives Arbeitsumfeld
+Außerdem moderne und zentral gelegene Büroräume mit Blick auf die Elbe
+Die Teilnahme an verschiedenen Seminaren, wie Persönlichkeits-, Führungskräfte- oder Kompetenzschulungen
+Die Möglichkeit des persönlichen und individuellen Coachings
+Ein dynamisches Team 

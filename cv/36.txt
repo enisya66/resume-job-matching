@@ -1,0 +1,596 @@
+Senior-Entwickler f. CORBA,EJB,JEE,ABAPOO,BW 7.5 /BI HANA,PAK,S/4 HANA,CPI,C4C,BCS,BPC,IS-U,PI,CO,MM,APO,IBP,CRM,SRM ,PP,Sucess factors,HCM,Salesforce
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+16.10.2019
+verfügbar zu
+100 %
+davon vor Ort
+80 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9ÖsterreichSchweizEinsatzort unbestimmt
+Kommentar
+Keine unseriösen Projektanbieter. Keine Stalkinganrufe.
+keine Firmen die ihre Rechnungen vorsätzlich nicht bezahlen 
+Kein REDCOMMERCE
+Nie wieder BearingPoint !!!
+ SCHULUNGEN : 2 Vorbereitungsstunden für eine Unterrichtsstunde  KEINE FRAGEN und ANTWORTSPIELCHEN für Firmen die gerne das Neuste wissen wollen aber kein GELD haben.    Einsatz auch in den Niederlanden, Belgien, Frankreich, Italien ,Dänemark, Luxemburg, Liechtenstein
+Projekte
+10/2019 - Heute
+
+HCM Personalabrechnung / Personalprognose Fiori / OData 4.0 App
+
+Rolle
+Technische Entwicklung
+Kunde
+Textilindustrie
+Einsatzort
+Nordbayern
+Projektinhalte
+Entwicklung einer neuen MSS Fiori App die das Gehalt von Mitarbeitern  ggf. in Abhängigkeit von Lohnarten der letzten 5 Jahre aufschlüsselt und entscheidungsunterstützende  Daten/ Prognose für Zukunftige Gehaltsverhandlungen /Jahresgespräche dem Managment zur Verfügung stellt.
+Kenntnisse
+SAP FioriODATA 4.0CDS Views00-ABAPTablefunctions für HANA CDS ViewsHCM
+Produkte
+HCM on HANAPersonalabrechnung / PYHCM Zeitwirtschaft
+01/2019 - Heute
+
+9 Monate
+
+RTL Mediengruppe : Upgrade BW7.4 auf BW/4HANA 2.0 BPC 11 + SAP Analytics Cloud
+
+08/2019 - 10/2019
+
+3 Monate
+
+HCM Workflow mitt Fiori Frontend f. FIDUCIA
+
+05/2019 - 08/2019
+
+4 Monate
+
+Tom Tailor Hamburg Schnittstellenprogrammierung zu RE-FX von Bonita
+
+11/2018 - 02/2019
+
+4 Monate
+
+Ablösung SAP HCM E-Recruiting /Talentmanagement durch Successfactors . Talentsourcing mit BPC 11
+
+10/2018 - 12/2018
+
+3 Monate
+
+Zürich : Erfassung und Abrechnung von Zeiten externer Mitarbeiter in S/4 HANA Finance
+
+09/2018 - 10/2018
+
+2 Monate
+
+VW Vorserie Entwicklung Matrix Stücklistencockpit
+
+04/2018 - 09/2018
+
+6 Monate
+
+SAPUI5 Entwicklung für SAP EH&S HCI MM PUR Chemische Industrie
+
+02/2018 - 05/2018
+
+4 Monate
+
+Einführung E-Recruiting / HCM-Personalentwicklung/TM on HANA
+
+12/2017 - 02/2018
+
+3 Monate
+
+Finanzministerium Rheinland-Pfalz : Einführung neue SAP Zeitwirtschaft
+
+09/2017 - 01/2018
+
+5 Monate
+
+RWE Power-BauIS Integration in SAP S/4 HANA PM/EAM , SAP RE-FX und ARIBA, Bau Planung auf aDSO mit SAP PCI
+
+09/2017 - 12/2017
+
+4 Monate
+
+RWE Power Lagerhaltungs-Übersicht mit SAPUI5 + HANA Information Views embedded EWM
+
+07/2017 - 12/2017
+
+6 Monate
+
+SAP IS-Retail Einführung, Vorbereitung Go-LIve
+
+03/2017 - 07/2017
+
+5 Monate
+
+Shared Service Center (EIC) Weiterentwicklung, HCM Processes and Forms, Travel Management
+
+03/2017 - 07/2017
+
+5 Monate
+
+SAP Hybris -Anbindung an S/4 HANA
+
+01/2017 - 06/2017
+
+6 Monate
+
+Uniklinik Basel: SAP BPC 10.1 embedded für IS-H on HANA
+
+12/2016 - 02/2017
+
+3 Monate
+
+Entwicklung einer Compliance DB on SAP HANA, CortexDB, JAVA App
+
+07/2016 - 01/2017
+
+7 Monate
+
+KUKA Augsburg Projekt PowerOn_ITT- S/4 HANA-Einführung
+
+10/2016 - 12/2016
+
+3 Monate
+
+SAP EAM Anbindung mit Fiori
+
+08/2016 - 10/2016
+
+3 Monate
+
+BMW Group, Performance-Optimierung der PSDM-Plattform
+
+04/2016 - 07/2016
+
+4 Monate
+
+EON Essen : SAP BPC Weiterentwicklung
+
+03/2016 - 06/2016
+
+4 Monate
+
+DANSK Supermarket/ Mearsk : SAP PMR 8.1 on HANA / SAP IS-Retail
+
+01/2016 - 03/2016
+
+3 Monate
+
+Upgrade APO 7.3 on HANA ,SAP IBP, S/4 HANA, UI5
+
+09/2015 - 01/2016
+
+5 Monate
+
+SAP SOLUTIONMANAGER Synchronisation mit CA-System
+
+10/2015 - 12/2015
+
+3 Monate
+
+OSRAM Integrierte Planung ( PAK )BW on Hana (SAP IBP), Performanceoptimierung
+
+08/2015 - 11/2015
+
+4 Monate
+
+Finanz und Wirtschaftsministerium Baden_Württemberg Erstellung des Förderprogrammes FöBIs mit SAP CRM GRANTOR.
+
+07/2015 - 09/2015
+
+3 Monate
+
+Solutionmanager TestCockpit Programmierung in WebUI
+
+04/2015 - 06/2015
+
+3 Monate
+
+SAP BPC 10.0 on HANA Opportunity Planung, Integration in Cloud for Sales
+
+02/2015 - 04/2015
+
+3 Monate
+
+POST AG Wien ,BW on HANA PAK Projekt
+
+02/2015 - 04/2015
+
+3 Monate
+
+HENKEL APO Rollout Nordamerika
+
+11/2014 - 03/2015
+
+5 Monate
+
+SAP BPC10.1 on HANA, Analyse Wechselkursschwankung für SRM 7.02 / SAP SLC
+
+07/2014 - 01/2015
+
+7 Monate
+
+SAP Solutionmanager 7.1 SP 12 Programmierung für BearingPoint bei Schenker AG
+
+
+Kompetenzen
+Programmiersprachen
+00-ABAP
+ABAP
+ABAP OO
+ABAP WebDynpro
+ABAP-OO
+ABAP4
+ABAP Objects, RFC, BAPIs, JCo, Sperr-Objekte, NetWeaver7.1(ABAP/Java), Funktions-Bausteine,PI 7.1, XI/PI-Programmierung, ST,USER-EXITs,Customer-EXITs,BAdI,BI7.4-IP (PAK),WebDynpro for ABAP/Java,BSP,CAF,WEBUI, AET,UI5,ABSL
+ABAPOO
+Ada
+Ada 83/95/2005 Proceduren,Packages,Tasks, Concurrent Programming
+C
+VxWorks/Tornado2.0,RTEMS-4.x (Real-Time -Embedded..), POSIX,
+C#
+C++
+GoF-Patterns, POSA2-Patterns,POSA1-Patterns,POSIX,RTCORBA,AV-Streaming,C#,
+Cobol
+für CICS Transactionsserver 1.3
+CORBA IDL
+ACE/TAO/CIAO, JacORB2x, Visibroker 3.x,4.x, IBM CICS-Server
+Floorplan
+Graphical modeled views
+HANA-Script
+HANA-SQL
+Java
+J2EE, EJB2.1,EJB3.0,EI-Patterns, Core J2EE Patterns,Core J2EE Security-Patterns,SOA ,JAX-R/B/P/RPC, JCo, Cocoon 1.8/2.x, XML, SVG,UDDI,WSDL,SOAP...Appserver: WebSphere :3.5, 4.0,5.x, 6.x ,BEA: 5.1,6.1 JBoss 2.4,3.2.1,4.0.2, SUN Appserver Nr.8, 9, Ajax
+JavaScript
+J2EE, EJB2.1,EJB3.0,EI-Patterns, Core J2EE Patterns,Core J2EE Security-Patterns,SOA ,JAX-R/B/P/RPC, JCo, Cocoon 1.8/2.x, XML, SVG,UDDI,WSDL,SOAP...Appserver: WebSphere :3.5, 4.0,5.x, 6.x ,BEA: 5.1,6.1 JBoss 2.4,3.2.1,4.0.2, SUN Appserver Nr.8, 9, Ajax
+jQuery
+JSON
+Lotus Notes Script
+MATLAB / Simulink
+Pascal
+TurboPascal, ObjectPascal
+Perl
+CGI, Systemprogammierung (SNMP), Netwerprogrammierung
+PHP
+PL/SQL
+DATAWAREHOUSE, AQ, Replikation, alle Built-Ins !
+PRISM
+Qt
+Version 2.4 / 3.X
+SAP HCM on Hana
+SAP S/4 HANA ; SAPUI5; SAP Gateway Builder
+Shell
+SQL-Script Proceduren in "R"
+WebDynpro-ABAP
+J2EE:
+Core J2EE Patterns für JSP/Servlets/EJB/WebServices, Grid Services
+ 
+(GridComputing: GLOBUS)
+SOA Service Orientierte Softwarearchitektur mit EI-Patterns.
+
+Anbindung und Verwendung von Crystal Reports XI und Business Objects XI
+Betriebssysteme
+HPUX
+MS-DOS
+MVS, OS/390
+OS/400
+RTOS (Real Time OS)
+DRE Programmierung mit ACE/TAO/CIAO und RTEMS-4.x
+SUN OS, Solaris
+Solaris 8/9/10
+Unix
+SINIX, Linux,HP-UNIX
+VxWorks
+mit Tornado 2.0 :Multitasking, SemaphoreControl,Message Queues,Task Scheduling etc. mit Motorola
+Windows
+Windows CE
+Datenbanken
+Access
+Adabas
+BW on HANA
+CortexDB
+CortexDB
+DAO
+DB2
+Packages/Proceduren/Funktionen(UDFs)/Cursor/Trigger für OLTP / DATAWAREHOUSE (u.a.
+Graphical modeled views
+Hana-Studio
+HCM on HANA
+JDBC
+JTA,DTO, Entity-EJB(BMP/CMP), DAO, JDBC 3.0, 4.0
+Lotus Notes
+Domino Server 5.5, 6.0/Java u. CORBA
+MS SQL Server
+OLTP, DATAWAREHOUSE(OLAP)-Programmierung,Trigger,Views etc
+MySQL
+ODBC
+Oracle
+DATAWAREHOUSE,OLAP,Star-Transformation,CUBE,Dimensions,Grouping sets, ROLAP/MOLAP /HOLAP(in OFA 11) , 8i, 9i,Materialized-Views/Snapshots,Bitmap-Indexe(-join indexe),B-Tree,Views,Triggers,Cursor,DBMS_AQ ,DATA-MINING,Parallel-prog.,Dist.-Replikation
+Paradox
+Postgres
+S/4 HANA
+SQL
+SQL-Script
+Sybase
+Oracle MOM- programmierung mit AQ
+Verteilte Datenbanken incl. distr. REPLIKATION
+ABAP Objects Programmierung zur Erweiterung von SAP Systemen mit Legacysystemen  Integrierung und mögliche Integrierung eines ORACLE DATAWAREHOUSES.Verwendung der Altmodule MM,PP,PM,FI,CO sowie BW, SEM-BPS.
+Testsoftwareerstellung mit PL-SQL zur umfangreichen Überprüfung der Transaktionssteuerung (Ein-Phasen/Zwei-Phasen-Commit)der einzelnen SAP-Module und deren potentiellen Datenverlustes bei Ein-Phasen-Commit.
+ABAP-Objects/Java- Programmierung mit Netweaver 7.x
+Sprachkenntnisse
+Deutsch
+Englisch
+Französisch
+Italienisch
+Hardware
+AS/400
+Bus
+PCI,I2C,ADFX,VME, MOST,CAN(CCP,XCP),K-Line, LIN,FlexRay, SAE J1850
+Digitale Signalprozessoren
+Echtzeitsysteme
+VxWorks,RTEMS, POSIX,RTCORBA,
+embedded Systeme
+VxWorks,RTEMS
+HP
+IBM Großrechner
+Mikrocontroller
+Motorola
+Sensoren
+Siemens Großrechner
+SUN
+Datenkommunikation
+ATM
+Bus
+VME, MOST,CAN(CCP,XCP),K-Line, LIN,FlexRay, SAE J1850
+CICS
+Transaktionsserver 1.3, COBOL und CORBA
+CORBA
+ACE/TAO/CIAO, Visibroker, JacORB, Oracle Enterprise Server(8.1.6 ee),MICO
+Ethernet
+Internet, Intranet
+LAN, LAN Manager
+Message Queuing
+JMS, DBMS_AQ, C++(TAO-CORBA Event/Notification-Framework), MSMQ mit C#
+parallele Schnittstelle
+RFC
+Router
+RPC
+SAP HANA SP10, CRM 7.03, BPC 10.0,Hana Studio,
+SNMP
+TCP/IP
+Windows Netzwerk
+PVM (Parallel Virtual Machine)-Programmierung in C++ für SPMD/MPMD
+GLOBUS 3.x/4.x Grid
+OSCI, XML-Security
+Produkte / Standards / Erfahrungen
+Ab 2016 Solutionmanager 7.2 on HANA
+Ab Januar 2016 Solutionmanager 7.2 on HANA
+ABAB OO
+ABAP00, IDT, WEB Dynpro , Floorplanmanager,POWL
+aDSO
+Analysis for Office
+Apex
+Apex / Sales Force
+APO EHP 3
+BADIs
+BO
+BPC 11
+BPC 11
+BPC Data Manager , PAD (Prof. authored Dashboards)
+BPC- Consolidierung
+BW 7.4 on HANA
+BW 7.5 on Hana
+BW/4HANA
+BW/4HANA
+BW7.4,LSA++ (persistente Kennzahlen in HANA), SAP BPC PAK
+C4C
+C4C
+Calculated Views
+Calculation view
+CDS View
+CDS Views
+CDS- Views
+Cloud 4 Customer
+CompositProvider
+E-Recruiting
+EC API
+Eclipse EMF/GMF
+EIC
+embedded EWM
+eQuest
+eQuest
+ERP EHP 7
+ESS
+FioriApps
+Floorplan Manager
+Floorplanmanager
+FPM
+Gateway Services
+HANA
+Hana Modeller
+HANA S/4
+HANA S/4
+Hana Script Proceduren
+HANA Studio, HANA Modeler, BW7.4 on HANA
+Hana-Script Proceduren
+HCM
+HCM Cost Planning
+HCM Processes and Forms
+HCM Zeitwirtschaft
+HCM-ESS
+HCM-MSS
+HCM-Zeitwirtschaft
+Hybris Sales Cloud
+Hybris Sales Cloud
+Hybris Service Cloud
+Integration Core Hybrid SuccessFactors
+IS-H on Hana
+IS-H on Hana
+IS-RETAIL
+LSO
+Lumira 2.0
+MDD/MDSD
+mit OpenArchitecturWare_4.1
+Merhfachaproval
+MSS
+ODATA
+ODATA 4.0
+OData for SAP
+ODATA SERVICES
+OdataServices
+PA
+PAK, HANA Script, neue Planungsfunktiontypen
+PAK- Planungsfunktionen
+Personalabrechnung / PY
+Personalentwicklung
+Planning Applications Kit ( PAK ), AMDP .
+POWL
+POWL
+Prepared Statments (HANA Script )
+PSDM
+PT
+PY
+RE-FX Immobilien
+S/4 HANA Finance.
+S/4 HANA Finance.
+S/4 HANA SAP APO 7.x
+S/4HANA on Premise 1611
+S/4HANA on Promise 1611
+SA SRM
+Salesforce-CRM
+SAP Analytics Cloud
+SAP Analytics Cloud
+SAP ADP
+SAP APO CIF-Schnittstelle
+SAP Ariba
+SAP BPC
+SAP BPC 10.0
+SAP BPC 10.1 EMP 10 SP16, SAP HANA SP7, SAP SRM7.02 /SAP SLC
+SAP BPC 10.x
+SAP BPC 10.x embedded
+SAP BPC 11
+SAP BW 7.5
+SAP BW/4HANA
+SAP CAR 2.0
+SAP Cloud Application Studio
+SAP CPI
+SAP EAM
+SAP EH&amp;S
+SAP EHS
+SAP Employee Center ( EC = HR/HCM on Hana )
+SAP eRecruiting
+SAP ES&H
+SAP F&R
+SAP FIORI
+SAP Fiori 2.0
+SAP Floorplan-Manager
+SAP Gateway Builder
+SAP Gatewaybuilder
+SAP HANA
+SAP HANA Cloud for planning, Cloud for sales /customer
+SAP HANA, FOX-Formeln, PAK, SQL-Script
+SAP HCI
+SAP HCM
+SAP HCM 2.0
+SAP HCM on HANA
+SAP Hybris
+SAP Hybris 6
+SAP Hybris 6
+SAP Hybris Billing
+SAP Hybris Omnichannel-Commerce
+SAP IBP
+APO-DP und APO-Supplyplaning
+SAP iPPE
+SAP IS-R
+SAP IS-Retail
+SAP Lumira 2.0
+SAP MM
+SAP PEP
+SAP PM
+SAP PMR
+SAP PMR on HANA
+SAP F&R-Schnittstellen,PIPE, DMF,DDF Projekt Handelsunternehmen nicht in Projektliste enthalten
+SAP Predictive Analysis(PAL),SAP Solution Explorer,/ValueMapping
+SAP PSM
+SAP PUR
+SAP RE/FX
+SAP Real Estate
+SAP S/4HANA
+SAP S/4HANA; SAPUI5; SapGatewayBuilder
+SAP SD
+SAP SD,Data Manager,
+SAP SEM-BCS
+SAP SLT
+SAP SRM
+SAP SSF
+SAP SSF
+SAP SuccessFactors
+SAP SuccessFactors.. HCM
+SAP Talent Management
+SAP UI5
+SAP WebDynpro
+SAP WM
+SAP Workflow entwicklung
+SAP Zeitwirtschaft
+SAPUI5
+Service-Engagement-Center
+SLT Server
+Solman 7.1 SP12/ 7.2, BW7.4, WebUi Programmierung
+Solutionmanager 7.1 sp12
+Solutionmanager, CA
+SuccessFactors BizX
+SuccessFactors BizX
+Tablefunctions für HANA CDS Views
+Unified Planning ( wie BW7.4 Integrierte Planung aber auf HANA)
+VRM
+Web-Dynpro for HCM
+Web-IDE
+WebClient für CRM 7.x
+Webdynro
+WebService
+WebUI
+Workflow
+Workflowrogrammierung
+XML-Views
+Design / Entwicklung / Konstruktion
+AutoCAD
+Cordova
+SAPUI5
+EAI - Patterns
+EVDRE
+FIORI
+HANA STUDIO
+HANA-Modeller
+HanaStudio/Modeler
+PCI
+Cloud Integration mit Apache Camel
+SAP SLT
+WebIDe
+Berechnung / Simulation / Versuch / Validierung
+DNS (Direkte Numerische Simulation)
+Schwerpunkte
+HCI
+HANA Cloud Integration
+Personalantwicklung
+SAP BW on HANA
+SAP CRM 7.03
+SAP HCM ESS/MSS
+SAP Hybris
+SAP S/4 HANA
+1711
+Ausbildungshistorie
+Milchwissenschaft TU/Weihenstephan; Dipl.-Wirtschaftsing.(FH)
+Internet -Applikations-Entwickler (Siemens)
+Sun Certfied Enterprise Architect (Teil1)
+  04/2007:
+Zwei Fortbildungstage in Zürich (IBM) und einwöchiger Intensiv-Kurs in IBM-Development-Laboratories Böblingen(interner IBM Kurs) zu IBM OMNIFIND 8.4 /IBM WebSphere + CONTENT INFORMATION INTEGRATOR 8.3 .
+  2006:
+Teilnahme OOP-Konferenz (MDSD)
+  05/2006:
+Workshop "MDD -modellgetriebene Software-Entwicklung" M.Voelter

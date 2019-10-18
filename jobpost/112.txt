@@ -1,0 +1,23 @@
+Titel
+Mobile Entwickler (w/m/d) Ionic
+Beginn
+01.11.2019
+Dauer
+1 Monat
+Einsatzort
+Zürich
+Beschreibung
+Es geht um eine App, die es ermöglicht mobile Bildaufnahmen direkt und sicher in eine Datenbank zu transferieren und somit nahtlos weiterzuverarbeiten.
+
+ 
+
+Weiterentwicklung dieser Mobil-Lösung
+Einbindung der Offline Fähigkeit
+ 
+
+Remote-Anteile möglich
+
+Auslastung ist zwischen 60-100% denkbar
+
+Skills
+Erfahrung in der Software-Entwicklung unter iOS mittels Swift, Objective C; Android Kenntnisse von Vorteil Ionic 3 Angular

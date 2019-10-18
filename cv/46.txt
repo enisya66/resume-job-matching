@@ -1,0 +1,97 @@
+Looking-for
+Vacancy	QA senior,  Junior Automation Tester
+
+Education
+National mining university (NMU), 2006-2011
+Department of Geographic Information Systems, M. Sc. Honours Degree in Computer Science
+Ukraine, Dnepropetrovsk
+
+Professional Skills
+Operation systems	Windows XP/7,10, Ubuntu
+RDBMS	SQL Server 2005, MySQL
+Programming Languages	Java (Selenium)
+Development Tools	Intellij IDEA
+Testing Tools	Selenium, TestComplete, Lettuce, browsermob-proxy
+Methodology.	Agile/SCRUM, Kanban, waterflow
+
+Experience
+
+Company: Unicorn Ltd.
+Position	:	Manager 
+Start time	:	June  2011
+End time	:	February 2012
+Responsibilities
+•	Experience in system testing
+•	Experience in technical customer service
+•	Knowledge of websites content analysis
+•	Creation of online advertising
+
+Company	:	Aukro Ukraine Ltd., Allegro Group
+Position	:	Quality Assurance Engineer
+Start time	:	February 2012
+End time	:	December 2012
+Responsibilities
+•	Software Quality Assurance
+•	Experience in functional testing WEB- and desktop applications
+•	Experience in regression testing
+•	Writing test cases and test scripts
+•	The preparation of the coverage matrix 
+•	Finding bugs and reporting issues in Jira.
+
+	Company	:	The Commercial bank PrivatBank 
+Position	:	Quality Assurance Automation Engineer
+Start time	:	December 2012
+End time	:	February 2014 
+
+Responsibilities
+•	Experience in functional testing WEB- and mobile appliacations
+•	Experience in regression testing
+•	Writing test plan, test cases and test scripts (for manual testing)
+•	Finding bugs and reporting issues in Redmine.
+•	Compilation of scripts for automated testing of WEB applications (Selenium, Python, Lettuce – front-end, Lettuce (BDD), Python - back-end)
+		
+
+Company	:	Luxoft Ukraine
+Position	:	Quality Assurance Engineer
+Start time	:	February 2014
+End time	:	August 2014
+
+Responsibilities
+•	Software Quality Assurance
+•	Knowledge transfer:
+Studying requirements
+Acquaintance with test cases and test sets in ALM
+Clarify the nuances of working with the team to transfer the project
+•	Writing test cases and test scripts (for manual testing)
+•	Experience in functional, regression testing
+•	Work with database, writing SQL scripts
+
+
+Company	:	Ciklum
+Position	:	Quality Assurance Engineer
+Start time	:	September 2014
+End time	:	Till now
+
+Responsibilities
+•	Software Quality Assurance
+•	Writing test documentation, technical documentation
+•	Experience in functional, regression testing of WEB and desktop applications, FLASH, media application
+•	Work with Jira
+•	Automation testing (Java, Selenium) – learning, writing, support test cases in already working project.
+
+
+Courses
+Exigen Services testing school (October – November 2011)
+Agile Talent Network, QA automation (Oktober 2012)
+Certifications
+Certificate Junior Test Engineer, issued by Exigen Services (2011)
+Certificate Junior Automation Test Engineer, issued by Agile Talent Network (2012)
+
+Language skills
+English – Upper-Intermediate
+German -- average level
+Russian – native
+Ukrainian – native
+
+Personal Skills
+Analytical mind, punctual, responsible, sociable, easy mastering of new material, have interest of IT sphere, want to realize and improve my java skills. 

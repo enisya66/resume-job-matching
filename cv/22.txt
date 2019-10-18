@@ -1,0 +1,142 @@
+Softwareentwickler (Java, JEE, XML, Swing)2
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D2D3D5D6D7D8D9
+Städte
+Hannover
+200 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Bevorzugt Raum Hannover
+Position
+Projekte
+01/2019 - Heute
+
+9 Monate
+
+Anpassung & Erweiterung eines Moduls einer großen Branchensoftware für einen weiteren Mandaten in agiler Vorgehensweise
+
+Rolle
+Freier Mitarbeiter, Entwickler
+Kunde
+IT-Dienstleister für Träger der gesetzlichen Unfallversicherung, Hannover
+Einsatzort
+Hannover
+Projektinhalte
+Java Entwicklung, Konzeption
+Kenntnisse
+Scrum
+Produkte
+Java 8 Swing IBM DB2 JBoss Wildfly Spring EasyMock PowerMock UML MID Innovator Eclipse IDE Maven GitRational Synergy JUnit Spring Boot SOAP REST Microservices
+08/2015 - 12/2018
+
+3 Jahre 5 Monate
+
+Weiterentwicklung und Wartung von Modulen eines großen Branchensoftwaresystems
+
+12/2013 - 08/2015
+
+1 Jahr 9 Monate
+
+Neuentwicklung eines Moduls zur Verwaltung und Planung von Schulungen innerhalb eines großen Branchensoftwaresystems
+
+09/2013 - 11/2013
+
+3 Monate
+
+Weiterentwicklung eines Workflowsystems zur Verwaltung und Bewertung von Kundenanforderungen und deren Auswirkungen auf die Produktion
+
+03/2011 - 08/2013
+
+2 Jahre 6 Monate
+
+Entwicklung von Komponenten für Vertrieb und Abwicklung von Printanzeigen
+
+10/2010 - 02/2011
+
+5 Monate
+
+Technische Migration einer bestehenden J2EE Anwendung auf JEE5 (EJB1 zu EJB3) mit Offshore Anteil
+
+06/2009 - 10/2010
+
+1 Jahr 5 Monate
+
+Umstellung / Optimierung mehrerer Anwendungen für die Anlaufuntersützung in der Automobilproduktion auf werksübergreifende Arbeitsweise
+Branchen
+Softwarehersteller
+Banken
+Automobilindustrie
+Versicherungen
+Kompetenzen
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+gut
+Französisch
+Grundkenntnisse
+Produkte / Standards / Erfahrungen
+BOC Adonis
+EasyMock
+Eclipse IDE
+EJB
+Git
+JBoss Application Server
+JBoss Wildfly
+JUnit
+Maven
+Microservices
+MID Innovator
+PowerMock
+Rational Synergy
+REST
+Scrum
+SOAP
+Spring
+Spring Boot
+Swing
+Synergy
+Websphere
+Erfahrung mit Betriebssystemen
+
+Windows: Windows 2000/XP/Vista/7 Admin Kenntnisse
+Unix: gute Linux Kenntnisse, Solaris Grundkenntnisse
+
+Programmiersprachenkenntnisse
+
+Java: sehr gute Kenntnisse (JDK1.1 - 7, J2EE, JEE, etc.) XML, XSLT: sehr gute Kenntnisse HTML:  gute Kenntnisse
+C/ C++: Grundkenntnisse
+MS Visual Basic 6 und .NET: Grundkenntnisse
+PHP: PHP 4 Grundkenntnisse
+…   IDEs/Tools: Eclipse / Netbeans / Borland JBuilder / MS Visual Studio /
+Together (für UML-Modellierung) / Oracle SQL Developer / Magic Draw 
+Application Server / Middleware: JBoss & Jakarta Tomcat / Bea Weblogic (6, 7, 8, 10) / Glassfish / Seebeyond eGate 5.0.5 SRE / IBM Websphere MQ   Frameworks/APIs/Tools: Hibernate/ Spring / Jakarta Struts / dom4j / LOG4J / XmlBeans / JDO  / Ant / Junit / Castor / CVS / Subversion / IBM Synergy   Datenbanken: Oracle 8-11 / MS SQL Server 2000 / IBM DB2 / mySQL
+ CMS Systeme: TYPO3 / phpWebSite / Joomla   SAP: - Schnittstellen zu SAP über RFC, BAPI, IDOC, ALE - Grundkennntnisse in iPPE und PP   Standards:  J2EE / JEE / UML / LDAP /   …
+Objektorientierte Analyse, Programmierung und Design
+Webapplikationen allgemein
+Programmiersprachen
+Java 6
+Java 8
+UML
+Datenbanken
+IBM DB2
+Bemerkungen
+ 
+Ausbildungshistorie
+1994-1997 Berufliches Gymnasium Fachrichtung DV-Technik
+
+1998-2003 Studium Angewandte Informatik (FH Fulda)
+ Fachrichtung Telekommunikation
+Juli 2003 Diplom
+ Thema der Diplomarbeit: "Design von Komponenten für den unternehmensweiten Einsatz von Dokumentenmanagement Systemen auf Basis von J2EE, Webservices und Microsoft.NET"

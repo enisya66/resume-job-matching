@@ -1,0 +1,30 @@
+Titel
+Java/C++ Entwickler (m/w/d) in Festanstellung
+Projektanbieter
+LUPUS GmbH IT-Service
+Beginn
+asap
+Einsatzort
+Raum Walldorf
+Beschreibung
+Java/C++ Entwickler (m/w/d) in Festanstellung Stellenbeschreibung Wir sind auf der Suche nach einem Spezialisten für das folgende Anforderungsprofil: Java/C++ Entwickler für Anwendungsoptimierung (m/w/d) in Festanstellung Aufgaben: Fachliche Beratung im Bereich der Portierung von SAP Middleware auf IBM System i. Dies beinhaltet: - Fachliche Unterstützung im Bereich Installation (ABAP und Java) und Test - Weiterentwicklung der Installation für SAP auf IBM System i - Wartung älterer Releases - Adaption  der SAP Software Lifecycle Management Tools auf IBM System i
+- Sicherstellung der von SAP vorgegebenen Liefertermine für die Software in hoher Qualität
+- Durchführung von Tests und Analysen der Testergebnisse
+- Support von SAP on IBM System i Kunden
+- Abstimmung bei Problemen und deren Behebung mit dem IBM/SAP Entwicklungsteams
+- Abstimmung mit dem Labor
+- Aufbau und Pflege der Testumgebung
+Stellenanforderung
+Die Tätigkeit erfordert die grundliegende Kenntnis des SAP Produkt-Portfolios. Sie umfasst Installation und Test/Verifikation der SAP Komponenten für das Zielsystem IBM System i. Erforderlich sind Grundkenntnisse bzgl. Administration von UNIX und IBM System i sowie DB2 aus Sicht der SAP Produkte und Lösungen. SAP Basis- und Programmierkenntnisse sind ebenfalls wünschenswert:
+
+- IBM System i, Admin
+- SAP technology
+- DB2 on i, Datenbank
+- Development C, C++, Java, JavaScript, ABAP, Debugging, Test
+- DB Performanceuntersuchungen
+
+Non-Technical Skills:
+- Customer insight
+- Teamwork
+- Drive to achieve
+- Communication (German, English), Networking

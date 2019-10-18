@@ -1,0 +1,21 @@
+Projekt-Titel
+Innovative Mobile Web-Anwendung
+Projekt-Rolle
+Berater
+Beginn
+20.01.2020
+Dauer
+10-15 Tage
+Auslastung
+100
+Einsatzort
+Hamburg
+Stundensatz
+100 EUR (vom Auftraggeber angepeilter Stundensatz)
+Projekt-Beschreibung
+In diesem Projekt wird die Client-Entwicklung mit Angular durchgeführt und im Backend setzen wir auf Microservice-Technologien (Microprofile/Payara, Dropwizard, RabbitMQ). Wir bieten dem Client eine REST-API. Die neuen Micro-Apps beziehen ihre Informationen von einem monolithischen System, das eine Oracle-Datenbank nutzt und dort auch die User-Daten hält. Für die Absicherung der API wollen wir KeyCloak einsetzen.
+Wir suchen wir jemanden, der uns uns eine Einführung in KeyCloak gibt und Hands-On Starthilfe bieten kann, idealerweise für einen 2-wöchigen Sprint bei uns vor Ort weilt. Wir möchten damit höchstwahrscheinlich Mitte Januar 2020 starten.
+Must-Have Skills
+KeyCloak Java8 REST Microservices Praktische Erfahrung Microprofile Architekturerfahrung
+Nice-to-Have Skills
+Oracle Angular Mobile Payara DropWizard RabbitMQ

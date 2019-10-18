@@ -1,0 +1,14 @@
+Titel
+Java Entwickler (m/w/d) – Berlin
+Projektanbieter
+LUPUS GmbH IT-Service
+Beginn
+asap
+Einsatzort
+Berlin
+Beschreibung
+Java Entwickler (m/w/d) – Berlin Stellenbeschreibung Für einen unserer Kunden sind wir auf der Suche nach Spezialisten für das folgende Anforderungsprofil: Java Entwickler (m/w/d) Stellenanforderung Muss-Anforderungen: - Java und Java Enterprise Edition - Web Services - Netzwerke - Microservices - Kenntnisse der wichtigsten aktuellen Frameworks, Plattformen und Integrationsumgebungen - Kenntnisse in der Anwendung von UML und Enterprise Architect Soll-Anforderungen: - Linux - Embedded Systems - Idealerweise Erfahrung mit Spring Boot
+- Kenntnisse Software Teststrategien
+- Scrum
+- Teamleitungserfahrung
+- Erfahrung im Management von IT-Delivery Projekten

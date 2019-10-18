@@ -1,0 +1,41 @@
+Titel
+Java Backend- / Fullstack-Entwickler (m/w/d)
+Beginn
+01.11.2019
+Dauer
+30.09.2020
+Einsatzort
+Nürnberg
+Beschreibung
+Unser Kunde sucht Fullstack-Entwickler mit folgenden Anforderungen:
+
+Backend Entwicklung:
+
+Java 8+
+Spring Framework Kenntnisse in Spring Boot, Cloud, Security, MVC und Stream notwendig!
+Build über Maven
+Jenkins Deployment über Ansible
+Versionsverwaltung mit Git (Gitlab)
+Authentifizierung / Autorisierung durch OAuth2
+Agile SW-Entwicklung nach SCRUM, Microservice Architektur
+Plus:
+
+Kenntnisse in Docker und Kubernetes
+Frontend Entwicklung: (Plus aber kein Muss!)
+Typescript und Angular
+Anbindung Backend über REST-Schnittstellen
+Frontend-Design mit Bootstrap und dem Bootstrap-Grid
+Komponentenbasierte Micro-Frontend Architektur
+ 
+
+IM DETAIL:
+
+Sprachen:                                 JAVA 8+
+
+Frameworks:                             Spring Boot, Spring Cloud, Hibernate, Logback, Jacoco
+
+Datenbanken:                          Oracle, MongoDB
+
+Entwicklungsumgebungen:    IntelliJ (Jetbrains), Eclipse
+
+Sonstiges:                                  SCRUM, Cloud, Git, Jenkins, Jira, Confluence, Artifactory, Bitbucket

@@ -1,0 +1,18 @@
+Projekt-Titel
+Sicherheitsspeicher
+Projekt-Rolle
+Java-Senjor Entwickler (Fokus Backend)
+Beginn
+21.10.2019
+Dauer
+langfristig
+Auslastung
+50
+Einsatzort
+primär München
+Projekt-Beschreibung
+Entwicklung zentraler Serverkomponenten zur sicheren Verwaltung sensibler Daten unter Einbezug geeigneter Technologien (Kryptographie, Vault, HSM)
+Must-Have Skills
+Java Spring Boot Microservices Rest Redhat open Shift Docker Englisch
+Nice-to-Have Skills
+CI/CD Git Bitbucket Maven kryptographische Algorithmen Selenium Test agile Entwicklungsmethoden

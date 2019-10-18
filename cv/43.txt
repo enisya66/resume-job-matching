@@ -1,0 +1,227 @@
+SAP EWM Architekt, Senior Berater und Senior Entwickler (EWM, ABAP-OO)
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+06.01.2020
+verfügbar zu
+50 %
+davon vor Ort
+50 %
+PLZ-Gebiet, Land
+D2D3
+Städte
+Hamburg
+100 km
+Kontaktwunsch
+Ich möchte ausschließlich für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Position
+Kommentar
+SAP Solution Architekt mit 18 Jahren Berufserfahrung. Sympathischer Leader mit
+unternehmerischem Weitblick. Kann unter Hochdruck durch effiziente Teamführung, Hands-On-
+Mentalität am System sowie strategisches Handeln mit Projekterfolg überzeugen.
+Projekte
+08/2016 - 12/2016
+
+5 Monate
+
+SAP EWM Realisierung
+
+Rolle
+Solution Architect
+Einsatzort
+Leinfelden-Echterdingen
+Projektinhalte
+Technische Projektleitung der Realisierungsphase des Pflichtenheftes zur Einführung von SAP EWM 9.4 und NetWeaver 7.5:
+Agile Steuerung des Entwicklerteams
+EWM Standardnahe Umsetzung
+EWM QiE mit SAP QM Integration
+Anbindung der UST mit ABAP Push Channels
+NIO und Kommissionierdialoge in SAP UI5 und OData Services
+Produkte
+SAP Netweaver 7.5 SAP EWM 9.4 SAP UI5 OData for SAP
+10/2015 - 07/2016
+
+10 Monate
+
+SAP EWM Einführung
+
+Rolle
+Technische Projektleitung
+Einsatzort
+Kiel
+Projektinhalte
+Technische Projektleitung bei einem Großprojekt im SAP EWM 9.2 Umfeld mit hoher Prozessvielfalt:
+Steuerung des Entwicklerteams
+Agiles Projektvorgehen in Sprints
+Technische Reviews der Entwicklungen
+Durchführung von Development Review Boards zur Vorstellung der Prozesse und Entwicklungen beim Kunden
+Steuerung von Subunternehmen
+Kenntnisse
+SAP QiE Agile Softwareentwicklung
+Produkte
+SAP EWM 9.2
+04/2016 - 05/2016
+
+2 Monate
+
+SAP EWM Pflichtenheft
+
+08/2015 - 04/2016
+
+9 Monate
+
+SAP EWM Inbetriebnahme
+
+10/2014 - 07/2015
+
+10 Monate
+
+SAP EWM Realisierung
+
+02/2015 - 02/2015
+
+1 Monat
+
+SAP EWM 9.3 BETA Testing
+
+02/2014 - 02/2015
+
+1 Jahr 1 Monat
+
+SAP EWM Vertriebsunterstützung
+
+04/2014 - 09/2014
+
+6 Monate
+
+SAP EWM Pflichtenheft
+
+11/2011 - 12/2013
+
+2 Jahre 2 Monate
+
+Betrieb und Weiterentwicklung Online-Plattform
+
+05/2011 - 09/2011
+
+5 Monate
+
+SAP R/3 Betreuung und Prozessanpassung
+
+10/2010 - 04/2011
+
+7 Monate
+
+Entwicklung einer Online-Plattform
+
+06/2009 - 09/2010
+
+1 Jahr 4 Monate
+
+SAP R/3 Implementierung
+
+02/2008 - 05/2009
+
+1 Jahr 4 Monate
+
+Implementierung einer Bauträgerlösung
+
+07/2007 - 01/2008
+
+7 Monate
+
+SAP R/3 Releaswechsel
+
+02/2006 - 06/2007
+
+1 Jahr 5 Monate
+
+SAP R/3 Modulverantwortung
+
+06/2005 - 01/2006
+
+8 Monate
+
+SAP R/3 Rollout
+
+04/2005 - 10/2005
+
+7 Monate
+
+SAP R/3 international Rollout
+
+01/2004 - 03/2005
+
+1 Jahr 3 Monate
+
+SAP R/3 Support
+
+08/2003 - 12/2004
+
+1 Jahr 5 Monate
+
+SAP R/3 Einführung
+
+08/2004 - 10/2004
+
+3 Monate
+
+SAP R/3 Einführung
+
+03/2003 - 07/2003
+
+5 Monate
+
+SAP R/3 Einführung
+
+01/2002 - 02/2003
+
+1 Jahr 2 Monate
+
+Software-Entwicklung Druckertreiber
+
+01/2000 - 12/2001
+
+2 Jahre
+
+Produktentwicklung Industriedrucker
+
+Branchen
+Logistik Immobilien Facility Management Chemie Bau Handel Finanzen Banken
+Kompetenzen
+Sprachkenntnisse
+Deutsch
+Englisch
+Datenbanken
+MySQL
+SQL
+Programmiersprachen
+ABAP-OO
+JavaScript
+PHP
+Produkte / Standards / Erfahrungen
+Inbetriebnahme
+OData for SAP
+SAP BC
+SAP Datenmigration
+SAP ECC 6.0
+SAP EWM
+SAP EWM 9.1
+SAP EWM 9.2
+SAP EWM 9.3
+SAP EWM 9.4
+SAP FI/CO
+SAP Netweaver 7.5
+SAP PM/CS
+SAP PS
+SAP QiE
+SAP SD
+SAP UI5
+Personalverantwortung
+Agile Softwareentwicklung
+Design / Entwicklung / Konstruktion
+Technische Konzeption
+Ausbildungshistorie
+Studium: Wirtschaftsinformatik - FH Würzburg

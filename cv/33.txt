@@ -1,0 +1,111 @@
+Softwareentwicklung in Java, JEE, Spring, SOA, BPM und Oracle2
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D7D8D9ÖsterreichSchweiz
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Position
+Projekte
+01/2018 - Heute
+
+1 Jahr 9 Monate
+
+Entwicklung von mehreren Anwendungen mit Schwerpunkt Ordermanagement
+
+Rolle
+Senior Entwickler
+Kunde
+Telekommunikationsunternehmen (Mobilfunk und Festnetz)
+Einsatzort
+Bern
+Projektinhalte
+Entwicklung der Anwendungen nach Fachkonzepten
+Model Driven Development mit einem Business Rules Management System und einer Prozess Engine
+iteratives Vorgehen nach Scrum
+Continuous Integration und Continous Deployment
+Automatisierte Unit- und Prozess-Tests
+10/2017 - 12/2017
+
+3 Monate
+
+Entwicklung einer bankfachlichen Onlineanwendung
+
+Rolle
+Senior Software Entwickler
+Kunde
+Bank
+Einsatzort
+St. Gallen
+Projektinhalte
+Entwicklung der Anwendung nach Fachkonzepten
+Iteratives Vorgehen nach Scrum
+Continuous Integration und Continuous Delivery
+Toolgestützte Überwachung der Codequalität
+Branchen
+Telekommunikation (Mobilfunk und Festnetz)
+Banken
+Automotive
+Kompetenzen
+Programmiersprachen
+Java
+Tägliche Verwendung, Erfahrung seit 1997
+Java 8
+PL/SQL
+Gelegentliche Verwendung, Erfahrung seit 1997
+Scriptsprachen
+Regelmässige Verwendung, Erfahrung seit 1992
+Shell
+Regelmässige Verwendung, Erfahrung seit 1992
+Betriebssysteme
+Unix
+Softwareentwicklung und Administration (Linux, z/Linux)
+Windows
+Anwendung
+Datenbanken
+MongoDB
+MySQL
+Oracle
+Postgres
+SQL
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+Verhandlungssicher
+Französisch
+Grundkenntnisse
+Italienisch
+Grundkenntnisse
+Hardware
+PC
+Umfangreiche Kenntnisse seit 1991
+Datenkommunikation
+Internet, Intranet
+TCP/IP
+Produkte / Standards / Erfahrungen
+Business Process Management
+Drools
+Eclipse
+Git
+Gradle
+Jenkins
+Jira
+Model Driven Development
+MongoDB
+Scrum
+SOA
+SonarQube
+Spring
+- Java 11.0 (Erfahrung seit Version 1.0 aus 1996) - JEE, J2EE, EJB, JPA, JMS - Spring, Spring Integration 2.1, Spring WS - Oracle RDBMS 12.1 (Erfahrung seit Version 7.3 aus 1997) - IBM DB2 10.5 - Sybase ASE 15.0.3 - Postgres 9.4 - MySQL 5.7 - MongoDB 3.6 - Webservices (Axis, CXF, JAX-WS, JAXB, JAX-RS, Jersey, Resteasy 2.3) - XML, XSLT 2.0 - BPMN 2.0, Activiti 5.1, jBPM 5.3, jBPM 3, Camunda BPM 7.8, Signavio 11.10 - Hibernate 3.6 - Apache ActiveMQ 5.6 - JBoss 7.2 (Erfahrung seit Version 3.2) - Tomcat 7.0 (Erfahrung seit Version 3.0) - Eclipse 2018-12 (Erfahrung seit Version 3.1) - IntelliJ IDEA 2017.3 - SVN, Git - Quest Toad 12.9, DbVisualizer, Oracle SQL Developer 18.4, SQirreL SQL 3.8 - soapUI - Jira 7.1 - Atlassian Confluence 5.9 - Hudson und Jenkins - Docker 18.09 - Prometheus und Grafana 6.1 - Gitlab - JUnit, XMLUnit und Mockito - Sonar, SonarQube 5.6, Checkstyle, Findbugs, PMD - Maven 3 - Peregrine ServiceCenter 6.1 - Oracle Virtualbox 5.1 - Enterprise Architect 10.0, MagicDraw 17.0 - TM Forum Frameworx (OSS/J und SID) - WITA Based Carrier Interface (WBCI) - Enterprise Integration Patterns (EIP) - Service Oriented Architecture (SOA) - Business Process Management (BPM) - Scrum, Agile Entwicklung, Testgetriebene Entwicklung und Wasserfallmodell
+Ausbildungshistorie
+1989-1996 Studium der Physik an der Universität zu Köln und an
+ der Freien Universität Berlin

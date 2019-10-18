@@ -1,0 +1,24 @@
+Titel
+Java 8 Entwickler (m/w/d)
+Projektanbieter
+SOLCOM GmbH
+Beginn
+04.11.2019, spätestens jedoch zum 01.12.2019
+Einsatzort
+D4
+Beschreibung
+Java 8 Entwickler (m/w/d) Projekt-Nr.: 59096 Starttermin: 04.11.2019, spätestens jedoch zum 01.12.2019 Einsatzort: D4 Stellentyp: freiberuflich Dauer: 6 Monate+ Aufgaben Für einen unserer Kunden sind wir derzeit auf der Suche nach einem Java 8 Entwickler mit Kenntnissen im Banken- und Versicherungsumfeld. Zu Ihren Aufgaben gehören: Definition von Anforderungen mit den Fachbereichen und der IT Abteilung Entwicklung Java Front- und Backend Durchführung von Unit Test Technische Dokumentation. Anforderungen Must:
+
+Java 8 Entwickler (Experte)
+Erfahrung mit Dependency Injection Frameworks
+Erfahrung mit Apache Maven
+Umsetzungserfahrung mit "Clean Code"
+Erfahrung im Banken- und Versicherungsumfeld
+Nice:
+
+Rechenzentrumserfahrung mit stark verteilten Systemen
+Erfahrung mit Legacy-Anwendungen
+Erfahrung mit WebSphere Liberty
+Erfahrung mit Web-Services
+Zusätzliche Informationen
+Konnten wir Ihr Interesse wecken? Dann freuen wir uns auf die Zusendung Ihres aussagekräftigen Qualifikationsprofils unter Angabe Ihrer Stundensatzvorstellung.

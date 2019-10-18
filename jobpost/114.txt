@@ -1,0 +1,23 @@
+Titel
+C# .NET Developer (m/w/d)
+Beginn
+04.11.2019
+Dauer
+31.03.2020
+Einsatzort
+Aschheim
+Beschreibung
+Zwei Positionen im Bereich C# .NET Entwicklung zu besetzen. Es geht um Unterstützung bei der Neuentwicklung, Weiterentwicklung und der Pflege der für die Logistik benötigten IT-Anwendungen. Diese Anwendungen steuern sowohl die Prozesse bei der Warenanlieferung, als auch die Prozesse für die Aufnahme von Kundenbestellungen und den möglichen Rückversand.
+
+In einem agilen Umfeld geht es um die Anforderungen der Stakeholder, Erstellung der Storys und Entwicklung der entsprechenden Lösungen und Anpassungen.
+
+Design, Entwicklung und Pflege eines effizienten, wiederverwendbaren und verlässlichen C# Codes
+Verbesserung der Performance, der Qualität und der Reaktionsfähigkeit von bestehenden und neuen Applikationen
+Identifikation von Engpässen und Problemen sowie Erarbeitung von Lösungsvorschlägen
+Unterstützung bei der Pflege der Codequalität sowie den zugehörigen Prozessen
+Design; Erweiterung und Entwicklung automatisierter Plattform- und Unit-Tests
+Sehr gute Deutsch und gute Englisch Kenntnisse
+ 
+
+Skills
+Entwicklung von C# .Net (ASP.NET,) Angular 2+ Backendentwicklung als auch etwas Frontend HTML, CSS WebServices (REST , SOAP) Grundliegende SQL Kenntnisse Objektrationalen Mappern ( NHibernate oder dem Entity Framework) Agile Projektmethoden wie Scrum, DevOps, Continuous Delivery und Pair Programming MVC Datenbank programmierung MS SQL Kafka WM, SCM , Logistikprozesse etc. Englisch

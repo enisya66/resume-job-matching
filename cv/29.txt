@@ -1,0 +1,209 @@
+Softwareentwicklung in Java (Java EE und Java SE), Konzeptionierung, Architektur, OOA, OOD, Datenbank-Modellierung, Unix
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.12.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D4SchweizEinsatzort unbestimmt
+Städte
+Moers
+50 km
+Düsseldorf
+20 km
+Duisburg
+20 km
+Köln
+10 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+weltweite Verfügbarkeit mit maximal 10% vor Ort
+Position
+Kommentar
+Software-Entwickler, -Architekt
+Projekte
+08/2018 - Heute
+
+1 Jahr 2 Monate
+
+Software-Entwickler mit Schwerpunkt Optimierung, Weiter- und Neuentwicklung von Java Web- und Batch-Anwendungen in Verbindung mit DB2 und Hadoop (Big-Data).
+
+01/2018 - 07/2018
+
+7 Monate
+
+Installation und Wartung eines auf Debian Linux basierenden E-Mail- und Web-Servers mit TLS/SSL, LDAP, Firewall, Exim 4 (MTA), Dovecot (IMAP), Apache HTTPD
+
+06/2013 - 12/2017
+
+4 Jahre 7 Monate
+
+Verantwortlicher für Wartung, Bug-fixing, Refactoring und Weiterentwicklung eines bestehenden Web-basierten (Java EE) Test Management Systems mit allen ihren Komponenten. 2nd- und 3rd-Level-Support für weltweit aktive Benutzer.
+
+11/2014 - 07/2015
+
+9 Monate
+
+Java-Entwicklung für ein bestehendes, Swing basiertes Client-/Server-System mit proprietärer NoSQL-DB.
+Branchen
+Aluminiumindustrie Automobilbranche / Automotive (Automobilzulieferer/Telematik) Bank Bauhandwerk Beratungsunternehmen Dienstleistung EDV-Dienstleistungen Einzelhandel Finanzdienstleistung Forschung und Entwicklung Großhandel Immobilien Ingenieurwesen IT / Informations-Technologie Labor Logistik Medien Optoelektronik Stahlindustrie Telekommunikation / Mobilfunk (Telko / Telco)
+Kompetenzen
+Programmiersprachen
+Basic
+VB 5, 6; VBA
+C
+C++
+MFC, MS Visual C++, GNU
+Java
+J2SE; J2EE; JSE 1.4, 5, 6, 7, 8; JEE 5, 6; EJB; Swing; Threads; RMI
+Java 5
+Java 6
+Java 7
+Java 8
+Java EE
+JavaScript
+AJAX, jQuery, Yahoo User Interface (YUI) 2, Prototype, JSON
+JPA
+Pascal
+Perl
+PHP
+4, 5, Zend Framework
+PL/SQL
+Oracle 9, 10, 11
+Powerbuilder
+Grundlagen (zuletzt 2003)
+SAS
+Shell
+bash (Bourne-Shell), ksh (K-Shell)
+Betriebssysteme
+Amiga OS
+Android
+Debian
+Linux
+Linux-Debian
+MS-DOS
+SUN OS, Solaris
+Solaris 8 oder höher
+Unix
+Linux (Debian, RedHat/Fedora, Ubuntu)
+Windows
+95, 98, NT4, 2000, XP, Vista, 7, 8
+Datenbanken
+Access
+97, 2000, XP, 2003
+Big Data
+DAO
+DB2
+HBase
+Interbase
+Firebird
+JDBC
+MapR
+MS SQL Server
+6.5, 7, 2000
+MySQL
+NoSQL
+ODBC
+Oracle
+8, 9, 10, 11
+Oracle 10g
+Oracle 11g
+Oracle SQL Developer
+Postgres
+8
+Proprietäre DB
+Objectivity (OODB/NoSQL)
+SQL
+SQL*Plus
+Sybase
+xBase
+dBase
+TopLink (EclipseLink)
+Hibernate
+Apache iBatis
+Apache Derby
+Sprachkenntnisse
+Deutsch
+C2 - Muttersprache
+Englisch
+C1 - fließend in Wort und Schrift
+Französisch
+zuletzt in 2006
+Italienisch
+C2 - Muttersprache
+Rumänisch
+A2
+Spanisch
+B2
+Hardware
+Amiga
+PC
+Streamer
+HP TapeLibrary, SONY StorStation
+SUN
+Sun Fire X2100, X4100, X4200, T1000, T2000, Sun Ray
+Datenkommunikation
+IMAP
+Internet, Intranet
+HTTP
+ISDN
+ISO/OSI
+PC-Anywhere
+SSL
+TCP/IP
+TLS
+Produkte / Standards / Erfahrungen
+Administration Linux
+Apache Ant
+Apache Axis
+Apache Hadoop
+Apache HTTP Server
+Apache Spark
+Apache Tomcat
+Apache Tomcat 7
+Apache Tomcat 8
+Apache Wicket 6
+Atlassian Confluence
+Atlassian JIRA
+Continuous Integration
+Dovecot
+Eclipse
+Eclipse BIRT
+exim
+Firewall
+Git
+Gradle
+iptables
+Jasper Report
+JUnit
+LDAP
+Mail-Server
+Maven
+Mockito
+Nexus
+Quickbuild
+Spring 4.6
+SVN
+XML
+XSLT
+Methoden --------
+Design patterns Objektorientierte Analyse (OOA) > 3 Jahre Objektorientiertes Design (OOD) > 3 Jahre Objektorientierte Programmierung (OOP) > 10 Jahre Strukturierte Programmierung UML > 1 Jahr
+
+  Standards / Frameworks
+---------------------- AJAX Apache iBatis Apache Wicket Versionen 1.5.7 AOP (Aspect Oriented Programming) AspectJ AWT (Abstract Window Toolkit) EclipseLink (TopLink) EJB Hibernate (ORM) Versionen 3.x JavaBeans JAX-WS jQuery JSF (Java Server Faces) Versionen 1.1, 2.1 MS ADO (ActiveX Data Objects) MS DAO (Data Access Objects) ODBC OLE Richfaces 3.3, 4.5 RMI (Remote Method Invocation) SOAP Spring Versionen 2.5.5, 3.0.5, 3.1.0 Stripes Web Framework Struts Versionen 1.1 Swing > 10 Jahre; Fortgeschrittener Velocity Web Services WSDL XML XPath XQuery XSD XSL XSLT YUI (Yahoo User Interface)  
+ 
+Tools ----- Apache FOP Apache HTTPD Apache POI CA Arcserve > 2 Jahre; zuletzt in 2005 CVS Eclipse > 10 Jahre; Fortgeschrittener Exceed Flyway DB Git Hudson / Jenkins (CI-Server) JasperReports > 5 Jahre; Fortgeschrittener JIRA Junit Lotus Notes Versionen 7.x, 8.5 Mozilla Firefox MS Internet Explorer Versionen 5.5 - 9 MS Outlook MS Office MS Visual Studio zuletzt in 2005 NetBeans > 10 Jahre; Fortgeschrittener Netscape Navigator Norton Ghost OpenOffice Parsytec SIS Inbetriebnahme durchgeführt und als Trainer tätig gewesen PC Anywhere Power Designer SQL Developer StarOffice SVN (Subversion) TeamCity (CI Server) TOAD Tomcat > 8 Jahre WebSphere Versionen 6.1, 7; < 2 Jahre
+Bemerkungen
+Außerhalb Deutschlands, internationale Erfahrung in IT-Projekten in der Stahlindustrie in Italien, Österreich, Belgien.
+Ausbildungshistorie
+2000: Allgemeine Hochschulreife
+2003: Fachinformatiker für Anwendungsentwicklung
+2005: Ausbilder nach AEVO
+
+2002-2010: Studium (Fernuni Hagen) - Diplom Informatiker - Nebenfach: Wirtschaftswissenschaften (BWL) (kein Abschluss)

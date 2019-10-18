@@ -1,0 +1,41 @@
+Titel
+Frontend-Entwickler angular (m/w/d)
+Beginn
+14.10.2019
+Dauer
+30.06.2020
+Einsatzort
+München
+Beschreibung
+1.  Entwickeln des Frontends einer Versicherungsspezifischen REST-Applikation
+
+2.  Entwickeln von Reporting Services
+
+ 
+
+Skills
+1.  Exzellente Kenntnisse in Angular 5, TypeScript und REST-Architekturen
+
+2.  Sehr gute Kenntnisse der UI-Gestaltung mittels Bootstrap oder Material Design
+
+3.  Gute Kenntnisse der agilen Software-Entwicklung (SCRUM)
+
+4.  Gute Kenntnisse des verwendeten Technologie Stacks: 
+
+a)  Angular 5
+
+b)  TypeScript
+
+c)  Bootstrap
+
+d)  HTML5
+
+e)  CSS3
+
+f)   Idealerweise, jedoch nicht zwingend VSTS
+
+5.  Konzeptionelle Kenntnisse über REST-Architekturen, MVC-Pattern
+
+6.  Deutsch & Englisch in Wort und Schrift
+
+(7.  Kenntnisse der Lebensversicherungsindustrie)

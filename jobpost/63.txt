@@ -1,0 +1,27 @@
+Titel
+DevOps Engineer (w/m/d)
+Beginn
+01.11.2019
+Einsatzort
+Hamburg
+Ihre Aufgaben
+Das bringt der Job:
+
+Du bist verantwortlich für die Bewertung von Anforderungen an der AWS Infrastruktur und den damit verbundenen Konsequenzen für das Team und die von uns verantworteten Komponenten
+Du hilfst dem Kunden beim Betrieb und der Überwachung der Infrastruktur und Cluster bei z.B. Deployment, Integration und Monitoring
+Du berätst bei allen infrastrukturellen Themen zur Stabilität, Robustheit, Performance, Skalierbarkeit, Recovery oder Automatisierung
+Du unterstützt dem Kunden bei der Konzeption neuer Komponenten, Services, Features und bringst deine Expertise zu infrastrukturellen Fragestellungen ein
+Du bist in der Lage andere Cloud Services zu verstehen und sie in Bezug auf unsere Anforderungen zu bewerten und scheust dich nicht davor auch selbst Code zu schreiben
+Ihr Profil
+Das brauchen wir:
+
+Abgeschlossenes Informatikstudium oder eine vergleichbare Qualifikation
+Must-have: Umfangreiche Kenntnisse mit der AWS Cloud und Kubernetes; routinierter Umgang mit Terraform, Ansible, make, Jenkins, Elasticsearch, Kibana, grafana, prometheus, Aurora, Postgres; agiles Mindset und Neugier auf Arbeitsmethoden wie Pairing oder Community of Practice
+Nice-to-have: Grundlegendes Verständnis von Microsoft Azure, Google Cloud oder IBM Cloud; Erfahrungen mit PHP, Java, GO oder Apache Kafka; gute Kenntnisse in der Administration von Web Servern und VMs
+Hohes Maß an Qualitätsbewusstsein und Eigeninitiative sowie eine schnelle und strukturierte Einarbeitung in neue Themen
+Sehr gute Deutsch- und Englischkenntnisse
+Wir bieten außerdem
+Bei uns hast du die freie Wahl des OS und der Entwicklungsumgebung
+Experten-Know-how und Gestaltungsspielraum, auch was deine persönliche und fachliche Entwicklung betrifft – wir unterstützen dich dabei!
+Komm mit uns auf (internationale) Fachkonferenzen wie Code Talks, GOTO Berlin, JAX, DEVOXX, interne Fachevents, Hackathons und Tech Talks/Meetups
+Innovative Arbeitswelten, flexible Arbeitszeiten (37,5-Stunden-Woche, Gleitzeit), Homeoffice- und Sabbatical-Möglichkeiten

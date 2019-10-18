@@ -1,0 +1,30 @@
+Titel
+SAP FI - Team Lead (w/m/d)
+Beginn
+07.10.2019
+Dauer
+31.07.2020
+Einsatzort
+Essen
+Beschreibung
+General description
+The SAP Finance  Team Lead is responsible to lead the SAP Financials application management within “Global Technology, Architecture & Cross Functional IT”. The focus is on the further development, support and enhancement of the SAP Financials landscape (FI/CO/FSCM/GRC/BI/Financial Consolidation and Solution Manager) with its diverse interfaces to SAP and Non-SAP systems managing incidents, change requests and projects in coordination with the different functional local, regional and central stakeholders.
+
+Key tasks & responsibilities
+
+Take full responsibility for the leadership and management of all SAP Financials functional and technical work streams ensuring that all personnel understand their roles and requirements to ensure successful delivery,
+Responsible for the overall team planning, assignment and control as well as progress on key projects reporting to the management and key business stakeholders,
+Risk and issue management as well as effective budget management,
+Oversee and drive change management and be a custodian of continuous improvement regarding organization, processes and the technical platform,
+To identify and have a good working relationship with all stakeholders and business users involved within the various related SAP Financials focused programs and projects,
+To work closely with the team members, supporting with tasks as required and ensuring successful delivery,
+Managing the SAP support organization (including Key Users) and monitoring service levels and service improvement plans to ensure a stable system and smooth accounting closing,
+Develop a good collaboration model with vendors and actively manage their performance,
+Leading the landscape continuous improvement and prepare the ground for the implementation of new SAP modules and implementation of S/4 HANA,
+Escalation management in case of deviations,
+Actively manages the expectations of various stakeholders,
+Provides direction to the team for an effective delivery and motivates teams to meet their objectives,
+Actively gives input for the ongoing optimization of Schenker’s solution delivery model,
+Keeps abreast of the latest developments in SAP that could benefit the platforms under his responsibility.
+Skills
+Has 10+ years’ experience as a senior level SAP manager, team lead, project manager or program manager Relevant SAP Financials experience (including hands-on experience in customizing), namely in FICO, BW as well as SAP Consolidation modules/applications Experienced or good understanding of implementing and running SAP Financials on S/4 Hana for a large organization Strong business and IT acumen. Good understanding of project and application life cycles as well as programming, IT infrastructure, databases and networking Fluency in written and spoken English

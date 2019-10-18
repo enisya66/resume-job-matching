@@ -1,0 +1,21 @@
+Titel
+AEM Entwickler
+Beginn
+01.11.2019
+Dauer
+6 Monate
+Einsatzort
+Zürich
+Beschreibung
+Einsatzgebiete:
+
+•  Du setzt anspruchsvolle und komplexe AEM-Webseiten auf Basis von renommierte Kunden um
+
+•  Du arbeitest agil in interdisziplinären Teams (Engineers, Architekten, UX etc.)
+
+•  Du berätst den Kunden und überzeugst durch Dein Know-How
+
+ 
+
+Skills
+2+ Jahre Erfahrung im Bereich AEM und /oder Web Applications Erfahrungen mit Einführung und Migration ab AEM 6.0 von Vorteil Erfahrungen in der Entwicklung mit Java 8+Kenntnisse in der Build Automation (Maven, Jenkins, Bamboo,…) Breites Wissen in der generellen Software Entwicklungslandschaft, Architekturen und Trends Grundkenntnisse in Frontend Technologien wie HTML/CSS/JavaScript und Frameworks wie Vue.js und AngularJS Erfahrungen in der Code-Qualitätssicherung z.B. mit GIT Flow, Code Reviews, Unit Tests und Frameworks zur Testautomatisierung Gute Englischkenntnisse in Wort und Schrift

@@ -1,0 +1,21 @@
+Titel
+Frontend-Entwickler (m/w/d)
+Beginn
+07.10.2019
+Dauer
+31.12.2019
+Einsatzort
+Hamburg
+Beschreibung
+Im Auftrag unseres Kunden und Rahmenvertragpartners aus dem Energiesektor, suchen wir derzeit zwei Frontend-Entwickler (m/w/d) für den Standort Hamburg.
+
+ 
+
+Das Ziel des Projektes ist die Entwicklung eines Webportals. Für ein Scrum Team bestehend aus FE Entwicklern (im wesentlichen reactJS Entwicklung) , MW Entwickler (Technologie Java) und Back-End Entwickler (Back-End ist ein SAP System) wird nun dringend Unterstützung benötigt. Insbesondere wird hier nun Unterstützung im Bereich der Frontend-Entwicklung gesucht.
+
+ 
+
+ 
+
+Skills
+Typescript / ES6 / Javascript React Webpack RESTful GIT / Gitflow Know-how in HTML5, CSS, SASS, Grid-Systemen und responsivem Design Agiles Mindset Sprachkenntnisse: Deutsch / Englisch in Ausnahmefällen Umgang mit Content-Management-System AEM6 (Adobe Experience Manager) (nice to have) UX/UI Design (nice to have) Sehr gute analytische und konzeptionelle Fähigkeitenhoher Qualitätsanspruch selbstständige Arbeitsweise hohes Engagement Professionell in Kommunikation und Auftreten teamfähig

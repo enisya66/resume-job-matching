@@ -1,0 +1,21 @@
+Titel
+Entwickler (m/w/d) Webtechnologien
+Projektanbieter
+Cs2 ITEC GmbH & Co. KG
+Beginn
+November 2019
+Einsatzort
+Nürnberg
+Beschreibung
+Entwickler (m/w/d) Webtechnologien Einsatzort: Nürnberg Anforderungen: - XML, XHTML, XSLT - Kenntnisse sicherer Entwicklung: Kenntnisse potentieller Sicherheitsrisiken, Secure Design Principle & Pattern, Secure Coding - Webtechnologie: HTML, (PHP oder ASP), JSP/JSF, HTML5, Angular , TypeScript /JavaScript, CSS, Sass - Angular, Angular-CLI, NPM, Webpack - REST/JSON - Versions-/ Konfigurationsmanagement (Git, Bitbucket, Jenkins, JIRA, Confluence) - Agile Praktiken (Z. B. Clean Code Development, Pair Programming, Continouos Integration, Refactoring, Test 
+Driven Development)
+
+Projektstart: November 2019
+Einsatzort: Nürnberg
+Projektdauer: zunächst bis 04/2020 mit Verlängerungsoption
+
+
+Falls Sie bereits in einem Projekt gebunden sind oder unser Angebot Ihren Wünschen und Vorstellungen nicht 
+entspricht, melden Sie sich gerne dennoch mit einem aktuellen Profil. 
+Vielleicht können wir Ihnen ein spannendes Alternativprojekt anbieten oder in einem kurzen Austausch uns ein 
+gemeinsames Bild Ihrer Möglichkeiten machen 

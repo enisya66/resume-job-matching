@@ -1,0 +1,22 @@
+Titel
+Java/Spring Boot Entwickler (m/w/d)
+Beginn
+01.10.2019
+Einsatzort
+Frankfurt am Main
+Ihre Aufgaben
+Konzeption und Implementierung von Geschäftsvorfällen mit relevanten Entwicklungstechnologien 
+Durchführung von Design und Coding komplexer Entwicklungsaufgaben
+Einhaltung der Richtlinien und Sicherstellung der Softwarequalität über automatisierte IT-Tests 
+Durchführung der relevanten Aktivitäten im Build-Prozess 
+Implementierung der notwendigen Schnittstellen zwischen einzelnen Systemen 
+Erstellung von technischen Dokumentationen 
+Third Level Support im Bezug auf das Incidentmanagement
+Ihr Profil
+Abgeschlossenes Studium mit dem Schwerpunkt Informatik oder vergleichbare Qualifikationen
+Sicherer Umgang mit JAVA und Spring Boot
+Erfahrungen in agilen Arbeitsmethoden
+Sehr gute Kommunikationsfähigkeit, gepaart mit einem offenen und selbstbewussten Auftreten
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift sind zwingend notwendig
+ 
+

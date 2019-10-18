@@ -1,0 +1,276 @@
+Softwarearchitektur, Enterprise Architektur, Softwareentwicklung, Projektleitung1
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.10.2019
+verfügbar zu
+100 %
+davon vor Ort
+20 %
+PLZ-Gebiet, Land
+D6D7D8
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Deutschland: Bevorzugt Hessen; nach Absprache Einsatz in D-A-CH möglich. Gerne remote / Homeoffice.
+Position
+Kommentar
+Schwerpunkt: Softwarearchitektur, Unternehmensarchitektur / Enterprise Architecture, Projektleitung, Entwicklung und Konzeption im Java- und JEE-Umfeld
+Projekthistorie
+Zeitraum : seit 07/2019
+Firma: Softwarehaus im Finanzumfeld
+
+Tätigkeit: Softwarearchitekt, Data Scientist, Prototyp-Entwicklung, Beratung   Implementierung und Evaluierung von Handelssystemen
+Fachliche Beratung technische Analyse
+Statistik und Modellierung, Feature Engineering, Data Analysis
+Machine Learning and AI
+Definition und Dokumentation architektonischer und technischer Anforderungen
+Dokumentation der Architektur und Entwicklung
+Prototypentwicklung mit Java / JEE und Python
+Einsatz Legacy Implementierungen (Fortran, C) in Java
+Big Data Integration
+AWS Cloud
+Koordination der Abnahme
+Qualitätssicherung
+Unterstützung beim Go Live
+ Eingesetzte Technologien
+Entwicklungsumgebungen: Eclipse, Visual Studio Code
+Sprachen: Java 8, Python 3, R
+Modellierungswerkzeug: Enterprise Architect
+Applikationsserver: Wildfly AS
+Tools und Frameworks: NumPy, pandas, Matplotlib, JPA, Hibernate, JUnit, Ant, Maven, Jenkins
+Machine Learning: TensorFlow, Scikit Learn
+Datenbank: MySQL, Oracle
+Big Data: Hadoop, Spark
+Kommunikation: EJB, JMS, JAX-RS, REST
+Container und Virtualisierung: VirtualBox, Vagrant, Docker
+Microservices: SpringBoot, Docker
+Cloud: Amazon AWS
+Logging: Graylog
+Versionierung: Git
+Vorgehensmodell: Scrum
+Zeitraum : 10/2017 - 06/2019
+Firma: Verlag (Print und elektronische Medien, Web Angebote)
+
+Tätigkeit:  Softwarearchitekt:
+Review und Bewertung komplexer Webanwendung im medizinischen Umfeld
+Definition und Dokumentation architektonischer und technischer Anforderungen
+Dokumentation und Analyse der Softwarearchitektur
+Qualitätssicherung
+Unterstützung beim Go Live
+
+Technische Projektleitung:
+Koordinierung Einführung BI-Tool (Business Intelligence) mit externen Dienstleister
+ETL-Prozesse
+Analyse, Abstimmung und Konzeption von Schnittstellen zu externen Systemen
+Qualitätssicherung
+Steuerung externer Teams (Indien)
+Technische Unterstützung beim Go Live
+
+Enterprise Architekt:
+Einführung iteraplan
+Konzeption EAM (Enterprise Architecture Management)
+Analyse der bestehenden Unternehmensarchitektur
+Metamodellierung des Unternehmensmodells
+Aufbau eines Reportings
+IT Governance
+Konzeptionelle Beratung MDM (Master Data Management)
+ Eingesetzte Technologien
+Architekturframework: Arc42, TOGAF
+Modellierungswerkzeug UML, BPMN: Sparx Enterprise Architect (EA)
+EAM-Werkzeug: iteraplan
+Programmiersprachen: Java (8 - 11)
+Applikationsserver: EAP 7 / Wildfly 10
+Datenbank (SQL): MS SQL Server, Oracle DB
+Datenbank (NoSQL): MarkLogic
+Integration: REST Webservices, MS SSIS
+Monitoring: FogLight
+Wiki: Confluence
+Ticketsystem: Jira
+Versionierung: Git
+Vorgehensmodell: Kanban, Scrum, Szenariobasierte Architekturbewertung
+
+Branchen
+Versicherung, Bank
+Finance
+Handel
+eGovernment
+Öffentliche Verwaltung, Public Sector
+Softwareentwicklung
+Scientific Computing
+Chemie, Pharma
+Logistik
+Kompetenzen
+Programmiersprachen
+Basic 
+C++ 
+C 
+Cobol 
+CORBA IDL 
+dBase 
+Emacs 
+Forth 
+Fortran 
+Java 
+JavaScript 
+Lisp 
+Mathematica 
+MATLAB / Simulink 
+Pascal 
+Perl 
+Python 
+Smalltalk 
+Tcl/Tk 
+TeX, LaTeX 
+C Sharp (C#)
+R (open source S-Plus Klone)
+AspectJ
+Ruby
+VBA, Visual Basic
+Makro-Programmierung (Excel)
+Betriebssysteme
+Windows 
+Linux / Unix
+mac OS
+AIX
+HPUX 
+MS-DOS
+Datenbanken
+Access
+DB2
+Informix
+JDBC
+MS SQL Server
+MySQL
+ODBC
+Oracle
+Postgres
+SQL
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+verhandlungssicher
+Französisch
+Grundkenntnisse
+Hardware
+HP
+IBM RS6000
+Messgeräte
+Densitometer, IR-Spektrometer
+PC
+Datenkommunikation
+CORBA 
+Internet, Intranet 
+TCP/IP 
+Webservices (REST, WSDL)
+Winsock 
+RMI (Remote Method Invocation)
+JMS (Java Message Service)
+AMQP
+JCA (Java Connector Architecture)
+Produkte / Standards / Erfahrungen
+Mehrjährige praktische Erfahrungen in den folgenden Bereichen: 
+Architektur
+TOGAF
+ArchiMate
+UML, BPMN
+ADONIS (Geschäftsprozessmodellierung)
+ADOit (EAM Werkzeug)
+Archi (ArchiMate Werkzeug) 
+
+Softwareentwicklung
+OO-Analyse und Design, Architektur, Konzeption
+Entwicklung, Programmierung
+Projektleitung
+Coaching
+
+Basistechnologien
+Java- und C++ - Programmierung im Client/Server-Umfeld
+J2EE, EJB, Servlets
+Webservices
+SOA, SCA
+Swing, AWT, SWT
+STL, Boost
+JSF, Struts, JSP, Tapestry
+Webserver (Tomcat)
+Applikationsserver (JBoss, Websphere, Geronimo)
+Spring
+Aspektorientierte Programmierung AOP (AspectJ, Spring AOP, JBoss AOP)
+OOA, OOD, OOP
+UML Modellierung
+Model Driven Architecture (MDA)
+Design Pattern
+
+Testmanagement
+JUnit, FIT
+JMeter
+Cobertura, JCoverage
+Testdirector
+
+Softwaremetriken
+Understand for C++
+Project Analyzer VB (Aivosto)
+Metrics (Java)
+
+Buildmanagement
+Ant, Maven
+CruiseControl
+ Versionsverwaltung
+CVS
+Subversion
+SourceSafe
+Synergy/CM
+ IDE
+Eclipse
+IntelliJ IDEA
+MS Visual Studio
+Emacs
+ XML
+SAX, DOM
+DTD, Schema, RelaxNG
+XSLT, XPATH
+JAXP, JAXB, XmlBeans
+
+Datenbanken und ORM (O/R Mapping)
+SQL
+MS SQL-Server, Oracle, Informix, PostgreSQL, mySql, Adabas D
+ER-Win
+JDBC, ODBC
+Hibernate, Toplink, iBATIS
+ Kommunikation und Verteilung
+EJB (Session Beans, Message Driven Beans, Entity Beans), RMI
+Webservices WS (SOAP, WSDL, UDDI), RPC, CORBA
+JMS
+JCA
+Java Mail
+DCOM, DDE
+Sockets
+ Geschäftsregeln, Workflow und Prozesse
+Drools, JBoss Rules (Geschäftsregeln), Java Rules Engine
+BPEL, jPDL, jBPM (JBoss Business Process Management)
+ Dialoggestaltung/ Ergononmie
+DIN EN ISO 9241
+ Reporting-Tools
+Jasper Report
+BIRT
+PDF/FOP
+ Mathematik-Software
+MATLAB
+Mathematica
+Mathcad
+GAMS
+S-Plus / R Project
+Scilab
+Berechnung / Simulation / Versuch / Validierung
+Mathematica, Matlab, R
+Ausbildungshistorie
+Studium der Mathematik
+
+1991
+Abschluss als Diplom-Mathematiker, Nebenfächer Physik und BWL
+
+1995
+Promotion zum Dr.rer.nat.

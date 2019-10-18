@@ -1,0 +1,265 @@
+Fullstack-Entwickler, ETH, 6 Zertifizierungen (Java, TypeScript, JavaScript, EJB, Oracle SQL, ...)
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+Schweiz
+Städte
+Zürich
+200 km
+Luzern
+200 km
+Kontaktwunsch
+Ich möchte ausschließlich für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Raum Zürich bevorzugt. Alternativ Luzern.
+Position
+Projekte
+01/2018 - 05/2018
+
+5 Monate
+
+Contracting-Projekt; Terminierung durch externe Gründe
+
+07/2017 - 09/2017
+
+3 Monate
+
+Entwicklung einer internen Applikation für den Geräte- Service
+
+02/2017 - 03/2017
+
+2 Monate
+
+JEE- und Performance-Analyse / Pair Programming
+
+05/2015 - 12/2015
+
+8 Monate
+
+Root D4 / Refactoring einer bestehenden Servlet-Applikation
+
+10/2014 - 03/2015
+
+6 Monate
+
+Preisberechnung
+
+08/2012 - 12/2013
+
+1 Jahr 5 Monate
+
+Broker-Vermittler-Portal
+
+03/2011 - 01/2012
+
+11 Monate
+
+Webentwicklung
+
+03/2007 - 09/2010
+
+3 Jahre 7 Monate
+
+Festanstellung mit Kundeneinsatz / Sun Certified
+
+10/2006 - 12/2006
+
+3 Monate
+
+Datenanalyse und –qualitätsmanagement
+
+04/2005 - 07/2006
+
+1 Jahr 4 Monate
+
+Web-Applicationen für UBS AG
+
+03/2004 - 05/2004
+
+3 Monate
+
+OptiTrans
+
+Branchen
+Banken
+Verkehrswesen
+Gesundheitswesen
+Industrie (Farbmessung)
+Industrie (Zugmeldesysteme)
+Kompetenzen
+Programmiersprachen
+Assembler
+Sparc
+bash
+C
+C++
+FXML
+Java
+JavaFX Scene Builder
+JavaScript
+JAX-RS
+JAXB
+JEE 6
+JPA
+JSP
+Oberon
+Oracle SQL
+Pascal
+TeX, LaTeX
+TypeScript
+Betriebssysteme
+Amiga OS
+Linux
+Mac OS
+MS-DOS
+SUN OS, Solaris
+Windows
+Windows 10
+Windows 7
+Windows XP
+Datenbanken
+Apache Derby
+DB2
+JDBC
+Microsoft SQL Server
+MySQL
+Oracle 11g
+SQL
+SQL Server Management Studio
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+sehr gut
+Französisch
+Grundkenntnisse
+Mazedonisch
+Verständnis
+Serbisch
+gut mündlich
+Hardware
+PC
+Datenkommunikation
+Internet, Intranet
+Websphere MQ
+Produkte / Standards / Erfahrungen
+Algorithmen
+Angular 6
+Ant
+Apache Karaf
+Apache MyFaces
+Atom (Editor)
+Clean Code
+Control M
+CSS
+Docker
+Grundkenntnisse
+Dynatrace
+Eclipse
+EJB3
+EL
+Enterprise JavaBeans
+Generics
+Glassfish
+Google Maps4 JSF
+Hibernate
+Hibernate 5.x
+IceFaces 1.8
+JavaFX
+JavaFX 8
+JBoss ApplicationServer
+JBoss Fuse
+JBoss RichFaces
+JMS
+JPA 2.x
+JSF
+JSF 1.2
+JUnit
+Kanban
+LDAP
+log4j
+Maven
+Maven 3
+MDA
+Microsoft Active Directory
+Microsoft Office 365
+Mockito
+NetBeans
+Notepad++
+Office 365
+OSGI
+Parallels Desktop
+PMD
+Quantum
+REST
+RxJS 6
+Servlet
+Siemens Circuit
+Slack
+SnailSVN
+Spring 5.1
+Spring Boot
+Spring DI
+SQL Server 2016
+SQL Server Management Studio (SSMS) 17.2
+Struts
+Subversion
+SVN
+Toad for Oracle
+Tomcat
+WCM
+WebLogic
+WebSphere Application Server
+WebSphere Portal
+XHTML
+XML
+XPath
+XSL
+Ausbildungshistorie
+Weiterbildung 09/2018 - heute: Typescript 2 / Angular 6 / Java 8
+Typescript 2
+DEV273x: Introduction to TypeScript 2 (Online Kurs besucht und bestanden am 21.10.2018)
+Angular 6
+Komponenten
+Template-Syntax
+Observable, RxJS 6, Reactive Programming
+HttpClient
+Dependency Injection
+Java 8
+Lambda expressions and Streams (deepening)
+IntelliJ (IDE)
+Tools: WebStorm, IntelliJ, Visual Studio Code
+ 06/2018 - 09/2018: Microsoft 98-382 Microsoft 98-382: Introduction to Programming Using JavaScript
+Sprache JavaScript 5
+DOM, window, HTML5 forms
+Debugging mit WebStorm (IntelliJ)
+Tools: WebStorm
+ 10/2017 - 12/2017: Spring
+Spring
+Spring MVC
+Spring Boot
+ 10/2016: Oracle Certified Expert
+Java EE 6 Enterprise JavaBeans Developer
+EJB, MDB, JMS, Interceptoren, Timer
+Lernmaterial: EJB 3.1 Spezifikation, ca. 600 Seiten.
+Hilfsmaterial: nochmals 600 Seiten
+Applikationsserver: WildFly, Weblogic
+ 01/2014 - 09/2014: Oracle Database SQL Certified Expert
+Oracle 11, SQL
+Lernmaterial: OCA Oracle Database SQL CertifiedExpert Exam Guide (Exam 1Z0-047) (Oracle Press), ca.600 Seiten
+ 09/2010 - 10/2010: Oracle Certified Professional
+Java SE 6 Programmer (Upgrade)
+ Kurse 10/2018: DEV273x
+Introduction to TypeScript 2 
+ Zertifizierungen 09/2018 Microsoft MTA | Introducing to Programing using JavaScript  10/2016 Oracle Certified Expert | Java EE 6 Enterprise | JavaBeans Developer  04/2015 Oracle Database SQL | Certified Expert  10/2010 Zertifikat SCJP 6 Update (Oracle/Sun Certified Java Programmer 6, Update)  06/2009 Zertifikat SCWCD 5 (Sun Certified Web Component Developer 5)  03/2007 Zertifikat SCJP 1.4 (Sun Certified Java Programmer 1.4)  1999 - 2003: Fachstudium Informatik Institut: ETH Zürich Abschluss: Dipl. Informatik-Ing. ETH Diplomarbeit: Mehrkriterielle Optimierung von Prozessoren
+Java 1.3 , mehrkriterielle Optimierung, evolutionäre Algorithmen, verteiltes Rechnen, Mac OS X, Solaris
+Nebenfach Operations Research
+ 1996 - 1999: Grundstudium Informatik Institut: ETH Zürich  1989 - 1996 Institut: Kantonsschule in Reussbühl (LU) Abschluss: Matura Typus C   1983 - 1989 Primarschule in Emmenbrücke (LU)

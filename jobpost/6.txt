@@ -1,0 +1,27 @@
+Titel
+Java Spring Software Engineer (m/w/d)
+Beginn
+01.01.2020
+Dauer
+11 Monate
+Einsatzort
+Zürich
+Beschreibung
+This is an exciting opportunity for someone interested in working in an international environment, while being able to interact with various stakeholders. You'll be joining our organisation as it's transforming its architecture, pushing forward with innovative solutions in various technologies. Work with the latest technologies and share your technical expertise in a collaborative, agile and forward thinking team environment.
+
+ 
+
+As a Java Software Engineer you will work in various projects developing web services and will be responsible for the daily operation of different services within our integration layer. The ideal candidate will offer strong technical skills in software development, solution design and requirements analysis as well as work experience with Java.
+
+ 
+
+Your responsibilities will include:
+
+Design, implementation and automated testing of micro-services architecture
+Implementation of Proof-of-Concept / Prototyping
+Close collaboration with stakeholders to ensure fit-for-purpose end-to-end functionality
+Requirement analysis
+Ensure coding best practices
+Run-the-Bank activities (maintenance, bug-fixing)
+Skills
+Track record in designing and developing RESTful web services Proven knowledge and experience working with Java Enterprise (including Spring, Spring Boot, Hibernate) and web technologies (e.g. JavaScript, SOAP/REST, Swagger/RAML, XML, JSON) Solid web security know-how (identity management, OAuth 2.0) Sound knowledge of containerisation technologies (Docker) and cloud platforms Experience with Apache Kafka is an asset English written and spoken on negotiation level

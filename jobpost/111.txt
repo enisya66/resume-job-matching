@@ -1,0 +1,26 @@
+Projekt-Titel
+Entwicklung einer Individualsoftware
+Projekt-Rolle
+Full Stack Entwickler (m/w/d)
+Beginn
+07.10.2019
+Dauer
+mind. 18 Monate
+Auslastung
+100
+Einsatzort
+Berlin
+Projekt-Beschreibung
+Wir suchen für ein eigenverantwortlich arbeitendes, agiles Team Verstärkung beim Pair Programming zur Herstellung selbstständig skalierender Infrastrukturen. Ziele sind unter Anderem der Aufbau und die Automatisierung einer komplexen Hadoop Umgebung für Analyseverfahren im Rahmen einer Full-Stack-Produktentwicklung. Angedacht ist u.a. die Verwendung von Kafka, Spark, HBase und SolR.
+Ihr Tag beginnt mit einem morgendlichen Standup, in dem Sie und Ihre Kollegen den
+aktuellen Arbeitsstand sowie aktuelle Herausforderungen besprechen. Anschließend
+arbeiten Sie in der Regel zu zweit als Pair mit einem täglich wechselnden Kollegen an
+Kundenanforderungen, die der Product Manager erhoben hat. Abgeschlossene
+Anforderungen werden bei uns nach jedem Commit getestet und deployed. Continuous Integration, Continuous Delivery und auch Continous Deployment sind bei uns keine Buzzwords mehr, sondern realer Arbeitsalltag und wird laufend verbessert. 
+Am Ende der Woche besprechen Sie mit ihrem Team im Rahmen einer Retrospektive den aktuellen Projektstand, Störungsfelder und aber auch mal Themen abseits des Projektes. Durch gemeinsam beschlossene zielgerichtete Maßnahmen wird dann problematischen Themen entgegen getreten. Ach ja: Der Chef muss bei solchen Terminen draußen bleiben, es sei denn Sie und ihre Team-Kollegen wünschen seine Teilnahme. 
+Die nächste Woche beginnt wieder mit einem Planungsmeeting, in dem sich das gesamte Projektteam zusammensetzt, aktuelle Kundenanforderungen bespricht und diese hinsichtlich der technischen Komplexität abschätzt. Dann beginnt wieder eine
+spannende Woche irgendwo zwischen Cloud, Continuous Delivery, Test-Driven-
+Developement, User-Centered-Design, Skalierung und viel Kommunikation.
+Must-Have Skills
+Java Angular Spring TypeScript
+Nice-to-Have Skills

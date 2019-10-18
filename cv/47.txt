@@ -1,0 +1,38 @@
+Geburtsort: E r z i n c a n
+Staatsangehörigkeit: Deutsch
+Studium:
+2008 – 2016: Technische Informatik, Technische Hochschule, Köln
+Abschluss 07/2016: Bachelor of Science
+10/2016 – jetzt: Masterstudiengang Informationstechnologie,
+Bergische Universität Wuppertal
+Schulausbildung:
+2003 – 2005: Realschule, Köln (Müllheim)
+2005 –2008: Fachoberschulreife, Köln (Hansaring)
+Praktika:
+09/2014-1/2015 Köln
+03/2015-7/2015 Köln
+ Web(PHP5,XHTML,JavaScript,XML,JSP, SCC/gute Kenntnisse,
+Anwendung eigene Applikation)
+ Datenbanken (SQL, JavaScript , Datenbankenanwendungen)
+
+03/2014-7/2014 Köln
+• Entwicklung komplexer Software-Systeme (Entwurfsmuster,
+SOAP und RESTful WebServices ,OSGI, Variationen in
+Objekt_Daten Typen)
+Bisherige berufliche Erfahrungen:
+1989 - 2002:
+Köchin
+2002 – jetzt:
+Gelegentliche Tätigkeit als Geschäftsführerin, Restaurant, Köln
+Zusatzqualifikationen:
+Programmierung:
+Entwicklungsumgebung:
+gute Kenntnisse in der Programmierung: Java, C++, C, JavaScript, SQL, HTML,XML,CSS,PHP,JSP
+NetBeans, Eclipse ,Dev-C++, Java/J2EE,UML
+Sprachen:
+Deutsch(gute Kenntnisse)
+Englisch(gute Kenntnisse)
+Türkisch(Muttersprache)
+Persisch(Muttersprache)
+Interessen:
+Lesen

@@ -1,0 +1,29 @@
+Titel
+Testanalyst (m/w/d)
+Beginn
+01.08.2019
+Einsatzort
+Frankfurt am Main
+Ihre Aufgaben
+Planung und Konzeption von Testaktivitäten sowie Analyse von relevanten Dokumenten bezüglich der Testfälle
+Unterstützung bei Testaufwandschätzungen und Planungen im Bezug auf die durchgeführten vorgelagerten Systemtests
+Regelmäßige Abstimmung mit der Testleitung
+Erstellung von Testfällen und Testszenarien auf Grundlage der zuvor analysierten Dokumente mit der Testfallenentwurfsmethode
+Ermittlung und Beschaffung von Testdaten zur Durchführung von Testfällen
+Durchführung und Dokumentation von manuellen Tests
+Berichterstattung über den aktuellen Stand der Leistungserbringung an den Teilprojektleiter
+Zusammenarbeit mit allen Projektbeteiligten im Hinblick auf Fehlerdokumentationen und Fehlernachverfolgung
+Schriftliche Dokumentation von Testergebnissen und Abweichungen
+Ihr Profil
+Abgeschlossene IT-Ausbildung, abgeschlossenes Studium der Informatik oder vergleichbare Qualifikationen
+Erfahrungen im Bereich der funktionalen Tests und in der agilen und sequenziellen Methodik sowie Erfahrung in der Erstellung funktionaler Testfälle
+Idealerweise erste Erfahrung im Test mobiler Anwendungen und Apps
+Fundierte Kenntnisse in HP-ALM und JIRA sowie in Testdesignmethoden
+Wünschenswert sind mehrjährige Testerfahrung im Bereich des funktionalen Tests und eine Zertifizierung nach Scrum
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Sie haben noch offene Fragen oder möchten schnellstmöglich mit uns in Kontakt treten? Ihr persönlicher Kontakt in Rhein-Main:
+
+Karl Schmidt
+Tel. 069-999911614
+Mobil (inkl. WhatsApp* und SMS): 01525-4507083
+E-Mail: karl.schmidt@gulp.de

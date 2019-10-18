@@ -1,0 +1,18 @@
+Projekt-Titel
+Launch App / Web für Videoüberwachungssoftware
+Projekt-Rolle
+UI Designer
+Beginn
+14.10.2019
+Dauer
+2 Monate mit optionaler Verlängerung
+Auslastung
+100
+Einsatzort
+40670 Meerbusch
+Projekt-Beschreibung
+Erstellung einer WebApp zur Videoanzeige basierend auf Web-Technologien. (Angular, IceLink). Serverseitige Implementierung sowie Client-Implementierung zur eigentlichen Videoanzeige ist vorhanden. Aufgabe ist die Erstellung einer intuitiven modernen Benutzeroberfläche (Videoplayer) die gleichzeitig für App (via Ionic Container) und Web verwendet werden kann.
+Must-Have Skills
+HTML CSS Web design
+Nice-to-Have Skills
+Angular App-Entwicklung

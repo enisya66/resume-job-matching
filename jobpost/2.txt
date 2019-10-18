@@ -1,0 +1,12 @@
+PROJEKTBESCHREIBUNG
+Titel
+München: Java / Angular Entwicklung POS49480 JavaEE JEE JavaScript
+Projektanbieter
+Chiffre-Kunde
+Beginn
+14.10.2019
+Einsatzort
+München
+Beschreibung
+München: Java / Angular Entwicklung POS49480 JavaEE JEE JavaScript Einsatzort: München Java/Angular Development Leistungszeitraum: Starttermin: 14.10.2019 Einsatzende: 31.12.2019+ Ort: München Gesamtstunden: 800 Leistungsbeschreibung: Es handelt sich um eine Web Anwendung, die vom Service Berater* verwendet wird, um den Fortschritt des Vorgangs zu verfolgen. Sie verfügt über ein Java EE Backend ein AngularJS Frontend. Aufgaben: • Frontend (AngularJS) und Backend (Java EE) Entwicklung. • Erstellung [...]
+Textauszug. Die vollständige Projektbeschreibung finden Sie beim Projektanbieter.

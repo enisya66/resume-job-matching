@@ -1,0 +1,24 @@
+Titel
+SAP GTS Berater (m/w/d)
+Beginn
+09.12.2019
+Dauer
+12 Monate
+Einsatzort
+Karlsruhe
+Beschreibung
+Unser Kunde - ein Medizintechnikunternehmen - aus dem Raum Karlsruhe sucht für einen SAP Rollout bei seinen Tochterunternehmen einen SAP GTS Berater, der nun ab der Vorbereitungsphase der Testphase für die User bis hin zum Go-Life mit unterstützt.
+
+ 
+
+Risk Management (Präferenzabwicklung)
+Legal Control Export
+GTS-Basis-Aktivitäten (Upgrades, neue Tarifcodes laden usw.)
+Kleinere ABAP Programmierungen im Rahmen von Anpassungen
+Best Practice Beratung
+ 
+
+Die Möglichkeit einer Remote-Tätigkeit in geringem Umfang besteht nach der Einarbeitungsphase. Der Kunde wünscht sich einen Einsatz von 3 Tagen pro Woche. 
+
+Skills
+Mindestens 3 Jahre SAP-GTS Projekterfahrung ABAP Programmierkenntnisse (optional) Kenntnisse im SAP Modul SD (optional) Englisch-Kenntnisse

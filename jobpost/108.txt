@@ -1,0 +1,27 @@
+Titel
+Fullstack Entwickler (m/w/d) mit Angular/.NET Core
+Beginn
+28.10.2019
+Dauer
+3 Monate
+Einsatzort
+Rülzheim
+Beschreibung
+Unser Kunde, aus dem Intralogistik-Umfeld, benötigt kurzfristig Unterstützung durch einen Fullstack-Entwickler (m/w/d).
+
+Ziel im Projekt ist der Aufbau einer SW Plattform, auf welcher die komplette Maschinensteuerung der Konzerngruppe laufen wird. Verschiedene Applikationen müssen noch entwickelt werden. Im Frontend wurde Angular eingesetzt, im Backend C#/.NET Core.
+
+Die Plattform soll mit Funktionen ergänzt (Weiterentwicklung) sowie in Stand gehalten werden. Zudem ist es wichtig die Dokumentation ordentlich durchzuführen.
+
+ 
+
+Ihre Aufgaben:
+
+Erstellung von herausfordernden Webapplikationen mit Fokus auf Angular im Frontend
+Entwicklung der Software mit .NET Core und C#
+Umsetzung von Frontend-Applikationen sowie Backend-Komponenten anhand von C#
+Sie sind verantwortlich für die Vernetzung im Team zwischen den erfahrenen und juniorigen Kollegen.
+Als Teil des Softwareentwicklungsteams bringen Sie Ihre Ideen und Erfahrungen als Entwickler mit ein.
+ 
+
+Eine Verlängerungsoption ist gegeben. Eine Homeoffice Tätigkeit von 1 Tage/Woche ist möglich.

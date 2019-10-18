@@ -1,0 +1,37 @@
+Titel
+Android Softwareentwickler (m/w/d)
+Beginn
+01.09.2019
+Einsatzort
+Hamburg
+Ihre Aufgaben
+Anpassung und Portierung von Android Distributionen auf firmeneigene Hardware und Hardware-Plattformen von Drittanbietern
+Implementierung und Anpassungen von Android Services in C++ und Java
+Realisierung von Software Update Konzepten
+Einpflegen von Sicherheitsupdates in die angepassten Android Distributionen
+Mitarbeit bei der Hardware Auswahl/Inbetriebnahme sowie Fehlersuche
+Unterstützung und ggf. Mitarbeit bei der Applikationsentwicklung
+Analyse von Bug Reports
+Ihr Profil
+Folgendes sollten Sie unbedingt mitbringen:
+
+Abgeschlossenes Studium der Elektrotechnik oder Informatik, alternativ Berufsausbildung im Bereich Elektrotechnik oder Informatik mit entsprechender Berufserfahrung
+Gute Kenntnisse des Android Open Source Projekts (System Architektur, Buildsystem)
+Gute (embedded) Linux Kenntnisse und Erfahrung mit Kernel Konfiguration
+Programmiererfahrung in C, C++, Java
+Sicherer Umgang mit git, repo, bash
+Folgendes wäre wünschenswert:
+
+Erfahrung in hardwarenaher Programmierung unter Linux (Treiberentwicklung)
+Erfahrung in der Portierung von Android / Erstellung von Custom Roms
+Praktische Erfahrung mit gängigen Peripherie Bussen (Spi, i2c, ...)
+Erfahrung in der Android Applikationsentwicklung
+Teamfähigkeit und eigenständiges Arbeiten
+Wir bieten außerdem
+Professionelles IT-Arbeitsumfeld mit immer aktuellen Technologien, Methoden und Tools
+Flache Hierarchien mit kurzen Entscheidungswegen in einem offenen und kollegialen Arbeitsumfeld
+Vereinbarkeit von Beruf und Familie durch flexible Vertrauensarbeitszeit
+Individuelle Weiterbildung durch Personalentwicklungsprogramme sowie durch den Besuch von individuell auswählbaren Schulungen und Konferenzen Schulungen und jährliche Mitarbeitergespräche
+Neben regelmäßigen Teamevents auch Weihnachtsfeier und Sommerfest
+Vielfältige Sozialleistungen, wie eine zusätzlich zum Gehalt finanzierte Altersvorsorge, Betriebssport, u.a.
+Einen großzügigen und modernen Küchenbereich mit Herd, Backöfen und Mikrowellen für gemeinsame Mittagessen

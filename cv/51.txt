@@ -1,0 +1,85 @@
+Akademischer Werdegang
+06/17 bis heute Angestellter
+Lush GmbH, Düsseldorf
+ Kontrolle und Verwaltung der Produkte
+03/17 bis 05/17 Weiterbildung als CISCO CCNA Netzwerkspezialist
+BBQ Baumann Bildung & Qualifizierung, Düsseldorf
+ LAN- und WAN-Technologies (Ethernet, Frame Relay)
+ Spanning Tree Protocol (STP), VLAN Trunking Protocol (VTP)
+ Switching mit Cisco-Devices (Planning, Configuration
+Troubleshooting)
+ Routing mit Cisco-Devices (Layer 3: NAT, IP Security, RIP, OSPF,
+EIGRP)
+06/15 bis heute IT-Lehrer und IT Consultant
+Informatik Nachhilfe für Studenten, Düsseldorf
+ Computerarchitektur und Betriebssysteme (Windows)
+ Objektorientierte Programmierung (C++)
+ Algorithmisierung und Numerik
+05/15 bis 05/15 IT Support (Praktikant)
+Generalkonsulat von Griechenland, Düsseldorf
+ Technischer Support Netzwerkserver in Debian Linux und
+Windows-Clients
+ Technischer Support auf Informationssysteme in Linux-
+Betriebssystem
+ Verwendung von MySQL Query Browser und MySQL
+Administrator
+ Personal Trainer
+01/14 bis 04/15 Student der deutschen Sprache
+Telc Institut, Düsseldorf
+ TELC-Zertifikat (C1 Hochschulniveau)
+09/11 bis 10/13 System- und Netzwerkadministrator
+Datamedia IT Systemhaus, Athen, Griechenland
+ Betreuung und Weiterentwicklung der Windows-, Linux- und
+VMWare Serverinfrastruktur
+ Administration, Betrieb und Wartung der Netzwerk-
+Infrastruktur (LAN/WAN, WLAN)
+Planung und Durchführung von Netzwerkkonzepten: DHCP,
+DNS Gateways, Firewalls, VPN-Lösungen
+09/10 bis 08/11 Entwickler
+Protonio Computers, Serres, Griechenland
+ Design, Überwachung und Testen von Projekten im Bereich der
+Java Softwareentwicklung
+ Arbeiten mit Front- und Back-End Framework in
+HTML/CSS/Javascript
+09/09 bis 08/10 IT-Dozent
+Fachhochschule Informatik, Serres, Griechenland
+ Softwareentwicklungskurse (Matlab) im Labor
+ Fortgeschrittene Datenbankthemen
+02/08 bis 07/09 Militärzeit als IT-Offizier
+Griechische Armee, Athen, Griechenland
+ Installation/ Konfiguration von Hard-/ Software im
+Serverumfeld
+10/06 bis 03/07 Bachelor Praktikum in der Informatik
+Piraeus Bank, Serres, Griechenland
+ Management und Administration des Informationssystems ERP
+Atlantis
+Qualifikation
+10/11 bis 11/13 Masterstudium an Universität Piräus, Athen, Griechenland
+Fakultät für Informations- und Kommunikationstechnik
+Fachrichtung: Netzbasierte Informationssysteme
+ Abschlussnote: 1,4 (ausgezeichnet)
+ Schwerpunkte: Modellierung und Analyse von Netzwerken,
+Sicherheit von Netzwerken und Informationssystemen, Mobile
+Kommunikationssysteme, Datenbanken (SQL)
+09/02 bis 02/08 Bachelorstudium an Fachhochschule von Ostmakedonien und
+Thrakien, Kavala, Griechenland
+Fakultät für Informatik
+Fachrichtung: Management Informationssysteme
+ Abschlussnote: 2,3 (sehr gut)
+ Schwerpunkte: Objektorientierte Programmierung (C++),
+HTML, Datenbanksysteme (SQL Server), Buchhaltung,
+Wirtschaftsmathematik, Betriebswirtschaftslehre
+Schulausbildung
+09/99 bis 07/02 2. High School, Serres, Griechenland
+ Abschluss: Allgemeine Hochschulreife
+ Leistungsfach: Informatik und Betriebswirtschaftslehre
+Seminare
+05/2013 Information and Telecommunication Systems
+International Conference on Computer
+Universität Piräus, Athen, Griechenland
+Fremdsprachen Deutsch (fließend)
+Englisch (fließend)
+Spanisch (gut)
+Griechisch (Muttersprache)
+Hobbies Fitnessstudio, Reisen
+Düsseldorf, 15.04.2019

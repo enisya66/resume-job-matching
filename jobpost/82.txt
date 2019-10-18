@@ -1,0 +1,34 @@
+Titel
+SAPUI5 Developer (m/w/d)
+Beginn
+21.10.2019
+Dauer
+3 Monate
+Einsatzort
+Hamburg
+Beschreibung
+Unser Kunde aus dem Herzen Hamburgs sucht zum 21.10.2019 oder 28.10.2019 einen SAPUI5 Developer, welcher sowohl in Hamburg als auch in Zürich bei einem Endkunden im Einsatz ist.
+
+Sie sollten folgende Anforderungen mitbringen:
+
+Minimum of 3 years of SAP development experience, at least 2 years in SAP UI5
+Proficient in Javascript
+Strong knowledge in SAP Fiori and SAP UI5.
+Good object-oriented development experience; ABAP OO is a plus
+Technical consulting and development in SAP S4HANA implementation and rollout projects
+Experience in developing cloud solutions based on SCP / S4HANA
+Additional knowledge in other markup language such as HTML5 and CSS is a plus
+ 
+
+Skills
+Sehr gute Kenntnisse in SAPUI5 Development
+
+Sehr gute Kenntnisse in Javascript
+
+Sehr gute Kenntnisse in SAP Fiori
+
+Gute Kenntnisse in objektorientierter Entwicklung
+
+Erfahrung in der Beratung und Entwicklung in SAP S4HANA sowie Rollout-Projekten
+
+Erfahrung in der Entwicklung auf SCP / S4HANA

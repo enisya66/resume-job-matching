@@ -1,0 +1,200 @@
+Java,J2EE,JSF,Spring,Hibernate,ElasticSearch, WEB-Entwicklung,DB,Oracle,DB2,BEA WebLogic,IBM WebSphere,JBoss,Open Source,Web-Services.JMS,JSF
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+80 %
+PLZ-Gebiet, Land
+D4D5
+Städte
+Neuss
+50 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Position
+Kommentar
+Meine Zielvorstellung ist eine Position als Sr. Entwickler / Architekt / Berater  in einem dynamischen und zielorientiertem Unternehmen zu besetzen. Ich bin immer auf der Suche nach neuen Herausforderungen und spannenden Projekte. Ich freue mich meine mehrjährige Erfahrung im Bereich Softwareentwicklung und Architektur einsetzen zu dürfen bin aber auch sehr lernfreundlich
+Projekte
+07/2016 - 12/2017
+
+1 Jahr 6 Monate
+
+Kundenportal für B2B Kunden
+
+01/2016 - 06/2016
+
+6 Monate
+
+Applikation zum Verwaltung von Autokrediten
+
+04/2012 - 12/2015
+
+3 Jahre 9 Monate
+
+Mehrere Front-/Backend Applikationen
+
+03/2011 - 03/2012
+
+1 Jahr 1 Monat
+
+E-Postbrief Projekt, sichere E-Mail Applikation mit der Authentifizierung
+
+06/2010 - 02/2011
+
+9 Monate
+
+Entwicklung einer B2B Applikation für die Verwaltung eines Web-Shops
+
+06/2009 - 05/2010
+
+1 Jahr
+
+Migration/Weiteentwicklung des Projektes für Kreditmanagement
+
+09/2005 - 05/2009
+
+3 Jahre 9 Monate
+
+Entwicklung einer Software für Wirtschaftsauskünfte
+
+04/2005 - 08/2005
+
+5 Monate
+
+Entwicklung einer Software für Werbeagentur, Internes Informationsmanagementsystem, Informationstausch mit den Kunden
+
+11/2004 - 03/2005
+
+5 Monate
+
+Entwicklung einer Buchungssoftware für Hotel Unternehmen (Desktop)
+
+Branchen
+Assistance
+Finanzdienstleister
+Softwarehersteller
+Industrie
+Informationdienstleistungen
+Auskunft
+Banking
+Kompetenzen
+Programmiersprachen
+C
+C++
+Foxpro
+Java
+Java 8
+JavaScript
+Jquery
+Pascal
+PHP
+PL/SQL
+Prolog
+Betriebssysteme
+MS-DOS
+Unix
+Windows
+Datenbanken
+Access
+DAO
+DB2
+Interbase
+JDBC
+MySQL
+ODBC
+Oracle
+Oracle 11g
+Postgres
+SQL
+Sprachkenntnisse
+Deutsch
+Englisch
+Russisch
+Tschechisch
+Ukrainisch
+Produkte / Standards / Erfahrungen
+Apache Tomcat
+Bootstrap
+Data
+Elasticsearch 2.3
+Maven 3.x
+Mockito
+Nexus
+OData Hibernate
+QuickBuild
+Rest
+Sonar
+Spring 4.x incl. Spring MVC
+Wicket 6.x
+14+ Jahre im Bereich Softwareentwicklung in unterschiedlichsten Ländern, Branchen und Projekten
+Agile Softwareentwicklung ,Erfahrung mit SCRUM und Extreme Programming (XP)
+Objekt Orientierte Programmierung, Design Patterns und Best Practices
+Erfahrungen mit Test Driven Development (TDD)
+Full stack Java EE/SE Entwicklung
+7+ Jahre von aktiver Einsetzen des Spring Framework inkl. Web-MVC, Boot, Batch, Data und Security
+Web-Entwicklung mit JSF, JSP, JavaScript, Web-Services
+ORM Entwicklung mit Hibernate, iBatis, Open JPA
+Praktische Erfahrung mit Elasticsearch und OData Schnittstelle zur Anbindung von MS Azure Services
+Fundierte Erfahrungen mit Datenbanken wie Oracle, IBM DB2, MS SQL Server
+Entwicklung von skalierbaren und performanten Applikationen und Modulen
+JavaScript, jQuery, AngularJS und anderen JS Frameworks
+JSF 1.x-2.x mit weit verbreiteten Frameworks wie Richfaces und Primefaces
+Frontend Bibliotheken wie Bootstrap, Angular UI, jQuery UI, Thymeleaf, Wicket und anderen.
+Revision control software: GIT, SVN, CVS, Mercurial, ClearCase
+Automated deployment mit Jenkins(Hudson), CruiseControl, Team City, QuickBuild;
+Automatisierte Tests mit Junit, Mockito, Spock, Jersey and Spring test Bibliotheken, JMeter (last-Tests), Selenium (Frontend Tests)
+Continuous inspection und Sicherung der Sourcecode Qualität mit SonarQube und open source plugins wie cobertura, checkstyle, finbugs etc.
+Know-How mit Mavenkonfiguration,Plugins, Integration mit CI-Systeme wie Jenkins
+Fundierte Erfahrungen mit der Konfiguration von maven repositories wie Nexus und Artifactory
+XML/XSD, Java Integration mit Frameworks wie Jaxb und XmlBeans
+Web-Services mit JaxWs, JaxRs, Spring REST, Jersey und anderen oder selbst geschrieben API
+Praktische Erfahrungen mit Jira/Confluence und anderen Systeme wie Bugzilla, Mantis und ServiceDesk
+Erfahrungen mit SOA-Architektur, Projekterfahrungen mit Oracle SOA Suite
+BPMN mit Spring Batch und Activity
+Web-/Application Servers wie Weblogic, WebSphere, JBoss,Tomcat, GlassFish, Jetty
+ Erfahrungen im Bereich:
+Anwendungs- und Systemprogrammierung
+Spezifikation, Programmierung, Test
+Software Architechture,Design
+Lage-Scale Applications Design/Tests/Performance Optimierung
+Multi-Tier-Entwicklung mittels J2EE / Java EE
+WebLogic 8.x,9.x,10.x,11g IBM WebSphere 4.1,5.x und verschiedene weitere Web-Container
+Oracle DB\VPD 11g, Oracle SOA Suite, Oracle AQ,Oracle DBFS
+Erfahrung mit  EJB 1.1, EJB 2.0, EJB 2.1, EJB 3.0, JDBC, JMS, JMX, JSP, Java Servlet, Java Web Start, Swing, JAXP, JDOM, JAXB, XMLBeans, JUnit, EasyMock, Jemmy, Mokito,Spock JSF (JavaServer Faces),RichFaces, PrimeFaces, Struts, Tapestry, Log4j, Webservice/JAX-RPC, JaxWs, Rest(Jersey/Spring), Hibernate, OpenJpa Spring, Velocity, Google Guice, Grails, Groovy, Spock
+Entwicklung von Multi-Threaded Java Swing Anwendungen
+Testgetriebene Entwicklung mit JUnit, EasyMock, Jemmy (Swing) und Selenium (Web)
+Erstellung von Build-Systemen mit Apache Ant und Apache Maven
+Behebung von Speicher- und Performance-Problemen bei Server-Anwendungen (u. a. mit JProbe und YourKit)
+Behebung von Perfomance Problemen bei Server-Anwendungen,sowohl im Back-End Bereich, als auch in DB Tier (u. a. mit JProbe und YourKit)
+Coaching von Mitarbeitern
+Projekt Leitung
+Kommunikation direkt mit der Kunde und mit Fachabteilung
+Risikomanagement,Projektplannung.
+
+Methoden:
+Objektorientierte Analyse, Design,Design Patterns, Programmierung
+AOP Methodology,Dependency Injection
+Datenbanken Design/Optimierung
+OpenSource Projekte(maven,ant,commons,Lucene etc.)
+J2EE,EJB,JMS,MBeans,RMI,SOAP,XML,XML-Schema
+J2SE,SWING,JAVA FX
+Servlets,JSP,WEB-Frameworks(STRUTS,Tapestry,JSF),AJAX,HTML,JavaScript
+Tools:
+IDE: Intellij IDEA, Eclipse, BEA Workshop, JBuilder
+Profiler: JProbe, YourKit
+Versionskontrollsysteme: CVS, Subversion (SVN), Rational Clear Case
+Projektmanagementtools : Lotus Notes, Jira, Confluence, XPlanner
+Spezialkenntnisse:
+Fuzzy! Informatik AG Produkte
+BEA WebLogic Server Konfiguration/Steuerung/MBeans
+HP ServiceDesk
+MS Project,Visio,Bugzilla
+Design / Entwicklung / Konstruktion
+Junit
+Ausbildungshistorie
+1997 – 2002 Informatik Diplom(Master) an der Universität Uzhgorod, Ukraine.Note: „sehr gut“(1,3)   1995 – 1997 Allgemeine Hochschulreife am Gymnasium, Uzhgorod, Ukraine. Abschluss: Allgemeine Hochschulreife. Note: „gut“(1,5)

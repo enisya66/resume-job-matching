@@ -1,0 +1,23 @@
+Titel
+Softwareentwickler (m/w/d) Produktentwicklung Middleware)
+Beginn
+01.09.2019
+Einsatzort
+Mannheim
+Ihre Aufgaben
+Sie sind für die Web-Entwicklung nach SCRUM-Methodik zuständig
+Sie übernehmen die technische Konzeption, Weiterentwicklung und Wartung des Insight-Produkts
+Sie unterstützen die Kunden und Partner beim Implementieren von Produkten
+Ihr Profil
+Sie haben ein Studium der Informatik, Wirtschaftsinformatik oder eine vergleichbare Ausbildung erfolgreich abgeschlossen
+Sie bringen mehrjährige Berufserfahrung in der Entwicklung mit Java, JavaScript mit
+Sie haben berufliche Erfahrung mit IT-Security-Technologien wie z.B. SAML, SSO, PKI-Infrastruktur
+Sie bringen Erfahrung im Webserver-Technologien wie z.B. JEE-Container, Webservices, REST, JSON mit
+Sie kennen sich mit gängigen Entwicklungstools (bspw. Eclipse, Sonar, GIT, JUnit...) aus
+Nice to have sind Erfahrungen mit Docker, DevOps, Microservices, Elastic, Kibana, Logstash, SQL
+Wir bieten außerdem
+sehr gute fachliche Entwicklung innerhalb der vielfältigen Projektlandschaft bei namhaften internationalen Unternehmen
+individuelle, verbindliche Weiterentwicklungsmöglichkeiten
+dynamisches Umfeld mit spannenden Kontakten
+markt- und leistungsorientierte Vergütung
+alle Vorteile einer Konzernzugehörigkeit

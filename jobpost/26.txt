@@ -1,0 +1,13 @@
+Titel
+DevOps Engineer (m/w/d)
+Beginn
+01.11.2019
+Dauer
+12 Monate
+Einsatzort
+Zürich
+Beschreibung
+As a DevOps engineer you develop and maintain automated end-2-end testing frameworks based on Java and Ruby. You work in an agile team with modern methods like SCRUM and SAFe. You make sure, that design for testability is taken into account during specification of new product features. Ideally you have experience in CICD. You implement and operate the necessary testing infrastructure based on VMWare, OpenStack, Linux Containers, Docker and physical LAN Setups (Switches, Routers, Wifi-AccessPoints). Effective interworking of development, operations and QA are important and you fulfil operational requirements and contribute to successful product delivery.
+
+Skills
+3+ years experience in software design Very good understanding of (test) automation and configuration management (e.g. Ansible, Puppet, Chef)databases (e.g. MySQL) modern CICD-tooling (e.g. Git, Jenkins, Vagrant) virtualization technologies (e.g. OpenStack, VMWare, Docker, LXC) 3+ years experience in Ruby, Java, Python Profound understanding of Linux Operating Systems and command line tools Basic Skills and knowhow in Network Technologies (CCNA level or equivalent) Cloud Security and virtualized Firewall function knowledge and working experience are a plus Continuous Integration (SCM, CI, Deployment, ITIL or TDD) is a plus Ability to express complex technical facts in English, German is a plusPersonality: 60% background in object-based programming 20% affinity for Networking, Cloud and Virtualization 20% pioneer spirit, happy to create ad hoc quick and dirty software solutions to fix a gap in the pipe

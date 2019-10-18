@@ -1,0 +1,371 @@
+SAP ME/MII SAP PP/PI, IIOT,SAP Leonardo, SAP Ariba, SAP S4HANA Digital Manufacturing, Solution Architect,
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+80 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9ÖsterreichSchweizEinsatzort unbestimmt
+Position
+Kommentar
+Full Stack SAP ME/MII/PCO Architect/Berater/Developer Technologieaufbereiter und Business Consult für IIOT, Senior-Consult OPC-Server Integration und Shopfloor Maschinendatenerfassung, Senior-Consult IoT-Services mit SAP, Mindsphere, Thingworx, Cumulocity IOT, Senior-Consultant SAP Ariba Senior-Consult für SAP HANA  Senior-Consult/Devloper/technical Lead für SAP ME/MII/Leonardo Senior-Architect/Developer Software AG Webmethods IS, BPM, mwm Senior Architect/Developer Softwarae AG IoT, Apama Senior Consult SAP UI5, WEBIDE, Analytics Cloud
+Projekte
+04/2019 - 05/2020
+
+1 Jahr 2 Monate
+
+SAP MES Architekt ERP HYDRA, IIOT
+
+Rolle
+MES Consultant, MES Solution Architect
+Kunde
+Schwan Stabilo GmbH
+Einsatzort
+Weissenburg
+Projektinhalte
+Unterstützung bei der Einführung von MES System HYDRA für Stabilo mit den Modulen BDE, MDE, DNC,Prozessdatenerfassung
+Schnittstellenkonfiguration zu SAP ERP System
+Beschreibung technische Architektur, Prozessarchitektur
+IDOC, BAPI Interfaces zu HYDRA definieren und konfigurieren, 
+ OEE Konfiguration, Maschinenanbindung mit OPC-UA-Server, Modbus-TCP, CT-UMPS, Siemens, Kepware, MQTT,
+Anbindung Spritzguss-Maschinen
+SAP DRF ( Distributed Replication Framework ) Customizing und Konfiguration im ERP
+POC für die Aufbereitung der Prozessdaten in Dashboards, Einsatz von SAP Analytic Cloud, statisctic Process Control ( SPC), Maschinen Learning Algorithmen 
+CodeSys IEC 16131-3 Programmierung von SPS, POC und UseCases für Maschinenanbindungen
+erster Einsatz von IOT Devices im Shopfloor
+10/2019 - 03/2020
+
+6 Monate
+
+Architekturberatung SAP MES-Layer
+
+05/2019 - 02/2020
+
+10 Monate
+
+Vorbereitung Template S4HANA digital Manufacturing und SAP MES und IIOT für Airbus DS
+
+09/2019 - 12/2019
+
+4 Monate
+
+IIOT Maschinendatenerfassung Airbus Helikopters
+
+04/2019 - 12/2019
+
+9 Monate
+
+SAP Cloud Architect für Analytic Cloud
+
+01/2019 - 04/2019
+
+4 Monate
+
+Enterprise Architect S4HANA global Template
+
+11/2018 - 02/2019
+
+4 Monate
+
+SAP S4/HANA Manufacturing und SAP MES, SAP Leonard
+
+05/2018 - 12/2018
+
+8 Monate
+
+SAP ME/MII Project - Consultant and Architect ( SME )
+
+05/2017 - 12/2018
+
+1 Jahr 8 Monate
+
+Spot-Consulting SAP ME/MII PCO
+
+01/2010 - 12/2018
+
+9 Jahre
+
+Ariba-Consultant für Punchout-Lösung Fleurop Firmenkundenportal
+
+08/2017 - 11/2018
+
+1 Jahr 4 Monate
+
+Digitalisierung einer Bank - API Banking 4.0
+
+10/2017 - 05/2018
+
+8 Monate
+
+Beratung und Aufbau POC SAP Manufacturing Execution SAP ME, SAP MII
+
+06/2017 - 07/2017
+
+2 Monate
+
+Consulting IoT-Services - Maschinendatenerfassung
+
+02/2017 - 06/2017
+
+5 Monate
+
+Einführung SAP OEE mit SAP MII, SAP PP/PI
+
+03/2015 - 06/2017
+
+2 Jahre 4 Monate
+
+Solution Architect SAP MII / ME SAPUI5 for Airbus
+
+10/2016 - 03/2017
+
+6 Monate
+
+SAP Integration Ariba/ SAP Hybris Webshop (Template for Europe Rollout)
+
+01/2014 - 06/2015
+
+1 Jahr 6 Monate
+
+21cng DAK, 360grd Sicht des Versicherten
+
+07/2013 - 12/2014
+
+1 Jahr 6 Monate
+
+Cloud Automation Architecture Consulting
+
+03/2012 - 11/2014
+
+2 Jahre 9 Monate
+
+Einführung SAP CRM und ECC 6.0 bei Kunden der SAP
+
+05/2014 - 10/2014
+
+6 Monate
+
+diverse Projekte
+
+04/2013 - 12/2013
+
+9 Monate
+
+diverse Projekte
+
+03/2012 - 12/2013
+
+1 Jahr 10 Monate
+
+Einführung SAP CRM und ECC 6.0 bei Kunden der SAP
+
+Erfahrung
+Mehr als 20 Jahre Erfahrung im Bereich IT-Beratung
+Langjährige Erfahrung im Bereich Integrationsberatung in zum Teil leitenden Funktionen als Architekt und technischer Projektleiter und Senior-Berater in internationalen IT-Projekten
+Weitreichendes Wissen in Design und Implementierung von JAVA Enterprise Applications und Orchestrierung von SOA-Implementierungen, Business Process Modellierung,
+Umfangreiche Kenntnisse der Schnittstellengestaltung von SAP SD/MM PP/PI zu Fremdsystemen
+Expertenwissen im Aufbau, Optimierung und Integration von Middleware-Produkten
+ Expertenwissen
+JAVA Plattform, Javascript
+Enterprise Edition (J2EE)
+Systemintegration von SAP Prozessen,
+IBM - MQSeries, Webshpere MQ, Websphere ESB, Websphere Message Broker, Talend ESB, Node-red IOT Services,
+Software AG Webmethods Suite ( IS, MWS , BPM, ProcessEngine, TN) Version 7, 8.2, 9.5, 9.7 9.8, 9.9, 9.12
+SAP Solution Manager 7.0-7.2,
+SAPUI5 1.22 – 1.44, Neptune Application Designer 4.0,
+SAP HANA XS, HANA IOT Services, WEBIDE on HANA, SAP HANA Cloud Platform,
+SAP-R/3 JAVA-Connector JCO
+SAP-R/3 MM/SD, PP/PI, PS, SAP SFDM ( Shop Floor Dispatcher)
+SAP Ariba Procurement Solution
+SAP Netweaver 7.50, SAP Netweaver Gateway 2.0
+SAP Business Connector 4.8,
+SAP Lumira, SAP Business Objects 4.2, Design Studio, development from Plugins
+SAP MII 11, 12.2, 12.6, 14.1, 15.1, SAP Plant Connectivity 15.1, 2.3., SAP UDS, OPC Server von Kepware und Matrikon, OPC-Agenten, Historian,
+Neptune Application Designer 2.0-4.0
+SAP Business Objects, SAP Business Objects Designer, Lumira 1.3
+  Standardprodukte
+diverse Software-Development Tools
+Electronic Data Interchange (EDI)
+ Frameworks
+log4j, java quartz scheduler , cxf webservices, REST webservices, JAXB, Spring 3.0 Framework, Java Messaging Service, CPP ( C++ Client for activemq ), Java joda time framework, SAPUI5 Framework, sencha touch, phonegab Javascript Framework, zk Framework, Java xWire-Framework, SAPUI5, Angular JS,Neptune AD 4.0
+ Branchenwissen Financial
+(XETRA, XONTRO, XENTRIC, MAXONE,SWIFT, FIX 4.2, 4.4)
+Automotive
+(VDA,Centro,Bosch ESI,RepDoc,AutoDat,Werbas,)
+Handel/Industrie
+(OCI,PunchOut-Kataloge,BMECAT-Formate,cXML,Ariba,EDIFAct,opentrans)
+RZ-Betrieb
+(ITIL,Ticketsysteme)
+Industrie 4.0
+(OPC-Server, OPC-Clients, SAP PCO, Simatic-Stack, SAP HANA IoT Services)
+Aereospace
+(Airbus Group, Airbus Global , Airbus Devence & Space)
+Schwerpunkte
+API Management
+technical Architect, REST Webservices
+Axway API Gateway
+ECC 6
+SAP ECC 6.0 / PM / PP / PP-PI / SD / MM
+SAP Gateway 2.0 / HANA /
+SAP ME/MII 15.2 / PCO
+SME, techn. Architect, Developer
+SAP PCo 2.2
+SAP WM
+SFDM Tool
+Siemens Mindsphere / PLC / OPC/
+Software AG Webmethods ESB
+technical Architect, Developer ESB
+webMethods 9.8
+Architektur von komplexen Business Lösungen,
+Manufactoring Performance Management, Production Planing,
+Manufactoring Intelligence & Integration, Manufactoring Executing Systems,
+E-Business
+Erstellung von Fachkonzepten
+Hardware-/Software-Integration
+Mehrschicht Webarchitekturen
+Schnittstellendefinition
+Serviceorientierte Architektur (SOA), Design, Orchestrierung, Implementierung
+Systemintegration
+Tuning von Anwendungen
+Betriebssysteme
+AIX
+HP-UX
+IOS
+Linux
+MAC-OS
+OPC-UA
+Red Hat
+Sinix
+Sun-Solaris
+UNIX
+Großrechner
+Windows
+8.1, 10
+Windows 2003,2008, 2012 Server
+Datenbanken
+Datenbankadministration DB2
+graphileon
+GraphQL
+IBM DB2
+jsp webdesign
+MariaDB
+MAXDB
+Microsoft SQL Server
+2012, 2014
+Microsoft SQL Server 2014
+mongo
+MS SQL Server 2014
+MSSQL
+2005/2008/2012/2014
+MYSQL
+neo4j
+Oracle
+Datenbank, Java, Oracle Designer, SOA Suite
+Oracle 11
+Oracle 11g
+SAP DB
+SAP HANA DB, SAP HANA Express
+seit 2013
+SAP MEINT
+SQL
+UTM
+Programmiersprachen
+ABAP
+Axway Policy Studio
+cXBL Adapter
+Enterprise Edition (J2EE)
+Grails
+Groovy
+Groovy Framework
+IEC 16131
+Java
+Java API for RESTful Web Services
+JAVA Platform 1.3, -1.6,7,8
+Javascript
+Kepware EX OPC-Server
+MSSQL Server
+nodejs
+Perl
+Phyton
+SAP Build
+SAPUI5 SAP MI SAP PCO SAP PP/PI
+Shellscript bash
+UML 2.0
+XML
+XSL
+XSLT
+Frameworks für UI
+Datenkommunikation
+Active Transfer
+Adobe Document Server
+API-Gateway
+Axway API
+cXML Adapter
+EDI
+EJB-Java
+JetBrains IntelliJ IDEA#
+Microsoft Reporting Writer
+Modbus
+MQTT
+OPC-Server
+OPC-UA-Server
+red hat keycloak
+SAP Adapter
+SAP Analytics Cloud
+SAP ECC 6.0 EHP8
+SAP MM
+SAP OOEINT
+SOAP-UI
+Trading Network
+Webmethods
+webmethods ESB
+Webservices REST
+Webservices SOAP
+Websphere MQ
+Design / Entwicklung / Konstruktion
+API Development
+Apriso
+JWT Token
+jwt-token security
+OPC Server
+PCO 15
+SAP ME 15.2
+SAP NWDS 7.50
+SAP S4HANA
+Siemens Mindsphere
+SSL
+thingworks
+Managementerfahrung in Unternehmen
+KANBAN
+SCRUM
+Aufgabenbereiche
+API, Payment, PSD/2
+Punchout/ e-Procurement / SAP Ariba
+S4/HANA
+SAP BI, predictive Anayltics, Analytics Cloud
+SAP ECC 6.0/SD,PM,PP/PI,MM,TS
+SAP IDOC/ALE
+SAP Leonardo
+SAP MES/MII/PCO, OPC-Server, IoT
+SAP S4HANA Manufacturing
+SAP Successfactor
+SAP UI5 WEBIDE Development
+Hardware
+Beckhoff-TwinCAT
+Fanuc
+Fanuc Roboter
+HANA DB
+KUKA
+Rockwell Automation
+S7
+Siemens IOT
+UniPi
+Wago
+Berechnung / Simulation / Versuch / Validierung
+SAP MES 15.3
+Ausbildungshistorie
+Ausbildung Dipl.-Ing. für Gerätetechnik, Friedrich Schiller Universität Jena  Zertifikate SUN Certified System Administrator ( SCSA) 1& 2 SAP PartnerEdge Business Intelligence

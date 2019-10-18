@@ -1,0 +1,61 @@
+Titel
+Spezialist Last- und Performance Tests (m/w/d)
+Beginn
+13.09.2019
+Dauer
+unbefristet
+Einsatzort
+Frankfurt am Main
+Beschreibung
+Die Leistungen des Auftragnehmers werden für das Programm PRISMA erbracht. Dieses hat folgenden Inhalt:
+
+Die verschiedenen Systeme, die für die Disposition in den 8 regionalen Betriebszentralen sowie in der Netzleitzentrale der DB Netz AG genutzt werden, werden bis Mitte 2020 in mehreren Projekten erneuert. Dabei handelt es sich derzeit um die folgenden Projekte (weitere werden perspektivisch hinzukommen).
+
+Die Abwicklung der Projekte erfolgt teilweise agil (iDIS, BBZ-DFI), teilweise nach konventionellem Wasserfall-Vorgehen, eingebettet in eine Programmstruktur, welche Ansätze aus SAFe nutzt.
+
+Das Programm PRISMA arbeitet unter Leitung der DB Netz AG. Für den Aufbau einer funktionsfähigen Programmstruktur als auch für die personelle Ausstattung einiger der Projekte wird Beratung gesucht.
+
+ 
+
+Leistungsbeschreibung:
+
+ 
+
+Für das Testmanagement im Projekt iDIS wird eine externe Fachkraft für die Entwicklung und Durchführung von Last- & Performanztests benötigt:
+
+ 
+
+Erarbeiten von Testszenarien basierend auf entwickelte Schnittstellen, Architekturdokumentationen und fachlichen Anforderungen
+Erstellung, Ausführung und Wartung von automatisierten Last- & Performanztests, sowie den dazugehörigen Szenarien
+Aufbereiten, sichern und zurücksetzen von Testdaten
+Visualisierung und Archivierung der Rohdaten aus der Testausführung
+Auswertung der Ergebnisse zur Identifikation von Flaschenhälsen bei Spitzenlast und des Systemverhaltens bei Überlast
+Bereitstellung notwendiger Daten, um die Softwareentwickler und -architekten bei der Verbesserung der Performanz und Skalierbarkeit zu unterstützen    
+Skills
+·        Sehr gute Kenntnisse in JMeter
+
+·        Erfahrung mit komplexen Systemarchitekturen
+
+·        Erfahrung mit synchroner und asynchroner Schnittstellenkommunikation
+
+·        Erfahrung im Testen von Backend-Applikationen
+
+·        Erfahrung im Testdatenmanagement für Last- und Performanztests
+
+·        Kenntnisse im Umgang mit einer Versionsverwaltungssoftware (git/svn)
+
+·        Kenntnisse in der Programmiersprache Java
+
+·        Kenntnisse in SQL
+
+·        Präsentationsfähigkeiten zur Darstellung von Ergebnissen in Gremien
+
+·        Aufbereitung der Ergebnisse der Lastläufe in geeigneter Darstellung für Stakeholder
+
+·        Strukturierte, sehr selbstständige und gründliche Arbeitsweise
+
+·        Schnelle Einarbeitung in neue Themen
+
+·        Soft Skills: Teamfähigkeit, Verantwortungsbereitschaft, Kommunikationsfähigkeit
+
+·        Kenntnisse der Tools: Jenkins, Jira, HP Quality Center (TMT)

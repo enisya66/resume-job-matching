@@ -1,0 +1,384 @@
+Java Backend, Spring, Cloud, JEE, Webservices, Microservices
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D8
+Städte
+München
+10 km
+Kontaktwunsch
+Ich möchte ausschließlich für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Position
+Kommentar
+technische/fachliche Programmierung
+Architektur
+Projekte
+04/2019 - 09/2019
+
+6 Monate
+
+Backend-Entwicklung
+
+Rolle
+Backend-Entwickler
+Projektinhalte
+ Automotive Java Backend-Entwicklung 04-2019-7.2019 (4 Monate - 50%)  Rolle: Entwickler Technologien: Java 8, Spring Boot, Spring Cloud, Spring Data, Cloud Foundry, AWS, Scrum Tools: Eclipse, Git, Gitlab, Gradle, PostgresDB, Junit, Mockito. Postman  (Weiter-)Entwicklung einer Microservice-basierter Client/Server Anwendungen. Backend-Entwicklung. Entwicklung von Rest-Services. Datenbank-Anbindung mittels Spring Data
+02/2019 - 06/2019
+
+5 Monate
+
+Java Backend-Entwicklung
+
+01/2018 - 12/2018
+
+1 Jahr
+
+Java Microservice/Backend-Entwicklung
+
+06/2017 - 12/2017
+
+7 Monate
+
+Java Fullstack Entwicklung
+
+02/2017 - 06/2017
+
+5 Monate
+
+Java-Backend-Entwicklung
+
+12/2015 - 11/2016
+
+1 Jahr
+
+Java Middleware Entwicklung
+
+09/2015 - 12/2015
+
+4 Monate
+
+Java-Fullstack Entwicklung
+
+06/2014 - 07/2015
+
+1 Jahr 2 Monate
+
+Java-Backend Entwicklung
+
+02/2014 - 05/2014
+
+4 Monate
+
+Java-Backend Entwicklung
+
+05/2013 - 01/2014
+
+9 Monate
+
+Java-Backend-Entwicklung
+
+01/2012 - 03/2013
+
+1 Jahr 3 Monate
+
+Java-Backend-Entwicklung
+
+09/2011 - 12/2011
+
+4 Monate
+
+Java Fullstack Entwicklung
+
+07/2008 - 08/2011
+
+3 Jahre 2 Monate
+
+Java-Backend Entwicklung
+
+04/2008 - 07/2008
+
+4 Monate
+
+Java-Fullstack-Entwicklung
+
+12/2007 - 03/2008
+
+4 Monate
+
+Java-Fullstack-Entwicklung
+
+02/2007 - 12/2007
+
+11 Monate
+
+Java Backend-Entwickler
+
+06/2005 - 02/2007
+
+1 Jahr 9 Monate
+
+Java-Client Entwicklung
+
+01/2005 - 05/2005
+
+5 Monate
+
+Migrationsanalyse
+
+10/2004 - 01/2005
+
+4 Monate
+
+Java-Fullstack-Entwicklung
+
+05/2004 - 07/2004
+
+3 Monate
+
+Architekturstudie
+
+08/2003 - 02/2004
+
+7 Monate
+
+Java-Backend Entwicklung
+
+05/2003 - 06/2003
+
+2 Monate
+
+Review
+
+08/2002 - 03/2003
+
+8 Monate
+
+Java-Client Entwicklung
+
+01/2002 - 07/2002
+
+7 Monate
+
+Java-Backend Entwicklung
+
+06/2001 - 12/2001
+
+7 Monate
+
+Java-Client Entwicklung
+
+02/2001 - 05/2001
+
+4 Monate
+
+Review
+
+02/2001 - 05/2001
+
+4 Monate
+
+Architektur-Analyse
+
+06/2000 - 02/2001
+
+9 Monate
+
+Java-Fullstack Entwicklung
+
+01/1999 - 05/2000
+
+1 Jahr 5 Monate
+
+Smalltalk Entwicklung
+
+05/1998 - 12/1998
+
+8 Monate
+
+Smalltalk Entwicklung
+
+01/1998 - 04/1998
+
+4 Monate
+
+Smalltalk Entwicklung
+
+08/1996 - 12/1997
+
+1 Jahr 5 Monate
+
+Smalltalk Entwicklung
+
+04/1995 - 07/1996
+
+1 Jahr 4 Monate
+
+Smalltalk Entwicklung
+
+Branchen
+Versicherungen ( > 6 Jahre)
+Banken (> 6 Jahre)
+Industrie (ca. 1 Jahr)
+Behörde (ca. 0,75 Jahre)
+Kompetenzen
+Betriebssysteme
+Windows
+Datenbanken
+DB2
+JDBC
+MS SQL Server
+Oracle
+Postgres
+PostgreSQL
+SQL
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+Hardware
+PC
+Datenkommunikation
+CICS
+div. Erfahrung Anbindung Host
+Internet, Intranet
+Message Queuing
+MqSeries
+MQ Series
+MQSeries
+TCP/IP
+Websockets
+Websphere MQ
+Programmiersprachen
+Angular
+Groovy Grails
+J2EE
+Java
+Java 6
+Java 7
+Java 8
+Java API for RESTful Web Services
+JAXB
+JaxWs
+JPA
+JSON
+JSP
+Smalltalk
+Produkte / Standards / Erfahrungen
+Apache Axis
+Apache Camel
+Apache CXF
+Apache JMeter
+Apache Lucene
+Apache Mq
+Apache Solr
+Apache Tomcat
+Atlassian JIRA
+Bitbucket
+Cloud Foundry
+Cloud Froundry
+Eclipse
+EhCache
+EJB
+Git
+Gitlab
+Gradle
+Hibernate
+IBM Visual Age for Java
+IBM VisualAge for Java
+IMS
+Java Swing
+JBuilder
+Jenkins
+Jetty
+Jira
+JMS
+JSF
+JUnit
+Kanban
+log4j
+Maven
+Mockito
+MQ Series Integrator
+OAuth-2
+Openshift
+OptimizeIt
+OSGI
+RabbitMq
+Redis
+REST
+Scrum
+Server Send Events
+SOAP
+Soap UI
+Solr Cloud
+SonarQube
+Spring
+Spring Batch
+Spring Boot
+Spring Cloud
+Spring Data
+Spring Integration
+Spring Ldap
+Spring MVC
+Struts
+Swing
+TopLink
+Visual Age for Smalltalk
+Visual Age Java
+Visual Studio Code
+WebLogic
+WebSphere
+Wily Introscope
+XML
+XSD
+XSLT
+Schwerpunkte: 
+Java (Seit 2001. Version 5 - 8)
+Java Backend-Enwicklung
+Spring (Seit 2013. Core, Data, Boot, Cloud, Batch)
+OSGI
+Microservices
+Service-orientiere Entwicklung (Rest, Soap, Axis, CXF, JaxWs)
+Middleware-Entwicklung.
+Asynchrone Kommunikation (Message Queuing)
+Objekt-Orientierte Software-Entwicklung
+J2EE (> 10 Jahre)
+Frameworks (Auswahl, Anwendung, Entwicklung)
+Einsatz in Großprojekten
+Agile Software-Entwicklung
+ Ausbildung: Abschluss Diplominformatiker FH 1995 Diplomarbeit zum Thema: Entwurf und Lösung des Stabbalance Problems über neuronale Netze und Fuzzy Control Systeme unter Objectworks / Smalltalk  Kenntnisse (mehrjähriger Projekteinsatz)):  Frameworks/Bibliotheken 
+J2EE (EJB, Servlets, JNDI, JTA, JMS, JavaMail, JAXP, JCA, Jax-WS, JSF, JSTL...)
+Objekt-Relationales Mapping (Spring Data, JPA, EJB2, EJB3, Hibernate, Toplink, Jdbc)
+OSGI (Equinox, Apache Aries, Enterprise-Osgi, Blueprint, Declarative Services)
+Webservices (Soap, RESTfull, JaxWS, JaxWs Security, Apache CXF, Axis)
+Rest Services (Jackson, Spring Rest Template, Spring Cloud Feign
+MVC-Frameworks (Struts, Java Server Faces (JSF), Grails)
+GUI (HTML, JSP, Facelets, Java Script, Swing)
+XML (XSD, Jaxp, JAXB, DOM, SAX)
+Solr/Lucence
+ Tools: 
+Git, Bitbucket, Gitlab
+Ecplise, Websphere Application Develper (WSAD),
+Websphere, Weblogic, Tomcat
+Websphere MQ, Camel, Kafka
+Maven, Gradle
+Hudson, Jenkins,
+Junit, Mockito
+JMeter
+Wily Introscope,
+SQL-Datenbanken (Microsoft SQL Server, Oracle, DB2, Postgres)
+Performace Optimierung (VisualVM, OptimizeIT, JProbe, Memory Analyzer Tool(MAT))
+ Vorgehensmodelle: 
+Scrum
+Ausbildungshistorie
+Abschluß Diplominformatiker FH 1995
+1995 - 1996 festangestellter Softwareentwickler
+ab 1996 selbständiger Berater

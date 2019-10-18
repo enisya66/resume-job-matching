@@ -1,0 +1,69 @@
+Titel
+Senior Engineer Cyber Security (m/w)
+Beginn
+01.11.2019
+Dauer
+31.12.2020
+Einsatzort
+Basel
+Beschreibung
+Main responsibilities:
+
+ 
+
+Amongst other tasks you will be in charge of the following:
+
+∙ Redact security requirements for the safe usage of cloud services
+
+∙ Develop scripts, tools and methodologies to continuously monitor cloud security
+
+∙ Find and help remediate deviations from internal security policies and general security best
+
+practices
+
+∙ Perform security assessments of software systems
+
+∙ Provide consultancy to developers and engineers to help them build secure software Systems
+
+Skills
+Required technical skills and experience:
+
+ 
+
+∙ Bachelor's degree in Computer Science
+
+∙ Security certifications such as CISSP, CEH, CISA an advantage
+
+∙ Cloud certifications such as AWS Certified Solutions architect, Security Specialty an advantage
+
+∙ Significant experience in AWS security and experience in at least one additional cloud technology
+
+(Azure or GCP)
+
+∙ Very good knowledge of Container Security, experience with Aqua Security an advantage
+
+∙ Very good knowledge of computer networks, software development and system engineering
+
+∙ Strong programming and scripting skills in several programming languages, including Java,
+
+JavaScript and Python
+
+∙ Experience with security monitoring tools and security testing tools
+
+∙ Experience in working with agile methodologies
+
+∙ Fluency in English (verbal/written), German language skills advantageous
+
+ 
+
+Additional Information:
+
+MUST HAVES: It is very important to have very strong cloud experience. Networking and programming skills are important too. The candidate needs to like Security and be willing to learn.
+
+ 
+
+NICE TO HAVE: Where is written “an advantage” is nice to have. Also container security is nice to have.
+
+ 
+
+Remote Work: You can work remotely one day per week.

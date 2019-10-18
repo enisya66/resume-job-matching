@@ -1,0 +1,19 @@
+Titel
+Softwaredeveloper (m/w/d)
+Beginn
+11.09.2019
+Einsatzort
+Frankfurt am Main
+Ihre Aufgaben
+Wartung und Weiterentwicklung der Unternehmenswebsite, der Benutzeroberfläche des Kundenkontos und diverser anderer Systeme
+Ihr Profil
+Sie verfügen über ein abgeschlossenes Masterstudium oder vergleichbare Qualifikationen
+Sehr gute Java-/JavaEE Kenntnisse sowie Erfahrungen in der Webentwicklung mit HTML, CSS und JavaScript
+Erste Erfahrungen in der testgetriebenen Entwicklung, Continous Integration und Teastautomatisierung
+Sicherer Umgang mit dem Frameworks Cucumber und IntelliJ
+Kenntnisse von Build Management Tools (bspw. Ant und Maven)
+Einsatz von regelmäßigem Refactoring, Pair Programming und Durchführung von Code Reviews
+Ausgeprägte Kommunikationsfähigkeit sowie ein offenes und selbstbewusstes Auftreten
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift sind zwingend notwendig
+ 
+

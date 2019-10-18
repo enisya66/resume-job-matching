@@ -1,0 +1,260 @@
+SAP Senior Professional Logistik-Berater Consulting & Development (MM, SD, LE, PP, WM, PM/CS, ABAP)
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Deutschland: deutschlandweit für max. 4 Tage/Woche vor Ort verfügbar, PLZ-Gebiet D3 bevorzugt, dann für 5 Tage/Woche verfügbar
+Position
+Projekte
+08/2015 - Heute
+
+4 Jahre 2 Monate
+
+SAP Logistik MM, SD, PP: Koordination Projekte und Support
+
+Rolle
+Mitglied im SAP AMS Team
+Kunde
+Maschinen-, Geräte- und Komponentenbau Automotive
+Einsatzort
+Lemgo
+Projektinhalte
+Beratung der Fachabteilungen bezüglich der technischen Lösungsmöglichkeiten für Aufgabenstellungen in der Logistik
+Technische Konzeptionierung bei der Weiterentwicklung der Logistik-Lösungen
+Realisierung der Konzepte (Customizing und ggfls. Entwicklung) im Rahmen von Projekten in den Modulen MM, SD, PP und LE.
+Selbstständige Umsetzungsplanung der Konzepte, Steuerung von Projekten bzw. Teilprojekten
+Second- und Third-level-support für Problemmeldungen im Bereich der Logistik-Applikationen
+Koordination der Problemmeldung für externe Dienstleister bei Durchführung und Abnahme
+Unterstützung externe Dienstleister bei SAP Basis Anforderungen wie EHP, Support-Packages, Early Watch Alert, etc.
+Schulung und Unterstützung der Fachbereiche und Keyuser
+Kenntnisse
+SAP-MMSAP-SDSAP-PPSAP-WMIT-KoordinationSAP BeratungSAP Basis
+Produkte
+SAP ECC 6.0
+01/2015 - 07/2015
+
+7 Monate
+
+SAP Retail Implementierung MM-IV Logistische Rechnungsprüfung
+
+12/2013 - 12/2014
+
+1 Jahr 1 Monat
+
+SAP Retail Support Stammdaten, Einkauf, Beschaffung, EDI
+
+09/2013 - 11/2013
+
+3 Monate
+
+Application-Support SAP SD und CS
+
+12/2012 - 08/2013
+
+9 Monate
+
+Rollout / Migrationsprojekt der EOI für SAP SD und CS
+
+06/2012 - 11/2012
+
+6 Monate
+
+Application-Support SAP SD und CS
+
+01/2012 - 05/2012
+
+5 Monate
+
+Projekt ATLAS – Demand Service Unterstützung
+
+04/2011 - 12/2011
+
+9 Monate
+
+Unterstützung Projektarbeit SAP SD, MM, WM
+
+12/2010 - 03/2011
+
+4 Monate
+
+Application-Support SAP SD und CS
+
+10/2010 - 11/2010
+
+2 Monate
+
+Einführung SAP ECC 6.0 Module MM
+
+06/2010 - 09/2010
+
+4 Monate
+
+Module SD – Frachtkostenauskunft / SAP ECC 6.0
+
+01/2010 - 09/2010
+
+9 Monate
+
+Wartung / Support After Sales Service SAP ECC 5.0 Module PM / CS / MM / SD / WM
+
+08/2009 - 12/2009
+
+5 Monate
+
+Implementierung SAP R/3 Deutschland - Releasewechsel
+
+07/2007 - 12/2009
+
+2 Jahre 6 Monate
+
+Implementierung After Sales Service in SAP ECC 5.0 Module PM / CS
+
+03/2006 - 06/2007
+
+1 Jahr 4 Monate
+
+Implementierung SAP R/3 Deutschland
+
+12/2006 - 04/2007
+
+5 Monate
+
+Archivierung der produktiven Daten im SAP R/3
+
+11/2004 - 03/2006
+
+1 Jahr 5 Monate
+
+Implementierung SAP R/3 Italien
+
+07/2004 - 10/2004
+
+4 Monate
+
+Remote Consulting für SAP in den Logistik Modulen LO, MM, LE, WM, PP
+
+01/2004 - 07/2004
+
+7 Monate
+
+Design und Realisierung einer Add-on Lösung im SAP für eine lieferantenseitige Bonusabwicklung
+
+09/2003 - 01/2004
+
+5 Monate
+
+Migration SAP R/3 4.6c Modul MM und LE
+
+05/2003 - 08/2003
+
+4 Monate
+
+Migration SAP R/3 4.6c Modul PM-EQM
+
+01/2003 - 05/2003
+
+5 Monate
+
+Mitarbeit im SAP CCC für SAP Anwendungen Support im Rahmen der SLA-Betreuung für 1st – und 2nd Level Supports Qualitätssicherung von Entwicklungen und von Consulting – Projekten Unterstützung bei Einführungs-, Migrationsprojekten, Releasewechsel
+
+01/2003 - 01/2003
+
+1 Monat
+
+Grundlagenschulung SAP CRM Release 3.0 - Stammdaten, Geschäftspartner, Treat Generierung, Lead
+
+05/2002 - 12/2002
+
+8 Monate
+
+Implementierung und Customizing SAP CRM Release 3.0
+
+Branchen
+Automobilzulieferer
+Druckerei
+Distribution / Logistik
+Energieversorung
+Handel / Retail
+Versandhandel
+Kompetenzen
+Betriebssysteme
+Windows
+tägliche Arbeit
+Datenbanken
+Microsoft Access
+tägliche Arbeit
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+fließend in Wort und Schrift
+Hardware
+PC
+tägliche Arbeit
+Programmiersprachen
+ABAP-OO
+Experte
+ABAP4
+Experte
+Datenkommunikation
+RFC
+Experte
+Produkte / Standards / Erfahrungen
+2nd Level Support
+Datenmigration
+Freigabe Bestellung
+Idocs
+LSMW
+Prozessberatung
+Releasewechsel
+SAP Archivierung
+SAP Basis
+SAP Beratung
+SAP CS
+3- 5 Jahre
+SAP Datenmigration
+SAP ECC
+SAP ECC 5.0
+SAP ECC 6.0
+SAP EDI
+SAP IS-R
+SAP IS-U
+SAP LO
+3- 5 Jahre
+SAP MM
+> 5 Jahre
+SAP MM-IM
+SAP MM-IV
+SAP MM-PUR
+SAP PM
+SAP R/3
+SAP Rechnungsprüfung
+SAP Retail
+SAP SD
+> 5 Jahre
+SAP Template Rollouts
+SAP WM
+2- 3 Jahre
+SAP-CS
+SAP-ECC 6.0
+SAP-MM
+SAP-PP
+SAP-SD
+SAP-WM
+Ausbildungshistorie
+seit 2007   freiberuflicher SAP Consultant / SAP Entwickler
+2004 - 2007 angestellter SAP-Inhouse-Consultant
+1993 - 2004 freiberuflicher SAP Consultant / SAP Entwickler
+1986 - 1993 festangestellter SAP Consultant in einer Unternehmensberatung
+bis 1986    Studium zum Betriebswirt(EDV) / Wirtschaftsinformatiker

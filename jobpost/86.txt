@@ -1,0 +1,19 @@
+Titel
+Trainer / Sparringspartner SAP BPC (m/w) 2 Tage flexibel planbar
+Beginn
+21.10.2019
+Dauer
+1 Monat
+Einsatzort
+Köln
+Beschreibung
+Unser Kunde möchte das SAP BPC noch besser kennenlernen und sucht für ein zweitägiges Inhouse Training einen Experten (w/m) für das SAP BPC.
+
+Der Fokus liegt hier auf "Planning Seite" und nicht auf der "Consolidation Seite"
+
+Ziel ist es, im System beim Kunden (SAP S/4HANA 1809 on premise) ein einfaches BPC Modell zum Laufen zu bekommen. Sie sind hier für interne Mitarbeiter Best-Practise-Geber/Sparringspartner.
+
+Im besten Fall findet die Schulung für zwei Tage zwischen dem 21.10.19 und 31.01.20 statt, hier ist der Kunde gewohnt flexibel in der Abstimmung.
+
+Skills
+SAP BPC

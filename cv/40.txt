@@ -1,0 +1,285 @@
+SAP Experte, SAP Entwicklung, SAP Workflow, SAP Integration, Application Architect
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+14.10.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+ÖsterreichSchweiz
+Städte
+Frankfurt am Main
+200 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+gerne Projekte im Bereich S/4, Transformation, Entwicklung, Services
+Projekte
+01/2019 - 09/2019
+
+9 Monate
+
+O2C - Integration
+
+Rolle
+SAP Beratung & SAP Entwicklung
+Kunde
+IT Services
+Einsatzort
+Rhein Main
+Projektinhalte
+Tätigkeiten: 
+Biz-Analyse, Durchführung interdisziplinärer Workshops (Biz/Tech/Compliance-Scoping), Prototyping, Stakeholder Reporting
+Architektur-Entwicklung SD-BIlling Genehmigungs-Workflow (dokumentbasiert, greenfield + best-practice)
+MVC/P-Framework Development, Factory, Package-Development
+Entwicklung, Entwicklungskoordination, KT, Phase-2 Onboarding
+12/2016 - 09/2018
+
+1 Jahr 10 Monate
+
+Transformation VIM (Vendor Invoice Management)
+
+Rolle
+SAP Beratung & SAP Entwicklung
+Kunde
+IT Services
+Einsatzort
+Rhein Main
+Projektinhalte
+Tätigkeiten: 
+Biz-Consulting, Technology Consulting
+Durchführung Proof-of-Concept zur Ablösung einer Lotus Notes-C/S Appl.Architektur(On-Premise) durch eine ServiceNow-Integration (Private Cloud Enabling)
+E2E-Projektsteuerung, A2A-Entwicklung/-koordination, Erstellung Spezifikation für SAP-PI, ServiceNow-Integration für den bi-direktionalen Datenaustausch von Lieferantenrechnungen, Dokumenten und Stammdaten
+Adaption SAP VIM-Interface-Layer, Konfiguartions Mgmt für den Parallelbetrieb (LN/ServiceNow)
+Integrationstest, Deployment, Übergabe DevOp
+Application Management & Services, KT, Onboarding 2nd Level Support
+04/2015 - 11/2016
+
+1 Jahr 8 Monate
+
+Neuintegration SAP IS-H Patiententelefonie
+
+01/2014 - 03/2015
+
+1 Jahr 3 Monate
+
+P2P - Migration / Carve-Out
+
+01/2012 - 03/2012
+
+3 Monate
+
+Financial Services
+
+02/2011 - 08/2011
+
+7 Monate
+
+ISIS Project Harmonization
+
+01/2009 - 12/2009
+
+1 Jahr
+
+Adaption e-Invoicing (Vendor Invoice Mgmt.)
+
+02/2004 - 02/2005
+
+1 Jahr 1 Monat
+
+Rollout Australia – ODC Einführung
+
+Projekthistorie
+ 
+Branchen
+Consulting
+IT Application Service Provider
+Financial Services
+Healthcare
+Dienstleistung
+Produktentwicklung
+Kompetenzen
+Produkte / Standards / Erfahrungen
+ABAP Performance Analyse
+ABAP Performance Tuning
+ABAP Training
+ABAP/4 (R/3 3.1G - SAP ECC 6.0 EHP 8)
++++, S/4 HANA +, SAP HCP+
+ABAP/4 Development Workbench
++++
+Acceptance test
+Agile Entwicklung
+++
+Analysefähigkeiten
+++
+Application Programming Interface
++++
+Architecture
+++
+B2B
+Build.me
+Business Workflow
++++
+Continues Integration
+Cost-Element-Ledger
+Data-Migration
+Electronic Bill Presentment and Payment
+electronic procurement
+Enhancements
++++
+Excel
++++
+GoLiveSupport
+GPM/PMI
+IDOC
++++
+IDOC: INVOICxx
++++
+Intercompany Transaction
+Konditionstechnik
+Logistische Rechnungsprüfung
+++
+MM-Einkauf
+MS Teams
+MS Visio
+Produktentwicklung / Package Development
+SAP Accounts Payable
+SAP Accounts Receivable
+SAP ALE - Technologie
+++
+SAP ArchiveLink
+++
+SAP BP
+SAP Cloud Communication / Enablement
++
+SAP Customer-Enhancement (BADI, User-Exit, Enhancement Framework)
++++
+SAP ECC
+SAP ECC 6.0
++++
+SAP EDI/IDoc (Entwicklung, Erweiterung, Customizing, Partner, User-Exit, Monitoring)
++++
+SAP FI
+SAP FI AP
+SAP FI GL
+SAP FI/CO
+SAP HCM
+SAP IS-H
+SAP LSO
+SAP MasterData
+SAP Migration / Transformation / Carve-Out
+++
+SAP MM Einkauf
+SAP MM-IV-LIV
+SAP MM-Purchasing
+SAP Netweaver
+SAP Performance Builder
+SAP Process Integration
+++
+SAP PS
+SAP SCM
+SAP SD
+SAP Solution Manager (ITSM-Charm)
+SAP WebDypro (WD4A)
+++
+SAP Workflow
++++
+SAP Workflow Management
++++
+SCRUM
+SD-Faktura
+ServiceNow
+SOAP
+SoapUI
+TDD/XP
+W/V-Model
+Design / Entwicklung / Konstruktion
+ABAP WebDynpro
+++
+ALE - Technologie (Verteilungsmodel, Filter, IDoc, BAPI, SMD)
++++
+BAPI
++++
+EDI/IDoc (Entwicklung, AddOn, Konfiguration, Partner, User-Exit, Monitoring)
++++
+MVC
++++
+n-Tier Architektur Entwicklung
++++
+OO - Design Pattern
++++
+OOA
++++
+OOD
++++
+RFC Technology
++++
+SAP Customization
+SAP IDOC
++++
+SAP PI
+++
+SAP Smart Forms
+WEB Services
+++
+Programmiersprachen
+ABAP
++++
+ABAP-Objects
++++
+JAVA
+++
+others
+Datenbanken
+Lotus Domino
+OO-Persistence
+Relational Database
+Sybase/HANA
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch: gut
+Datenkommunikation
+Internet
+SOAP, ODATA, XML, EDI
+SAP-RFC
+TCP/IP
+Bemerkungen
+Branchenerfahrung: 
+Unternehmensberatung
+IT Application Service Provider
+Financial Services
+Healthcare
+Dienstleistung
+Produktentwicklung
+  Fachliche Erfahrung: 
+langjährige Erfahrung im Bereich SAP-Anwendungs-, Integrations-, Workflow-Entwicklung und Beratung, Unternehmensberatung
+Schwerpunkte im Bereich Finance & Logistics (u.a.), SAP Technology Consulting
+nationale und internationale Implementierungs-, Rollout-, Migrations-, Transformations-Projekte und SAP Application-Mgmt. und Services
+ Kenntnisse - Methoden:
+ 
+GPM/PMI, W/V-Model, Agile, XP, Spiral, Continues Integration, OOA, OOD
+ Soft-Skills: 
+analytisches und logisches Denken
+schnelle Auffassungsgabe
+sorgfältige und strukturierte Arbeitsweise
+selbstständiges Arbeiten und Teamfähigkeit
+interkulturelle Kompetenz
+Ausbildungshistorie
+OpenSAP - Build Mobile Applications with SAP Cloud Platform Mobile Services (2019.09 - cert.)
+OpenSAP - Intelligent Enterprise User Experience with SAP Fiori 3 (2018.08)  
+OpenSAP - SAP Cloud Platform Essentials (Update Q3-2017 – cert.)
+OpenSAP - Extending SAP S/4HANA Cloud and SAP S/4HANA (2017.10 – cert. )
+OpenSAP - Rapid Deployment of SAP Solutions (Update Q1-2015 – cert.)
+OpenSAP - ABAP Development for SAP HANA (Q4-2015)
+GW100 - SAP Gateway – Building OData Services (SAP, Walldorf 2015.06)
+BIT400 - SAP Netweaver Process Integration 7.3 (SAP, Walldorf 2014.09)
+NET310 - WebDynpro ABAP (SAP, Walldorf 2011.03)
+AC210 Das neue Hauptbuch (SAP, Ratingen, 2010.04)
+Business Architect Qualifizierung (CSC, Kiedrich 2002.04)
+BC411, BC412 - ABAP++ (Walldorf, 1998, 2000)
+Studium: Abschluss Diplom-Informatiker (TH Köln/Campus GM, 1993 -1998)

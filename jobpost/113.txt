@@ -1,0 +1,41 @@
+Titel
+Java / Frontend Developer (m/w/d) *hoher Remote-Anteil*
+Beginn
+21.10.2019
+Dauer
+31.03.2020
+Einsatzort
+Kiel
+Beschreibung
+Für unseren Kunden, ein Dienstleister im Bereich der Finanzinformation, suchen wir ab sofort 4 Java / Frontend Developer (m/w/d).
+
+ 
+
+Beim Kunden arbeiten zwei Projektteams an unterschiedlichen Kundenaufträgen. Diese beiden Teams sollen mit jeweils 2 zusätzlichen Ressourcen unterstützt werden, um die Projektabwicklung zu beschleunigen.
+
+ 
+
+Der Einsatz kann nach einer Einarbeitung auch überwiegend "remote" erfolgen. Teilzeitauslastungen sind möglich, Vollzeit wird bevorzugt.
+
+ 
+
+ 
+
+Skills
+Java Spring Boot
+
+Hibernate
+
+Kubernetes
+
+Docker
+
+Microservices
+
+Angular
+
+MySQL
+
+ElasticSearch
+
+REST-API (Design)

@@ -1,0 +1,38 @@
+Titel
+Softwareentwickler Java (m/w/d)
+Beginn
+01.11.2019
+Einsatzort
+Hamburg
+Ihre Aufgaben
+Sie entwickeln im Bereich BackEnd Projects individuelle Softwarekomponenten, hauptsächlich in Java zur Anbindung von biometrischen Diensten und SDKs an die Systeme der Kunden
+Sie kümmern sich um die Integration externer Systeme
+Sie erhalten durch die Arbeit innerhalb eines Fullstack-Projektteams einen bereichsübergreifenden Einblick und arbeiten an kompletten Systemen mit
+Sie begleiten die Erweiterung des Portfolios an Systemlösungen von der ersten Kundenanfrage bis hin zur Übergabe an den Kunden
+Sie bereiten die Systeme für das Deployment in der Zielumgebung beim Kunden (meist Linux und Unix-Systeme) mit besonderem Fokus auf Automatisierung, z.B. durch Ansible vor
+Sie wirken mit bei der Automatisierung von Last- und Integrationstests, wobei vor allem Docker und Jenkins eingesetzt werden
+ 
+
+Ihr Profil
+Folgendes sollten Sie unbedingt mitbringen:
+
+Sie verfügen über gute Kenntnisse und Erfahrung im Programmieren mit Java sowie Spring Boot und Spring Data
+Sie bringen gute Kenntnisse und Erfahrung im Umgang mit Linux und Unix-Systemen sowie Shellprogrammierung mit 
+Sie haben Freude an der Projektentwicklung im internationalen Umfeld
+Sie sind neugierig auf den fachlichen Austausch mit anderen Bereichen
+Sie haben Spaß an gelegentlichen Dienstreisen
+Sie bringen sichere Sprachkenntnisse in Deutsch und Englisch mit 
+ 
+
+Folgendes wäre wünschenswert:
+
+Erfahrungen mit Betriebsaufgaben (Deployment, Monitoring, ...)
+Erfahrungen mit Docker und Kubernetes
+weitere Fremdsprachenkenntnisse
+Wir bieten außerdem
+Anspruchsvolle Projekte im internationalen Umfeld
+Umgang mit neuen Technologien im Umfeld der Biometrie
+Eine interessante, abwechslungsreiche und herausfordernde Tätigkeit in einem hochmotivierten Team
+Flexible Arbeitszeiten
+Eine leistungsgerechte Vergütung
+HVV-ProfiCard, Sodexo-Gutscheine

@@ -1,0 +1,24 @@
+Titel
+SPS-Entwickler (m/w/d)
+Beginn
+01.10.2019
+Dauer
+29.02.2020
+Einsatzort
+Hamburg
+Beschreibung
+Unser Kunde, ein Unternehmen aus Hamburg, sucht ein SW-Entwickler (m/w/d). 
+
+ 
+
+Ihre Aufgaben:
+
+Programmierung von Software-Funktion für Kunden Projekte auf einem modularen System Controller in der Programmiersprache Structured Text (IEC 61131-3). 
+Erstellung von Software für Vakuum System Varianten
+Erstellung von Dokumentation mit der DIN EN 50128:2012
+Konfiguration von Testframeworks für Entwicklungstests auf Basis von LabView
+Testautomatisierung mit Python
+ 
+
+Skills
+sehr gute Kenntnisse mit SPS / IEC 61131-3 (Must-Have) Python, LabView (Nice-to-Have) C, C++ (Nice-to-Have) Netzwerkkenntnisse: CAN, IP-basierte Netzwerkprotokoll z.B. IPTCOM, UDP, TRDP (Nice-to-Have) Methoden: EN 50128, KANBAN, V-Modelle, Scrum (Nice-to-Have)

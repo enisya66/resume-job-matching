@@ -1,0 +1,31 @@
+Titel
+Applikationsentwicklung mit Python und Java
+Beginn
+04.11.2019
+Dauer
+3 Monate
+Einsatzort
+Stuttgart
+Beschreibung
+Wir suchen für unseren Kunden im Raum Stuttgart einen erfahrenen Python-/Java-Entwickler (m/w/d), der ihn bei der Entwicklung einer Applikation im Bereich Simulationsdatenmanagement unterstützt.
+
+ 
+
+Projekthintergrund:
+
+Die suchende Abteilung kümmert sich um die gesamte IT Toolkette für den Produktentwicklungsbereich. Aktuell wird im Bereich PLM/SDM noch eine kommerzielle Lösung eingesetzt, die aber abgelöst werden soll. Für die Übergangszeit möchten sie nun ein Toolkit verwenden, welches außerhalb der bisher genutzten SDM-Lösung SDM = Simulationsdatenmanagement) arbeitet.
+
+ 
+
+Geplante Features der Anwendung:
+
+Benutzeroberfläche für Windows (evtl. zusätzlich für Linux), von der aus eine standardisierte Ordnerstruktur für neue Simulations
+Eine Kopplung per XML Schnittstelle an die Simulations-Auftragsverwaltung (hier ist bereits eine Schnittstelle vorhanden), soll es ermöglichen, Attribute aus dem Simulationsauftrag für die Benennung einzelner Ordner in der Struktur zu verwenden
+Weitergabe von Attributen an Scripte über einen zentralen Sammler
+Implementierung von standort-basierten Abläufen für drei Simulationsstandorte (Scripte und Routinen sollen auf lokaler Infrastruktur bzw. Pfadstrukturen für Server und High Performance Computing Systeme ausgeführt werden)
+Der Einsatz erfolgt in einem agilen Projekt- bzw. Programmierumfeld.
+
+Der Kunde wünscht sich eine Auslastung von 4-5 Tagen/Woche. Eine Remoteoption besteht ggf. - muss aber noch abschließend geklärt werden. 
+
+Skills
+praktische Erfahrung in der Applikationsentwicklung mit Javapraktische Erfahrung in der Applikationsentwicklung mit Pythonoptional: Kenntnisse weitere Skriptsprachen, wie bash/shell etc.

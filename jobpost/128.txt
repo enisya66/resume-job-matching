@@ -1,0 +1,27 @@
+Titel
+Junior Softwareentwickler (m/w/d)
+Beginn
+01.11.2019
+Einsatzort
+Hamburg
+Ihre Aufgaben
+Sie entwickeln Applikationen und Module mit zentraler Bedeutung in Zusammenarbeit mit den internen Kunden 
+Sie arbeiten mit innovativer Software (.NET, Visual Studio 2017, Web API, MS-SQL 2014, TFS 2015)  
+Außerdem sind Sie verantwortlich für den Themenschwerpunkt „interne Unterauftragsvergabe“
+Sie arbeiten mit Business Analysten und verschiedenen Stakeholdern von der User Story bis zum Rollout zusammen
+Sie führen den Know-how-Transfer bezüglich der von Ihnen verantworteten Neu- und Weiterentwicklungen an die Teamkollegen durch 
+Ihr Profil
+Folgendes sollten Sie unbedingt mitbringen:
+
+Abgeschlossenes Studium im Bereich IT mit Schwerpunkt in der Softwareentwicklung oder eine vergleichbare Ausbildung 
+Sie haben erste Berufserfahrung in der Softwareentwicklung - idealerweise auch in internationalen Projekten
+Außerdem haben Sie praktische Erfahrung mit C# sowie gute Kenntnisse im Entity Framework, Angular 5+ und MVVM
+Kenntnisse für Clean Code/TDD sowie sicherer Umgang mit Patterns & Principles
+Idealerweise Kenntnisse im Bereich DDD und WPF
+Folgendes wäre wünschenswert:
+
+Sie bringen eine hohe Leistungsbereitschaft, Teamfähigkeit sowie Spaß an der Softwareentwicklung mit
+Ihre Englischkenntnisse sind sehr gut in Wort und Schrift 
+Sie sind kommunikationsfähig und haben eine offene Persönlichkeit 
+Sie haben bereits Erfahrungen in serviceorientierten Architekturen
+Kenntnisse von Laborsoftware bzw. Labor-Informations- und Management-Systemen (LIMS) sind vorteilhaft

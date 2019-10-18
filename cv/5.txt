@@ -1,0 +1,200 @@
+Senior Berater, Spring, J2EE, Java, Python, JavaScript, C#, .NET, C++, Oracle, SQL, Scrum, Agil, EIP
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.12.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9SchweizEinsatzort unbestimmt
+Städte
+Hamburg
+20 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+06/2019 - Heute
+
+4 Monate
+
+Aufbau Portals für Analyse von Softwareprojekten
+
+04/2018 - Heute
+
+1 Jahr 6 Monate
+
+Beratung & Entwicklung Implementierung Restful Webservices
+
+04/2017 - 02/2018
+
+11 Monate
+
+Entwurf & Umsetzung HTML5-Prototyp als Swing-GUI Ablösung
+
+02/2014 - 03/2017
+
+3 Jahre 2 Monate
+
+Neuentwicklung verschiedener Projekte & Maintainance
+
+04/2013 - 12/2013
+
+9 Monate
+
+Refactoring & Maintainance
+
+01/2011 - 12/2012
+
+2 Jahre
+
+Neuentwicklung Plattform für Logistikprozesse
+
+07/2009 - 12/2010
+
+1 Jahr 6 Monate
+
+diverse Projekte
+
+03/2006 - 06/2009
+
+3 Jahre 4 Monate
+
+diverse Projekte
+
+Kompetenzen
+Programmiersprachen
+Ajax
+Assembler
+Basic
+C
+C#
+C++
+D3.js
+Imake, GNU-Make, Make-Maker etc...
+Java
+Java 5
+Java 6
+Java 7
+Java 8
+Java 9
+JavaScript
+JPA
+JSON
+Maschinensprachen
+Pascal
+PHP
+PL / SQL
+PL/SQL
+Python
+Scriptsprachen
+Shell
+TeX, LaTeX
+UML
+Betriebssysteme
+Linux
+Microsoft Windows
+MS-DOS
+3.x - 6.x
+pSOS
+Unix
+Windows
+95, 98, ME, NT, 2000, XP, Vista, 7
+Datenbanken
+DB2
+H2
+JDBC
+MySQL
+Oracle
+Oracle 11
+Postgres
+PostgreSQL
+SQL
+HQSL
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+Fließend
+Japanisch
+Anfänger
+Hardware
+Digital
+Digitale Signalprozessoren
+embedded Systeme
+Messgeräte
+Mikrocontroller
+Motorola
+PC
+PLD, FPGA
+Sensoren
+Soundkarten
+Datenkommunikation
+CORBA
+Internet, Intranet
+Produkte / Standards / Erfahrungen
+ActiveMQ
+Ant
+Apache ActiveMQ
+Apache Camel
+Apache Tomcat
+Bamboo
+Checkstyle
+Confluence
+CVS
+Django
+Doxygen
+Dynatrace
+Eclipse
+Eclipse RCP
+EJB3
+Enterprise Architect
+FindBugs
+Git
+Gradle
+Hibernate
+HTML5
+Hudson
+Java Swing
+JBoss
+Jenkins
+JetBrains IntelliJ IDEA
+Jetbrains PyCharm
+Jetty
+JIRA
+JProfiler
+JUnit
+JUnit 5
+Keycloak
+Maven
+Maven 2
+Microsoft Visio
+Mockito
+Mylyn
+OOA
+Oracle PL/SQL Developer
+Oracle Weblogic AppServer
+PLSQLDeveloper
+PMD
+RabbitMQ
+REST
+Scrum
+SoapUI
+Sonar
+Spring Framework
+Stash
+SVN
+SwaggerUI
+TestNG
+Tomcat
+utPLSQL
+VirtualBox
+Wicket
+Eclipse PL/SQL-Developer Enterprise Architect Jenkins JIRA SVN NetBeans Maven Hudson UML Oracle Weblogic
+Berechnung / Simulation / Versuch / Validierung
+Scilab Processing
+Ausbildungshistorie
+Bachelor of Computer Sciences (BsC) University of Applied Sciences, Hamburg

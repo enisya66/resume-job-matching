@@ -1,0 +1,266 @@
+Java EE Anwendungsentwicklung Full-Stack, EJB, Spring, Hibernate, Wicket, JSF, JSP, Javascript, vers. DBs
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.11.2019
+verfügbar zu
+100 %
+davon vor Ort
+80 %
+PLZ-Gebiet, Land
+D2D7
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Hamburg und Umgebung
+Position
+Kommentar
+Software Consultant. Auch gerne Architekturthemen und Scrum.
+Projekte
+06/2017 - 10/2017
+
+5 Monate
+
+Internet of Things – Distributed Messaging System
+
+Kunde
+Telematik-Branche
+Projektinhalte
+Startup Neuentwicklung Verteilte Anwendung – Cloud, Private. Neueste Technologien.
+Produkte
+AWS SQS Java 8 Spring (Boot) 4REST GPB Kafka Druid MongoDB Jira Jenkins
+11/2016 - 06/2017
+
+8 Monate
+
+Digitaler Einkommenscheck - Produkteröffnungsstrecken
+
+Kunde
+ING DiBa Kredit Konsum
+Projektinhalte
+Anbindung Digitaler Einkommenscheck im Frontend, Krediteröffnungsstrecken
+Kenntnisse
+Wicket 7 Java 7 Spring 4REST jQuery Mockito JUnit Jira Jenkins Git Scrum
+03/2016 - 11/2016
+
+9 Monate
+
+OASIS 4.0 – Camunda Cockpit Plugin
+
+12/2015 - 01/2016
+
+2 Monate
+
+Integration Payment Systeme
+
+09/2015 - 10/2015
+
+2 Monate
+
+Daten-Visualisierung mit D3.js
+
+09/2014 - 08/2015
+
+1 Jahr
+
+Senior JEE Entwickler
+
+11/2013 - 07/2014
+
+9 Monate
+
+Consultant Audi WTF bei OptWare GmbH
+
+03/2013 - 11/2013
+
+9 Monate
+
+Consultant BMW LTerm STAR Release 2013
+
+01/2013 - 03/2013
+
+3 Monate
+
+Consultant BMW iBeam Release 2013
+
+08/2012 - 10/2012
+
+3 Monate
+
+Software Engineer Java
+
+11/2011 - 07/2012
+
+9 Monate
+
+Java Frontend-Entwicklung Apache Wicket
+
+02/2011 - 10/2011
+
+9 Monate
+
+Consultant Java EE Entwicklung bei der pbb
+
+08/2010 - 01/2011
+
+6 Monate
+
+Consultant BMW Connected Drive Platform
+
+02/2010 - 06/2010
+
+5 Monate
+
+Java Web- und Backend Entwickler
+
+12/2009 - 02/2010
+
+3 Monate
+
+Java Software Entwickler für die direkt + online GmbH
+
+02/2009 - 09/2009
+
+8 Monate
+
+Testingenieur Adserver für Chors GmbH
+Branchen
+bevorzugt:
+Softwarehersteller
+Medizintechnik
+Pharmazie
+Banken
+Versicherungen
+Kompetenzen
+Programmiersprachen
+Assembler
+Experte, Motorola 68000, OS/390
+C
+Experte
+C++
+fortgeschritten
+Java
+Experte
+Java 8
+JavaScript
+Experte
+Pascal
+sehr gut
+Betriebssysteme
+Linux
+gut, Scripting
+MS-DOS
+etwas
+MVS, OS/390
+Grundkenntnisse
+Unix
+gut
+IBM TPF
+Datenbanken
+Access
+Anwenderkenntnisse
+Druid
+JDBC
+Experte
+JPA
+Experte
+MongoDB
+MySQL
+MySQL 5.0 Certified Developer
+Oracle
+Experte
+SQL
+Experte
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+fließend, verhandlungssicher
+Französisch
+Grundkenntnisse
+Italienisch
+etwas
+Spanisch
+un poco
+Produkte / Standards / Erfahrungen
+AWS
+Eclipse
+Jenkins
+JIRA
+Scrum
+Spring Boot
+Spring REST
+SQS
+Webapplikationen
+Desktopapplikationen
+Middleware (Front- und Back-End)
+Datenübernahme
+Bildverarbeitungsverfahren in Echtzeit
+
+Eclipse 3, NetBeans 5
+MS Visual Studio   Java
+Java 5, 6, 7, 8 SE
+Java 5, 6, 7 EE
+Apache Wicket
+JSF / Mojarra / RichFaces
+GWT – Google Web Toolkit
+Spring MVC
+Swing
+EJB 3 / JPA 2
+EclipseLink
+Hibernate
+Spring
+JBPM / BPM
+Apache Lucene
+HTML 4, CSS 2
+HTML 5, CSS 3
+Javascript, jQuery, d3
+
+Web / Application Server
+Apache Tomcat
+GlassFish
+WebLogic
+JBoss
+  IDEs
+Eclipse
+Datenkommunikation
+Google Protocol Buffer
+HTTP
+httpd
+Kafka
+Aus- und Weiterbildung
+04/2006 - 07/2006
+
+4 Monate
+
+Anwendungsentwicklung mit Java
+
+02/2006 - 04/2006
+
+3 Monate
+
+Datenbankentwicklung mit MySQL
+
+05/2003 - 04/2004
+
+1 Jahr
+
+TPF Trainee
+
+02/2000 - 04/2000
+
+3 Monate
+
+VP/MS
+
+04/1993 - 01/2000
+
+6 Jahre 10 Monate
+
+Mathematik-Studium
+
+Ausbildungshistorie
+Zertifikate 2009 Sun Certified Java Programmer, Standard Edition 6  2006 MySQL 5.0 Certified Developer  2002 – 2004 UNIX und Linux Administration  2003 TPF Assembler und TPF C  2000 VP/MS Produktmodellierer
+

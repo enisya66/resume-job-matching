@@ -1,0 +1,244 @@
+Funktion		Testmanagerin & Testdesignerin, Analytikerin, Prozessberaterin, Programmiererin	
+Schwerpunkte
+
+Schulbildung		Testmananagement, Testdesign, Anforderungsanalyse, Projektmanagement
+Fachhochschulreife	
+Ausbildung/Beruf	
+08/18 – heute
+02/05 – heute
+		Testmanagerin & Testanalytikerin bei ProUnix GmbH in Bonn
+Selbständigkeit: Claudia Neu Anwendungsentwicklung
+Testmanagerin, Testdesignerin, Analytikerin bei Techem GmbH, Eschborn und bei Berner GmbH in Köln
+11/11 – 07/17		Testmanagerin, Testdesignerin, Analytikerin, DB Systel GmbH, Frankfurt
+10/10 – 10/11		Risk Analytikerin,  RWE, Essen
+12/09 – 09/10		Prozessmodelliererin, BAYER AG, Leverkusen
+02/05 – 11/09
+02/05 – heute
+01/05		Programmiererin, Telekom AG, Bonn & Commerzbank AG
+Selbständigkeit: Claudia Neu Anwendungsentwicklung
+Fachinformatikerin, FR Anwendungsentwicklung 
+Fremsprachensekretärin und Justizfachangestellte
+Weiterbildung		
+2013                                ITIL Foundation Certificate
+2018                                ISTQB Certified Tester Foundation Level
+2018                                ISTQB Certified Advanced Testmanager 
+2019                                PRINCE2 Foundation Level
+Fähigkeiten und Kenntnisse
+
+	2013: ITIL Foundation Certificate 
+	2018: ISTQB Certified Tester Foundation Level
+	2018: ISTQB Certified Advanced Testmanager  
+	2019: PRINCE2 Foundation Level
+	Entwicklung und Begleitung von Softwaretestverfahren
+	Erfahrungen mit Scrum und agiles Testing 
+	Testautomatisierung von Weboberflächen mit Java, PHP, Selenium 
+	Umgang, Erstellung, Pflege und Test von Content Management Systemen (CMS) ECM, Typo3 und andere und Testen von Webshops
+	Guter Umgang mit SQL und UNIX
+	Planung des Projektes unter Einbezug der gesamten Anforderungen
+	Vermittlung zwischen Product Ownern und Entwicklern
+	Entwickeln und Durchführen von Tests (inkl. automatisierten Regressionstest)
+	Abweichungsmanagement
+	Motivation des Entwicklerteams
+Kompetenzen
+
+	Tiefgehende Kenntnisse in SOAPUI und deren Peripheriebereichen
+	Sehr gute Erfahrung in der Modellierung von Geschäftsprozessen
+	Sichere Anwendung von MS-Office-Produkten
+	Erfahrung im Projektmanagement
+	Hohe analytische und konzeptionelle Problemlösungsfähigkeit sowie gute Koordinationsfähigkeiten
+	Selbstständige, strukturierte, lösungsorientierte und proaktive Arbeitsweise
+	Sehr gute Team- und Kommunikationsfähigkeiten
+	Großes Engagement, hohe Einsatzbereitschaft und Eigeninitiative
+	Sehr gutes Analyse- und Urteilsvermögen
+	Hohes Maß an Verantwortungsbewusstsein und Flexibilität
+	Sicheres Auftreten
+
+
+
+Tätigkeitsschwerpunkte 
+	Testmanagement, Testdesign, Testautomatisierung in klassischen und agilen Teams
+	Aufdecken von Lücken im IT-Konzept und Lösungsfindung
+	Durchführung von Systemtest, Modultest, Integrationstest und Abnahmetest
+	WhiteBox Test
+	BlackBox Test
+	Testen mit den Tools des Herstellers TIBCO und SAG
+	Absetzen von SQL-Statements zum Datenabgleich
+	Nutzung von relationalen Datenbanken (POSTGRES, ORACLE, MS SQL) 
+	Nutzung von SOAP UI zur Testautomatisierung
+	Testautomatisierung mit Java Selenium (zwei Eigenentwicklungen)
+	Testautomatisierung mit MS Access (Eigenentwicklung)
+	Testautomatisierung mit dem BPT Wrapper – HPQ ALM
+	Erstellung von Testabschlussberichten
+	Erstellung von Testentwurfsspezifikationen und Testspezifikationen
+	Erstellung von Entscheidungstabellen
+	Erstellung von Testkonzepten
+	Defectmanagement
+	Testreporting
+	Konfigurationsmanagement
+	Anforderungsanalyse
+Informatikkenntnisse
+Methoden		Scrum, agile Modelle, V-Model XT, UML, ITIL
+Betriebssysteme		Windows, UNIX, Linux
+Programmier-sprachen		PHP, HTML, Java, XML, MS Access VBA (Visual Basic for Applicants), MS Excel VBA, Typoscript
+Datenbanksysteme		Oracle SQL, MS SQL-Server, MySQL, MS Access
+Produkte und Standards		TIBCO CIM Edition (MDM) und TIBCO Spotfire Professional sowie TIBCO AMX Business Works; SOAPUI; HP QC ALM
+Werkzeuge		SOAPUI, HP QC ALM, Jira, MS Office, MS Visio, IGrafx u.a.
+
+
+Referenzen
+                            DB Systel GmbH, Frankfurt
+                                 RWE AG, Essen
+                             Bayer AG, Leverkusen
+           Commerzbank AG, Frankfurt
+
+Referenzen Versicherungen
+ 
+ 
+
+Berufspraxis
+Seit 08/18 bis heute
+
+
+05/18 – 07/18
+
+08/17 – 05/18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11/11 – 07/17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/10 – 10/11
+
+
+
+
+
+
+
+12/09 – 09/10
+
+
+
+
+
+12/08 – 11/09
+
+
+
+
+
+
+02/05 – 11/08
+
+
+
+
+
+
+02/05 – 10/11
+
+
+
+
+
+1990 - 2002		ProUnix GmbH, Bonn
+Testanalytikerin, Testdesignerin & Testmanagerin in einem agilen Team: Erstellung und ständige Weiterentwicklung von Individualsoftware
+Berner GmbH, Köln
+Testmanagerin, Testdesignerin & Analytikerin
+Techem GmbH, Eschborn
+Testmanagerin, Testdesignerin & Analytikerin
+Schreiben von Testspezifikationen und Testdurchführung; Vorbereitung, Betreuung, methodische Unterstützung mit UML und Testdurchführung des UAT im Projekt Pharus - Projekt mit Schnittstellen zu Altsystemen (ERP-Systeme); Testautomatisierung mit Java Selenium als Eigenentwicklung und Pilot ; Standardsoftware des Herstellers TIBCO mit Customizing; Aufdecken von Konzeptionslücken und ständige, tägliche Kommunikation mit dem Fachbereich
+
+
+
+
+
+
+
+
+DB Systel GmbH, Frankfurt
+Testmanagerin, Testdesignerin & Analytikerin,  Projekt Management Office
+2011 - 2012: Content-Management-Aufbau der Struktur und Pflege ECM - Übertragen der ProcLib in das ECM System; Anforderungsanalyse im Dialog mit den Fachbereichen durch Interviews und Workshops. Analyse und Modellierung von System- und Geschäftsprozessen; Unterstützung des kundeneigenen Anforderungsmanagements; Budgetcontrolling, Unterstützung im Durchschreiten von Quality Gates; Qualitätssicherung; Mitglied des IT-Masterplan-Management Office (MMO); Protokollführung im Lenkungskreis; Protokollführung in Workshops zur Anforderungsanalyse; Einarbeitung der Änderungen in Konzeptionsdokumente; Reviews von Prozessinhalten;
+
+2013 - 2017: Konfigurationsmanagement, Anforderungsanalyse, Erstellung von Testfällen, Analyse, Erstellung eines Simulators mit SOAPUI, Testen der Schnittstellen zu vier Systemen innerhalb des Systemverbundes sowie Testen der Systeme innerhalb der Releases;  Erstellung von Entscheidungstabellen, Erstellung von Testkonzepten, Erstellung von Testentwurfsspezifikationen und Testspezifikationen, Defektmanagement, Konfiguration und Einrichtung von Jira in Verbindung mit TMT (Jira Bridge), Dokumentation im ALM (vormals TMT Tool), Erstellung von Testabschlussberichten, Lesen und Verstehen des IT-Konzeptes, Aufdecken von Lücken im IT-Konzept und Lösungsfindung; Durchführung des Systemtests in einem Multiprojekt in einem Team von 4 Personen (zeitweise 8 Personen); WhiteBox Test; Testen mit den Tools des Herstellers TIBCO; Absetzen von SQL-Statements zum Datenabgleich mit MS SQL Server Studio; Nutzung von SOAP UI zur Testautomatisierung; Testautomatisierung mit Java (Eigenentwicklung), Testautomatisierung mit MS Access (Eigenentwicklung), Testautomatisierung mit dem BPT Wrapper – zur Verfügung gestellt von ALM; Testdesign und Testmanagement in einem agilen Team - Produkt: Android App zur Anwender: Wagenmeister und Wagenführer
+
+Systeme: ECM, SOAPUI, TMT (ALM), TIBCO Producte, Java Eclipse, BPT Wrapper zur Testautomatisierung, SAP,  Bahnspezifische Systeme
+Projektsprache: Deutsch
+RWE, Essen
+Risk Analytikerin
+Analyse von Börsenwerten und Auswertungen für die verschiedenen RWE-eigenen Kunden.
+Projektsprache: Deutsch
+
+
+
+BAYER AG, Leverkusen
+Prozessmodelliererin
+Im HR Bereich
+Systeme: IGrafx, MS Office
+Projektsprache: Deutsch, Englisch
+
+Telekom, Bonn
+Programmierung eines Dokumenten-Management Systemes
+Analyse und Erstellung der Anforderungen, Definition in Use Case Diagrammen. Programmierung mit PHP und mysql.
+Systeme: PHP, mysql, Office Produkte
+Projektsprache: Deutsch, Englisch
+
+Commerzbank AG, Frankfurt
+Programmierung einer MS-Access Anwendung zur Risikobetrachtung von Wertpapieren
+Systeme: MS-Access
+Projektsprache: Deutsch, Englisch
+
+Unisto AG, verschiedene Unternehmen: Projektliste unter www.claudianeu.com
+Programmierung von professionellen Webseiten für mittelständige Unternehmen
+Systeme: PHP und mysql, Typo3, TypoScript
+Projektsprache: Deutsch, Englisch
+
+GDV Versicherungsverband der Deutschen Versicherer e.v, AXA und andere Unternehmen
+PMO- und Sachbearbeitung: Immobilienfonsbuchhaltung; 
+Planung und Teilnahme an Gesellschafterversammlungen (AXA)
+Sachbearbeitung Tierversicherung (GDV)
+Auftragsabwicklung, EDV-Bestellwesen und Dokumentationen
+Personalorganisation
+Gleitzeitabrechnungen
+Technische Übersetzungen
+Rechnungprüfung und Budgetcontrolling
+IT-Support zur Vergabe von SAP-Berechtigungen

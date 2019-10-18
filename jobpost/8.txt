@@ -1,0 +1,25 @@
+Titel
+Java Developer (m/w/d)
+Beginn
+01.11.2019
+Dauer
+12 Monate
+Einsatzort
+Hamburg
+Beschreibung
+Large project in Hamburg and Kiel is looking for support in the area of Java JEE, Struts, Oracle DB with IBM Websphere products (MQ, TX) to develop EAI.
+
+1. creating mapping concept for data between systems First Data and (Siron AML > nice to have).
+
+2. implemetation of new interface between systems Siron AML > nice to have).
+
+3. adaption of existing interface between systems SAP DM and Siron AML > nice to have).
+
+ 
+
+We are looking for several developers.
+
+Fluent English is a must, good German skills are an advantage. 
+
+Skills
+Websphere TX (IBM) +++ Professional know-how payments ++ SQL (Oracle) + Neartimebroker (team-intern) + Visio (MS)

@@ -1,0 +1,33 @@
+Titel
+Stuttgart: DevOps Engineer w/m/d POS160901 Java Python Bitbucket Git Jenkins Continuous Integration
+Projektanbieter
+Chiffre-Kunde
+Beginn
+30.09.2019 - 31.12.2019, Verlängerung wahrscheinlich aber nicht genauer bekannt
+Einsatzort
+Stuttgart D7
+Beschreibung
+Stuttgart: DevOps Engineer w/m/d POS160901 Java Python Bitbucket Git Jenkins Continuous Integration Einsatzort: Stuttgart D7 Position: DevOps Engineer w/m/d Unterstützung in der IT für die Weiterentwicklung und Betreuung der Toolchain Start: 30.09.2019 - 31.12.2019, Verlängerung wahrscheinlich aber nicht genauer bekannt Ort: Stuttgart Aufgabe: DevOps Engineer Weiterentwicklung und Betreuung der Toolchain CI / CD und automatisiertes Deployment. Skills: Erste Erfahrung als DevOps Engineer im Umgebungs und Applikationsmanagement.
+    Kenntnisse in/mit Linux, Java, Python, Bitbucket/Git, Jenkins, Artifactory, SonarQube, Jira, und 
+    Confluence oder ähnlichen Tools
+    Erfahrung in der Shell Programmierung
+    Erfahrung im Buildmanagement, z.B. maven, gradle,, deklarative Jenkins pipelines
+    Expertise mit agilen Arbeitsweisen (Scrum)
+    Erfahrung mit Docker und Cloud-basierten Umgebungen (Azure)
+
+ 
+
+Weitere Skills / Hinweise:
+
+    Deutsch fließend in Wort und Schrift
+
+ 
+
+Allgemeine Skillanforderungen für dieses Profil:
+
+    Fachliche und DV-technische Konzepterstellung von Applikationen und DVSystemen
+    Solides Wissen über Geschäftsprozesse, Standardsoftware und anwendungsnahe Programmierung
+    Programmierung/Entwicklung ganzer Applikationen bzw. komplexerer Module
+    Konzeption von Testverfahren
+    3 bis 5 Jahre Berufserfahrung
+

@@ -1,0 +1,33 @@
+Titel
+Java Softwareentwickler (m/w/d)
+Beginn
+01.11.2019
+Einsatzort
+Hamburg
+Ihre Aufgaben
+Sie implementieren im Bereich Front-End Technology benutzerfreundliche Software für die Java-Plattform unter Verwendung modernster Technologien
+Basierend auf den Anforderungen der Kunden unterstützen Sie beim Architekturentwurf und dem technischen Design
+Zu Ihren Aufgaben gehört dabei auch die Weiterentwicklung, Qualitätssicherung und der Support von vorhandener Software
+Ihr Profil
+Folgendes sollten Sie unbedingt mitbringen:
+
+Abgeschlossenes (Fach-)Hochschulstudium im Bereich der Informatik oder eine vergleichbare Qualifikation
+Praktische Erfahrung in der Entwicklung Java-basierter Services
+Erfahrungen im Umgang mit aktuellen Frameworks / Bibliotheken, z.B. Spring, Hibernate mit
+Erfahrung im Umgang mit Web-Services (SOAP, REST)
+Kenntnisse in plattformübergreifender Programmierung mit
+Kenntnisse der Betriebssysteme Windows und / oder Linux, Android  
+Sichere Sprachkenntnisse in Deutsch und Englisch 
+Folgendes wäre wünschenswert:
+
+Kenntnisse in Camunda, Docker, Mobile, Web, Kafka
+Kenntnisse im Umgang mit relationalen Datenbanken, Oracle wünschenswert
+Ausgeprägtes Qualitätsbewusstsein
+Wir bieten außerdem
+Anspruchsvolle Projekte im internationalen Umfeld
+Umgang mit neuen Technologien im Umfeld der Biometrie
+Eine interessante, abwechslungsreiche und herausfordernde Tätigkeit in einem hochmotivierten Team
+Flexible Arbeitszeiten
+Eine leistungsgerechte Vergütung
+HVV-ProfiCard
+Sodexo-Gutscheine

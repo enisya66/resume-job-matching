@@ -1,0 +1,210 @@
+Software Architektur, Requirement Engnineering, Software Engineering, JAVA, J2EE, Oracle, EJB 3, Reporting, Hibernate, JPA
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.09.2019
+verfügbar zu
+50 %
+davon vor Ort
+100 %
+Städte
+Frankfurt am Main
+50 km
+Kontaktwunsch
+Ich möchte ausschließlich für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+10/2017 - Heute
+
+2 Jahre
+
+Elternzeit
+
+04/2015 - 10/2017
+
+2 Jahre 7 Monate
+
+STEP 42
+
+Rolle
+Software Architekt / Solution Architekt
+Kunde
+DB Energie
+Einsatzort
+Frankfurt am Main
+Projektinhalte
+Analyse der Anforderungen
+Konzeption von Komponenten und Schnittstellen
+Organisation und Durchführung von Workshops mit Fachbereich
+Technische Dokumentation der Anforderungen
+Dokumentation der Schnittstellen und Komponenten
+Erstellen von Betriebshandbüchern
+Implementierung der Anforderungen und JUnit Tests
+Erstellen von Testszenarien und Testfälle
+Erstellen von automatisierten Systemtests
+Datenbank Modellierung
+Analyse und Optimierung der Datenbankabfragen
+Bewertung der ETL Tools Talend ETL, IBM Data Stage und Oracle Data Integrator
+Umsetzung eines ETL Prozesses mittels Talend ETL zum Speichern größer Excel Dateien in Datenbank
+Kenntnisse
+Java 1.8 EJB3 Hibernate Oracle 11g JDBC SVN SQL PLSQL Scrum Maven Continuous integration ETL SOAB PMN SOAP XML XSD
+Produkte
+SQL Developer Eclipse Jenkins Innovator Talend ETL Tibco Atlassian JIRA HP Quality Center SoapUI
+03/2011 - 04/2015
+
+4 Jahre 2 Monate
+
+ePublishing
+
+10/2013 - 04/2014
+
+7 Monate
+
+Data Insight Tool
+
+08/2010 - 03/2011
+
+8 Monate
+
+ListOMat
+
+03/2010 - 08/2010
+
+6 Monate
+
+ListOMat
+
+04/2006 - 08/2008
+
+2 Jahre 5 Monate
+
+DiViBib
+
+12/2004 - 04/2006
+
+1 Jahr 5 Monate
+
+Network People
+
+05/2002 - 08/2004
+
+2 Jahre 4 Monate
+
+GIS
+
+Branchen
+IT-Dienstleistungen
+Logistik
+Energielieferant
+Banken
+Finanzen
+Verkehrstechnik
+Telekommunikation
+Digitale Medie
+Bibliothekswesen
+Kompetenzen
+Betriebssysteme
+Lynx
+Mac OS
+Windows
+Datenbanken
+ETL
+JDBC
+MySQL
+ODBC
+Oracle
+Oracle 10g
+Oracle 11g
+Postgres
+SQL
+SQL Developer
+Sprachkenntnisse
+Deutsch
+fließend
+Englisch
+gut
+Persisch
+fließend
+Datenkommunikation
+Message Queuing
+RPC
+TCP/IP
+Programmiersprachen
+Groovy
+HQL
+HTML
+Java 1.5
+Java 1.6
+Java 1.7
+Java 1.8
+JavaScript
+JPA
+JSON
+PHP
+PL/SQL
+PLSQL
+Tcl/Tk
+ 
+Produkte / Standards / Erfahrungen
+Ant
+Apache CXF
+Atlassian JIRA
+Continuous integration
+Eclipse
+EJB3
+Enterprise Architect
+Extreme Programming
+GIT
+Hibernate
+HP Quality Center
+Innovator
+JAX-RS
+JAX-WS
+JBoss 7.2.0
+JBoss AS
+JBoss Seam
+JDBC
+Jenkins
+JMS
+JSF
+JSP
+Liquibase
+Maven
+Model Driven Architecture
+ONIX 3
+Oracle Advanced Queuing
+Redmine
+RESTful Webservices
+RichFaces
+Scrum
+SOA
+SOAP
+SoapUI
+Spring Batch
+Spring Framework
+Struts
+SVN
+Talend ETL
+Tibco
+UML
+XML
+XSD
+XSLT
+ 
+Aufgabenbereiche
+Software Architektur
+Software Entwicklung
+Technische Projektleitung
+Aus- und Weiterbildung
+09/2001 - 06/2009
+
+7 Jahre 10 Monate
+
+Informatik-Studium mit Nebenfach BWL
+
+Ausbildungshistorie
+ISAQB CPSA Foundation Level
+Scrum Master
+ISTQB Foundation
+WebLogic 10g Developer 1Z0-109

@@ -1,0 +1,21 @@
+Titel
+Softwareentwickler IoT Cloud Backend
+Beginn
+07.10.2019
+Einsatzort
+Wiesbaden
+Ihre Aufgaben
+Sie sind für die Implementierung der Anforderungen in Open Source-Projekten im Hinblick auf Eclipse Hono und Eclipse hawkBit zuständig
+Sie fördern die Verwendung von Open Source-Technologien und Methoden innerhalb des Unternehmens
+Ihrem Aufgabengebiet obliegt die Beteiligung an technischen Diskussionen des Entwicklungsteams und Sie unterstützen die Entwickler bei der Auswahl und Integration von Open Source-Technologien
+Ihr Profil
+Sie verfügen über eine abgeschlossene Ausbildung mit dem Schwerpunkt IT, ein abgeschlossenes Informatikstudium oder vergleichbare Qualifikationen
+Sie können erste Erfahrungen in Programmierkonzepten und Softwarearchitekturen vorweisen
+Fundierte Kenntnisse in den Programmiersprachen Java sowie der Anwendung aktueller Java Frameworks und Web-Technologien (bspw.  REST, JavaScript oder Angular) gehören zu Ihrem Know-How
+Wünschenswert sind Kenntnisse in den folgenden Programmiersprachen: C/C++, Go, Python oder Ruby
+Sie konnten bereits Erfahrung in der Mitarbeit an Open Source Projekten sammeln
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift runden Ihr Profil ab
+ Sie haben noch offene Fragen oder möchten schnellstmöglich mit uns in Kontakt treten? Ihr persönlicher Kontakt in Rhein-Main:
+
+ 
+

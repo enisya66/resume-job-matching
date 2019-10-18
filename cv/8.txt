@@ -1,0 +1,295 @@
+Agile Coach, Softwarearchitekt, Developer (Java, Spring, Jakarta EE), DevOps (Docker, Kubernetes)
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.09.2019
+verfügbar zu
+80 %
+davon vor Ort
+20 %
+PLZ-Gebiet, Land
+D4D5
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Position
+Kommentar
+Software-Architekt
+Technologieberater
+Senior Softwareentwickler
+Technischer Projektleiter
+Abteilungsleiter Software-Architektur
+ Experte für
+Performance-Optimierung
+Debugging
+Java Enterprise Anwendungen
+Fullstack Entwicklung
+Servant Leadership / Mindfulness in Teams
+Projekte
+03/2019 - Heute
+
+7 Monate
+
+Neuentwicklung eines Bestand- und Warenwirtschaftssystems
+
+03/2016 - Heute
+
+3 Jahre 7 Monate
+
+Entwicklung eines Plugins
+
+12/2014 - Heute
+
+4 Jahre 10 Monate
+
+Entwicklung einer App
+
+06/2014 - Heute
+
+5 Jahre 4 Monate
+
+Entwicklung einer Machine-2-Machine-Schnittstelle
+
+12/2013 - Heute
+
+5 Jahre 10 Monate
+
+Entwicklung eines Spiels für das Android-Betriebssystem
+
+01/2015 - 04/2019
+
+4 Jahre 4 Monate
+
+Neuentwicklung eines Data Warehouses für See- und Binnenhäfen.
+
+11/2018 - 02/2019
+
+4 Monate
+
+Neuentwicklung einer App zur Erfassung von Strom- und Wasserzählerständen
+
+04/2018 - 10/2018
+
+7 Monate
+
+Entwicklung
+
+04/2016 - 05/2018
+
+2 Jahre 2 Monate
+
+Entwicklung eines digitalen Reiseführers
+
+04/2017 - 06/2017
+
+3 Monate
+
+Neuentwicklung einer Whitelabel-Lösung
+
+01/2014 - 05/2014
+
+5 Monate
+
+Entwicklung mehrerer Apps für Android 4.0+
+
+12/2013 - 02/2014
+
+3 Monate
+
+Advanced Unit-Test-Schulung
+
+10/2013 - 11/2013
+
+2 Monate
+
+Migrationskonzept
+
+09/2013 - 09/2013
+
+1 Monat
+
+Performance-Test
+
+04/2013 - 08/2013
+
+5 Monate
+
+Entwicklung eines vereinheitlichten Backendsystems
+
+Branchen
+Telekommunikation
+Media- und Content-Provider
+Medienagenturen
+Logistik
+Öffentlicher Dienst
+Kompetenzen
+Programmiersprachen
+C
+gut
+C#
+sehr gut
+C++
+gut
+Groovy
+sehr gut
+Java
+hervorragend, > 17 Jahre
+JavaScript
+hervorragend
+Objective C
+gut
+PL/SQL
+gut
+Scala
+Grundkenntnisse
+Shell
+sehr gut
+TypeScript
+hervorragend
+Visual Basic.NET
+gut
+Betriebssysteme
+Mac OS
+hervorragend
+Unix/Linux
+hervorragend
+Windows
+sehr gut
+Datenbanken
+Couchbase
+sehr gut
+Couchbase Lite
+sehr gut
+CouchDB
+sehr gut
+DAO
+HSQLDB
+gut
+JDBC
+hervorragend
+MySQL
+sehr gut
+Oracle
+hervorragend
+Postgres
+hervorragend
+SQL
+sehr gut
+Sybase
+gut
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+verhandlungssicher in Wort und Schrift
+Datenkommunikation
+CORBA
+Ethernet
+Internet, Intranet
+ISO/OSI
+Message Queuing
+ActiveMQ, JBoss MQ, OpenMQ
+RTSP
+sehr gut
+SMTP
+TCP/IP
+hervorragend
+Produkte / Standards / Erfahrungen
+Spezialgebiete Java:
+Alle SE und Jakarta EE Technologien wie JSP, Servlets, EJB 3+, JMS, JPA 1 und 2, JDBC, RMI, JMX: hervorragend
+Spring (inklusive Spring Dynamic Modules, Spring Data, Spring Batch, Spring Security, Spring MVC, Spring Boot): hervorragend
+Hibernate: hervorragend
+Eclipse Link (ehemals TopLink): sehr gut
+EHCache: hervorragend
+OSGi (Equinox, Felix): hervorragend
+AspectJ: sehr gut
+Lucene: sehr gut
+Netty: hervorragend
+Hazelcast: hervorragend
+Tapestry: sehr gut
+Struts: sehr gut
+Wicket: gut
+Day Communique: gut
+Activiti: gut
+Solr: sehr gut
+Vaadin: gut
+Eclipse RCP: gut
+SWT: gut
+ZK: hervorragend
+Concurrency Control (distributed task execution, distributed caching, distributed locking): hervorragend
+  Entwicklungsmethoden
+Behavior-Driven Development: sehr gut
+Test-Driven Development: hervorragend
+Mocking: hervorragend
+Embedded Datenbanken: sehr gut
+Continuous Integration: hervorragend
+Continuous Deployment: gut
+Scrum: hervorragend, PSM II-zertifiziert
+ Mobile Plattformen
+Android: hervorragend
+iOS: sehr gut
+Apache Cordova/PhoneGap/Ionic: hervorragend
+
+Web-Technologien
+HTML: sehr gut
+CSS: sehr gut
+Bootstrap: sehr gut
+ Anwendungsbereiche
+Backend
+Apps
+Web-Anwendungen
+ Anwendungs-Architekturen
+Java SE: hervorragend
+Java / Jakarta EE: hervorragend (> 15 Jahre Erfahrung)
+Spring: hervorragend (> 12 Jahre Erfahrung)
+Android: hervorragend
+Apache Cordova/PhoneGap/Ionic: hervorragend
+ Server
+Apache Tomcat AS: hervorragend
+Netty: sehr gut
+Eclipse RT Virgo: hervorragend
+JBoss AS / Wildfly: hervorragend
+ Werkzeuge
+Apache Maven: hervorragend
+Apache Ant: sehr gut
+Visual Studio: gut
+Jenkins: sehr gut
+Sonatype Nexus: sehr gut
+Eclipse: hervorragend
+IntelliJ IDEA: hervorragend
+Atlassian JIRA: sehr gut
+Atlassian Confluence: hervorragend
+Atlassian Fisheye: sehr gut
+Atlassian Bamboo: sehr gut
+Sonar: sehr gut
+CVS: gut
+SVN: hervorragend
+GIT: hervorragend
+Docker: hervorragend
+ Agile Coaching 
+Personal Coach “Leben braucht Bewegung” (> 12 Jahre)
+Achtsamkeitsbasierte Unternehmenskultur
+Coach für Mindfulness Meditation
+Coach für Servant Leadership
+Professional Scrum-Master (PSM I und II)
+ Berufserfahrung 09/2013 - heute Rolle: Freiberuflicher Software-Architekt und Agile Coach  01/2012 - 08/2013 Rolle: Head of Software Architecture Kunde: net-mobile AG, Düsseldorf  08/2007 – 12/2011 Rolle: Software Architect Kunde: net-mobile AG, Düsseldorf  03/2005 – 06/2007 Rolle: Software Engineer Kunde: Proximity Technology GmbH, Düsseldorf  01/2002 – 02/2005 Rolle: Software Developer Kunde: net-mobile AG, Düsseldorf
+Schwerpunkte
+API-Entwicklung
+Architektur- und Technologieberatung
+Code Reviews
+Content Delivery Networks
+DevOps
+Docker, Continuous Integration & Deployment
+Distributed Systems
+Framework-Entwicklung
+Java
+Jakarta, Spring
+Mobile Entwicklung
+Performanceoptimierung, Reactive Programming
+Security
+OAuth, OpenID
+Systemintegration/Legacy System Integration
+Ausbildungshistorie
+Allgemeine Hochschulreife
+Dipl. Wirtschaftsinformatiker (Abschlussnote 1,5)

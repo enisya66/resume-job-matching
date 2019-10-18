@@ -1,0 +1,179 @@
+java, jee, spring, jpa, ejb3, wicket, jsf, Eclipse RCP hibernate, JUnit, Mockito, PowerMockito, SQL, PL SQL, Oracle, SQL Developer,
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D2
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+06/2018 - 09/2018
+
+4 Monate
+
+Konzeption & Realisierung
+
+Rolle
+Freiberuflicher Java-Entwickler
+Kunde
+Finanzbranche
+Einsatzort
+Hamburg
+Projektinhalte
+Konzeption und Realisierung JEE-basierter Anwendungen
+Implementierung neuer Funktionalitäten einer Software für
+Vermögensverwalter im Bereich Brokerage
+Kenntnisse
+Java 8 Spring Hibernate JSF Oracle Git Scrum
+01/2018 - 05/2018
+
+5 Monate
+
+Implementierung
+
+02/2017 - 12/2017
+
+11 Monate
+
+Technische Konzeption, Koordination & Umsetzung
+
+10/2016 - 02/2017
+
+5 Monate
+
+Dokumentation und Erweiterung
+
+07/2016 - 10/2016
+
+4 Monate
+
+CRM-Systems
+
+11/2015 - 07/2016
+
+9 Monate
+
+Entwicklung eines Datenmodells
+
+02/2015 - 11/2015
+
+10 Monate
+
+Signalverarbeitungssoftware
+
+12/2014 - 01/2015
+
+2 Monate
+
+Elternzeit
+
+11/2013 - 12/2014
+
+1 Jahr 2 Monate
+
+Schadensbearbeitungssoftware
+
+08/2012 - 10/2013
+
+1 Jahr 3 Monate
+
+Webapplikation zur Allfinanzberatung
+
+01/2011 - 07/2012
+
+1 Jahr 7 Monate
+
+Softwarearchitektur
+
+05/2009 - 01/2011
+
+1 Jahr 9 Monate
+
+Programmierung
+
+12/2007 - 03/2009
+
+1 Jahr 4 Monate
+
+Entwicklung neuer Komponenten
+
+04/2007 - 11/2007
+
+8 Monate
+
+Java-Projekte
+
+07/2006 - 01/2007
+
+7 Monate
+
+Fehlerbeseitigungen
+
+11/2005 - 02/2006
+
+4 Monate
+
+Projekt Komponentenmodelle für handybasierte Anwendungen
+
+Branchen
+Logistik
+Pharma
+Bank
+Versicherung
+Verlag
+Kompetenzen
+Programmiersprachen
+Ant
+Apache Wicket
+Arquillian
+CVS
+Eclipse RCP
+EJB3
+Git
+Hibernate
+IBM Websphere
+Java 7
+Java 8
+JBoss
+Jira
+JPA
+JSF
+JUnit
+Maven
+Mockito
+PL\SQL
+PowerMockito
+Scrum
+Spring
+SQL
+SWT
+Tomcat
+Datenbanken
+DB2
+MySQL
+Oracle
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+fließend
+Türkisch
+fließend
+Betriebssysteme
+Microsoft Windows
+Produkte / Standards / Erfahrungen
+Eclipse
+IntelliJ
+Oracle SQL Developer
+IT-Erfahrung seit 2006  Auslandsaufenthalt 2006 - 2007 J2EE Entwickler bei jTribe Holdings Pty Ltd, Melbourne Projekt: AWSA (Australian White Suffolk Association)- WebManager
+Schwerpunkte
+Software- und Anwendungsentwicklung
+Ausbildungshistorie
+2001 - 2006 Studium Softwaretechnik, Abschluss Diplom-Informatiker (FH)  1998 - 2001 Industriekaufmann, Abschluss Industriekaufmann  Weiterbildungen 2017 Oracle Certified Professional, Java SE 7 Programmer  2015 Oracle Database 11g: SQL Fundamentals I  2012 Oracle Certified Professional, Java SE 6 Programmer  2009 Fernkurs: Geprüfter Web-Contentmanager SGD-Zertifikat  2008 Fernkurs: Einführung in die Programmierung mit C/C++ AKAD-Zertifikat

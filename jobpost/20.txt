@@ -1,0 +1,29 @@
+Projekt-Titel
+Planauskunftsportal
+Projekt-Rolle
+Entwickler
+Beginn
+01.11.2019
+Dauer
+4-6 Monate
+Auslastung
+100
+Einsatzort
+2-3 Tage pro Woche in Memmingen, ansonsten Homeoffice möglich
+Stundensatz
+85 EUR (vom Auftraggeber angepeilter Stundensatz)
+Projekt-Beschreibung
+RIWA hostet für viele kommunale Organisationen Geodaten. Unter anderem auch Daten zu Leitungskatastern.
+Diese Daten sollen in Form von PDF-Kartenplänen an Baufirmen weitergegeben werden, um Baumaßnahmen zu planen / durchzuführen ohne fremde Leitungen zu verletzen.
+
+Es ist eine Lösung zu entwickeln, welche Planauskünfte in Form von PDF-Dateien unter Einhaltung aller hierfür notwendiger rechtlicher und organisatorischer Rahmenbedingungen an diese Baufirmen über ein Internetportal abgiebt.
+Die Lösung ist nach dem "mobile first" Ansatz zu entwickeln.
+
+Die Person die wir suchen wird mit 1-2 bei uns fest angestellten Mitarbeitern an diesem Projekt arbeiten.
+Verwendete Methode ist hierbei Scrum. (Bestehendes Scrum - Team mit ca. 6 Leuten, welche auch an anderer Software arbeiten)
+
+Verwendete Frameworks für das Projekt sollen serverseitig Spring Boot und Clientseitig Vue2 im Browser sein.
+Must-Have Skills
+Java 11 Spring Boot Vue2 CSS Javascript HTML SQL
+Nice-to-Have Skills
+PostgresSQL Bootstrap

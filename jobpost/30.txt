@@ -1,0 +1,32 @@
+Projekt-Titel
+JBoss/AppServer-Experte (m/w/d)
+Projekt-Rolle
+Entwickler / Berater
+Beginn
+01.10.2019
+Dauer
+6 Monate
+Auslastung
+100
+Einsatzort
+Aachen
+Projekt-Beschreibung
+Wir suchen JBoss/AppServer-Experten (m/w/d) in Aachen
+•	die eine Festanstellung suchen oder aber auch nur projektweise als Freelancer tätig werden möchten
+•	die Spaß an komplexen Aufgaben haben, deren Lösungen im Straßenbild sichtbar sind
+•	die mitdenken, mit ihren Lösungen überzeugen und Verantwortung übernehmen wollen
+
+Als JBoss/AppServer-Experte
+•	begleiten Sie die Migration unserer Software von JBoss 4 zu Wildfly
+•	stehen Sie unseren Teams als Ansprechpartner zur Verfügung und coachen sie zu diesen Themen
+•	konfigurieren und administrieren Sie Wildfly
+
+Wir freuen uns auf Kollegen (m/w/d)
+•	die mit JBoss 4 und Wildfly >= 15 vertraut sind
+•	die fundierte Kenntnisse im Java- sowie J2EE-Bereich haben
+•	die sich mit RMI, EJB 3, JMS, JMX und Hibernate sowie Gradle/Maven gut auskennen
+•	die belastbare Erfahrung mit der Portierung von Legacy Software haben
+•	die idealerweise bereits Migrationsvorhaben mit Applicationservern begleitet haben
+Must-Have Skills
+JBoss WildFly
+Nice-to-Have Skills

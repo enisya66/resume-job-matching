@@ -1,0 +1,37 @@
+Titel
+Entwickler (m/w) für Datenmigration in die Google Cloud mit Java 8
+Beginn
+01.10.2019
+Dauer
+31.03.2020
+Einsatzort
+Düsseldorf
+Beschreibung
+Unser Kunde, ein internationales Unternehmen mit dem Fokus auf Shopping und e-Commerce, sucht für ein neues Großprojekt Entwickler (m/w) für die Datenmigration in die Google Cloud mit Java 8 Kenntnissen. Aus einer sehr heterogenen Systemlandschaft (sehr viele und auch noch länderspezifisch) sollen Daten in die Google Cloud zu transferiert werden.
+
+ 
+
+Start: 01.10.2019 mit einer Erstbeauftragung bis 31.12.2019
+Verlängerung: mind. bis Ende Q1 - Beauftragungen finden nur Quartalsweise statt
+Zunächst 100% vor Ort Arbeit (Düsseldorf) - nach Einarbeitung evtl. Remote möglich
+Das Team wird gerade erst zusammengestellt, daher noch keine genau Größe bekannt (i.d.R. max. 10)
+Agil nach Scrum
+Sprints alle 2 Wochen
+ 
+
+Must haves:
+
+Google Cloud
+Python
+Scala
+PySpark
+Java 8
+Erfahrung im BigData Umfeld
+Erfahrung in der Microservice Architektur (Java 8, Lambdas, Spring Boot, Spring Integration...)
+Englisch fließend
+Scrum-Erfahrung
+ 
+
+Nice to have:
+
+Erfahrung mit SaaS-Plattform

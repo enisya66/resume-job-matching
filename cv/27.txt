@@ -1,0 +1,364 @@
+Developer und auch Teamlead Java Spring, J2EE , Docker
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9ÖsterreichSchweizEinsatzort unbestimmt
+Position
+Kommentar
+Senior Softwareentwickler Java und div. anderen Sprechen Projektleitung Teamleitung sowie Entwicklung
+Projekte
+10/2017 - Heute
+
+2 Jahre
+
+Regulatorien Grid Computing Big Data
+
+Rolle
+Senior Developer
+Kunde
+SIX
+Einsatzort
+Zürich
+Projektinhalte
+1.) Refactoring Legacy Java Code auf Microserivice und Scalierbarkeit fähigkeit  2.) Spring Boot und Docker Server Komponenten Entwickeln.  3.) Splitt Peristenz und Business Layer zur Vorbereitung Multi Persistenzlayer.  4.) Design und Aufbau Persistenzlayer für Suchindexe mittels Elasticsearch.  5.) Performance und Refactoring legacy Code Spring Batch im bereich Produktion und Testing  6.) Release-Managment ausrollen/verteilen neuer Komponenten  7.) Datensync NoSQL nach Elasticsearch
+Kenntnisse
+Scrum Design Patterns Clean Code DevOpsTTD
+Produkte
+JetBrains IntelliJ IDEA Docker Docker-Compose Jenkins CI CD Oracle NoSQL MySQL 5JPA Mockito ReactJS JSON JSONP Enterprise Architect Atlassian Confluence Atlassian JIRA Bitbucket Git FindBugs SonarQube WSDL Java API for REST Services REST
+03/2017 - 11/2017
+
+9 Monate
+
+Contentsuche und Suchengine
+
+08/2015 - 03/2017
+
+1 Jahr 8 Monate
+
+Entwickler Kunde Energiekonzern in der Schweiz
+
+01/2015 - 07/2015
+
+7 Monate
+
+Entwicklung einer Oberfläche für den Datenabgleich
+
+02/2012 - 12/2014
+
+2 Jahre 11 Monate
+
+Erstellen/Design Frontend in JSF und Servicelayer/Backend J2EE
+
+02/2010 - 02/2012
+
+2 Jahre 1 Monat
+
+Laborsoftware Zytologie Betrieb/Weiterentwicklung und Umstellung auf DB
+
+01/2008 - 01/2010
+
+2 Jahre 1 Monat
+
+Betreuen einer laufenden ERP Software
+
+11/2007 - 10/2008
+
+1 Jahr
+
+Anbindung Reporting System Jasper, Historienführung
+
+07/2007 - 08/2008
+
+1 Jahr 2 Monate
+
+Überwachungsmonitor, Notfallmonitor, Datawarehouse
+
+06/2007 - 12/2007
+
+7 Monate
+
+Umzug HP Cluster auf Verteilte-Rechner Umgebung
+
+01/2004 - 07/2007
+
+3 Jahre 7 Monate
+
+Intermodal-Hinterland
+
+Projekthistorie
+ältere Projekte auf Anfrage
+Branchen
+Banken, Pharmazie, Bauwirtschaft, Versicherungen, Industrie, Handel, Automobiel, Finanzwesen, Chemie, Dienstleister, Maschinenbau, Logistig, Medizin, Energie, Finanzdienstleistungen, Börse
+Kompetenzen
+Betriebssysteme
+Bash Shell
+BashShell
+DCOS Mesos
+docker
+Linux
+Mac OSX
+MacOs
+Unix
+Windows
+Sprachkenntnisse
+Deutsch
+sehr Gut
+Englisch
+aktuelle Projektsprache Englisch
+Türkisch
+sehr Gut
+Datenbanken
+Data Modelling
+H2 Database-Engine
+MySQL 5
+Omnis7
+Oracle
+Oracle 11
+Oracle11
+OracleNoSQL
+Postgres
+Oracle +++ MySQL ++ H2 +++ Derby +++ SQL-Server ++ Postgres +++
+Produkte / Standards / Erfahrungen
+Active MQ
+ActiveMQ
+Activiti
++++
+Activiti BPMN
+agile
+Agile Entwicklung
+AltovaXMLSpy
+Apache Camel
+Apache Lucene
++++
+apache maven
+Atlassian Confluence
+Atlassian JIRA
+Bitbucket
+Camunda BPM
+CamundaBPM
++++
+CD
++++
+CDI
++++
+Change Request Management
+CI
++++
+Clean Code
+++
+CSS
+DesignPatterns
+++
+DevOps
+Docker-Compose
+++
+Eclipse
++++
+EclipseLink
++++
+Elastic Search
++++
+ElasticSearch
+Enterprise Architect
+++
+Enver Versioning
+Feign REST Client
+FeignClient
+FindBugs
+Git
++++
+Gradle
+++
+Hibernate
++++
+HTML
+HTML(5)
+Icefaces
+++
+IntelliJ IDEA
++++
+Jasper Report
++++
+Java Swing
++++
+JBoss ApplicationServer
+JBoss CLI
+Jenkins
+++
+JetBrains IntelliJ IDEA
+JIRA
++++
+JIRA Agile
++++
+JPaaS
+JSF
++++
+JSFUnit
+JUnit
+Mockito
++++
+MockMvc
++++
+OData
+OkHttp Client
++++
+PowerMock
++++
+PrimeFaces
+Quartz Scheduler
+Reengeneering
+Requirement Analyse
+REST
+Scrum
++++
+SOAP
+SoapUI
+SonarQube
+Spring
+Spring 3.0
+Spring 4.1
++++
+Spring Batch
+Spring Boot
++++
+Storm Crawler
++++
+TDD
++++
+TIBCO
+TTD
+WildFly ApplicationServer
+XML
++++
+XML Beans
++++
+XSLT
++++
+XSLTransformation
++++
+Versionsverwaltung
+Subversion +++
+Git ++
+  Produkte/Standards
+ClearCase ++
+RationalRose ++
+Jira ++
+Nagios +
+Activiti +++
+  Erfahrungen
+Architekturdokumentation ++
+Workflow
+Performance Management ++
+Monitoring/Überwachung ++
+Domain Driven Design +
+Clean Code ++
+Scrum +++
+Programmiersprachen
+Angular JS
+AngularJS
+bash
+BPMN
+C++
+Hibernate Query Language
+J2EE
+Java
+Java 7
+Java 8
+Java API for REST Services
+JAXB
+JAXP
+JPA
+JSON
+JSONP
+MocMvc
+Omnis5
+Oracle/SQL
+ReactJS
+Webstorm
+WSDL
+Mobileentwicklung
+Android ++
+iOS ++
+ Java EE 6/7
+EJB +++
+JPA +++
+CDI +++
+OSGI +++
+JAX-RS ++
+JSF mit Primefaces ++
+Servlets, JSP ++
+Icefaces ++
+Primefaces +++
+JMX +++
+JMS ++
+JavaMail ++
+guava - libs +++
+Websocket ++
+Bean Validation +++
+JSON Processing ++
+ Applicationserver
+JBoss 4/5/6/7 +++
+WildFly 10  +++
+Glassfish 4 ++
+Apache Tomcat +++
+ Apache-Frameworks/APIs
+FOP ++
+POI ++++
+JMeter +++
+Log4J +++
+Wicket +
+ Testframeworks
+JUnit +++
+Mockito ++
+PowerMockito+
+Arquillian +++
+ Build-Tools
+Ant ++
+Maven inkl. Nexus-Server ++
+Gradle+
+ Entwicklungsumgebungen
+Eclipse +++
+IntelliJ ++
+NetBeans ++
+  Message Broker
+IBM Websphere MQ +
+IBM MQTT ++
+TIBCO
+  Datenaustauschformate
+XML +++
+JSON +++
+  Continuous Integration (CI) + Statische Codeanalyse
+Jenkins/Hudson +++
+Checkstyle +++
+Cobertura +++
+FindBugs +++
+PMD +++
+  Clean Code
+SonarCube
+Code Quality
+ 
+Datenkommunikation
+Java Message Service (JMS) TIBCO ++ STUMP +++ ACTIVE MQ ++
+Design / Entwicklung / Konstruktion
+Pairprogramming
+Entwicklung Frameworks, UML Modelle, Gui Design, Backend Design, Verteilte Systeme, Aufsetzen von Cluster Systemen mit Jboss und Bea Weblogic.   Compiler Bau, Kommunikationsprotokolle, JMS Protokolle, Architektur von Integrativen Systemen.
+Aus- und Weiterbildung
+01/1994 - 12/1996
+
+3 Jahre
+
+Studium Wirtschaftsinformatik
+
+09/1990 - 06/1992
+
+1 Jahr 10 Monate
+
+Assistent der Informatik
+

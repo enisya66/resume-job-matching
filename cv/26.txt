@@ -1,0 +1,130 @@
+Softwareentwickler; Java; J2EE; Javascript im Frontend
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+03.09.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D4D5
+Städte
+Düsseldorf
+100 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Ruhrgebiet
+Projekte
+01/2019 - 09/2019
+
+9 Monate
+
+Softwareentwicklung
+
+07/2018 - 12/2018
+
+6 Monate
+
+Weiterentwicklung
+
+03/2018 - 07/2018
+
+5 Monate
+
+Weiterentwicklung
+
+Rolle
+Softwareentwickler
+Kunde
+REWE Systems GmbH, Köln
+Projektinhalte
+Weiterentwicklung einer Webanwendung zur Verwaltung eines Reklamation Workflows.
+Erstellung und Implementierung von RESTful Service.
+Umstellung auf Java 8.
+Umstellung Spring jdbc auf JPA/Hibernate.
+Konzept und Implementierung Volltextsuche mit
+ElasticSearch. Deployment auf Docker Container und
+Kubernetes.
+
+01/2017 - 12/2017
+
+1 Jahr
+
+Weiterentwicklung und Anpassung
+
+11/2014 - 11/2016
+
+2 Jahre 1 Monat
+
+Optimierung und Weiterentwicklung
+
+06/2014 - 11/2014
+
+6 Monate
+
+Weiterentwicklung
+
+11/2010 - 06/2014
+
+3 Jahre 8 Monate
+
+Analyse und Entwurf
+
+01/2009 - 10/2010
+
+1 Jahr 10 Monate
+
+Wartung und Weiterentwicklung
+
+04/2005 - 09/2006
+
+1 Jahr 6 Monate
+
+Entwurf und Entwicklung
+
+07/2004 - 04/2005
+
+10 Monate
+
+Wartung und Weiterentwicklung
+
+Kompetenzen
+Sprachkenntnisse
+Arabisch
+Muttersprache
+Deutsch
+Fließend
+Englisch
+Fließend
+Aus- und Weiterbildung
+10/2007 - 10/2010
+
+3 Jahre 1 Monat
+
+Software and Systems Engineering
+
+Abschluss
+M.Sc. Angewandte Informatik – Systems Engineering
+Institution, Ort
+Universität Duisburg-Essen
+Schwerpunkt
+Abschlussarbeit:
+Enacting Adaptation in Self-Adaptive Service-Based Systems (SOA, WSDL, BPEL, Java, Netbeans, Glassfish)
+
+05/1999 - 05/2004
+
+5 Jahre 1 Monat
+
+Software and Information Systems Engineering
+
+Abschluss
+B.Sc. Informatik Ingenieurwesen
+Institution, Ort
+Universität Damaskus
+Schwerpunkt
+Abschlussarbeit:
+Learning Content Management System (Java, Oracle, Servlets, JSP, CSS, HTML)

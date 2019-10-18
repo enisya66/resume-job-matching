@@ -1,0 +1,20 @@
+Titel
+SAP Basis-Berater (m/w/d)
+Beginn
+01.11.2019
+Dauer
+31.03.2020
+Einsatzort
+München
+Beschreibung
+Administrations- und Konfigurationsaufgaben
+große SAP-Systemumgebung (10.000 User, mehr als 100 SAP Systeme) mit internationaler Ausrichtung
+Planen und Durchführen von SAP Installationen, Upgrades, Updates, Migrationen sowie Systemkopien
+Konzeption, Dokumentation und Umsetzung von innovativen Anforderungen im Kontext von SAP Implementierungsprojekten (beispielsweise Cloud oder Mobility)
+Systemmonitoring und Reporting, sowie Fehleranalyse und -behebung für die verantworteten Systeme
+Second Level-Support im Rahmen eines Incident-, Problem- und Change-Management für die zu betreuenden SAP Systeme
+Durchführung von Performance- und Tuning-Maßnahmen zur Sicherstellung der vereinbarten Service Levels
+ 
+
+Skills
+SAP Basis Technologien SAP HANA SAP Systemadministrationserfahrung in großer Systemumgebung Fiori + Cloud Erfahrung

@@ -1,5 +1,321 @@
-Karl Marx (* 5. Mai 1818 in Trier; † 14. März 1883 in London) war ein deutscher Philosoph, Ökonom, Gesellschaftstheoretiker, politischer Journalist, Protagonist der Arbeiterbewegung sowie Kritiker des Kapitalismus und der Religion.
+SOA/JEE Entwickler/Consultant/Business Analyst / Requirement Engineer/ Software Developer
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.11.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D7D8D9
+Städte
+München
+200 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
 
-Zusammen mit Friedrich Engels wurde er zum einflussreichsten Theoretiker des Sozialismus und Kommunismus, deren Grundzüge die beiden in der programmatischen Schrift Manifest der Kommunistischen Partei (1848) niederlegten. Als Marx’ Hauptwerk gilt Das Kapital, dessen erster Band noch zu seinen Lebzeiten im Jahr 1867 erschien; die beiden folgenden Bände wurden posthum von Engels herausgegeben. Einflussreich waren auch seine politischen Aktivitäten in der entstehenden internationalen Arbeiterbewegung (Internationale Arbeiterassoziation), in der er zeitweise eine intellektuelle Führungsrolle übernahm.
+Kommentar
+Software-Engineer/Business Analyst / Consultant / Project Manager  / IT-Development  in Java/JEE/SAO/Microservices 
+Position
+Kommentar
+Software-Engineer/Business Analyst / Consultant / Project Manager  / IT-Development  in Java/JEE/SAO/Microservices 
+ 
+Projekte
+10/2018 - 03/2019
 
-Die theoretischen Grundlagen des nach Marx benannten Marxismus beeinflussen die Diskurse der Geschichtswissenschaft und Soziologie wie auch der Wirtschafts- und Politikwissenschaft bis in die Gegenwart.
+6 Monate
+
+Registrieren von Kunden, Statusanzeige, Reports erstellen
+
+04/2018 - 09/2018
+
+6 Monate
+
+Entwurf und Umsetzung eines Rechnungsauftragswesens im Dienstleistungsbereich
+
+06/2017 - 12/2017
+
+7 Monate
+
+Bereitstellung- und Rechnungsverwaltung von Personalien für sprachabhängigen Tätigkeiten in einem Online-Portal mit agiler Scrum-Methodik
+
+04/2017 - 06/2017
+
+3 Monate
+
+Anylase von Cloud und Docker-Container /deployment
+
+01/2017 - 03/2017
+
+3 Monate
+
+JEE-Projekt Wartung und Erweiterung eines bestehenden JEE-System
+
+01/2016 - 10/2016
+
+10 Monate
+
+Entwurf eines Knowledge-Management-Systems zur Erfassung von Informationen, Teilnehmern
+
+11/2014 - 12/2015
+
+1 Jahr 2 Monate
+
+Integration der Märkte (Clients) in ein zentrales System mittels Web Service (JAX-RS Restful) und IBM Message Broker.
+
+11/2014 - 10/2015
+
+1 Jahr
+
+Integration der Märkte (Clients) in ein zentrales System.
+
+05/2014 - 11/2014
+
+7 Monate
+
+Diverse Anwendungen und Programme
+
+06/2014 - 09/2014
+
+4 Monate
+
+Amdroid, OS , Google Map und Java EE Projekt für mobile Geräte und Desktop
+
+02/2014 - 05/2014
+
+4 Monate
+
+Generierung spezifischer Profilabschnitte nach Datenvorgabe
+
+10/2012 - 02/2013
+
+5 Monate
+
+Design und Entwicklung von einer Webseite, Entwicklung von JSF 2.0 (Facelets und ManagedBean) und JAX-WS Web Service
+
+12/2011 - 05/2012
+
+6 Monate
+
+Definition von Kommunikationsschnittstelle zwischen Server und Partnersystemen in Automobilbereich
+
+11/2010 - 05/2012
+
+1 Jahr 7 Monate
+
+Definition von Kommunikationsschnittstelle zwischen Server und Partnersystemen in Automobilbereich
+
+11/2010 - 07/2011
+
+9 Monate
+
+Weiterentwicklung und Anpassung eines bestehendes J2EE-Projektes
+
+06/2007 - 12/2009
+
+2 Jahre 7 Monate
+
+Erfassen und aktualisieren der Teilnehmer für Bildungs- und berufsvorbereitende Maßnahmen bzw. Reha-Maßnamen in J2EE nach MVC
+
+04/2006 - 12/2006
+
+9 Monate
+
+Einführung "It-Schulung“
+
+04/2005 - 02/2006
+
+11 Monate
+
+Mitarbeit an Entwicklung eines Projektes „Produktes“ für Personalvermittlung in J2EE
+
+Projekthistorie
+-Weitere Projekte auf Anfrage-
+Branchen
+Technische wie auch Kaufmannische Bereiche z. B Banken
+
+
+Kompetenzen
+Programmiersprachen
+C
+C++
+JAVA
+JavaScript
+JAX-WS
+JEE
+JPA
+JSP
+PL/SQL
+Python
+Python
+Shell
+Smalltalk
+Spring , Spring Boot
+Tcl/Tk
+TeX, LaTeX
+TypeScript
+Betriebssysteme
+Android
+MS-DOS
+MVS, OS/390
+OS/2
+SUN OS, Solaris
+Unix
+VMS
+Windows
+Windows 7
+Windows CE
+Datenbanken
+Access
+Adabas
+DB2
+H2
+Informix
+Ingres
+MS SQL Server
+MySQL
+Oracle
+Oracle 12c
+Oracle DB
+SQL
+SQL-Developer
+Sprachkenntnisse
+Deutsch
+fließend
+Englisch
+gut
+ 
+Hardware
+IBM Großrechner
+Modem
+NEC
+Nixdorf
+PC
+SUN
+VAX
+Datenkommunikation
+CORBA
+Ethernet
+Internet, Intranet
+Router
+TCP/IP
+Winsock
+X.400 X.25 X.225 X.75...
+RMI, Socket, RPC
+Produkte / Standards / Erfahrungen
+4
+ALM (HP-Q)
+Angular 2
+AngularJSALM (HP-Q)
+Antte
+Application Server Tomcat
+Applikationsserver IBM Websphere Datenbank: DB2IDE Eclipse 3.7
+Confluence
+CSS JSF 2.0
+CVS
+DBUnit
+DevOps
+Docker
+Eclipse
+Eclipse JUNIT
+Eclipse Kepler
+Eclipse Luna
+EclipseLink
+ein Hibernate ähnliches Framework
+EJB3.0
+EJB3Unit zwecks EJB- Testen außerhalb von EJB-Container. IDE Eclipse 3.6 INDOGIS. JDK1.6
+Entyties
+Genymotion Emulatoren
+Git
+Google Play Service
+Gradle
+Hibernate
+HibernateHudson
+HTML
+Hudson
+IBM Message Broker
+IBM MQ-Explorer
+IBM MQ-ExplorerOracle Databases
+IBM Toolkit
+IBM Toolkit, IBM Message Broke
+Intellij
+Java 7.0
+Java1.5 und Java 1.6
+JBoss
+Jbuilder
+JDK1.6
+Jhipster
+Jira
+JIRAJax-RSMaven
+JMF
+JMS
+JSF
+JUnit
+KiteMatic
+Liquibase
+Lucene
+Lucene und JMF Windows 7.0 und Linux
+Lync
+Mail Server
+Maven
+Maven 3.0Frameworks
+Maven, Jenkins, ANT,
+Mercurial
+Myfaces
+MYSQL MAVEN
+Netbeans
+Oracle VM VirtuallBox
+SCRUM, Java, AngularJS
+Scrum-Methodik
+SDK
+SonarWindows 7.0.
+Spring
+Spring Boot
+Standdardemulatoren
+Struts
+Sub Version
+SVN
+TestNG Windows 7.0.
+Tomcat
+Type Script
+VirtualBox Database MySQL Framework Android
+WebLogic
+WSIMPORT
+XML-Schema
+Spezialist für Ananlyse/Desing/Softwareentwicklung für Java Anwendungen
+
+Analyse-Desingn
+Entwicklung detaillierter technischer Spezifikationen (z.B. für Pflichtenhefte)
+Entwicklung von Dokumentationsstandards
+Objektorientiere Analyse, Design
+Datenbank Design
+Implementierung
+
+Produkte
+BEA WebLogic, Websphere, JBOSS , Oracle Application Server OC4J, Apache Tomcat,
+MS IIS,, Apache Web Server
+Borland JBuilder,MS-Visualstudio,HomeSite, Ultra-Edit, EclipseRCP, EclipseMe, EclispeUML
+Rational Rose, Omando
+CVS, Daily Build,
+MySql, MS SQL Server, Oracle, DB2 (+ Photoshop, Flash)
+
+Praktische Erfahrungen an Projekten
+Internet-Technologien (Java, J2EE, JSP,Applets, JDBC, EJB, ASP, JSP, (D)HTML, JavaScript, XML, XSL), JSF
+Große Erfahrungen im Internet-Bereich / Programmierung dynamischen Internet-Contents  mit Datenbanken-Anbindung
+Vorrangig: Entwicklung unter Java-J2EE / JDBC / Oracle
+Entwicklung Objektorientierter (Internet-)Anwendungen
+Sehr gute Kenntnisse der Enterprise Java Beans Technologie
+Software-Entwicklung mit der J2EE-Technologie unter dem Applikationsserver BEA WebLogic/JBOSS
+Framework Spring, SEAM, JBOSS-SEAM, Struts, Hibernate, JUNIT
+XML-Bearbeitung mit Verfahren JAXP , JAXB
+JavaME, J2ME Entwicklung von Midlet mit EclispeMe , WKT von SUN und ProGuard für
+MIDP (Mobile Information Device Plattform) wie Handy, PDA , IPOD
+Rich-Client mit EclipseRCP stand-alone Anwendungen
+DevOps, Microservices, Continious/Delivery Deployment
+Docker-Container
+Oracle VM VirtualBox
+KiteMatic
+Ausbildungshistorie
+Dipl. Math./Physik  (Technische Universität München),  Software-Entwicklung in Kaufmannischen und Technischen Bereichen

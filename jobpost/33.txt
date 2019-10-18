@@ -1,0 +1,17 @@
+Titel
+Java Entwickler (m/w/d) JAVA EE
+Beginn
+01.11.2019
+Einsatzort
+Aschheim
+Ihre Aufgaben
+-   Die stetige Weiterentwicklung unserer bestehenden Softwaresysteme gehört zu Ihren Hauptaufgaben, ebenso wie die Pflege und der Betrieb dieser.
+
+-   Sie analysieren und designen mit aktuellen Methoden sowie Werkzeugen und stellen die Softwarequalität sicher.
+
+-   Darüber hinaus beraten Sie die operativen Bereiche und stimmen sich mit diesen ab.
+
+Ihr Profil
+-      Java-EE, Oracle Datenbank, Linux, Shell-Scripting
+
+-      Abgeschlossenes Studium

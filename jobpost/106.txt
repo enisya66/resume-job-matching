@@ -1,0 +1,20 @@
+Projekt-Titel
+Angular UI für komplexe REST Services
+Projekt-Rolle
+Entwickler
+Beginn
+01.10.2019
+Dauer
+2-3 Monate
+Auslastung
+100
+Einsatzort
+Köln
+Stundensatz
+85 EUR (vom Auftraggeber angepeilter Stundensatz)
+Projekt-Beschreibung
+Die Software enthält unser Wissen, das wiederum kann der Kunde (=Lebensversicherer) an eigene Bedürfnisse anpassen. Dazu benutzt er eine Komponente unserer Software. Diese Komponente wird aktuell auf eine browserbasierte Version umgestellt. Für die Darstellung setzen wir Angular ein.
+Must-Have Skills
+Angular ab V6 Expertise in funktionalen und intuitiven UIs
+Nice-to-Have Skills
+Erfahrung in Wissenvermittlung Versicherungskenntnisse

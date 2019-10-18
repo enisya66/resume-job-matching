@@ -1,0 +1,25 @@
+Titel
+C#/ .NET Entwickler (m/w/d)
+Projektanbieter
+SOLCOM GmbH
+Beginn
+asap
+Einsatzort
+D7
+Beschreibung
+C#/ .NET Entwickler (m/w/d) Projekt-Nr.: 58741 Starttermin: asap Einsatzort: D7 Stellentyp: freiberuflich Dauer: 12 Monate Aufgaben Wir suchen für einen Kunden aktuell zwei C#/ .NET Entwickler, gerne mit einem Schwerpunkt auf Frontend, Backend oder Fullstack. Folgende Aufgaben werden Sie hierbei übernehmen: Entwicklung technisch anspruchsvoller Softwarekomponenten Weiterentwicklung der Standardsoftware Anforderungsanalyse und Implementierung der Software für automatisierte Lagerlösungen und logistische Anwendungen.
+Anforderungen
+Must:
+
+Erfahrung in der Entwicklung neuer Software von der Architektur bis hin zur kompletten Produktentwicklung
+Kenntnisse C#, .net-Framework
+Kenntnisse in modernen Programmiertechniken wie z.B. Design Patterns und Clean Code Programmierung
+Kenntnisse im Design von Softwarearchitekturen
+Gute Englischkenntnisse in Wort und Schrift
+Frontendschwerpunkt (1)
+
+Kenntnisse Web-basierter Technologien wie HTML5, JavaScript, TypeScript
+Kenntnisse mit Angular 7
+Backendschwerpunkt (2)
+
+Erfahrung in der Datenbankprogrammierung mit SQL Server und Oracle

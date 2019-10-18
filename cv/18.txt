@@ -1,0 +1,279 @@
+Senior Software Expert / Full Stack Development, Java development
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+02.09.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+Städte
+Wiesbaden
+500 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+02/2019 - 06/2019
+
+5 Monate
+
+Senior Java Expert.
+
+Kunde
+T-Systems
+Einsatzort
+Stuttgart
+Projektinhalte
+UNITE is an application that is used for providing finance options to new automobile buyers. Web services is used in authentication, registering new customer, providing financial service like loans etc. Active listeners always make sure the session is maintained through the transaction. Loans are provided for both new and used vehicles. JPA is used as a persistence tool. Web services Soap and Rest are used in various transactions. Front end is developed using JSF 2.5, primefaces, iText for pdf, Ajax etc. Enterprise Architect is used for modelling Business objects. Mocks are used in unit testing.   Technology: Java8, Soap web services, Restful, Jsf, primefaces, Ajax, maven, websphere9.5, IntelliJ and Ubuntu.   Contributions:
+Developing of View using Jsf, primefaces, Ajax and Javascript.
+Building of code using maven.
+Configuring Websphere server for deploying application and mocks.
+Bug fixing of production issues in given time.
+Executing various tasks in Ubuntu.
+Attend daily Scrum meetings.
+06/2017 - 12/2018
+
+1 Jahr 7 Monate
+
+Ufeed
+
+10/2015 - 05/2017
+
+1 Jahr 8 Monate
+
+PNR Services
+
+04/2015 - 08/2015
+
+5 Monate
+
+SITA Voyager (Sales and Servicing)
+
+10/2014 - 02/2015
+
+5 Monate
+
+Fault Tree Automation (E-enabled AIRCRAFT)
+
+11/2013 - 10/2014
+
+1 Jahr
+
+ECRB NextGen
+
+08/2012 - 11/2013
+
+1 Jahr 4 Monate
+
+SGN (Group Mass transit), Desktop application
+
+11/2011 - 11/2013
+
+2 Jahre 1 Monat
+
+NVS Kruz and ABO, Standalone application
+
+11/2010 - 11/2011
+
+1 Jahr 1 Monat
+
+Trading Room Solutions (Insurance), Intranet application
+
+06/2010 - 08/2010
+
+3 Monate
+
+Telephonic Booking Kiosk, Internal application used in management of dealers
+
+04/2010 - 06/2010
+
+3 Monate
+
+SAAS (Procure Easy), Intranet portal given only to customers
+
+01/2010 - 04/2010
+
+4 Monate
+
+Online Train Packages
+
+04/2008 - 01/2010
+
+1 Jahr 10 Monate
+
+Student Management, Intranet application
+
+09/2007 - 04/2008
+
+8 Monate
+
+B2B Portal, Intranet application
+
+01/2006 - 09/2007
+
+1 Jahr 9 Monate
+
+Hotel Management, Intranet application
+
+01/2006 - 09/2007
+
+1 Jahr 9 Monate
+
+Online web development, Intranet application
+
+01/2004 - 01/2006
+
+2 Jahre 1 Monat
+
+Resort management [orrms], Intranet application
+
+09/2003 - 01/2004
+
+5 Monate
+
+Online Shopping, Intranet application
+
+06/2003 - 09/2003
+
+4 Monate
+
+Online web development using FTP
+Kompetenzen
+Produkte / Standards / Erfahrungen
+PROFILE SUMMARY 16 years of experience in Java development / Full Stack Development.
+Strong in Software Development Methodologies.
+Involved in gathering the information required to develop the Application.
+Involved in Programming The Application.
+Involved in design of the Application.
+Developing Unix shell scripts to automate build.
+Involved in Deployment of the Application.
+Involved in writing test cases for unit tests.
+Involved in unit testing the software.
+Involved in design of LLD and HLD in UML.
+ PROFESSIONAL EXPERIENCE Total 16 years of experience in Java development. Currently working since February 2019 in (on Request) as a Senior Software Expert. Worked in CentutyLink Technologies India pvt ltd as Associate lead and managing a team of 4 developers. 6.2 years of experience as Technology Specialist in NIIT Technologies Ltd Bangalore and Delhi. 1 year of experience as senior software Engineer in Magna Infotech(client Niit Technologies Delhi). 6.4 years of Experience as Software Engineer in Credere Infotech Bangalore.  TECHNICAL SKILLS Platform:
+Java
+J2EE
+Multithreading
+Spring
+Web services Jax-ws soap
+Restful
+Hadoop BigData
+AWS cloud
+ Rules Engine:
+Drools
+Jrules
+ Build Tools:
+Jenkins
+Ant
+Maven
+Sonar
+ Cloud Technology:
+AWS cloud Solutions Architect certification
+ Big Data:
+HDFS
+Map Reduce
+Flume
+Hive
+Kafka
+MongoDB
+ Design:
+UML (both LLD and HLD)
+ Design Tools:
+Enterprise Architect
+ Report Tool:
+Ireport 4.5
+ IDE:
+Eclipse
+MyEclipse
+Netbeans
+ Editors:
+Edit plus
+Macros
+ Web Server:
+Weblogic 8.1
+Jboss
+Tomcat
+ Scripting:
+Jquery
+Jquery mobile
+javascript
+ Repository:
+Git
+CSS
+SVN
+Betriebssysteme
+Bash shell
+HP unix
+Korn shell
+Linux Red Hat 7
+MS-DOS
+Unix
+Windows
+Windows NT
+Programmiersprachen
+Angular JS
+Applets
+Awt
+Beans
+Core Java
+CSS
+DAO
+Design patterns
+dom
+Dreamweaver
+DTD
+DynactionForms
+Ejb
+2.1, 3.0 JSP
+EL
+(Expression Language)
+gwt
+Html
+Icefaces
+Jasper reports
+JavaScript
+Jface
+JQuery
+mobile
+JSF
+Microsoft
+FrontPage, Access
+Mysql
+OOAD
+Oracle9i
+Perl
+PL-Sql
+RCP
+(Rich client platform)
+Scripting
+in Linux
+Servlets
+shell
+Spring
+Sql
+Struts
+1.3, 2.0, Html, tags
+Swings
+Swt
+tiles
+Utilities
+validation
+xml
+dom, Schema
+xsd
+xslt
+Datenbanken
+MySQL
+Oracle10g
+Oracle9i
+Sprachkenntnisse
+English
+Fluent
+German
+Beginner (A1)
+Ausbildungshistorie
+04/2005 Bapuji  Institute of Engineering and Technology. Davanagere (Kuvempu University)
+B.E. (Computer Science & Engineering)
+

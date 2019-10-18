@@ -1,0 +1,75 @@
+As Full Stack java developer I have been building applications using new tools and technical developments in Java world. Having extensive industry and full life cycle experience in a java based environment, problem-solving capabilities. Excellent communication skills and able to work in team. Looking for an ambitious company which will challenge my developer and problem solving skills and allow me to continue to develop my knowledge and potential.
+December 2016 / today : Benetton Group srl.
+Create application for life cycle of fashion product collections.
+Roles & Responsibilities in the project:
+- Working with Swing api to implement a user interfaces (GUIs) application of fashion products.
+- Involved in some front-end and Back-end development.
+- Working with Oracle creating some complex query, function , procedure .
+Technologies and methodologies used in the project:
+Java , EJB, Ibatis, swing, eclipse, jboss, Oracle11g/12g,SVN, XML, ant, Apache FOP, PL/SQL.
+May 2014 / June 2016 : Engineering Ingegneria Informatica spa.
+Create page of application for physicians to diagnose patients for the license monochromatic.
+Roles & Responsibilities in the project:
+- Application development using Java EE, hibernate, struts, spring
+- Working as a J2EE application developer to create pages for physicians to diagnose patients
+- Involved in some front end development using javascript, jquery, css, html
+- Working with Oracle 11g creating some complex query adding tables new column and procedure
+- Working with tomcat deployment the application and adding users .
+Technologies and methodologies used in the project: Java EE, Hibernate3, Struts2, web services, GWTP, javascript, Jquery, css, html, jsp, pl/sql, eclipse, Tomcat, Oracle11,SVN, XML, Spring.
+November 2013 / April 2014: Accenture spa for Italian client Veneto Banca.
+Creating customer profile private for home banking.
+Roles & Responsibilities in the project:
+- Working as a J2EE developer to create customer profiles for private and home banking
+- Using Java EE, Spring, EJB3 for application development
+- Also occasionally working within the architecture team
+- Working with oracle 10g database
+- Exposure to other technologies such as SVN and websphere
+Technologies and methodologies used in the project:
+Java EE, Spring MVC, EJB, REST services,WebSphere, Oracle10, SVN, maven, Junit, Jenkins, Agile/scrum.
+May 2012 / November 2013: Eldasoft spa Italy for the region of Basilicata.
+Project for customers to ask permission of all types of buildings from the region Basilicata anti seismic
+bureau.
+Roles & Responsibilities in the project:
+- Working as a developer on a project for customers to ask permission of all types of buildings
+from the region Basilicata anti seismic bureau.
+- Building applications using Java EE, Spring, struts, JSP, JSTL, hibernate
+- Involved in front end development using Javascript, CSS, Jquery
+- Working with Oracle 10, MySQL, PostgresSQL
+Technologies and methodologies used in the project:
+Java EE, Hibernate, Spring3, Struts2, jsp, jstl, javascript, Jquery, css, html, Tomcat, Oracle /
+PostgresSql/MySq, Junit.
+April 2011 / April 2012: Sigea srl Italy.
+Many small projects differents each of others, it was an activity for their historical client ATMA Group
+of the furniture.
+Roles & Responsibilities in the project:
+- Working as a Java developer creating applications on many small projects
+- Application development was done with Jave EE, Spring, Struts, JSP and servlet
+- Some projects included .Net framework (C#) and Android development as well
+Technologies and methodologies used in the project:
+Java EE, jsp, servlet,.Net Framework(C#) and Android,Tomcat, DB2.
+April 2009 / March 2010: SMC Treviso srl Italy.
+This project was a personalisation of liferay.
+Roles & Responsibilities in the project:
+java developer creating and personalisation ofmany feature of liferay to adapt the product to requests of
+clients.
+Technologies and methodologies used in the project:
+Portlet, html,css, javascript, tomcat.
+2004-2009 : Graduated from university of Padua (Italy).
+1996 : Graduated from higher School in Morocco.
+Operating Systems: Windows, Linux (Ubuntu, CentOS, Fedora20).
+Languages: Java, C#, JavaScript, SQL , PL/SQL.
+Framework: Spring, Struts, Hibernate , jQuery, .NET Framework (C#).
+DBMS: MySQL, MS SQL Server, Oracle.
+ACADEMIC QUALIFICATIONS
+ACADEMIC QUALIFICATIONS
+ACADEMIC QUALIFICATIONS
+KEY SKILLS AND COMPETENCIES
+Web: XML, HTML, JSP, JSTL, CSS,
+Platforms: Java EE , EJB, SOAP Web Services, RESTful, GWTP.
+Instrument of development: Visual Studio2010, Eclipse, IBM RSA.
+Software: Talend, AutoCAD, Google App Engine, repository: SVN e RTC.
+Strong core Java development experience.
+Strong core Java development experience.
+Ability to develop creative solutions for complex problems.
+Languages: Arabic (Mother tongue), French (Good), Italian (Good), English (Good).
+Hobbies: Reading, travel , horse riding.

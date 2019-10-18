@@ -1,0 +1,284 @@
+Full Stack Java/J2EE Entwickler, Solution Design
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D8
+Städte
+München
+10 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+05/2019 - Heute
+
+5 Monate
+
+Automated IT Factory Devops
+
+Rolle
+IT Consultant; DevOps design
+Einsatzort
+München
+Projektinhalte
+Design und Implementierung der Public rest service von deployment Plattform
+Schnittestelle Definition zu CD/CI Build chain
+Junit Test und Test Organisation
+Konzept und Dokumatation auf WIKI 
+
+IBM WebSphere Message Broker IBM DB2 Query Management Facility JPA EJB3 SpringFramework JAX-RS WebSphere Administration LDAPs curl Java 8 J2EE 1.7 WebSphere Administration SW Deployment Build Prozess JSON Java API for RESTful Web Services JUnitapplication administration
+Produkte
+Eclipse SoapUI IBM RationalApplicationDeveloper SQuirreL SQL Maven 2 SonarQube SVN Jenkins
+
+06/2018 - 03/2019
+
+10 Monate
+
+IT Consulting für Applikation Doc Family
+
+01/2015 - 12/2017
+
+3 Jahre
+
+Enhancement von zentralen Engineering Data Warehouse
+
+11/2013 - 12/2014
+
+1 Jahr 2 Monate
+
+Design und neue Entwicklung eines BI Tools für Projekt Daten in SAP Web Dynpro Form
+
+11/2012 - 10/2013
+
+1 Jahr
+
+Einführung des SAP-Modul IM (Investment Management)
+
+01/2010 - 10/2012
+
+2 Jahre 10 Monate
+
+Weiterentwicklung des Inhouse ERP System SAP/J2EE(SAP PS)
+
+02/2008 - 12/2009
+
+1 Jahr 11 Monate
+
+Applikation Betreunung und Weiterentwicklung eines DWHs fürs Projekt Daten Portal
+
+02/2007 - 02/2008
+
+1 Jahr 1 Monat
+
+Übernahme des Konzern Reporting Portal und weitere Entwicklung
+
+04/2006 - 01/2007
+
+10 Monate
+
+Entwicklung einer Komponente 'Arbeitsblatt' von einem Business Intelligence (BI) Produktes, das eine Rich-Client J2EE Anwendung für eine integrierte Planungs- und Controlling- Lösung ist.
+
+04/2004 - 03/2006
+
+2 Jahre
+
+Bioinformatik Datenbank und Genom Visualisierung
+
+11/2002 - 12/2003
+
+1 Jahr 2 Monate
+
+Database Manager bei der Proteinstrukturfabrik (PSF)
+
+10/1999 - 05/2001
+
+1 Jahr 8 Monate
+
+Aids Test Entwicklung
+
+Branchen
+Banking
+Engineering
+Chemie
+Healthcare
+Kompetenzen
+Sprachkenntnisse
+Chinesisch
+Deutsch
+Englisch
+Produkte / Standards / Erfahrungen
+2nd Level IT Support
+Active MQ
+Adobe Acrobat Reader
+AFP
+Ant
+Apache Hadoop
+Apache Subversion
+Atlassian Confluence
+Atlassian JIRA
+Atlassian JIRA Agile
+Batch Job
+Berechtigungskonzept
+BEx Query Designer
+BExAnalyser
+Bugzilla
+Build Prozess
+Business Process Model
+Business Workflow
+CA Harvest Software Change Manager
+Datenanalysen
+Datenmigration
+Deployment
+DevOps
+DocFamily 6.2
+Docker
+Dokumentation von prozessen
+Druck Output Management
+Eclipse
+Eclipse 3.6.
+Eclipse RCP
+EJB Container
+EJB3
+Git
+Hibernate
+IBM Rational Application Developer
+IBM Rational Application Developer v8.0.x
+IBM RationalApplicationDeveloper
+IBM WebSphere Message Broker
+IFRS
+Incident Management
+Java Swing
+JBoss ApplicationServer
+Jenkins
+Maven 2
+Maven Buildmanagement
+Microsoft PowerBI desktop
+MVC
+Node.js
+Releasemanagement
+Rich Client Plattform
+SAP BW
+SAP ERP
+SAP ERP 6.0
+SAP HR
+SAP IM
+SAP JCo
+SAP Project System
+SAP PS
+SAP SD
+SAP Workflow Management
+Scrum-Methodik
+SoapUI
+SonarQube
+Spring 4.2
+SQuirreLSQL
+Subversion
+SVN
+SW Deployment
+Tableau
+Toad for Oracle
+Tomcat Applicationserver
+Tortoise
+Web Service
+WebSphere Administration
+WebSphereAdministration
+WinSCP
+XSLTransformation
+Zertifizierter Scrum Master
+IT Projekt Management: SCRUM Zertifizierung, DV Konzept, Software Change/ Release Management: JIRA, Version Control: Subversion, source Safe  Web-Technologien: J2EE, Rest API, Ajax, Node.js, JSF, Struts, SAP Webdynpro  Applikation Server: Websphere, Tomcat, JBoss, Apache Server, Weblogic  Middleware-Technologien: EJB 2.0/3.0, Websphere MQ, Hibernate  Design Patterns: GoF (MVC, Factory, Observer, Facade), Broker, Kernel  Statistik: S-Plus, MathLab, SAS und basic Learning algorithm  Betriebssysteme: Linux, Windows and Unix
+Programmiersprachen
+ABAP WebDynpro
+ABAP/OO
+Ajax
+Asynchronous JavaScript and XML
+CSS2
+CSS3
+curl
+Excel Makroprogrammierung
+Excel VBA
+J2EE 1.5
+J2EE 1.6
+J2EE 1.7
+J2ee1.7
+J2SE 1.5
+J2SE 1.7
+J2SE 5
+Java 1.6
+Java 1.8
+Java 8
+Java 8;
+Java API for REST Services
+Java API for RESTful Web Services
+Java API for XML Processing
+JavaScript
+JAX-RS
+JAX-WS
+JAXB
+JPA
+jQuery
+JSF
+JSON
+Oracle SQL
+Oracle/SQL
+PERL
+PHP
+PL/SQL
+PLSQL
+SAP ABAP Data Dictionary
+Spring MVC
+SpringFramework
+sql
+Unix Shell Scripting
+XML (JAXB und XSLT)
+Datenbanken
+IBM DB2 Query Management Facility
+In Memory Database
+Microsoft Access Datenbank
+MySQL
+NoSQL Datenbank Hadoop
+ORACLE (In Memory)
+Oracle 12c
+PostgresSQL
+Managementerfahrung in Unternehmen
+Data Protection Manager
+Design / Entwicklung / Konstruktion
+Design pattern
+Betriebssysteme
+Microsoft Win2000
+Red Hat Linux
+Aufgabenbereiche
+application administration
+JUnit
+LDAPs
+Aus- und Weiterbildung
+11/2018 - 11/2018
+
+1 Monat
+
+Blockchain foundation
+
+10/2017 - 10/2017
+
+1 Monat
+
+Foundation in agile project management according to SCRUM
+
+10/2001 - 09/2002
+
+1 Jahr
+
+Master of Informatics
+
+04/1993 - 07/1998
+
+5 Jahre 4 Monate
+
+Diplom-Ingenieure Biotechnologie
+

@@ -1,0 +1,19 @@
+Projekt-Titel
+Weiterentwicklungen und Anpassungen
+Projekt-Rolle
+Entwickler
+Beginn
+14.10.2019
+Dauer
+langfristig
+Auslastung
+100
+Einsatzort
+Berlin
+Projekt-Beschreibung
+Unsere Software ist eine webbasierte Anwendung zur Durchführung von Projekten.
+sie kombiniert Social Business Collaboration Tools mit modernem Gästemanagement und effektiver Datenerfassung.
+Must-Have Skills
+Frontend web development (CSS javascript HTML5) jQuery web-services/web-sockets backbone/angular/react UI/UX design responsive/mobile web design Backend web development (node.js mongodb grunt)
+Nice-to-Have Skills
+Debian Server Administration is a plus PHP / .NET / Java is a plus MySQL / MS SQL is a plus

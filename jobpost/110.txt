@@ -1,0 +1,23 @@
+Projekt-Titel
+Entwicklung einer modernen Web-Anwendung
+Projekt-Rolle
+Frontend-Entwickler (m/w/d)
+Beginn
+07.10.2019
+Dauer
+mindestens 9 Monate
+Auslastung
+100
+Einsatzort
+Berlin
+Projekt-Beschreibung
+- Unterstützung unseres Kunden vor Ort
+- Aufnahme von Kundenanforderungen sowie Erarbeitung entsprechender Lösungen
+- Bewertung und Auswahl neuer Technologien
+- Analyse und kontinuierliche Anpassung bestehender IT-Systeme an geänderte Anforderungen
+- Erstellung von Unit und Integration Tests
+- Zusammenarbeit mit Software-Architekten/ -Entwicklern in agilen Umgebungen (z.B. Scrum, Kanban, Lean, XP)
+Must-Have Skills
+JavaScript TypeScript Angular 2+ GUI Entwicklung
+Nice-to-Have Skills
+Angular React VueJS Spring REST JSON XML Maven gulp webpack GitLab CI Jenkins JIRA Git

@@ -1,0 +1,24 @@
+Projekt-Titel
+SAP HCM Berater (PA/OM/PT/PY)
+Projekt-Rolle
+SAP HCM Berater
+Beginn
+01.11.2019
+Dauer
+6 Monate
+Auslastung
+100
+Einsatzort
+Berlin
+Projekt-Beschreibung
+Wir suchen für unseren Kunden im öffentlichen Sektor eine/n  HCM Berater/in 
+SAP Core Module (PA/OM/PT/PY). Ziel ist die Implementierung der Lösung von der Konzeption bis zur Entwicklung. Wir suchen Berater mit konzeptioneller Kompetenz, gerne auch mit Entwicklungskompetenz. 
+
+Ihr Profil:
+Langjährige Erfahrung im SAP HCM 
+Erfahrung im öffentlichen Sektor von Vorteil
+Erfahrung mit Schemen und Regeln
+Migrations Know How - von SAP/SAP und NonSAP/SAP
+Must-Have Skills
+SAP HCM Migrations Know How Schemen und Regeln
+Nice-to-Have Skills

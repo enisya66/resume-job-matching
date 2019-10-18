@@ -1,0 +1,54 @@
+Titel
+Java Backend Developer (Professional/Senior) (77195)
+Projektanbieter
+IQ PLUS AG
+Beginn
+sofort
+Einsatzort
+Raum Zürich
+Beschreibung
+Java Backend Developer (Professional/Senior) (77195) Raum Zürich Einsatz ab: sofort Aufgabe Wir suchen Sie als Java Backend Developer (Professional/Senior) für unseren Kunden im Kanton Zürich. In dieser verantwortungsvollen Aufgabe sind Sie zuständig für: - Analyse und Bewertung der Aufgaben und Anforderungen der Softwareentwicklung gemäß dem Auftrag (Projekte und/oder Wartung) auf der Grundlage von Kostenschätzungen. - Implementierung von Softwareanforderungen auf Basis von Anforderungsanalyse und spezifikation in ABS und in den schweizspezifischen Teilen des ABS und der Custom Service Platform (Teil der Digital Service Platform) oder im jeweiligen CISL (Core Insurance Layer) Adapter gemäß den Standards der Anwendungsentwicklung und ABS-Kernimplementierung.
+
+
+ - Implementierung von Schnittstellen nach Auftragsspezifikation und Gesamtarchitektur auf Basis von REST-API-orientierten Konzepten.
+
+
+ - Durchführung von Unit-Tests der eingesetzten Anwendungsentwicklungen nach Spezifikation und Standards der Anwendungsentwicklung.
+
+
+ - Klare, korrekte, saubere Dokumentation der implementierten Software-Anforderungen.
+
+
+ - Behebung von Fehlern im Quellcode, implementierten Anforderungslösungen und der zugehörigen Dokumentation.
+
+
+ - Sie sind es gewohnt, ernsthaft und diszipliniert zu arbeiten und sauberen Code zu schreiben (z.B. die Einhaltung von Regeln und Richtlinien).
+Anforderungen
+- Erfüllt die Anforderungen für das Professional Level
+
+
+- Mehrjährige Erfahrung im Bereich Softwaredesign und Anforderungsanalyse
+
+
+und Kostenschätzungen
+
+
+- Mehrjährige Erfahrung in der Java-Entwicklung mit Eclipse
+
+
+- Mehrjährige Erfahrung in der Versicherungsbranche
+
+
+- Erfahrung mit den Standards und Rahmenwerken der ABS (Allianz Business System) Anwendung oder Bereitschaft zur Erweiterung des Wissens.
+
+
+- Sehr erfahren in Java, Spring, Spring Boot, REST API Service, Unit Testing, JAVA SWT
+
+
+-  Erfahrung in der Implementierung moderner Softwarearchitekturen mit einer zentralen Serviceschicht
+
+
+- Erfahrung im Umgang mit komplexen verteilten Systemlandschaften
+
+
+- Erfahrung mit HTML5-Webtechnologien, Bootstrap, etc., Winkel JS 1.x / 2.+, e von Vorteil

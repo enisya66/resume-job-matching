@@ -1,0 +1,21 @@
+Titel
+Frontend Developer React (m/w/d)
+Projektanbieter
+SOLCOM GmbH
+Beginn
+asap
+Einsatzort
+D2, Hamburg
+Beschreibung
+Frontend Developer React (m/w/d) Projekt-Nr.: 58809 Starttermin: asap Einsatzort: D2, Hamburg Stellentyp: freiberuflich Dauer: 6 Monate + Aufgaben Für einen Kunden in Hamburg sind wir derzeit auf der Suche nach einem Frontend Developer React. Folgende Aufgaben werden Sie hierbei übernehmen: Qualitativ hochwertige Frontend-Entwicklung auf Basis aktueller Technologien und Methoden (u.a. Continuous Integration, Agile Vorgehensweisen, Git, crossfunktionale Teams) Enge Abstimmung und Zusammenarbeit mit Konzeptionen und Designern
+Entwicklung von kreativen technischen Ideen.
+Anforderungen
+Must:
+
+Fundierte Erfahrung in der Frontend Entwicklung mittels HTML5, CSS3 & JavaScript
+Kenntnisse mit React, Angular, Vue.js oder einem ähnlichen Framework
+Deutsch und Englisch Kenntnisse in Wort und Schrift
+Nice:
+
+Erfahrung in Fullstack-Entwicklung mit PHP, Java oder C#
+Erfahrungen im Theming von Content Management Systemen und Online-Shops

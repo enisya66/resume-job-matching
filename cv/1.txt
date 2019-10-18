@@ -1,1 +1,161 @@
-Hey tayo hey tayo dia bis kecil ramah
+Senior Java/JEE Developer, Software Architect
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+02.12.2019
+verfügbar zu
+100 %
+davon vor Ort
+60 %
+PLZ-Gebiet, Land
+D2D3D4D5
+Städte
+Hannover
+200 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+04/2019 - 11/2019
+
+8 Monate
+
+Integration PLM-Lösungen mit Spring Cloud DataFlow
+
+01/2018 - 03/2019
+
+1 Jahr 3 Monate
+
+Migration des Buchungsclients von Swing auf Single-Page-Webapplication
+
+07/2017 - 12/2018
+
+1 Jahr 6 Monate
+
+Implementierung Risikosteuerung
+
+11/2016 - 06/2017
+
+8 Monate
+
+Umstellung Reise-Buchungsclient von Swing auf Angular / SpringBoot
+
+05/2014 - 10/2016
+
+2 Jahre 6 Monate
+
+Implementierung Verhandlungs- und Konditionsmanagement
+
+09/2012 - 04/2014
+
+1 Jahr 8 Monate
+
+Implementierung einer Integration zum Abgleich von Stücklisten
+
+01/2011 - 08/2012
+
+1 Jahr 8 Monate
+
+Implementierung E-Mail Kampagnen-Plattform zur Online-Leadgewinnung
+
+Branchen
+Touristik Airline Handel Automotive Online-Marketing
+Kompetenzen
+Programmiersprachen
+Angular
+Java
+Hervorragend Java und Java EE
+Java 10
+Java 11
+Java 6
+Java 8
+Java 9
+JavaEE
+JavaScript
+JAX-WS
+JMS
+JPA
+JSF
+PL/SQL
+Shell
+Xtend
+Betriebssysteme
+Linux
+Windows
+Datenbanken
+JDBC
+MySQL
+Oracle
+Postgres
+SQL
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+fließend
+Datenkommunikation
+EDIFACT
+Internet, Intranet
+Message Queuing
+RPC
+VDA
+Produkte / Standards / Erfahrungen
+3DExperience
+ActiveMQ
+Architekt
+Checkstyle
+Coaching
+Docker
+Eclipse
+Elastic Search
+Git
+Graylog
+Hibernate
+Jasper Report
+Jenkins
+JIRA
+Junit 4
+Kubernetes
+Maven
+OData for SAP
+PlantUML
+PMD
+PostegreSQL
+Quarz
+SAP
+Scrum
+Selenium
+SOAP
+SonarQube
+Spring
+Spring 4
+Spring 5
+Spring Batch
+Spring Boot
+Spring Boot 2
+Spring Cloud Config
+Spring Cloud DataFlow
+Spring Cloud Stream
+Spring Cloud Task
+Spring Data
+Spring Data Sleuth
+Spring Integration
+Spring Tools Suite
+SVN
+TeamFoundationServer
+Tomcat
+UML
+Vaadin
+VDA 4912
+VDA 4913
+Websphere
+Java Java EE, JSF, EJB, JPA, JMS, JAX-WS, SOAP, REST, CDI, Hibernate, Spring, Spring Boot, JSP, Servlets JUnit, EasyMock, Mockito, Selenium slf4j, log4j commons-lang, commons-io, commons-configuration Freemarker, FlyingSaucer, POI, maven (plugins)   Build Maven, Jenkins, Hudson, SonarQube, Nexus, Artifactory, Checkstyle, PMD, Cobertura SVN, CVS, Mercurial, git   IDE Eclipse, IntelliJ, Nebeans   Application Server Tomcat, Websphere, Weblogic, JBoss   Sonstiges Liferay Docbook UML XML / XSLT / XPath JIRA
+Schwerpunkte
+agiles Projektmanagement
+Java Architektur
+Java Entwicklung
+Aufgabenbereiche
+Scrum Master
+Ausbildungshistorie
+Berufstätigkeit 09/2012– 04/2012 edicos consulting & software GmbH & Co. KG, Hannover Lead Developer / IT Projektleiter 01/2011 – 08/2012 Deutsche Messe Interactive GmbH, Hannover Senior Developer / Software Architect; Scrum Master 04/2008 – 12/2010 quintessence consulting GmbH, Hannover Senior Software Architect 10/2007 – 04/2008 Impress Software GmbH, Hannover Senior J2EE Developer 10/2001 – 10/2007 quintessence consulting GmbH, Hannover 02/2006 – 10/2007 Director Engineering 02/2004 – 01/2006 Frameworkentwickler, Teamleiter 10/2001 – 01/2004 Anwendungsentwickler 09/2000 – 09/2001 Logica pdv GmbH, Hamburg / Hannover Teilprojektleiter, Schulungsreferent (europaweit), Java-Programmierer 04/2000 – 08/2000 connect! computer GmbH, Hamburg VBA Programmierer 09/1999 – 01-2000 Ludwig Windhorst Schule, Hannover Realschullehrer   Studium / Ausbildung 10/1997 – 03/1999 Ausbildungsseminar Hannover I, Dietrich-Bonhoeffer-Realschule Vorbereitungsdienst für das Lehramt an Realschulen 10.03.1999: Lehrer für das Lehramt an Realschulen, Gesamtnote „gut“ 10/1992 - 06/1997 Universität Hannover, Studium Lehramt an Realschulen 11.06.1997: Erste Staatsprüfung für das Lehramt an Realschulen, Gesamtnote „gut“

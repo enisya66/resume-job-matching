@@ -1,0 +1,32 @@
+Titel
+SAP Basisadministrator (m/w/d)
+Beginn
+01.11.2019
+Einsatzort
+Ahrensburg
+Ihre Aufgaben
+Sie übernehmen die SAP Basis Administration der SAP Infrastruktur
+Sie steuern externe Application Service Provider
+Sie sind verantwortlich für Systeminstallationen, Systemkopien und Systemupdates/-upgrades 
+Zu Ihren Aufgaben gehört die Sicherstellung von Verfügbarkeit und optimaler Performance
+Sie gewährleisten den Betrieb der Linux Server und Oracle Datenbanken
+Sie entwickeln die SAP Architektur weiter von ERP 6.0 Richtung S/4 HANA
+Sie sind zuständig für die Konzeption von Datenstrukturen und Anbindung unserer Kunden durch die Middleware Lobster
+Ihr Profil
+Folgendes sollten Sie unbedingt mitbringen:
+
+Sie verfügen über mehrjährige Praxiserfahrungen in der SAP Basis Administration
+Sie haben fundierte Kenntnisse im Design und der Implementierung von SAP Systemlösungen
+Sie bringen Erfahrungen im Bereich Server Betriebssystem Linux und Datenbank Oracle mit
+Sie besitzen Erfahrung auf dem Gebiet Releasewechsel und Migrationen
+Performanceanalysen, Reorganisation und Optimierungsmaßnahmen sind für Sie keine Fremdwörter
+Sie können mit Dateiformaten wie IDOC, XML, XLSX, CSV etc. und Kommunikationswegen wie OFTP2, SFTP, HTTPS, SMTP etc. umgehen
+Sie verfügen über gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Folgendes wäre wünschenswert:
+
+Basiswissen über HANA und SAP S/4
+Wir bieten außerdem
+Eine gute Verkehrsanbindung und Parkplätze für Autofahrer
+Zuschuss zum HVV-Profi Ticket
+Betrieblicher Altersvorsorge, PlusCard, JobRad, Mitarbeiter-PC-Programm
+Kurze Entscheidungswege, Platz für Kreativität, Weiterdenken und Gestalten

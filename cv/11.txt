@@ -1,0 +1,282 @@
+Senior Softwareentwickler JAVA JEE Spring
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D4D5
+Städte
+Düsseldorf
+100 km
+Essen
+100 km
+Köln
+100 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+02/2019 - Heute
+
+8 Monate
+
+AURORA Auftragsbearbeitungssystem
+
+Kunde
+Vallourec Deutschland
+Einsatzort
+Mülheim an der Ruhr
+Projektinhalte
+Weiterentwicklung vom Auftragsbearbearbeitungssystem AURORA
+Kenntnisse
+Java 8 JEE JPA Hibernate JAX-WS JAXB SCRUM
+Produkte
+Eclipse IntelliJ JBoss Postgres
+
+01/2016 - 01/2019
+
+3 Jahre 1 Monat
+
+Thyssenkrupp - FLSNew: Manufacturing Execution System (MES)
+
+01/2015 - 12/2015
+Rolle
+Software-Entwickler
+Kunde
+Thyssenkrupp Steel Europe AG
+Einsatzort
+Duisburg
+Kenntnisse
+Scrum Java 7 Java 8 XML DOM SAX JDOM JAXB JPA xTextJMS
+Produkte
+Eclipse Jenkins Weblogic Oracle
+
+1 Jahr
+
+REWE Online, Weiterentwicklung
+
+08/2014 - 12/2014
+
+5 Monate
+
+Neuentwicklung der Schnittstelle zu GDV / Elektronische Versicherungsbestätigung (eVB) Weiterentwicklung des Modules „Vertrag/Stammdatenverwaltung“
+
+09/2013 - 05/2014
+
+9 Monate
+
+REWE Online / rewe.de
+
+09/2010 - 08/2013
+
+3 Jahre
+
+DER Touristik: PhoenixUnlimited
+
+01/2010 - 07/2010
+
+7 Monate
+
+Ausbildung der Fachinformatiker
+
+06/2009 - 11/2009
+
+6 Monate
+
+RFI Neuausrichtung KFZ Diagnose
+
+01/2009 - 04/2009
+
+4 Monate
+
+Soap Proxy
+
+08/2008 - 04/2009
+
+9 Monate
+
+base.de
+
+06/2006 - 06/2008
+
+2 Jahre 1 Monat
+
+Intranets von Arcandor und Karstadt Warenhaus GmbH
+
+02/2004 - 05/2006
+
+2 Jahre 4 Monate
+
+Konzerneinkauf mit B2B-Auktionsplattform Texyard
+
+01/2003 - 06/2003
+
+6 Monate
+
+Webauftritt von NordLB - nordlb.de
+
+06/2002 - 12/2002
+
+7 Monate
+
+Johnson & Johnson: Webauftritte Aufklärungsstunde.de, Vomerwachsenwerden.de
+
+01/2002 - 06/2002
+
+6 Monate
+
+Webauftritte Henkel Investor Relations - ir.henkel.com / Henkel Waschmittel.de
+
+03/2001 - 12/2001
+
+10 Monate
+
+Intranet der Babcock Borsig AG
+
+06/2000 - 02/2001
+
+9 Monate
+
+Verschiedene Online-Leasingsrechner für die IKB Leasing Bank
+
+10/1998 - 05/2000
+
+1 Jahr 8 Monate
+
+Online Jobbörsen für Mannesmann und CognisG
+
+Branchen
+IT
+Stahl
+Touristik
+Telekommunikation
+Groß- und Einzelhandel
+Finance
+Chemie
+Automotive
+Kompetenzen
+Sprachkenntnisse
+Deutsch
+fließend, Muttersprache
+Englisch
+fortgeschritten
+Russisch
+fließend, Muttersprache
+Betriebssysteme
+Linux
+Sun Solaris
+Unix
+VI
+Windows
+Programmiersprachen
+ColdFusion
+ColdFusion (CFML)
+DSL
+HTML
+Java 5
+Java 6
+Java 7
+Java 8
+Java API for XML Processing
+Javascript
+JAX RS
+JAX-WS
+JAXB
+JEE
+JPA
+JPQL
+JSON
+JSP
+Oracle SQL
+PL/SQL
+PLSQL
+REST
+SQL
+UML
+UML2
+XML
+Datenbanken
+Derby
+MS SQL Database
+MS SQL Server
+MySQL
+Oracle
+Postgres
+PostgreSQL
+T-SQL
+Datenkommunikation
+JMS
+WebSphere MQ
+Produkte / Standards / Erfahrungen
+Administration Linux
+Adobe Dreamweaver
+Adonis
+Agile Entwicklung
+Ant
+Apache Axis
+Apache JMeter
+Apache JMeter
+Bamboo
+BEA Weblogic Application Server
+Buckminster
+CMS Day Communiqué
+ColdFusion Application Server
+DOM
+Eclipse
+EJB
+EMF
+Git
+Hibernate
+Hystrix
+IntelliJ
+JBoss
+JBoss EAP 6
+JBoss EAP 6
+JDOM
+Jenkins
+Jira
+JMS
+JSF
+JUnit
+Liquibase
+Macromedia Spectra 1.5 CMS
+MagicDraw
+Maven
+MDA
+MDA/MDSD
+MDD
+Mockito
+MyBatis
+QuickBuild
+SAX
+Scrum
+Servlets
+SOA
+Softwareentwicklung
+Struts
+Subversion
+SVN
+Tomcat
+Weblogic
+XML
+XSLT
+xText
+Schwerpunkte
+Certified Scrum Master
+ISTQB Certified Advanced Test Analyst
+ISTQB Certified Tester CTFL
+Java
+Spring Boot
+Spring Data
+Ausbildungshistorie
+Diplom-Ingenieur (FH/SU) Studienschwerpunkt: Bergtechnische Anlagen 
+ Zertifizierungen
+ISTQB Certified Tester, Advanced Level, Technical Test Analyst
+ISTQB Certified Tester, Foundation Level
+Certified ScrumMaster, ScrumAlliance
+Level 2 Spoken English for Industry and Commerce by the London Chamber of Commerce and Industry

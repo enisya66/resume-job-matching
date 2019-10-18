@@ -1,0 +1,26 @@
+Titel
+Senior Softwareentwickler (m/w/d)
+Beginn
+01.11.2019
+Einsatzort
+Hamburg
+Ihre Aufgaben
+Sie entwickeln Applikationen und Module mit zentraler Bedeutung für die internen Kunden 
+Sie arbeiten mit innovativer Software (.NET, Visual Studio 2017, Web API, MS-SQL 2014, TFS 2015)
+Sie verantworten den Themenschwerpunkt "Intercompany Business"
+Sie arbeiten mit Business Analysten und verschiedenen Stakeholdern von der User Story bis zum Rollout zusammen
+Ihr Profil
+Folgendes sollten Sie unbedingt mitbringen:
+
+Abgeschlossenes Studium im Bereich IT mit Schwerpunkt in der Softwareentwicklung oder eine vergleichbare Ausbildung
+Sie haben mehrjährige Berufserfahrung in der Softwareentwicklung - idealer­weise auch in internationalen Projekten
+Außerdem haben Sie praktische Erfahrung mit C# sowie gute Kenntnisse in Entity Framework, Angular 5 und MVVM
+Sie haben ein ausgeprägtes Bewusstsein für Clean Code bzw. TDD und sind sicher im Umgang mit Patterns & Principles
+Darüber hinaus haben sie Erfahrung mit serviceorientierten Architekturen (SOA, REST) und nachrichtenbasierten Integrationsplattformen
+Folgendes wäre wünschenswert:
+
+Sie bringen Know-how in DDD, CQRS, WPF und Event Sourcing mit 
+Ihre Englischkenntnisse sind sehr gut in Wort und Schrift 
+Sie sind kommunikationsfähig und haben eine offene Persönlichkeit - idealerweise mit Mentoringerfahrung
+Sie arbeiten lösungsorientiert, sind teamfähig und haben Spaß an der Software­entwicklung
+Kenntnisse von Laborsoftware bzw. Labor-Informations- und Management-Systemen (LIMS) sind vorteilhaft

@@ -1,0 +1,28 @@
+Titel
+IT-Administrator (m/w/d)
+Beginn
+13.09.2019
+Einsatzort
+Heidelberg
+Ihre Aufgaben
+Administration von Microsoft Windows-Serversystemen 2003/2008 in einer Windows Domäne
+Administration Microsoft Exchange 2007
+Administration der Microsoft SQL Server Datenbanken und der VM-Ware ESX Server Farm
+Betreuung der IT-Infrastruktur (HP Server-, Storage- und Backupsysteme)
+Administration der Netzwerkkomponenten
+Softwareverteilung, Administration und Support von Windows-Clients XP / Windows7
+User Support inklusive Problemanalyse und -bearbeitung (Hard- und Software)
+Betreuung von Service-Desk, Telefonanlage und Mobile Devices
+Ihr Profil
+Erfolgreich abgeschlossene IT-Ausbildung und mehrjährige Berufserfahrung in der Administration
+Erfahrung im Anwendersupport
+Sehr gute Kenntnisse im Microsoft-Umfeld (Clients, Server, Office-Produkte)
+Gute Netzwerkkenntnisse (TCP/IP, DNS, DHCP)
+Gute Kenntnisse in Scripting VBS
+Wünschenswert sind SAP-Kenntnisse in der Basisadministration
+Hohe Kommunikationsfähigkeit, Teamfähigkeit und eine strukturierte Arbeitsweise runden Ihr Profil ab
+Wir bieten außerdem
+sehr gute fachliche Entwicklung innerhalb der vielfältigen Projektlandschaft bei namhaften internationalen Unternehmen
+individuelle, verbindliche Weiterentwicklungsmöglichkeiten
+dynamisches Umfeld mit spannenden Kontakten
+markt- und leistungsorientierte Vergütung

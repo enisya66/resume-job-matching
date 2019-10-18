@@ -1,0 +1,247 @@
+SAP BI, BW, SD, MM
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+30.09.2019
+verfügbar zu
+100 %
+davon vor Ort
+95 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9ÖsterreichSchweizEinsatzort unbestimmt
+Kommentar
+Weltweit
+Position
+Kommentar
+SAP
+Projekte
+08/2017 - Heute
+
+2 Jahre 2 Monate
+
+IT SAP Senior Manager, Architect, Sr.Consultant
+
+Kunde
+Manufacturing/Automotive
+Projektinhalte
+SAP MM, WM, SD, PP, BW
+New developments for an additional warehouse and storage type
+2nd and 3rd level support in manufacturing environment
+SAP HANA
+Business Analysis, Concepts & Customizing SAP MM, MM-PUR, Logistics Execution (mainly WM) and some QM, PP, PM, BW
+SAP LT Landscape Transformation Tool
+01/2017 - 08/2017
+
+8 Monate
+
+SAP Senior Service Manager, Architect, Sr.Consultant
+
+09/2016 - 12/2016
+
+4 Monate
+
+SAP Sr. Consultant/Team Lead, Architect, BA.
+
+06/2016 - 12/2016
+
+7 Monate
+
+SAP Sr. Consultant, Architect, BA, Developer
+
+09/2015 - 05/2016
+
+9 Monate
+
+BA. Architect, Developer
+
+01/2015 - 08/2015
+
+8 Monate
+
+Architect & Business
+
+04/2011 - 12/2014
+
+3 Jahre 9 Monate
+
+Architect & Senior SD, FI Working for different clients CRM + BW/BI consultant, IT Auditing, Project Manager
+
+12/2010 - 03/2011
+
+4 Monate
+
+Sr. SAP Lead SD, MM and BI/BW+IP / BI/BW Architect and Technical Lead
+
+01/2010 - 12/2010
+
+1 Jahr
+
+SAP BW/BI & IP System & Software Development
+
+02/2009 - 12/2009
+
+11 Monate
+
+SAP BI/BW Sr. Architect, Consultant, Developer
+
+11/2008 - 01/2009
+
+3 Monate
+
+SAP SD+BW Sr. Lead, Architect & Developer
+
+03/2008 - 01/2009
+
+11 Monate
+
+SAP BW Designer/Architect, Sr. SAP Consultant & Developer
+
+09/2007 - 02/2008
+
+6 Monate
+
+Project Manager, Lead SD + BW, Architect, and Developer
+
+04/2007 - 09/2007
+
+6 Monate
+
+SAP BW/BI Architect, Sr. SAP Consultant, Developer
+
+07/2006 - 04/2007
+
+10 Monate
+
+SAP BW Architect, Sr. SAP Consultant, Developer
+
+01/2006 - 06/2006
+
+6 Monate
+
+Sr. SAP Consultant & Developer, and Functional Owner: BW Sales, Complains CRM
+
+Branchen
+Industrie Handel Versicherugnen Banken
+Kompetenzen
+Sprachkenntnisse
+Deutsch
+verhandlungssicher
+Englisch
+verhandlungssicher
+Französisch
+Grundkenntnisse
+Italienisch
+Grundkenntnisse
+Russisch
+verhandlungssicher
+Spanisch
+Grundkenntnisse
+Produkte / Standards / Erfahrungen
+(+ some  BW 3.5; BPS)
+BCS
+BI-IP
+BI_CONT 3.53
+BO
+BPC
+BPS
+BSP
+BW (3.5)
+BW (7.0)
+BW (7.4; 7.5)
+CO
+CO-PA
+CRM
+CRM 4.0
+CS; BW (3.1; 3.5)
+ECC 6.0: Treasury
+eRecruitment
+FI
+FI-Travel management
+HR: Payroll
+Integrated Planning (IP)
+IP (Integrated Planning)
+IS-H
+IS-H. Sapscript
+IS-Utilities
+LSO
+MM
+MM (ECC 6.0)
+MM Purchasing
+MM-Purchasing
+Personal Admin
+PM
+Portal
+QM
+SAP BW
+SAP ERP 6.4
+SAP FI
+SAP NetWeaver BI 7.0
+SAP NetWeaver BI 7.0 (BW 7.0; NetWeaver 2004s)
+SAP NetWeaver BI 7.0; 7.3
+SAP NetWeaver Process Integration (SAP PI)
+SAP PI
+SAP R/3 (4.6c; 4.7; basis 6.2): FI
+SAP R/3 (4.6c; 4.7; basis 6.2): SD
+SAP SD
+Sapscript
+SCM (6.0)
+SD
+Smartforms
+Solutions Manager
+some 3.5
+some COGNOS
+some FI
+some SAP NetWeaver BI 7.0 (BW 7.0; NetWeaver 2004s)
+some SD
+SRM
+TM
+Treasury
+VAT
+XI
+XML
+  BW  3.5
+  FI
+  SD
+ FI
+ MM
+Technical Summary   Business Areas     
+Banking, Insurance, Marketing Information,
+Chemical, Refinery, SemiconductorInd,
+Various Trading Businesses, Manufacturing,
+High Tech, Telecom, Consumer Products/FMCG,
+Utilities, Pharmaceutical, Telecom
+  SAP R/3 experience since 1992
+SAP R/3 Module SD, MM, FI, CO, CO-PA, some  BC, PS, IS-Util
+       (R/3 Releases 2.1,2.2,3.0,3.1, 4.0B, 4.5A-B, 4.6b,c, 4.7)
+BW (Releases: 4.5A/1.2A,B, 2.0B, 3.0, 3.1, 3.5, 7.0), NetWeaver 2004s, BI 7.0
+BSP, BPS, IP (Integrated Planning), HANA
+some B2B purchasing, SEM-BW 3.2, SEM-BPS, BCS, MySAP,APO
+CRM/IPC (SPE+SCE),  some HTML, Java, Oracle
+S4T Dangerous Goods Handling/Verification
+Industry Solutions: some IS-Utilities, AFS, IS Retail/POS, FDB/Bank Analyzer/IAS, IS-Mills
+  R3 Cross Module Exp
+SAP Business Information Warehouse (BW/BI), Integrated Planning (BI-IP), BPC
+Business Engineering Workbench, Business
+Navigator, IMG, Correction and Transport,
+ABAP, SAPscript, SIS, LIS, EIS, LSMW
+Office,  ALE, IDOC, BAPI, Workflow,ASAP(Accelerated SAP)
+SAP Project Management (incl.ASAPprojects)
+Programmiersprachen
+ABAP
+ABAP-OO
+Assembler
+Cobol
+Datenbanken
+DB2
+DMS1100
+Oracle
+Design / Entwicklung / Konstruktion
+ASAP
+Bemerkungen
+Over 25 years of international experience in the Software Industry with more than 10 years of project management experience. More than 20 years of extensive experience with SAP R3
+Over 20 years of extensive SAP experience especially SAP BI/BI with BPS, BI-IP, BO/BOBJ and  SD(OTC)/MM(P2P), QM, SCM, SRM, CRM with integration to FI, CO, PS, PP
+Experience in SAP Project Management, SAP Business Process Re-engineering of core business transactions, systems design, strategic business operations planning, systems configuration, business process management and reorganizational change management
+Experience in working in complex multinational and multicultural environment, coordinating local, global and off-shore teams providing technical and strategic leadership.
+Ausbildungshistorie
+Physik, Elektrotechnik - Diplom

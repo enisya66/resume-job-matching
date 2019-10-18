@@ -1,0 +1,25 @@
+Titel
+SAP MDG Consultant (m/w/d)
+Beginn
+16.10.2019
+Dauer
+31.03.2020
+Einsatzort
+Düsseldorf
+Beschreibung
+Für eine S/4HANA Greenfield Implementation wird ein SAP MDG Consultant für folgenden Aufgabenbereich gesucht:
+
+ 
+
+Funktionale und technische Skills in SAP MDG und im Materialstamm
+Hands-On Experience der folgenden Technologien (BRF+, Floorplan Manager, Data Replication Framework)
+Erfahrung mit der technischen Realisierung von Interfaces nach und von SAP MDG für Materialstamme (IDoc, Webservice, Data Replication Framework)
+Mindestens 1 nachgewiesene erfolgreiche Implementierung von SAP MDG für Materialstamm
+Standort: Düsseldorf – Arbeitserlaubnis für Deutschland notwendig
+Sprachkenntnisse: Englisch (sicher); Deutsch (optional)
+ 
+
+Der Projektstart ist asap, die Remote Ratio und weitere Projektdetails können gerne mit dem Kunden in der Interviewphase besprochen werden.
+
+Skills
+Funktionale und technische Skills in SAP MDG und im Materialstamm BRF+ Floorplan Manager Data Replication Framework technischen Realisierung von Interfaces nach und von SAP MDG für Materialstamme (IDoc, Webservice, Data Replication Framework) Mindestens 1 nachgewiesene erfolgreiche Implementierung von SAP MDG für Materialstamm Arbeitserlaubnis für Deutschland notwendig Englisch Deutsch (NTH)
