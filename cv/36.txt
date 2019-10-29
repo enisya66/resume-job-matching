@@ -30,14 +30,14 @@ Nordbayern
 Projektinhalte
 Entwicklung einer neuen MSS Fiori App die das Gehalt von Mitarbeitern  ggf. in Abhängigkeit von Lohnarten der letzten 5 Jahre aufschlüsselt und entscheidungsunterstützende  Daten/ Prognose für Zukunftige Gehaltsverhandlungen /Jahresgespräche dem Managment zur Verfügung stellt.
 Kenntnisse
-SAP FioriODATA 4.0CDS Views00-ABAPTablefunctions für HANA CDS ViewsHCM
+SAP Fiori ODATA 4.0CDS Views 00-ABAP Tablefunctions für HANA CDS Views HCM
 Produkte
-HCM on HANAPersonalabrechnung / PYHCM Zeitwirtschaft
+HCM on HANA Personalabrechnung / PYHCM Zeitwirtschaft
 01/2019 - Heute
 
 9 Monate
 
-RTL Mediengruppe : Upgrade BW7.4 auf BW/4HANA 2.0 BPC 11 + SAP Analytics Cloud
+RTL Mediengruppe : Upgrade BW7.4 auf BW/4 HANA 2.0 BPC 11 + SAP Analytics Cloud
 
 08/2019 - 10/2019
 

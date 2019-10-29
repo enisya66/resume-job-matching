@@ -8,7 +8,7 @@ Created on Tue Oct 22 10:44:38 2019
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.pipeline import FeatureUnion
-from sklearn.naive_bayes import RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics.pairwise import cosine_similarity
 import matplotlib.pyplot as plt
 import numpy as np
@@ -28,8 +28,8 @@ pairs, labels = generate_data_for_resume_matcher('data.csv')
 
 # visualise data
 # print the first 5 pairs/labels
-print(pairs[:5])
-print(labels[:5])
+print(pairs[:-5])
+print(labels[:-5])
 
 # print the average length of documents
 print('Average CV length: ', get_average_text_length(pairs[:,0]))
@@ -41,8 +41,8 @@ for p in pairs:
     p[1] = cleanup_text(p[1])
     
 # print the first 5 pairs/labels
-print(pairs[:5])
-print(labels[:5])
+print(pairs[:-5])
+print(labels[:-5])
 
 # print the average length of documents
 print('Average CV length: ', get_average_text_length(pairs[:,0]))
@@ -61,7 +61,7 @@ x_train, x_test, y_train, y_test = train_test_split(pairs, labels, test_size=TES
 start = time.time()
 
 # initialize count vectorizer
-cvec = CountVectorizer()
+cvec = CountVectorizer(ngram_range=(1,3))
 similarity = []
 
 # learn the vocabulary dictionary and return term-document matrix
@@ -86,7 +86,8 @@ plt.scatter(similarity, y_train)
 plt.show()
 
 # train model
-model = RandomForestClassifier(n_estimators=100,max_depth=2).fit(similarity, y_train)
+# class_weight='balanced' controls weights associated to classes
+model = RandomForestClassifier(n_estimators=100,max_depth=2,class_weight='balanced').fit(similarity, y_train)
 
 # testing
 similarity_test = []

@@ -35,7 +35,7 @@ Gmünd
 Projektinhalte
 Für die Barmer GEK entwickle ich das Backend für zukünftige Abrechenverfahren. U. a. ist meine Software für die Abrechnung ärztlicher Sachkosten bereits in Produktion.
 Kenntnisse
-ScrumMDA
+Scrum MDA
 Produkte 
 Java EE 6 JPA EJB 3 GlassFish 2.1 Intellij IDEA Subversion Java 5 Java 6 Java 7 DB2MS-SQL Innovator TestNG Mockito JProfiler
 Branchen

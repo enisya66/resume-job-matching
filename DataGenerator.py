@@ -26,8 +26,6 @@ def cleanup_text(text):
     text = ' '.join(germanStemmer.stem(word) for word in text.split())
     # remove stopwords
     text = ' '.join(word for word in text.split() if word not in stop_words)
-    # remove extra spaces
-    text = ' '.join(text.split())
     # lowercase
     return text.lower()
 

@@ -129,7 +129,7 @@ plt.show()
 
 # train model
 # did not work with Naive Bayes as cosine similarity has negative values
-model = RandomForestClassifier(n_estimators=100,max_depth=2).fit(similarity, y_train)
+model = RandomForestClassifier(n_estimators=100,max_depth=2,class_weight='balanced').fit(similarity, y_train)
 
 #test
 similarity_test = []

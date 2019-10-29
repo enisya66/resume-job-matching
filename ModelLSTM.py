@@ -97,7 +97,7 @@ class SiameseBiLSTM:
         preds = Dense(1, activation='sigmoid')(merged)
 
         model = Model(inputs=[sequence_1_input, sequence_2_input, leaks_input], outputs=preds)
-        model.compile(loss='mse', optimizer='nadam', metrics=['mse'])
+        model.compile(loss='mse', optimizer='nadam')
 
         early_stopping = EarlyStopping(monitor='val_loss', patience=3)
 
@@ -116,7 +116,7 @@ class SiameseBiLSTM:
 
         history = model.fit([train_data_x1, train_data_x2, leaks_train], train_labels,
                   validation_data=([val_data_x1, val_data_x2, leaks_val], val_labels),
-                  epochs=50, batch_size=64, shuffle=True,
+                  epochs=20, batch_size=32, shuffle=True,
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
         
         pyplot.plot(history.history['mean_squared_error'])

@@ -30,7 +30,7 @@ Telematik-Branche
 Projektinhalte
 Startup Neuentwicklung Verteilte Anwendung – Cloud, Private. Neueste Technologien.
 Produkte
-AWS SQS Java 8 Spring (Boot) 4REST GPB Kafka Druid MongoDB Jira Jenkins
+AWS SQS Java 8 Spring (Boot) 4 REST GPB Kafka Druid MongoDB Jira Jenkins
 11/2016 - 06/2017
 
 8 Monate
@@ -42,7 +42,7 @@ ING DiBa Kredit Konsum
 Projektinhalte
 Anbindung Digitaler Einkommenscheck im Frontend, Krediteröffnungsstrecken
 Kenntnisse
-Wicket 7 Java 7 Spring 4REST jQuery Mockito JUnit Jira Jenkins Git Scrum
+Wicket 7 Java 7 Spring 4 REST jQuery Mockito JUnit Jira Jenkins Git Scrum
 03/2016 - 11/2016
 
 9 Monate
