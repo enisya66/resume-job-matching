@@ -14,6 +14,7 @@ from keras.layers.merge import concatenate
 from keras.callbacks import TensorBoard
 from keras.models import load_model
 from keras.models import Model
+from keras import backend as K
 
 # std imports
 from matplotlib import pyplot
@@ -27,7 +28,7 @@ from EmbeddingUtils import create_train_dev_set
 
 class SiameseBiLSTM:
     def __init__(self, embedding_dim, max_sequence_length, number_lstm, number_dense, rate_drop_lstm, 
-                 rate_drop_dense, hidden_activation, validation_split_ratio):
+                 rate_drop_dense, hidden_activation, validation_split_ratio, loss_function):
         self.embedding_dim = embedding_dim
         self.max_sequence_length = max_sequence_length
         self.number_lstm_units = number_lstm
@@ -36,7 +37,17 @@ class SiameseBiLSTM:
         self.activation_function = hidden_activation
         self.rate_drop_dense = rate_drop_dense
         self.validation_split_ratio = validation_split_ratio
+        self.loss_function = loss_function
 
+    def contrastive_loss(self, y_true, y_pred):
+        '''Contrastive loss from Hadsell-et-al.'06
+        http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf
+        '''
+        margin = 1
+        square_pred = K.square(y_pred)
+        margin_square = K.square(K.maximum(margin - y_pred, 0))
+        return K.mean(y_true * square_pred + (1 - y_true) * margin_square)
+    
     def train_model(self, sentences_pair, is_similar, tokenizer, embedding_matrix, model_save_directory='./models/'):
         """
         Train Siamese network to find similarity between sentences in `sentences_pair`
@@ -94,10 +105,13 @@ class SiameseBiLSTM:
         merged = Dense(self.number_dense_units, activation=self.activation_function)(merged)
         merged = BatchNormalization()(merged)
         merged = Dropout(self.rate_drop_dense)(merged)
-        preds = Dense(1, activation='sigmoid')(merged)
+        preds = Dense(is_similar.shape[1], activation='sigmoid')(merged)
 
         model = Model(inputs=[sequence_1_input, sequence_2_input, leaks_input], outputs=preds)
-        model.compile(loss='mse', optimizer='nadam')
+        model.compile(loss=self.contrastive_loss, optimizer='nadam', metrics=['accuracy'])
+        
+        # print model
+        model.summary()
 
         early_stopping = EarlyStopping(monitor='val_loss', patience=3)
 
@@ -119,7 +133,9 @@ class SiameseBiLSTM:
                   epochs=20, batch_size=32, shuffle=True,
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
         
-        pyplot.plot(history.history['mean_squared_error'])
+        pyplot.plot(history.history['loss'])
+        pyplot.show()
+        pyplot.plot(history.history['acc'])
         pyplot.show()
 
         return bst_model_path
@@ -163,4 +179,5 @@ class SiameseBiLSTM:
                   epochs=50, batch_size=3, shuffle=True,
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
 
-        return new_model_path
+        return new_model_path  
+    

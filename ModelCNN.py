@@ -29,7 +29,7 @@ from EmbeddingUtils import create_train_dev_set
 
 class SiameseBiCNN:
     def __init__(self, embedding_dim, max_sequence_length, kernel_width, number_dense, rate_drop_lstm, 
-                 rate_drop_dense, hidden_activation, validation_split_ratio):
+                 rate_drop_dense, hidden_activation, validation_split_ratio, loss_function):
         self.embedding_dim = embedding_dim
         self.max_sequence_length = max_sequence_length
         self.kernel_width = kernel_width
@@ -38,7 +38,8 @@ class SiameseBiCNN:
         self.activation_function = hidden_activation
         self.rate_drop_dense = rate_drop_dense
         self.validation_split_ratio = validation_split_ratio
-        
+        self.loss_function = loss_function
+
     
     def euclidean_distance(vects):
         x, y = vects
@@ -122,7 +123,10 @@ class SiameseBiCNN:
         preds = Dense(1, activation='sigmoid')(merged)
 
         model = Model(inputs=[sequence_1_input, sequence_2_input], outputs=preds)
-        model.compile(loss='mse', optimizer='nadam', metrics=['mse'])
+        model.compile(loss=self.loss_function, optimizer='nadam', metrics=['accuracy'])
+        
+        # print model
+        model.summary()
 
         early_stopping = EarlyStopping(monitor='val_loss', patience=3)
 
@@ -144,7 +148,8 @@ class SiameseBiCNN:
                   epochs=50, batch_size=64, shuffle=True,
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
         
-        pyplot.plot(history.history['mean_squared_error'])
+        pyplot.plot(history.history['loss'])
+        pyplot.plot(history.history['accuracy'])
         pyplot.show()
 
         return bst_model_path

@@ -17,7 +17,7 @@ import time
 # import functions
 from FileReader import generate_data_for_resume_matcher
 from DataGenerator import cleanup_text, get_average_text_length
-from ModelEvaluation import plot_confusion_matrix, model_classification_report
+from ModelEvaluation import plot_confusion_matrix, model_classification_report, save_predictions
 
 """
 Bag-of-words method using internal dataset for resume matching
@@ -107,3 +107,5 @@ print(model_classification_report(y_test, y_pred, LABELS))
 plot_confusion_matrix(y_test, y_pred, LABELS)
 # stop the clock
 print('Total time taken: %s seconds' % (time.time() - start))
+# store the predicted values
+save_predictions('BoW', x_test[:,0], x_test[:,1], y_test, y_pred)
