@@ -21,7 +21,7 @@ def cleanup_text(text):
     stop_words = set(stopwords.words('german'))|set(stopwords.words('english'))
     germanStemmer = SnowballStemmer('german', ignore_stopwords = True)
     # remove punctuation
-    text = text.translate(str.maketrans('','',string.punctuation))
+    text = text.translate(str.maketrans('','',':;,?()[]{}<>"'))
     # stemming
     text = ' '.join(germanStemmer.stem(word) for word in text.split())
     # remove stopwords

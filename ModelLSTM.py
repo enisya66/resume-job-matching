@@ -12,12 +12,13 @@ from keras.layers.normalization import BatchNormalization
 from keras.layers.embeddings import Embedding
 from keras.layers.merge import concatenate
 from keras.callbacks import TensorBoard
+from keras import optimizers 
 from keras.models import load_model
 from keras.models import Model
 from keras import backend as K
 
 # std imports
-from matplotlib import pyplot
+import matplotlib.pyplot as plt
 import time
 import gc
 import os
@@ -25,7 +26,7 @@ import os
 from EmbeddingUtils import create_train_dev_set
 
 
-
+#TODO new param learning rate
 class SiameseBiLSTM:
     def __init__(self, embedding_dim, max_sequence_length, number_lstm, number_dense, rate_drop_lstm, 
                  rate_drop_dense, hidden_activation, validation_split_ratio, loss_function):
@@ -48,7 +49,7 @@ class SiameseBiLSTM:
         margin_square = K.square(K.maximum(margin - y_pred, 0))
         return K.mean(y_true * square_pred + (1 - y_true) * margin_square)
     
-    def train_model(self, sentences_pair, is_similar, tokenizer, embedding_matrix, model_save_directory='./models/'):
+    def train_model(self, sentences_pair, categories, tokenizer, embedding_matrix, model_save_directory='./models/'):
         """
         Train Siamese network to find similarity between sentences in `sentences_pair`
             Steps Involved:
@@ -58,16 +59,15 @@ class SiameseBiLSTM:
                 4. Use cross entropy loss to train weights
         Args:
             sentences_pair (list): list of tuple of sentence pairs
-            is_similar (list): target value 1 if same sentences pair are similar otherwise 0
+            categories (list): target values (1-5)
             embedding_meta_data (dict): dict containing tokenizer and word embedding matrix
             model_save_directory (str): working directory for where to save models
         Returns:
             return (best_model_path):  path of best model
         """
-        # TODO change is_similar to labels
         train_data_x1, train_data_x2, train_labels, leaks_train, \
         val_data_x1, val_data_x2, val_labels, leaks_val = create_train_dev_set(tokenizer, sentences_pair,
-                                                                               is_similar, self.max_sequence_length,
+                                                                               categories, self.max_sequence_length,
                                                                                self.validation_split_ratio)
 
         if train_data_x1 is None:
@@ -94,21 +94,24 @@ class SiameseBiLSTM:
         x2 = lstm_layer(embedded_sequences_2)
 
         # Creating leaks input
+        # TODO explain this
         leaks_input = Input(shape=(leaks_train.shape[1],))
         leaks_dense = Dense(int(self.number_dense_units/2), activation=self.activation_function)(leaks_input)
 
         # Merging two LSTM encodes vectors from sentences to
         # pass it to dense layer applying dropout and batch normalisation
         merged = concatenate([x1, x2, leaks_dense])
-        merged = BatchNormalization()(merged)
+        #merged = BatchNormalization()(merged)
         merged = Dropout(self.rate_drop_dense)(merged)
         merged = Dense(self.number_dense_units, activation=self.activation_function)(merged)
         merged = BatchNormalization()(merged)
         merged = Dropout(self.rate_drop_dense)(merged)
-        preds = Dense(is_similar.shape[1], activation='sigmoid')(merged)
+        preds = Dense(categories.shape[1], activation='sigmoid')(merged)
 
         model = Model(inputs=[sequence_1_input, sequence_2_input, leaks_input], outputs=preds)
-        model.compile(loss=self.contrastive_loss, optimizer='nadam', metrics=['accuracy'])
+        
+        nadam = optimizers.Nadam(lr=0.001)
+        model.compile(loss=self.contrastive_loss, optimizer=nadam, metrics=['accuracy'])
         
         # print model
         model.summary()
@@ -130,13 +133,17 @@ class SiameseBiLSTM:
 
         history = model.fit([train_data_x1, train_data_x2, leaks_train], train_labels,
                   validation_data=([val_data_x1, val_data_x2, leaks_val], val_labels),
-                  epochs=20, batch_size=32, shuffle=True,
+                  epochs=20, batch_size=64, shuffle=True,
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
         
-        pyplot.plot(history.history['loss'])
-        pyplot.show()
-        pyplot.plot(history.history['acc'])
-        pyplot.show()
+        plt.plot(history.history['loss'])
+        plt.xlabel('epochs')
+        plt.ylabel('loss')
+        plt.show()
+        plt.plot(history.history['acc'])
+        plt.xlabel('epochs')
+        plt.ylabel('accuracy')
+        plt.show()
 
         return bst_model_path
 

@@ -7,7 +7,7 @@ Created on Tue Oct 22 14:55:35 2019
 
 # TODO after ModelLSTM runs, adjust LSTM layers to CNN
 # keras imports
-from keras.layers import Dense, Input, LSTM, Dropout, Bidirectional, Conv1D, MaxPooling1D, Lambda
+from keras.layers import Dense, Input, LSTM, Dropout, Bidirectional, Conv1D, MaxPooling1D, Lambda, Flatten
 from keras.callbacks import EarlyStopping, ModelCheckpoint
 from keras.layers.normalization import BatchNormalization
 from keras.layers.embeddings import Embedding
@@ -18,7 +18,7 @@ from keras.models import Model, Sequential
 from keras import backend as K
 
 # std imports
-from matplotlib import pyplot
+import matplotlib.pyplot as plt
 import time
 import gc
 import os
@@ -28,12 +28,12 @@ from EmbeddingUtils import create_train_dev_set
 
 
 class SiameseBiCNN:
-    def __init__(self, embedding_dim, max_sequence_length, kernel_width, number_dense, rate_drop_lstm, 
+    def __init__(self, embedding_dim, max_sequence_length, kernel_width, number_dense, rate_drop_cnn, 
                  rate_drop_dense, hidden_activation, validation_split_ratio, loss_function):
         self.embedding_dim = embedding_dim
         self.max_sequence_length = max_sequence_length
         self.kernel_width = kernel_width
-        self.rate_drop_lstm = rate_drop_lstm
+        self.rate_drop_cnn = rate_drop_cnn
         self.number_dense_units = number_dense
         self.activation_function = hidden_activation
         self.rate_drop_dense = rate_drop_dense
@@ -41,17 +41,26 @@ class SiameseBiCNN:
         self.loss_function = loss_function
 
     
-    def euclidean_distance(vects):
+    def euclidean_distance(self, vects):
         x, y = vects
         sum_square = K.sum(K.square(x - y), axis=1, keepdims=True)
         return K.sqrt(K.maximum(sum_square, K.epsilon()))
     
     
-    def eucl_dist_output_shape(shapes):
+    def eucl_dist_output_shape(self, shapes):
         shape1, shape2 = shapes
         return (shape1[0], 1)
+    
+    def contrastive_loss(self, y_true, y_pred):
+        '''Contrastive loss from Hadsell-et-al.'06
+        http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf
+        '''
+        margin = 1
+        square_pred = K.square(y_pred)
+        margin_square = K.square(K.maximum(margin - y_pred, 0))
+        return K.mean(y_true * square_pred + (1 - y_true) * margin_square)
 
-    def train_model(self, sentences_pair, is_similar, tokenizer, embedding_matrix, model_save_directory='./models/'):
+    def train_model(self, sentences_pair, categories, tokenizer, embedding_matrix, model_save_directory='./models/'):
         """
         Train Siamese network to find similarity between sentences in `sentences_pair`
             Steps Involved:
@@ -61,16 +70,15 @@ class SiameseBiCNN:
                 4. Use cross entropy loss to train weights
         Args:
             sentences_pair (list): list of tuple of sentence pairs
-            is_similar (list): target value 1 if same sentences pair are similar otherwise 0
+            categories (list): target values (1-5)
             embedding_meta_data (dict): dict containing tokenizer and word embedding matrix
             model_save_directory (str): working directory for where to save models
         Returns:
             return (best_model_path):  path of best model
         """
-        # TODO change is_similar to labels
         train_data_x1, train_data_x2, train_labels, leaks_train, \
         val_data_x1, val_data_x2, val_labels, leaks_val = create_train_dev_set(tokenizer, sentences_pair,
-                                                                               is_similar, self.max_sequence_length,
+                                                                               categories, self.max_sequence_length,
                                                                                self.validation_split_ratio)
 
         if train_data_x1 is None:
@@ -86,13 +94,17 @@ class SiameseBiCNN:
 
         
         # CNN base network
-        cnn_layer = Sequential([Conv1D(32, 4, activation=self.activation_function),
-                                MaxPooling1D(self.kernel_width),
-                                Dropout(0.25),
-                                Conv1D(64, 4, activation=self.activation_function),
-                                MaxPooling1D(self.kernel_width),
-                                Dropout(0.25),
-                                Dense(128, activation=self.activation_function)
+        # TODO use bias?
+        cnn_layer = Sequential([Conv1D(32, self.kernel_width, activation=self.activation_function),
+                                Conv1D(32, self.kernel_width, activation=self.activation_function),
+                                MaxPooling1D(2),
+                                Dropout(self.rate_drop_cnn),
+                                Conv1D(64, self.kernel_width, activation=self.activation_function),
+                                Conv1D(64, self.kernel_width, activation=self.activation_function),
+                                MaxPooling1D(2),
+                                Dropout(self.rate_drop_cnn),
+                                Flatten(),
+                                Dense(512, activation=self.activation_function)
                                 ])
         
 
@@ -108,21 +120,23 @@ class SiameseBiCNN:
         
         # TODO add lambda layer. See MNIST Siamese
         
-        distance = Lambda(euclidean_distance, output_shape=eucl_dist_output_shape)([x1, x2])
+        distance = Lambda(self.euclidean_distance, output_shape=self.eucl_dist_output_shape)([x1, x2])
 
         model = Model([sequence_1_input, sequence_2_input], distance)
 
-        # Merging two LSTM encodes vectors from sentences to
-        # pass it to dense layer applying dropout and batch normalisation
-        merged = concatenate([x1, x2])
-        merged = BatchNormalization()(merged)
-        merged = Dropout(self.rate_drop_dense)(merged)
-        merged = Dense(self.number_dense_units, activation=self.activation_function)(merged)
-        merged = BatchNormalization()(merged)
-        merged = Dropout(self.rate_drop_dense)(merged)
-        preds = Dense(1, activation='sigmoid')(merged)
+        # Merging two CNN
+# =============================================================================
+#         merged = concatenate([x1, x2])
+#         
+#         merged = BatchNormalization()(merged)
+#         merged = Dropout(self.rate_drop_dense)(merged)
+#         merged = Dense(self.number_dense_units, activation=self.activation_function)(merged)
+#         merged = BatchNormalization()(merged)
+#         merged = Dropout(self.rate_drop_dense)(merged)
+#         preds = Dense(categories.shape[1], activation='sigmoid')(merged)
+# =============================================================================
 
-        model = Model(inputs=[sequence_1_input, sequence_2_input], outputs=preds)
+        #model = Model(inputs=[sequence_1_input, sequence_2_input], outputs=preds)
         model.compile(loss=self.loss_function, optimizer='nadam', metrics=['accuracy'])
         
         # print model
@@ -130,7 +144,7 @@ class SiameseBiCNN:
 
         early_stopping = EarlyStopping(monitor='val_loss', patience=3)
 
-        STAMP = 'lstm_%d_%d_%.2f_%.2f' % (self.number_lstm_units, self.number_dense_units, self.rate_drop_lstm, self.rate_drop_dense)
+        STAMP = 'cnn_%d_%d_%.2f_%.2f' % (self.kernel_width, self.number_dense_units, self.rate_drop_cnn, self.rate_drop_dense)
 
         checkpoint_dir = model_save_directory + 'checkpoints/' + str(int(time.time())) + '/'
 
@@ -148,9 +162,14 @@ class SiameseBiCNN:
                   epochs=50, batch_size=64, shuffle=True,
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
         
-        pyplot.plot(history.history['loss'])
-        pyplot.plot(history.history['accuracy'])
-        pyplot.show()
+        plt.plot(history.history['loss'])
+        plt.xlabel('epochs')
+        plt.ylabel('loss')
+        plt.show()
+        plt.plot(history.history['acc'])
+        plt.xlabel('epochs')
+        plt.ylabel('accuracy')
+        plt.show()
 
         return bst_model_path
 

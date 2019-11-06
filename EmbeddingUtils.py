@@ -32,7 +32,7 @@ def create_embedding_matrix(tokenizer, word_vectors, max_num_words, embedding_di
     Create embedding matrix containing word indexes and respective vectors from word vectors
     Args:
         tokenizer (keras.preprocessing.text.Tokenizer): keras tokenizer object containing word indexes
-        word_vectors (dict): dict containing word and their respective vectors
+        word_vectors (dict): dict containing word and their respelctive vectors
         max_num_words (int): maximum number of words
         embedding_dim (int): dimension of word vector
     Returns:
@@ -46,18 +46,20 @@ def create_embedding_matrix(tokenizer, word_vectors, max_num_words, embedding_di
     
     embedding_matrix = np.zeros((num_words, embedding_dim))
     
+    words_not_found = []
+    
     for word, i in word_index.items():
-        try:
-            if i >= max_num_words:
-                continue
-            embedding_vector = word_vectors.get(word)
-            if embedding_vector is not None:
-                # words not found in embedding index will be all-zeros.
-                embedding_matrix[i] = embedding_vector
-        except KeyError:
-            print("vector not found for word - %s" % word)
-            
-    print('Null word embeddings: %d' % np.sum(np.sum(embedding_matrix, axis=1) == 0))        
+        if i >= max_num_words:
+            continue
+        embedding_vector = word_vectors.get(word)
+        if embedding_vector is not None:
+            # words not found in embedding index will be all-zeros.
+            embedding_matrix[i] = embedding_vector
+        else:
+            words_not_found.append(word)
+    
+    print('sample words not found: ', np.random.choice(words_not_found, 50))
+    print('total words not found: ', len(words_not_found))      
     return embedding_matrix
     
 def word_embedding_metadata(documents, max_num_words, embedding_dim):

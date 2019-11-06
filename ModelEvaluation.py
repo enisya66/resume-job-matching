@@ -10,6 +10,8 @@ from sklearn.utils.multiclass import unique_labels
 from scipy.stats import pearsonr
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
+import datetime
 
 # copied from documentation
 
@@ -67,7 +69,8 @@ def plot_confusion_matrix(y_true, y_pred, classes,
     return ax
 
 def model_classification_report(y_true, y_pred, labels):
-    return classification_report(y_true, y_pred, labels=labels)
+    labels = labels.astype('U').tolist()
+    return classification_report(y_true, y_pred, target_names=labels)
 
 def evaluate_continuous_data(y_true, y_pred):
     # The mean squared error
@@ -76,3 +79,13 @@ def evaluate_continuous_data(y_true, y_pred):
     print('Variance score: %.2f' % r2_score(y_true, y_pred))
     # Pearson correlation
     print('Pearson correlation coefficient:', pearsonr(y_true, y_pred))
+
+def save_predictions(model_name, x_test_cv, x_test_job, y_true, y_pred):
+    df = pd.DataFrame({'x_test_cv': x_test_cv,
+                       'x_test_job' : x_test_job,
+                       'y_test': y_true,
+                       'y_pred': y_pred})
+    # there are still errors here
+    filename = 'r\'./predictions/'+ model_name + '_' + datetime.datetime.now().strftime("%d%m%Y-%H:%M:%S") + '.csv\''
+    df.to_csv(filename, index=False, header=False)
+    
