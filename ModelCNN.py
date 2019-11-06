@@ -157,8 +157,8 @@ class SiameseBiCNN:
 
         tensorboard = TensorBoard(log_dir=checkpoint_dir + "logs/{}".format(time.time()))
 
-        history = model.fit([train_data_x1, train_data_x2, leaks_train], train_labels,
-                  validation_data=([val_data_x1, val_data_x2, leaks_val], val_labels),
+        history = model.fit([train_data_x1, train_data_x2], train_labels,
+                  validation_data=([val_data_x1, val_data_x2], val_labels),
                   epochs=50, batch_size=64, shuffle=True,
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
         

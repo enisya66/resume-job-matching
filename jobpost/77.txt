@@ -1,13 +1,27 @@
 Titel
-SAP Banking Experte (m/w/d)
+Systemadministrator (m/w/d)
 Beginn
-21.10.2019
+18.11.2019
 Dauer
 3 Monate
 Einsatzort
-Frankfurt
+Stuttgart
 Beschreibung
-In einer Vorstudie soll untersucht werden, ob das aktuell genutzte Mandatsverwaltungssystem durch den SAP Standard für SEPA Mandate abgelöst werden kann. Zusätzlich soll geprüft werden, in wieweit weitere Systeme auf die Mandate in MMG zufreifen, und ob es möglich ist, dass diese Systeme ebenfalls auf die Mandate in SAP zugreifen können.
+ 
+
+Wir suchen für unseren Kunden im Großraum Stuttgart einen Systemadministrator (m/w) mit Fokus auf Microsoft-Infrastrukturen. Sie arbeiten in einem Team von ca. 20 Experten und betreuen die weltweite Infrastruktur für den Konzern.
+
+Die Aufgaben umfassen unter anderem:
+
+Einrichtung und Betreuung von Windows Servern
+Fehler- und Performanceanalysen
+Störungsbearbeitung und Wiederherstellung der Systeme
+Sicherstellung einer hohen Systemverfügbarkeit
+ 
+
+Der Kunde rechnet fürs Erste mit ca. 20 Manntagen und einer Auslastung von ca. 2-3 Tagen vor Ort. Folgeprojekte sind wahrscheinlich.
+
+ 
 
 Skills
-tiefes und langjähriges Know How im SAP Umfeld Detaillierte Modulkenntnisse in den SAP Banking Modulen BP, CML, hier allen voran FI Erfahrung in der Prozess und Business Analyse Gute Kenntnisse im Bereich SEPA Zahlungsverkehr
+langjährige Erfahrung in der Administration von Windows Servern Erfahrung mit Active DirectoryKenntnisse im Bereich Domain Controller

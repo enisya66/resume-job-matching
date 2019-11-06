@@ -26,14 +26,15 @@ NUM_CLASSES = 5 #len(np.unique(y))
 MAX_NUM_WORDS = 20000
 # TODO embedding dimension depends on word vector?
 EMBEDDING_DIM = 300
-MAX_SEQUENCE_LENGTH = 500
+MAX_SEQUENCE_LENGTH = 1000
 VALIDATION_SPLIT = 0.2
-RATE_DROP_LSTM = 0.2
+RATE_DROP_LSTM = 0.25
 RATE_DROP_DENSE = 0.4
 NUMBER_LSTM = 64
 NUMBER_DENSE_UNITS = 128
+LEARNING_RATE = 0.01
 ACTIVATION_FUNCTION = 'relu'
-LOSS_FUNCTION = 'binary_crossentropy'
+LOSS_FUNCTION = 'categorical_crossentropy'
 
 TEST_SPLIT = 0.2
 LABELS = np.array([1,2,3,4,5])
@@ -88,9 +89,10 @@ x_train, x_test, y_train, y_test = train_test_split(pairs, labels, test_size=TES
 
 # create model
 siamese = SiameseBiLSTM(EMBEDDING_DIM , MAX_SEQUENCE_LENGTH, NUMBER_LSTM , NUMBER_DENSE_UNITS, 
-					    RATE_DROP_LSTM, RATE_DROP_DENSE, ACTIVATION_FUNCTION, VALIDATION_SPLIT, LOSS_FUNCTION)
+					    RATE_DROP_LSTM, RATE_DROP_DENSE, LEARNING_RATE,
+                        ACTIVATION_FUNCTION, VALIDATION_SPLIT, LOSS_FUNCTION)
 
-# normalize labels to be used with to_categorical
+# normalize labels to one-hot to be used with to_categorical
 encoder = LabelEncoder()
 encoder.fit(y_train)
 y_train = encoder.transform(y_train)

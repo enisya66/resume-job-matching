@@ -6,6 +6,8 @@ Created on Tue Oct 22 11:15:14 2019
 """
 from keras.preprocessing.sequence import pad_sequences
 from keras.preprocessing.text import Tokenizer
+from fasttext import load_model
+from tqdm import tqdm
 import numpy as np
 import os
 import gc # garbage collector
@@ -17,22 +19,26 @@ def load_pretrained_embeddings():
         word vectors
     """
     embeddings_index = {}
-    with open(os.path.join('', 'glove.42B.300d.txt'), encoding='utf8') as f:
+# =============================================================================
+#     model_path = datapath('cc.en.300.bin')
+#     embeddings_index = load_facebook_vectors(model_path)
+# =============================================================================
+    with open(os.path.join('', 'crawl-300d-2M.vec'), encoding='utf8') as f:
         for line in f:
             word, coefs = line.split(maxsplit=1)
             coefs = np.fromstring(coefs, 'f', sep=' ')
             embeddings_index[word] = coefs
     
-    print('GloVe data loaded')
+    print('Embedding data loaded')
     print('Found %s word vectors.' % len(embeddings_index))
     return embeddings_index
 
-def create_embedding_matrix(tokenizer, word_vectors, max_num_words, embedding_dim):
+def create_embedding_matrix(tokenizer, max_num_words, embedding_dim):
     """
     Create embedding matrix containing word indexes and respective vectors from word vectors
     Args:
         tokenizer (keras.preprocessing.text.Tokenizer): keras tokenizer object containing word indexes
-        word_vectors (dict): dict containing word and their respelctive vectors
+        word_vectors (dict): dict containing word and their respective vectors
         max_num_words (int): maximum number of words
         embedding_dim (int): dimension of word vector
     Returns:
@@ -48,18 +54,25 @@ def create_embedding_matrix(tokenizer, word_vectors, max_num_words, embedding_di
     
     words_not_found = []
     
-    for word, i in word_index.items():
-        if i >= max_num_words:
-            continue
-        embedding_vector = word_vectors.get(word)
-        if embedding_vector is not None:
-            # words not found in embedding index will be all-zeros.
-            embedding_matrix[i] = embedding_vector
-        else:
-            words_not_found.append(word)
+    model = load_model('cc.en.300.bin')
     
-    print('sample words not found: ', np.random.choice(words_not_found, 50))
-    print('total words not found: ', len(words_not_found))      
+    # technically should also produce word vector for out of vocab words.
+    with tqdm(total=num_words, desc='Embeddings', unit=' words') as pbar:
+        for word, i in word_index.items():
+            if i >= max_num_words:
+                continue
+            embedding_vector = model.get_word_vector(word).astype('float32')
+            if embedding_vector is not None:
+                # words not found in embedding index will be all-zeros.
+                embedding_matrix[i] = embedding_vector
+                pbar.update()
+            else:
+                words_not_found.append(word)
+                pbar.update()
+            
+    
+    print('total words not found: ', len(words_not_found))
+     
     return embedding_matrix
     
 def word_embedding_metadata(documents, max_num_words, embedding_dim):
@@ -80,12 +93,12 @@ def word_embedding_metadata(documents, max_num_words, embedding_dim):
     else:
         tokenizer.fit_on_texts(documents)
     
-    word_vector = load_pretrained_embeddings()
-    embedding_matrix = create_embedding_matrix(tokenizer, word_vector, max_num_words, embedding_dim)
+    #word_vector = load_pretrained_embeddings()
+    embedding_matrix = create_embedding_matrix(tokenizer, max_num_words, embedding_dim)
     
     # clear cache
-    del word_vector
-    gc.collect()
+    #del word_vector
+    #gc.collect()
     return tokenizer, embedding_matrix
     
 def create_train_dev_set(tokenizer, sentences_pair, is_similar, max_sequence_length, validation_split_ratio):

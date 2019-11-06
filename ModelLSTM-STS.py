@@ -12,7 +12,7 @@ import csv
 import time
 
 # import functions
-from DataGenerator import cleanup_text, get_average_text_length
+from DataGenerator import cleanup_text
 from EmbeddingUtils import word_embedding_metadata, create_test_data
 from ModelLSTM import SiameseBiLSTM
 from ModelEvaluation import evaluate_continuous_data
@@ -24,9 +24,10 @@ EMBEDDING_DIM = 300
 MAX_SEQUENCE_LENGTH = 500
 VALIDATION_SPLIT = 0.2
 RATE_DROP_LSTM = 0.2
-RATE_DROP_DENSE = 0.25
-NUMBER_LSTM = 50
-NUMBER_DENSE_UNITS = 50
+RATE_DROP_DENSE = 0.4
+NUMBER_LSTM = 64
+NUMBER_DENSE_UNITS = 128
+LEARNING_RATE = 0.001
 ACTIVATION_FUNCTION = 'relu'
 LOSS_FUNCTION = 'mse'
 
@@ -65,21 +66,22 @@ for x in x_train:
 # # generate embedding matrix
 tokenizer, embedding_matrix = word_embedding_metadata(x_train.ravel().astype('U'), MAX_NUM_WORDS, EMBEDDING_DIM)
 # 
-# # create model
-# siamese = SiameseBiLSTM(EMBEDDING_DIM , MAX_SEQUENCE_LENGTH, NUMBER_LSTM , NUMBER_DENSE_UNITS, 
-# 					    RATE_DROP_LSTM, RATE_DROP_DENSE, ACTIVATION_FUNCTION, VALIDATION_SPLIT, LOSS_FUNCTION)
-# 
-# # start the clock
-# start = time.time()
-# 
-# best_model_path = siamese.train_model(x_train, y_train, tokenizer, embedding_matrix, model_save_directory='./models/')
-# 
-# # stop the clock
-# print('Total time taken: %s seconds' % (time.time() - start))
+# create model
+siamese = SiameseBiLSTM(EMBEDDING_DIM , MAX_SEQUENCE_LENGTH, NUMBER_LSTM , NUMBER_DENSE_UNITS, 
+ 					    RATE_DROP_LSTM, RATE_DROP_DENSE, LEARNING_RATE,
+                        ACTIVATION_FUNCTION, VALIDATION_SPLIT, LOSS_FUNCTION)
+ 
+# start the clock
+start = time.time()
+ 
+best_model_path = siamese.train_model(x_train, y_train, tokenizer, embedding_matrix, model_save_directory='./models/')
+ 
+# stop the clock
+print('Total time taken: %s seconds' % (time.time() - start))
 # =============================================================================
 
 # testing
-best_model_path='./models/checkpoints/1571869395/lstm_50_50_0.17_0.25.h5'
+#best_model_path='./models/checkpoints/1571869395/lstm_50_50_0.17_0.25.h5'
 model = load_model(best_model_path)
 
 # visualise model

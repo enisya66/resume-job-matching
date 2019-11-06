@@ -29,12 +29,13 @@ from EmbeddingUtils import create_train_dev_set
 #TODO new param learning rate
 class SiameseBiLSTM:
     def __init__(self, embedding_dim, max_sequence_length, number_lstm, number_dense, rate_drop_lstm, 
-                 rate_drop_dense, hidden_activation, validation_split_ratio, loss_function):
+                 rate_drop_dense, learning_rate, hidden_activation, validation_split_ratio, loss_function):
         self.embedding_dim = embedding_dim
         self.max_sequence_length = max_sequence_length
         self.number_lstm_units = number_lstm
         self.rate_drop_lstm = rate_drop_lstm
         self.number_dense_units = number_dense
+        self.learning_rate = learning_rate
         self.activation_function = hidden_activation
         self.rate_drop_dense = rate_drop_dense
         self.validation_split_ratio = validation_split_ratio
@@ -106,12 +107,17 @@ class SiameseBiLSTM:
         merged = Dense(self.number_dense_units, activation=self.activation_function)(merged)
         merged = BatchNormalization()(merged)
         merged = Dropout(self.rate_drop_dense)(merged)
+        # uncomment either
         preds = Dense(categories.shape[1], activation='sigmoid')(merged)
+        #preds = Dense(1, activation='sigmoid')(merged)
 
         model = Model(inputs=[sequence_1_input, sequence_2_input, leaks_input], outputs=preds)
         
-        nadam = optimizers.Nadam(lr=0.001)
-        model.compile(loss=self.contrastive_loss, optimizer=nadam, metrics=['accuracy'])
+        nadam = optimizers.Nadam(lr=self.learning_rate)
+        # uncomment either
+        model.compile(loss=self.loss_function, optimizer=nadam, metrics=['accuracy'])
+        #model.compile(loss=self.contrastive_loss, optimizer=nadam, metrics=['accuracy'])
+
         
         # print model
         model.summary()

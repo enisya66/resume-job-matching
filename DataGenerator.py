@@ -5,7 +5,6 @@ Created on Tue Oct 22 09:38:47 2019
 @author: User
 """
 
-import string
 from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
 
