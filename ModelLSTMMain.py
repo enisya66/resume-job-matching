@@ -46,6 +46,9 @@ Siamese LSTM for resume matching method
 # load data for resume matcher
 pairs, labels = generate_data_for_resume_matcher('data.csv')
 
+# downsample class 5
+
+
 # visualise data
 # print the first 5 pairs/labels
 print(pairs[:5])

@@ -139,7 +139,7 @@ class SiameseBiLSTM:
 
         history = model.fit([train_data_x1, train_data_x2, leaks_train], train_labels,
                   validation_data=([val_data_x1, val_data_x2, leaks_val], val_labels),
-                  epochs=20, batch_size=64, shuffle=True,
+                  epochs=5, batch_size=64, shuffle=True,
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
         
         plt.plot(history.history['loss'])

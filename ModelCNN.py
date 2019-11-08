@@ -49,7 +49,7 @@ class SiameseBiCNN:
     
     def eucl_dist_output_shape(self, shapes):
         shape1, shape2 = shapes
-        return (shape1[0], 1)
+        return (shape1[0], shape2[0])
     
     def contrastive_loss(self, y_true, y_pred):
         '''Contrastive loss from Hadsell-et-al.'06
@@ -159,7 +159,7 @@ class SiameseBiCNN:
 
         history = model.fit([train_data_x1, train_data_x2], train_labels,
                   validation_data=([val_data_x1, val_data_x2], val_labels),
-                  epochs=50, batch_size=64, shuffle=True,
+                  epochs=5, batch_size=64, shuffle=True,
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
         
         plt.plot(history.history['loss'])

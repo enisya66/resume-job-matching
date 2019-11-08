@@ -86,6 +86,6 @@ def save_predictions(model_name, x_test_cv, x_test_job, y_true, y_pred):
                        'y_test': y_true,
                        'y_pred': y_pred})
     # there are still errors here
-    filename = 'r\'./predictions/'+ model_name + '_' + datetime.datetime.now().strftime("%d%m%Y-%H:%M:%S") + '.csv\''
+    filename = model_name + '_' + datetime.datetime.now().strftime("%d%m%Y-%H:%M:%S") + '.csv\''
     df.to_csv(filename, index=False, header=False)
     

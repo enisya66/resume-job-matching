@@ -28,8 +28,8 @@ pairs, labels = generate_data_for_resume_matcher('data.csv')
 
 # visualise data
 # print the first 5 pairs/labels
-print(pairs[:-5])
-print(labels[:-5])
+print(pairs[:5])
+print(labels[:5])
 
 # print the average length of documents
 print('Average CV length: ', get_average_text_length(pairs[:,0]))
@@ -41,8 +41,8 @@ for p in pairs:
     p[1] = cleanup_text(p[1])
     
 # print the first 5 pairs/labels
-print(pairs[:-5])
-print(labels[:-5])
+print(pairs[:5])
+print(labels[:5])
 
 # print the average length of documents
 print('Average CV length: ', get_average_text_length(pairs[:,0]))

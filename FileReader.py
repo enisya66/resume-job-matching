@@ -12,6 +12,7 @@ try:
 except LookupError:
     nltk.download()
 
+import pandas as pd
 import numpy as np
 import os
 import csv
@@ -33,18 +34,17 @@ def read_file(folder, file):
             data = file.read().replace('\n', ' ')
     return data
     
-# TODO something on imbalanced classes
-# TODO should this be stored somewhere?
 def generate_data_for_resume_matcher(filename):
     """
     Create array with .csv file for mapping as input
     Args:
         filename: name of the .csv file
     Returns:
-        pairs: sentence pairs [s1,s2] as numpy array
-        labels: integer numbers as numpy array
+        pairs: numpy array of cv/jobpost pairs
+        labels: numpy array of labels
     """
-    pairs = []
+    cv = []
+    jobpost = []
     labels = []
     
     with open(filename, 'rt') as csvDataFile:
@@ -54,7 +54,30 @@ def generate_data_for_resume_matcher(filename):
             cv_text = read_file('cv/', row[0])
             jobpost_text = read_file('jobpost/', row[1])
             
-            pairs += [[cv_text, jobpost_text]]
+            cv.append(cv_text)
+            jobpost.append(jobpost_text)
             labels.append(int(row[2]))
     
-    return np.array(pairs), np.transpose(labels)
+    df = pd.DataFrame({'cv': cv,
+                       'jobpost': jobpost,
+                       'labels': labels})
+    
+    # downsample majority class (in this case class 5)
+    df_not_majority = df[df['labels'] != 5]
+    df_majority = df[df['labels'] == 5]
+    
+    df_majority = df_majority.sample(225)
+    df = pd.concat([df_not_majority, df_majority], axis=0)
+    
+    # plot number of instances of each class
+    df['labels'].value_counts().plot(kind='bar', title='Count (target)')
+    
+    # convert to numpy array
+    
+    df_pairs = df[['cv', 'jobpost']]
+    df_labels = df['labels']
+    
+    pairs = df_pairs.to_numpy()
+    labels = df_labels.to_numpy()
+    
+    return pairs, labels
