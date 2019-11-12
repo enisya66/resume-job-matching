@@ -5,6 +5,7 @@ Created on Tue Oct 22 09:38:47 2019
 @author: User
 """
 
+import matplotlib.pyplot as plt
 from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
 
@@ -37,3 +38,13 @@ def get_average_text_length(texts):
         the average text length
     """
     return round(sum(len(i) for i in texts) / len(texts), 2)
+
+def plot_text_length(texts):
+    lengths = []
+    for i in range(len(texts)):
+        lengths.append(len(texts[i]))
+        
+    fig1, ax1 = plt.subplots()
+    ax1.set_title('Text Length')
+    ax1.boxplot(lengths, vert=False)
+    plt.show()

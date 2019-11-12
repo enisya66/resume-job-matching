@@ -7,7 +7,7 @@ Created on Tue Oct 22 10:35:28 2019
 
 from sklearn.metrics import confusion_matrix, classification_report, mean_squared_error, r2_score
 from sklearn.utils.multiclass import unique_labels
-from scipy.stats import pearsonr
+from scipy.stats import pearsonr, spearmanr
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -79,6 +79,13 @@ def evaluate_continuous_data(y_true, y_pred):
     print('Variance score: %.2f' % r2_score(y_true, y_pred))
     # Pearson correlation
     print('Pearson correlation coefficient:', pearsonr(y_true, y_pred))
+    # Spearman correlation
+    print('Spearman correlation coefficient:', spearmanr(y_true, y_pred))
+    # plot scatter graph
+    plt.scatter(y_true, y_pred)
+    plt.xlabel('true value')
+    plt.ylabel('predicted value')
+    plt.show()
 
 def save_predictions(model_name, x_test_cv, x_test_job, y_true, y_pred):
     df = pd.DataFrame({'x_test_cv': x_test_cv,

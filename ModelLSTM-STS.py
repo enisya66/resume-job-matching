@@ -61,7 +61,11 @@ x_train = x_train[:,[1,2]]
 for x in x_train:
     x[0] = cleanup_text(x[0])
     x[1] = cleanup_text(x[1])
-# 
+
+# rescale y value from [0,5] to [0,1]
+for i in range(len(y_train)):
+    y_train[i] = y_train[i]/5
+
 # 
 # # generate embedding matrix
 tokenizer, embedding_matrix = word_embedding_metadata(x_train.ravel().astype('U'), MAX_NUM_WORDS, EMBEDDING_DIM)
@@ -74,7 +78,7 @@ siamese = SiameseBiLSTM(EMBEDDING_DIM , MAX_SEQUENCE_LENGTH, NUMBER_LSTM , NUMBE
 # start the clock
 start = time.time()
  
-best_model_path = siamese.train_model(x_train, y_train, tokenizer, embedding_matrix, model_save_directory='./models/')
+model = siamese.train_model(x_train, y_train, tokenizer, embedding_matrix, model_save_directory='./models/')
  
 # stop the clock
 print('Total time taken: %s seconds' % (time.time() - start))
@@ -82,7 +86,7 @@ print('Total time taken: %s seconds' % (time.time() - start))
 
 # testing
 #best_model_path='./models/checkpoints/1571869395/lstm_50_50_0.17_0.25.h5'
-model = load_model(best_model_path)
+#model = load_model(best_model_path)
 
 # visualise model
 plot_model(model)
@@ -96,6 +100,11 @@ x_test = x_test[:,[1,2]]
 for x in x_test:
     x[0] = cleanup_text(x[0])
     x[1] = cleanup_text(x[1])
+
+# rescale y value from [0,5] to [0,1]
+for i in range(len(y_test)):
+    y_test[i] = y_test[i]/5 
+    
 
 test_data_x1, test_data_x2, leaks_test = create_test_data(tokenizer,x_test, MAX_SEQUENCE_LENGTH)
 y_pred = list(model.predict([test_data_x1, test_data_x2, leaks_test], verbose=1).ravel())

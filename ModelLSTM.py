@@ -108,15 +108,15 @@ class SiameseBiLSTM:
         merged = BatchNormalization()(merged)
         merged = Dropout(self.rate_drop_dense)(merged)
         # uncomment either
-        preds = Dense(categories.shape[1], activation='sigmoid')(merged)
-        #preds = Dense(1, activation='sigmoid')(merged)
+        #preds = Dense(categories.shape[1], activation='sigmoid')(merged)
+        preds = Dense(1, activation='sigmoid')(merged)
 
         model = Model(inputs=[sequence_1_input, sequence_2_input, leaks_input], outputs=preds)
         
         nadam = optimizers.Nadam(lr=self.learning_rate)
         # uncomment either
-        model.compile(loss=self.loss_function, optimizer=nadam, metrics=['accuracy'])
-        #model.compile(loss=self.contrastive_loss, optimizer=nadam, metrics=['accuracy'])
+        #model.compile(loss=self.loss_function, optimizer=nadam, metrics=['accuracy'])
+        model.compile(loss=self.contrastive_loss, optimizer=nadam, metrics=['accuracy'])
 
         
         # print model
@@ -151,7 +151,7 @@ class SiameseBiLSTM:
         plt.ylabel('accuracy')
         plt.show()
 
-        return bst_model_path
+        return model
 
 # TODO this method is not called yet
     def update_model(self, saved_model_path, new_sentences_pair, is_similar, embedding_meta_data):

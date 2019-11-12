@@ -103,11 +103,11 @@ y_train = encoder.transform(y_train)
 y_train = to_categorical(y_train)
 
 # create_train_data not compatible with train_test_split
-best_model_path = siamese.train_model(x_train, y_train, tokenizer, embedding_matrix, model_save_directory='./models/lstm/')
+model = siamese.train_model(x_train, y_train, tokenizer, embedding_matrix, model_save_directory='./models/lstm/')
 
 # testing
 #best_model_path = './models/lstm/checkpoints/1572426219/lstm_50_50_0.20_0.25.h5'
-model = load_model(best_model_path, compile=False)
+#model = load_model(best_model_path, compile=False)
 
 # visualise model
 keras.utils.vis_utils.pydot = pydot
