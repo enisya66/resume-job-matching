@@ -7,7 +7,7 @@ Created on Tue Oct 22 14:55:35 2019
 
 # TODO after ModelLSTM runs, adjust LSTM layers to CNN
 # keras imports
-from keras.layers import Dense, Input, LSTM, Dropout, Bidirectional, Conv1D, MaxPooling1D, GlobalMaxPooling1D, Lambda, Flatten
+from keras.layers import Dense, Input, LSTM, SpatialDropout1D, Dropout, Conv1D, MaxPooling1D, GlobalMaxPooling1D, Lambda, Flatten
 from keras.callbacks import EarlyStopping, ModelCheckpoint
 from keras.layers.normalization import BatchNormalization
 from keras.layers.embeddings import Embedding
@@ -52,6 +52,12 @@ class SiameseBiCNN:
     def manhattan_distance(self, vects):
         x, y = vects
         return K.sum(K.abs(x - y), axis=1, keepdims=True)
+    
+    def cosine_distance(self, vects):
+        x, y = vects
+        x = K.l2_normalize(x, axis=-1)
+        y = K.l2_normalize(y, axis=-1)
+        return -K.mean(x * y, axis=-1, keepdims=True)
     
     def eucl_dist_output_shape(self, shapes):
         shape1, shape2 = shapes
@@ -111,13 +117,16 @@ class SiameseBiCNN:
         # TODO use bias?
         # TODO multi filters + concat
         cnn_layer = Sequential([Conv1D(64, self.kernel_width, activation=self.activation_function),
+                                BatchNormalization(),
                                 MaxPooling1D(2),
-                                Dropout(self.rate_drop_cnn),
+                                SpatialDropout1D(self.rate_drop_cnn),
                                 Conv1D(128, self.kernel_width, activation=self.activation_function),
+                                BatchNormalization(),
                                 MaxPooling1D(2),
-                                Dropout(self.rate_drop_cnn),
+                                SpatialDropout1D(self.rate_drop_cnn),
                                 Conv1D(256, self.kernel_width, activation=self.activation_function),
                                 GlobalMaxPooling1D(),
+                                BatchNormalization(),
                                 Dropout(self.rate_drop_dense)
                                 #Dense(2048, activation=self.activation_function, kernel_regularizer=l2(1e-3))
                                 ])
@@ -138,14 +147,18 @@ class SiameseBiCNN:
 # =============================================================================
 
         # Connect CNN layer for First Sentence
-        sequence_1_input = Input(shape=(self.max_sequence_length,), dtype='int32')
+        sequence_1_input = Input(shape=(self.max_sequence_length,))
         embedded_sequences_1 = embedding_layer(sequence_1_input)
-        x1 = cnn_layer(embedded_sequences_1)
+        # trial on average word vector
+        print(embedded_sequences_1.shape)
+        average_embedded_1 = np.mean(embedded_sequences_1, axis=2)
+        x1 = cnn_layer(average_embedded_1)
 
         # Connect CNN layer for Second Sentence
-        sequence_2_input = Input(shape=(self.max_sequence_length,), dtype='int32')
+        sequence_2_input = Input(shape=(self.max_sequence_length,))
         embedded_sequences_2 = embedding_layer(sequence_2_input)
-        x2 = cnn_layer(embedded_sequences_2)
+        average_embedded_2 = np.mean(embedded_sequences_2, axis=2)
+        x2 = cnn_layer(average_embedded_2)
         
         # TODO add lambda layer. See MNIST Siamese
         
@@ -179,7 +192,7 @@ class SiameseBiCNN:
         # comment either one out
         #model.compile(loss=self.loss_function, optimizer='nadam', metrics=['accuracy'])
         rms = RMSprop(lr=0.0001)
-        model.compile(loss=self.contrastive_loss, optimizer=rms, metrics=['accuracy'])
+        model.compile(loss=self.contrastive_loss, optimizer=rms)
 
         
         # print model
@@ -209,10 +222,6 @@ class SiameseBiCNN:
         plt.plot(history.history['loss'])
         plt.xlabel('epochs')
         plt.ylabel('loss')
-        plt.show()
-        plt.plot(history.history['acc'])
-        plt.xlabel('epochs')
-        plt.ylabel('accuracy')
         plt.show()
 
         return model

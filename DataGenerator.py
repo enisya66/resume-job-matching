@@ -6,6 +6,7 @@ Created on Tue Oct 22 09:38:47 2019
 """
 
 import matplotlib.pyplot as plt
+import nltk
 from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
 
@@ -26,6 +27,8 @@ def cleanup_text(text):
     text = ' '.join(germanStemmer.stem(word) for word in text.split())
     # remove stopwords
     text = ' '.join(word for word in text.split() if word not in stop_words)
+    # extract only nouns and verbs
+    text = ' '.join(token[0] for token in nltk.pos_tag(text.split(), tagset='universal') if token[1] in ['NOUN','VERB'])
     # lowercase
     return text.lower()
 
