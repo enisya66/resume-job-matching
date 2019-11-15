@@ -13,6 +13,7 @@ from keras.layers.embeddings import Embedding
 from keras.layers.merge import concatenate
 from keras.callbacks import TensorBoard
 from keras import optimizers 
+from keras.optimizers import RMSprop
 from keras.models import load_model
 from keras.models import Model
 from keras import backend as K
@@ -108,15 +109,16 @@ class SiameseBiLSTM:
         merged = BatchNormalization()(merged)
         merged = Dropout(self.rate_drop_dense)(merged)
         # uncomment either
-        #preds = Dense(categories.shape[1], activation='sigmoid')(merged)
-        preds = Dense(1, activation='sigmoid')(merged)
+        preds = Dense(categories.shape[1], activation='softmax')(merged)
+        #preds = Dense(1, activation='sigmoid')(merged)
 
         model = Model(inputs=[sequence_1_input, sequence_2_input, leaks_input], outputs=preds)
         
         nadam = optimizers.Nadam(lr=self.learning_rate)
+        rms = RMSprop(lr=0.0001)
         # uncomment either
-        #model.compile(loss=self.loss_function, optimizer=nadam, metrics=['accuracy'])
-        model.compile(loss=self.contrastive_loss, optimizer=nadam, metrics=['accuracy'])
+        model.compile(loss=self.loss_function, optimizer=nadam, metrics=['accuracy'])
+        #model.compile(loss=self.contrastive_loss, optimizer=rms, metrics=['accuracy'])
 
         
         # print model
@@ -139,7 +141,7 @@ class SiameseBiLSTM:
 
         history = model.fit([train_data_x1, train_data_x2, leaks_train], train_labels,
                   validation_data=([val_data_x1, val_data_x2, leaks_val], val_labels),
-                  epochs=5, batch_size=64, shuffle=True,
+                  epochs=25, batch_size=64, shuffle=True,
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
         
         plt.plot(history.history['loss'])

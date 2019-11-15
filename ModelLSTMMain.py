@@ -16,7 +16,7 @@ from keras.utils.vis_utils import model_to_dot
 
 # import functions
 from FileReader import generate_data_for_resume_matcher
-from DataGenerator import cleanup_text, get_average_text_length
+from DataGenerator import cleanup_text, get_average_text_length, plot_text_length
 from EmbeddingUtils import word_embedding_metadata, create_test_data
 from ModelLSTM import SiameseBiLSTM
 from ModelEvaluation import plot_confusion_matrix, model_classification_report
@@ -26,13 +26,13 @@ NUM_CLASSES = 5 #len(np.unique(y))
 MAX_NUM_WORDS = 20000
 # TODO embedding dimension depends on word vector?
 EMBEDDING_DIM = 300
-MAX_SEQUENCE_LENGTH = 1000
+MAX_SEQUENCE_LENGTH = 500
 VALIDATION_SPLIT = 0.2
-RATE_DROP_LSTM = 0.25
+RATE_DROP_LSTM = 0.2
 RATE_DROP_DENSE = 0.4
-NUMBER_LSTM = 64
+NUMBER_LSTM = 32
 NUMBER_DENSE_UNITS = 128
-LEARNING_RATE = 0.01
+LEARNING_RATE = 0.001
 ACTIVATION_FUNCTION = 'relu'
 LOSS_FUNCTION = 'categorical_crossentropy'
 
@@ -70,6 +70,8 @@ print(labels[:5])
 # print the average length of documents
 print('Average CV length: ', get_average_text_length(pairs[:,0]))
 print('Average job post length: ', get_average_text_length(pairs[:,1]))
+plot_text_length(pairs[:,0])
+plot_text_length(pairs[:,1])
 
 # print the array shape
 print(pairs.shape)
@@ -114,10 +116,10 @@ keras.utils.vis_utils.pydot = pydot
 plot_model(model, show_shapes=True)
 
 test_data_x1, test_data_x2, leaks_test = create_test_data(tokenizer,x_test, MAX_SEQUENCE_LENGTH)
-y_pred = model.predict([test_data_x1, test_data_x2, leaks_test], verbose=1)
+y_pred_arr = model.predict([test_data_x1, test_data_x2, leaks_test], verbose=1)
 
 # get the class with max value
-y_pred = y_pred.argmax(1)
+y_pred = y_pred_arr.argmax(1)
 # normalize labels to be used with to_categorical
 y_test = encoder.transform(y_test)
 

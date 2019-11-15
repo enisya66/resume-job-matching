@@ -69,8 +69,8 @@ y_train = x_train[:,0]
 
 # cleanup text
 for x in x_train:
-    x[1] = cleanup_text(x[1])
-    x[2] = cleanup_text(x[2])
+    x[1] = cleanup_text(x[1], False)
+    x[2] = cleanup_text(x[2], False)
 
 # start the clock
 start = time.time()

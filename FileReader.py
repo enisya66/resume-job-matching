@@ -62,11 +62,18 @@ def generate_data_for_resume_matcher(filename):
                        'jobpost': jobpost,
                        'labels': labels})
     
+    # attempt to balance classes
+    #labels = df.groupby('labels')
+    # Sort the over-represented class to the head.
+    #labels = labels[labels.apply(len).sort_values(ascending=False).index]
+    #excess = len(labels.iloc[0]) - len(labels.iloc[1])
+    #remove = np.random.choice(labels.iloc[0], excess, replace=False)
+    #df = df[~df.name.isin(remove)]
     # downsample majority class (in this case class 5)
     df_not_majority = df[df['labels'] != 5]
     df_majority = df[df['labels'] == 5]
     
-    df_majority = df_majority.sample(300)
+    df_majority = df_majority.sample(310)
     df = pd.concat([df_not_majority, df_majority], axis=0)
     
     # plot number of instances of each class

@@ -116,15 +116,15 @@ class SiameseBiCNN:
         # CNN base network
         # TODO use bias?
         # TODO multi filters + concat
-        cnn_layer = Sequential([Conv1D(64, self.kernel_width, activation=self.activation_function),
+        cnn_layer = Sequential([Conv1D(32, self.kernel_width, activation=self.activation_function),
                                 BatchNormalization(),
-                                MaxPooling1D(2),
+                                MaxPooling1D(3),
                                 SpatialDropout1D(self.rate_drop_cnn),
-                                Conv1D(128, self.kernel_width, activation=self.activation_function),
+                                Conv1D(32, self.kernel_width, activation=self.activation_function),
                                 BatchNormalization(),
-                                MaxPooling1D(2),
+                                MaxPooling1D(3),
                                 SpatialDropout1D(self.rate_drop_cnn),
-                                Conv1D(256, self.kernel_width, activation=self.activation_function),
+                                Conv1D(32, 3, activation=self.activation_function),
                                 GlobalMaxPooling1D(),
                                 BatchNormalization(),
                                 Dropout(self.rate_drop_dense)
@@ -150,15 +150,17 @@ class SiameseBiCNN:
         sequence_1_input = Input(shape=(self.max_sequence_length,))
         embedded_sequences_1 = embedding_layer(sequence_1_input)
         # trial on average word vector
-        print(embedded_sequences_1.shape)
-        average_embedded_1 = np.mean(embedded_sequences_1, axis=2)
-        x1 = cnn_layer(average_embedded_1)
+        #average_embedded_1 = Lambda(lambda x: K.mean(x, axis=1))(embedded_sequences_1)
+        #average_embedded_1 = np.expand_dims(average_embedded_1, axis=-1)
+        #print(average_embedded_1.shape)
+        x1 = cnn_layer(embedded_sequences_1)
 
         # Connect CNN layer for Second Sentence
         sequence_2_input = Input(shape=(self.max_sequence_length,))
         embedded_sequences_2 = embedding_layer(sequence_2_input)
-        average_embedded_2 = np.mean(embedded_sequences_2, axis=2)
-        x2 = cnn_layer(average_embedded_2)
+        #average_embedded_2 = Lambda(lambda x: K.mean(x, axis=1))(embedded_sequences_2)
+        #average_embedded_2 = np.expand_dims(average_embedded_2, axis=-1)
+        x2 = cnn_layer(embedded_sequences_2)
         
         # TODO add lambda layer. See MNIST Siamese
         
@@ -168,8 +170,8 @@ class SiameseBiCNN:
         #dense2 = Dense(256, activation=self.activation_function)(dense1)
         
         # comment either one out
-        #output = Dense(categories.shape[1], activation='sigmoid')(distance)
-        output = Dense(1, activation='sigmoid')(distance)
+        output = Dense(categories.shape[1], activation='softmax')(distance)
+        #output = Dense(1, activation='softmax')(distance)
 
 
         model = Model([sequence_1_input, sequence_2_input], output)
@@ -190,9 +192,10 @@ class SiameseBiCNN:
         #model = Model(inputs=[sequence_1_input, sequence_2_input], outputs=preds)
         
         # comment either one out
-        #model.compile(loss=self.loss_function, optimizer='nadam', metrics=['accuracy'])
         rms = RMSprop(lr=0.0001)
-        model.compile(loss=self.contrastive_loss, optimizer=rms)
+
+        model.compile(loss=self.loss_function, optimizer=rms, metrics=['accuracy'])
+        #model.compile(loss=self.contrastive_loss, optimizer=rms)
 
         
         # print model
@@ -219,7 +222,8 @@ class SiameseBiCNN:
                   epochs=8, batch_size=64, shuffle=True, verbose=1,
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
         
-        plt.plot(history.history['loss'])
+        plt.plot(history.history['loss'], 'bo', label='Loss')
+        plt.plot(history.history['val_loss'], 'b', label='Validation')
         plt.xlabel('epochs')
         plt.ylabel('loss')
         plt.show()

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct 22 15:30:38 2019
+Created on Mon Nov 11 11:24:53 2019
 
 @author: User
 """
@@ -9,25 +9,27 @@ from keras.models import load_model
 from keras.utils import plot_model
 import pandas as pd
 import csv
-import time
 
 # import functions
 from DataGenerator import cleanup_text
 from EmbeddingUtils import word_embedding_metadata, create_test_data
-from ModelLSTM import SiameseBiLSTM
+from ModelCNN import SiameseBiCNN
 from ModelEvaluation import evaluate_continuous_data
 
 # constants
+
+# maximum size of dictionary (no. of unique words)
 MAX_NUM_WORDS = 20000
-# TODO embedding dimension depends on word vector?
+# pre-trained embeddings have a dimension of 300
 EMBEDDING_DIM = 300
-MAX_SEQUENCE_LENGTH = 12
+# texts are padded to this length
+# this depends on the average length of a document/text
+MAX_SEQUENCE_LENGTH = 32
 VALIDATION_SPLIT = 0.2
-RATE_DROP_LSTM = 0.2
-RATE_DROP_DENSE = 0.25
-NUMBER_LSTM = 32
-NUMBER_DENSE_UNITS = 64
-LEARNING_RATE = 0.001
+RATE_DROP_CNN = 0.2
+RATE_DROP_DENSE = 0.5
+KERNEL_WIDTH = 3
+NUMBER_DENSE_UNITS = 50
 ACTIVATION_FUNCTION = 'relu'
 LOSS_FUNCTION = 'mse'
 
@@ -37,15 +39,6 @@ STS_COLUMNS = ['label','s1','s2']
 # # read data
 sts_train = pd.read_csv('data/sts-train.csv',sep='\t',usecols=[i for i in range(4,7)],names=STS_COLUMNS)
 sts_test = pd.read_csv('data/sts-test.csv',sep='\t',usecols=[i for i in range(4,7)],quoting=csv.QUOTE_NONE,names=STS_COLUMNS)
-sts_other = pd.read_csv('data/sts-other.csv',sep='\t',usecols=[i for i in range(4,7)],names=STS_COLUMNS)
-sts_mt = pd.read_csv('data/sts-mt.csv',sep='\t',usecols=[i for i in range(4,7)],names=STS_COLUMNS)
-sts_dev = pd.read_csv('data/sts-dev.csv',sep='\t',usecols=[i for i in range(4,7)],names=STS_COLUMNS)
-
-# trial data augmentation
-sts_train.append(sts_other, ignore_index=True)
-sts_train.append(sts_dev, ignore_index=True)
-sts_test.append(sts_mt, ignore_index=True)
-
 # 
 sts_train.head()
 sts_test.head()
@@ -70,27 +63,23 @@ x_train = x_train[:,[1,2]]
 for x in x_train:
     x[0] = cleanup_text(x[0])
     x[1] = cleanup_text(x[1])
+# 
 
 # rescale y value from [0,5] to [0,1]
 for i in range(len(y_train)):
     y_train[i] = y_train[i]/5
 
-# 
+
 # # generate embedding matrix
 tokenizer, embedding_matrix = word_embedding_metadata(x_train.ravel().astype('U'), MAX_NUM_WORDS, EMBEDDING_DIM)
 # 
 # create model
-siamese = SiameseBiLSTM(EMBEDDING_DIM , MAX_SEQUENCE_LENGTH, NUMBER_LSTM , NUMBER_DENSE_UNITS, 
- 					    RATE_DROP_LSTM, RATE_DROP_DENSE, LEARNING_RATE,
-                        ACTIVATION_FUNCTION, VALIDATION_SPLIT, LOSS_FUNCTION)
- 
-# start the clock
-start = time.time()
+siamese = SiameseBiCNN(EMBEDDING_DIM , MAX_SEQUENCE_LENGTH, KERNEL_WIDTH , NUMBER_DENSE_UNITS, 
+					    RATE_DROP_CNN, RATE_DROP_DENSE, ACTIVATION_FUNCTION, VALIDATION_SPLIT, LOSS_FUNCTION)
+
  
 model = siamese.train_model(x_train, y_train, tokenizer, embedding_matrix, model_save_directory='./models/')
  
-# stop the clock
-print('Total time taken: %s seconds' % (time.time() - start))
 # =============================================================================
 
 # testing
@@ -98,7 +87,7 @@ print('Total time taken: %s seconds' % (time.time() - start))
 #model = load_model(best_model_path)
 
 # visualise model
-plot_model(model)
+#plot_model(model)
 
 # evaluate
 x_test = sts_test.to_numpy()
@@ -109,14 +98,15 @@ x_test = x_test[:,[1,2]]
 for x in x_test:
     x[0] = cleanup_text(x[0])
     x[1] = cleanup_text(x[1])
-
+    
+    
 # rescale y value from [0,5] to [0,1]
 for i in range(len(y_test)):
     y_test[i] = y_test[i]/5 
-    
 
 test_data_x1, test_data_x2, leaks_test = create_test_data(tokenizer,x_test, MAX_SEQUENCE_LENGTH)
-y_pred = list(model.predict([test_data_x1, test_data_x2, leaks_test], verbose=1).ravel())
+y_pred = model.predict([test_data_x1, test_data_x2], verbose=1)
+y_pred = y_pred[:,0]
 
 # print evaluation measures
 evaluate_continuous_data(y_test, y_pred)

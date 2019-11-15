@@ -30,15 +30,15 @@ MAX_NUM_WORDS = 20000
 EMBEDDING_DIM = 300
 # texts are padded to this length
 # this depends on the average length of a document
-MAX_SEQUENCE_LENGTH = 4096
-VALIDATION_SPLIT = 0.1
+MAX_SEQUENCE_LENGTH = 500
+VALIDATION_SPLIT = 0.2
 RATE_DROP_CNN = 0.2
 RATE_DROP_DENSE = 0.25
 KERNEL_WIDTH = 3
 NUMBER_DENSE_UNITS = 50
 ACTIVATION_FUNCTION = 'relu'
-#LOSS_FUNCTION = 'categorical_crossentropy'
-LOSS_FUNCTION = 'mse'
+LOSS_FUNCTION = 'categorical_crossentropy'
+#LOSS_FUNCTION = 'mse'
 
 
 TEST_SPLIT = 0.2
@@ -71,7 +71,8 @@ for i in range(len(labels)):
     labels[i] = abs(1-labels[i])/4.0
 
 # print the first 5 pairs/labels
-print(pairs[:5])
+print(pairs[:5,0])
+print(pairs[:5,1])
 print(labels[:5])
 
 # print the average length of documents
@@ -96,18 +97,18 @@ tokenizer, embedding_matrix = word_embedding_metadata(pairs, MAX_NUM_WORDS, EMBE
 # pairs_sequences = np.concatenate((cv_data, jobpost_data), axis=1)
 # =============================================================================
 
-x_train, x_test, y_train, y_test = train_test_split(pairs, labels, test_size=TEST_SPLIT, random_state=42)
+x_train, x_test, y_train, y_test = train_test_split(pairs, labels, stratify=labels, test_size=TEST_SPLIT, random_state=42)
 
 # create model
 siamese = SiameseBiCNN(EMBEDDING_DIM , MAX_SEQUENCE_LENGTH, KERNEL_WIDTH , NUMBER_DENSE_UNITS, 
 					    RATE_DROP_CNN, RATE_DROP_DENSE, ACTIVATION_FUNCTION, VALIDATION_SPLIT, LOSS_FUNCTION)
 
 # normalize labels to be used with to_categorical
-#encoder = LabelEncoder()
-#encoder.fit(y_train)
-#y_train = encoder.transform(y_train)
+encoder = LabelEncoder()
+encoder.fit(y_train)
+y_train = encoder.transform(y_train)
 
-#y_train = to_categorical(y_train)
+y_train = to_categorical(y_train)
 
 # create_train_data not compatible with train_test_split
 model = siamese.train_model(x_train, y_train, tokenizer, embedding_matrix, model_save_directory='./models/cnn/')
@@ -126,15 +127,15 @@ for x in x_test:
     x[1] = cleanup_text(x[1])
 
 test_data_x1, test_data_x2, leaks_test = create_test_data(tokenizer,x_test, MAX_SEQUENCE_LENGTH)
-y_pred = model.predict([test_data_x1, test_data_x2], verbose=1)
-y_pred = y_pred[:,0]
+y_pred_arr = model.predict([test_data_x1, test_data_x2], verbose=1)
+#y_pred = y_pred[:,0]
 
 # get the class with max value
-#y_pred = y_pred.argmax(1)
+y_pred = y_pred_arr.argmax(1)
 # normalize labels to be used with to_categorical
-#y_test = encoder.transform(y_test)
+y_test = encoder.transform(y_test)
 
 # print evaluation measures
-#print(model_classification_report(y_test, y_pred, LABELS))
-#plot_confusion_matrix(y_test, y_pred, LABELS)
-evaluate_continuous_data(y_test, y_pred)
+print(model_classification_report(y_test, y_pred, LABELS))
+plot_confusion_matrix(y_test, y_pred, LABELS)
+#evaluate_continuous_data(y_test, y_pred)

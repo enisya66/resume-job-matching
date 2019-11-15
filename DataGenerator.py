@@ -10,7 +10,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
 
-def cleanup_text(text):
+def cleanup_text(text, nounVerbOnly=True):
     """
     Preprocess text.
     Args:
@@ -28,7 +28,8 @@ def cleanup_text(text):
     # remove stopwords
     text = ' '.join(word for word in text.split() if word not in stop_words)
     # extract only nouns and verbs
-    text = ' '.join(token[0] for token in nltk.pos_tag(text.split(), tagset='universal') if token[1] in ['NOUN','VERB'])
+    if(nounVerbOnly):
+        text = ' '.join(token[0] for token in nltk.pos_tag(text.split(), tagset='universal') if token[1] in ['NOUN','VERB'])
     # lowercase
     return text.lower()
 
@@ -40,12 +41,12 @@ def get_average_text_length(texts):
     Returns:
         the average text length
     """
-    return round(sum(len(i) for i in texts) / len(texts), 2)
+    return round(sum(len(i.split()) for i in texts) / len(texts), 2)
 
 def plot_text_length(texts):
     lengths = []
     for i in range(len(texts)):
-        lengths.append(len(texts[i]))
+        lengths.append(len(texts[i].split()))
         
     fig1, ax1 = plt.subplots()
     ax1.set_title('Text Length')
