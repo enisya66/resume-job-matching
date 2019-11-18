@@ -109,13 +109,14 @@ class SiameseBiLSTM:
         merged = BatchNormalization()(merged)
         merged = Dropout(self.rate_drop_dense)(merged)
         # uncomment either
-        preds = Dense(categories.shape[1], activation='softmax')(merged)
-        #preds = Dense(1, activation='sigmoid')(merged)
+        #preds = Dense(categories.shape[1], activation='softmax')(merged)
+        preds = Dense(1, activation='sigmoid')(merged)
 
         model = Model(inputs=[sequence_1_input, sequence_2_input, leaks_input], outputs=preds)
         
         nadam = optimizers.Nadam(lr=self.learning_rate)
-        rms = RMSprop(lr=0.0001)
+        adam = optimizers.Adam(lr=self.learning_rate)
+        rms = RMSprop(lr=self.learning_rate)
         # uncomment either
         model.compile(loss=self.loss_function, optimizer=nadam, metrics=['accuracy'])
         #model.compile(loss=self.contrastive_loss, optimizer=rms, metrics=['accuracy'])
@@ -141,17 +142,17 @@ class SiameseBiLSTM:
 
         history = model.fit([train_data_x1, train_data_x2, leaks_train], train_labels,
                   validation_data=([val_data_x1, val_data_x2, leaks_val], val_labels),
-                  epochs=25, batch_size=64, shuffle=True,
+                  epochs=10, batch_size=128, shuffle=True,
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
         
         plt.plot(history.history['loss'])
         plt.xlabel('epochs')
         plt.ylabel('loss')
         plt.show()
-        plt.plot(history.history['acc'])
-        plt.xlabel('epochs')
-        plt.ylabel('accuracy')
-        plt.show()
+        #plt.plot(history.history['acc'])
+        #plt.xlabel('epochs')
+        #plt.ylabel('accuracy')
+        #plt.show()
 
         return model
 

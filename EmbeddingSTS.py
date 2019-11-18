@@ -119,7 +119,7 @@ for i in range(len(s1_sequences)):
 similarity = np.array(similarity).reshape(-1,1)
 # fill in nan values due to empty sentences with 0
 similarity = np.nan_to_num(similarity)
-y_train = y_train.astype('int')
+#y_train = y_train.astype('int')
 # visualise data
 plt.scatter(similarity, y_train)
 plt.show()
@@ -166,7 +166,7 @@ for i in range(len(s1_sequences)):
 
 similarity_test = np.array(similarity_test).reshape(-1,1)
 similarity_test = np.nan_to_num(similarity_test)
-y_test = y_test.astype('int')
+#y_test = y_test.astype('int')
 
 
 # evaluate

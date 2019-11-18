@@ -30,11 +30,11 @@ MAX_NUM_WORDS = 20000
 EMBEDDING_DIM = 300
 # texts are padded to this length
 # this depends on the average length of a document
-MAX_SEQUENCE_LENGTH = 500
+MAX_SEQUENCE_LENGTH = 512
 VALIDATION_SPLIT = 0.2
-RATE_DROP_CNN = 0.2
-RATE_DROP_DENSE = 0.25
-KERNEL_WIDTH = 3
+RATE_DROP_CNN = 0.25
+RATE_DROP_DENSE = 0.4
+KERNEL_WIDTH = 5
 NUMBER_DENSE_UNITS = 50
 ACTIVATION_FUNCTION = 'relu'
 LOSS_FUNCTION = 'categorical_crossentropy'

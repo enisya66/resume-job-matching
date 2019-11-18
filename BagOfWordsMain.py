@@ -9,6 +9,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.pipeline import FeatureUnion
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.linear_model import LogisticRegression
+from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics.pairwise import cosine_similarity
 import matplotlib.pyplot as plt
 import numpy as np
@@ -87,7 +89,9 @@ plt.show()
 
 # train model
 # class_weight='balanced' controls weights associated to classes
-model = RandomForestClassifier(n_estimators=100,max_depth=2,class_weight='balanced').fit(similarity, y_train)
+#model = RandomForestClassifier(n_estimators=100,max_depth=2,class_weight='balanced').fit(similarity, y_train)
+model = LogisticRegression().fit(similarity, y_train)
+
 
 # testing
 similarity_test = []

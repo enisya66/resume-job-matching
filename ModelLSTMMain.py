@@ -26,7 +26,7 @@ NUM_CLASSES = 5 #len(np.unique(y))
 MAX_NUM_WORDS = 20000
 # TODO embedding dimension depends on word vector?
 EMBEDDING_DIM = 300
-MAX_SEQUENCE_LENGTH = 500
+MAX_SEQUENCE_LENGTH = 512
 VALIDATION_SPLIT = 0.2
 RATE_DROP_LSTM = 0.2
 RATE_DROP_DENSE = 0.4
@@ -82,10 +82,10 @@ tokenizer, embedding_matrix = word_embedding_metadata(pairs, MAX_NUM_WORDS, EMBE
 
 #TODO K-Fold from here. 5 folds
 
-kf = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
-for train_index, test_index in kf.split(pairs, labels):
-    x_train, x_test = pairs[train_index], pairs[test_index]
-    y_train, y_test = labels[train_index], labels[train_index]
+#kf = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
+#for train_index, test_index in kf.split(pairs, labels):
+#    x_train, x_test = pairs[train_index], pairs[test_index]
+ #   y_train, y_test = labels[train_index], labels[train_index]
     # label encoder (one-hot label)
     # model fit
     # model evaluate or predict + classification report

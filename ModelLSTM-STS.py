@@ -21,7 +21,7 @@ from ModelEvaluation import evaluate_continuous_data
 MAX_NUM_WORDS = 20000
 # TODO embedding dimension depends on word vector?
 EMBEDDING_DIM = 300
-MAX_SEQUENCE_LENGTH = 12
+MAX_SEQUENCE_LENGTH = 512
 VALIDATION_SPLIT = 0.2
 RATE_DROP_LSTM = 0.2
 RATE_DROP_DENSE = 0.25

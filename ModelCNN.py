@@ -12,7 +12,7 @@ from keras.callbacks import EarlyStopping, ModelCheckpoint
 from keras.layers.normalization import BatchNormalization
 from keras.layers.embeddings import Embedding
 from keras.layers.merge import concatenate
-from keras.optimizers import RMSprop
+from keras.optimizers import RMSprop, Adam
 from keras.regularizers import l2
 from keras.callbacks import TensorBoard
 from keras.models import load_model
@@ -116,17 +116,17 @@ class SiameseBiCNN:
         # CNN base network
         # TODO use bias?
         # TODO multi filters + concat
-        cnn_layer = Sequential([Conv1D(32, self.kernel_width, activation=self.activation_function),
+        cnn_layer = Sequential([Conv1D(128, self.kernel_width, activation=self.activation_function),
                                 BatchNormalization(),
-                                MaxPooling1D(3),
+                                MaxPooling1D(5),
                                 SpatialDropout1D(self.rate_drop_cnn),
-                                Conv1D(32, self.kernel_width, activation=self.activation_function),
+                                Conv1D(128, self.kernel_width, activation=self.activation_function),
                                 BatchNormalization(),
-                                MaxPooling1D(3),
-                                SpatialDropout1D(self.rate_drop_cnn),
-                                Conv1D(32, 3, activation=self.activation_function),
+                                #MaxPooling1D(3),
+                                #SpatialDropout1D(self.rate_drop_cnn),
+                                #Conv1D(128, 3, activation=self.activation_function),
                                 GlobalMaxPooling1D(),
-                                BatchNormalization(),
+                                #BatchNormalization(),
                                 Dropout(self.rate_drop_dense)
                                 #Dense(2048, activation=self.activation_function, kernel_regularizer=l2(1e-3))
                                 ])
@@ -192,9 +192,9 @@ class SiameseBiCNN:
         #model = Model(inputs=[sequence_1_input, sequence_2_input], outputs=preds)
         
         # comment either one out
-        rms = RMSprop(lr=0.0001)
-
-        model.compile(loss=self.loss_function, optimizer=rms, metrics=['accuracy'])
+        #rms = RMSprop(lr=0.0001)
+        adam = Adam(lr=0.0001)
+        model.compile(loss=self.loss_function, optimizer=adam, metrics=['accuracy'])
         #model.compile(loss=self.contrastive_loss, optimizer=rms)
 
         
