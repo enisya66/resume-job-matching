@@ -83,7 +83,7 @@ class SiameseBiLSTM:
                                     input_length=self.max_sequence_length, trainable=False)
 
         # Creating LSTM Encoder
-        lstm_layer = Bidirectional(LSTM(self.number_lstm_units, dropout=self.rate_drop_lstm, recurrent_dropout=self.rate_drop_lstm))
+        lstm_layer = Bidirectional(LSTM(self.number_lstm_units))
 
         # Creating LSTM Encoder layer for First Sentence
         sequence_1_input = Input(shape=(self.max_sequence_length,), dtype='int32')
@@ -109,8 +109,8 @@ class SiameseBiLSTM:
         merged = BatchNormalization()(merged)
         merged = Dropout(self.rate_drop_dense)(merged)
         # uncomment either
-        #preds = Dense(categories.shape[1], activation='softmax')(merged)
-        preds = Dense(1, activation='sigmoid')(merged)
+        preds = Dense(categories.shape[1], activation='softmax')(merged)
+        #preds = Dense(1, activation='sigmoid')(merged)
 
         model = Model(inputs=[sequence_1_input, sequence_2_input, leaks_input], outputs=preds)
         
@@ -142,7 +142,7 @@ class SiameseBiLSTM:
 
         history = model.fit([train_data_x1, train_data_x2, leaks_train], train_labels,
                   validation_data=([val_data_x1, val_data_x2, leaks_val], val_labels),
-                  epochs=10, batch_size=128, shuffle=True,
+                  epochs=25, batch_size=64, shuffle=True,
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
         
         plt.plot(history.history['loss'])

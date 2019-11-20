@@ -19,6 +19,7 @@ from FileReader import generate_data_for_resume_matcher
 from DataGenerator import cleanup_text, get_average_text_length, plot_text_length
 from EmbeddingUtils import word_embedding_metadata, create_test_data
 from ModelLSTM import SiameseBiLSTM
+from ModelMaLSTM import SiameseMaLSTM
 from ModelEvaluation import plot_confusion_matrix, model_classification_report
 
 # constants
@@ -32,7 +33,7 @@ RATE_DROP_LSTM = 0.2
 RATE_DROP_DENSE = 0.4
 NUMBER_LSTM = 32
 NUMBER_DENSE_UNITS = 128
-LEARNING_RATE = 0.001
+LEARNING_RATE = 0.0001
 ACTIVATION_FUNCTION = 'relu'
 LOSS_FUNCTION = 'categorical_crossentropy'
 
@@ -93,7 +94,7 @@ tokenizer, embedding_matrix = word_embedding_metadata(pairs, MAX_NUM_WORDS, EMBE
 x_train, x_test, y_train, y_test = train_test_split(pairs, labels, test_size=TEST_SPLIT, random_state=42)
 
 # create model
-siamese = SiameseBiLSTM(EMBEDDING_DIM , MAX_SEQUENCE_LENGTH, NUMBER_LSTM , NUMBER_DENSE_UNITS, 
+siamese = SiameseMaLSTM(EMBEDDING_DIM , MAX_SEQUENCE_LENGTH, NUMBER_LSTM , NUMBER_DENSE_UNITS, 
 					    RATE_DROP_LSTM, RATE_DROP_DENSE, LEARNING_RATE,
                         ACTIVATION_FUNCTION, VALIDATION_SPLIT, LOSS_FUNCTION)
 
@@ -116,7 +117,7 @@ keras.utils.vis_utils.pydot = pydot
 plot_model(model, show_shapes=True)
 
 test_data_x1, test_data_x2, leaks_test = create_test_data(tokenizer,x_test, MAX_SEQUENCE_LENGTH)
-y_pred_arr = model.predict([test_data_x1, test_data_x2, leaks_test], verbose=1)
+y_pred_arr = model.predict([test_data_x1, test_data_x2], verbose=1)
 
 # get the class with max value
 y_pred = y_pred_arr.argmax(1)

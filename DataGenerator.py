@@ -26,7 +26,7 @@ def cleanup_text(text, nounVerbOnly=True):
     # stemming
     text = ' '.join(germanStemmer.stem(word) for word in text.split())
     # remove stopwords
-    #text = ' '.join(word for word in text.split() if word not in stop_words)
+    text = ' '.join(word for word in text.split() if word not in stop_words)
     # extract only nouns and verbs
     if(nounVerbOnly):
         text = ' '.join(token[0] for token in nltk.pos_tag(text.split(), tagset='universal') if token[1] in ['NOUN','VERB'])

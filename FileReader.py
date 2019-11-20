@@ -73,7 +73,7 @@ def generate_data_for_resume_matcher(filename):
     df_not_majority = df[df['labels'] != 5]
     df_majority = df[df['labels'] == 5]
     
-    df_majority = df_majority.sample(310)
+    df_majority = df_majority.sample(360)
     df = pd.concat([df_not_majority, df_majority], axis=0)
     
     # plot number of instances of each class

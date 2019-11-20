@@ -24,7 +24,7 @@ MAX_NUM_WORDS = 20000
 EMBEDDING_DIM = 300
 # texts are padded to this length
 # this depends on the average length of a document/text
-MAX_SEQUENCE_LENGTH = 32
+MAX_SEQUENCE_LENGTH = 16
 VALIDATION_SPLIT = 0.2
 RATE_DROP_CNN = 0.2
 RATE_DROP_DENSE = 0.5
