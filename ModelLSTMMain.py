@@ -91,6 +91,7 @@ tokenizer, embedding_matrix = word_embedding_metadata(pairs, MAX_NUM_WORDS, EMBE
     # model fit
     # model evaluate or predict + classification report
 
+# split data into train and test
 x_train, x_test, y_train, y_test = train_test_split(pairs, labels, test_size=TEST_SPLIT, random_state=42)
 
 # create model

@@ -97,6 +97,7 @@ tokenizer, embedding_matrix = word_embedding_metadata(pairs, MAX_NUM_WORDS, EMBE
 # pairs_sequences = np.concatenate((cv_data, jobpost_data), axis=1)
 # =============================================================================
 
+# split data into train and test
 x_train, x_test, y_train, y_test = train_test_split(pairs, labels, stratify=labels, test_size=TEST_SPLIT, random_state=42)
 
 # create model

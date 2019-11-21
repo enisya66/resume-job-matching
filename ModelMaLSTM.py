@@ -77,19 +77,15 @@ class SiameseMaLSTM:
 
     def train_model(self, sentences_pair, categories, tokenizer, embedding_matrix, model_save_directory='./models/'):
         """
-        Train Siamese network to find similarity between sentences in `sentences_pair`
-            Steps Involved:
-                1. Pass each pair from sentences_pairs to CNN.
-                2. Merge the vectors from CNN and pass to dense layer.
-                3. Pass the dense layer vectors to sigmoid output layer.
-                4. Use cross entropy loss to train weights
+        Trains Siamese network to find similarity between sentences in `sentences_pair`
         Args:
             sentences_pair (list): list of tuple of sentence pairs
             categories (list): target values (1-5)
-            embedding_meta_data (dict): dict containing tokenizer and word embedding matrix
-            model_save_directory (str): working directory for where to save models
+			tokenizer (keras.Tokenizer): keras Tokenizer object containing word indexes
+			embedding_matrix (np.array): matrix of word indexes and respective word vectors
+            model_save_directory (str): working directory to save models
         Returns:
-            return (best_model_path):  path of best model
+            model: trained keras model
         """
         train_data_x1, train_data_x2, train_labels, leaks_train, \
         val_data_x1, val_data_x2, val_labels, leaks_val = create_train_dev_set(tokenizer, sentences_pair,
@@ -106,28 +102,22 @@ class SiameseMaLSTM:
         # Creating word embedding layer
         embedding_layer = Embedding(nb_words, self.embedding_dim, weights=[embedding_matrix],
                                     input_length=self.max_sequence_length, trainable=False)
-
-
         
-        # LSTM base network
-        
+        # LSTM base network      
         lstm_layer = LSTM(self.number_lstm_units)
         #lstm_layer = Bidirectional(LSTM(self.number_lstm_units, dropout=self.rate_drop_lstm, recurrent_dropout=self.rate_drop_lstm))
 
-
-
-        # Connect LSTM layer for First Sentence
+        # Connect LSTM layer for first sentence
         sequence_1_input = Input(shape=(self.max_sequence_length,))
         embedded_sequences_1 = embedding_layer(sequence_1_input)
         x1 = lstm_layer(embedded_sequences_1)
 
-        # Connect LSTM layer for Second Sentence
+        # Connect LSTM layer for second sentence
         sequence_2_input = Input(shape=(self.max_sequence_length,))
         embedded_sequences_2 = embedding_layer(sequence_2_input)
         x2 = lstm_layer(embedded_sequences_2)
         
-        # TODO add lambda layer. See MNIST Siamese
-        
+		# calculate distance between the two representations
         distance = Lambda(self.manhattan_distance, output_shape=self.eucl_dist_output_shape)([x1, x2])
         
         # comment either one out
@@ -148,6 +138,7 @@ class SiameseMaLSTM:
         # print model
         model.summary()
 
+		# stops training when there's no improvements
         early_stopping = EarlyStopping(monitor='val_loss', patience=3)
 
         STAMP = 'cnn_%d_%d_%.2f_%.2f' % (self.number_lstm_units, self.number_dense_units, self.rate_drop_lstm, self.rate_drop_dense)
@@ -163,11 +154,13 @@ class SiameseMaLSTM:
 
         tensorboard = TensorBoard(log_dir=checkpoint_dir + "logs/{}".format(time.time()))
 
+		# happy training
         history = model.fit([train_data_x1, train_data_x2], train_labels,
                   validation_data=([val_data_x1, val_data_x2], val_labels),
                   epochs=8, batch_size=64, shuffle=True, verbose=1,
                   callbacks=[early_stopping])
-        
+ 
+		# plot metrics graphs
         plt.plot(history.history['loss'], 'bo', label='Loss')
         plt.plot(history.history['val_loss'], 'b', label='Validation')
         plt.xlabel('epochs')

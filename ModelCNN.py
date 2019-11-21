@@ -5,7 +5,6 @@ Created on Tue Oct 22 14:55:35 2019
 @author: User
 """
 
-# TODO after ModelLSTM runs, adjust LSTM layers to CNN
 # keras imports
 from keras.layers import Dense, Input, LSTM, SpatialDropout1D, Dropout, Conv1D, MaxPooling1D, GlobalMaxPooling1D, Lambda, Flatten, Reshape
 from keras.callbacks import EarlyStopping, ModelCheckpoint
@@ -80,19 +79,15 @@ class SiameseBiCNN:
 
     def train_model(self, sentences_pair, categories, tokenizer, embedding_matrix, model_save_directory='./models/'):
         """
-        Train Siamese network to find similarity between sentences in `sentences_pair`
-            Steps Involved:
-                1. Pass each pair from sentences_pairs to CNN.
-                2. Merge the vectors from CNN and pass to dense layer.
-                3. Pass the dense layer vectors to sigmoid output layer.
-                4. Use cross entropy loss to train weights
+        Trains Siamese network to find similarity between sentences in `sentences_pair`
         Args:
             sentences_pair (list): list of tuple of sentence pairs
             categories (list): target values (1-5)
-            embedding_meta_data (dict): dict containing tokenizer and word embedding matrix
-            model_save_directory (str): working directory for where to save models
+			tokenizer (keras.Tokenizer): keras Tokenizer object containing word indexes
+			embedding_matrix (np.array): matrix of word indexes and respective word vectors
+            model_save_directory (str): working directory to save models
         Returns:
-            return (best_model_path):  path of best model
+            model: trained keras model
         """
         train_data_x1, train_data_x2, train_labels, leaks_train, \
         val_data_x1, val_data_x2, val_labels, leaks_val = create_train_dev_set(tokenizer, sentences_pair,
@@ -110,12 +105,10 @@ class SiameseBiCNN:
         # Creating word embedding layer
         embedding_layer = Embedding(nb_words, self.embedding_dim, weights=[embedding_matrix],
                                     input_length=self.max_sequence_length, trainable=False)
-
-
-        
+									
         # CNN base network
         # TODO use bias?
-        # TODO multi filters + concat
+        # TODO multi filters (2,3,4) + concat
         cnn_layer = Sequential([Conv1D(128, self.kernel_width, activation=self.activation_function),
                                 BatchNormalization(),
                                 MaxPooling1D(3),
@@ -148,32 +141,28 @@ class SiameseBiCNN:
 #         
 # =============================================================================
 
-        # Connect CNN layer for First Sentence
+        # Connect CNN layer for first sentence
         sequence_1_input = Input(shape=(self.max_sequence_length,))
         embedded_sequences_1 = embedding_layer(sequence_1_input)
-        # trial on average word vector
         #average_embedded_1 = Lambda(lambda x: K.mean(x, axis=1))(embedded_sequences_1)
         #average_embedded_1 = np.expand_dims(average_embedded_1, axis=-1)
-        #print(average_embedded_1.shape)
         x1 = cnn_layer(embedded_sequences_1)
 
-        # Connect CNN layer for Second Sentence
+        # Connect CNN layer for second sentence
         sequence_2_input = Input(shape=(self.max_sequence_length,))
         embedded_sequences_2 = embedding_layer(sequence_2_input)
         #average_embedded_2 = Lambda(lambda x: K.mean(x, axis=1))(embedded_sequences_2)
         #average_embedded_2 = np.expand_dims(average_embedded_2, axis=-1)
         x2 = cnn_layer(embedded_sequences_2)
-        
-        
+           
         distance = Lambda(self.cosine_distance, output_shape=self.eucl_dist_output_shape)([x1, x2])
-        
+        # if dense layer after concat/merging
         #dense1 = Dense(1024, activation=self.activation_function)(distance)
         #dense2 = Dense(256, activation=self.activation_function)(dense1)
         
         # comment either one out
         #output = Dense(categories.shape[1], activation='softmax')(distance)
         output = Dense(1, activation='sigmoid')(distance)
-
 
         model = Model([sequence_1_input, sequence_2_input], output)
 
@@ -198,11 +187,11 @@ class SiameseBiCNN:
         model.compile(loss=self.loss_function, optimizer=rms, metrics=['accuracy'])
         #model.compile(loss=self.contrastive_loss, optimizer=rms)
 
-        
         # print model
         model.summary()
         cnn_layer.summary()
 
+		# stops training when there's no improvement
         early_stopping = EarlyStopping(monitor='val_loss', patience=3)
 
         STAMP = 'cnn_%d_%d_%.2f_%.2f' % (self.kernel_width, self.number_dense_units, self.rate_drop_cnn, self.rate_drop_dense)
@@ -217,12 +206,14 @@ class SiameseBiCNN:
         model_checkpoint = ModelCheckpoint(bst_model_path, save_best_only=True, save_weights_only=False)
 
         tensorboard = TensorBoard(log_dir=checkpoint_dir + "logs/{}".format(time.time()))
-
+		
+		# happy training
         history = model.fit([train_data_x1, train_data_x2], train_labels,
                   validation_data=([val_data_x1, val_data_x2], val_labels),
                   epochs=8, batch_size=64, shuffle=True, verbose=1,
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
         
+		# plot metrics graphs
         plt.plot(history.history['loss'], 'bo', label='Loss')
         plt.plot(history.history['val_loss'], 'b', label='Validation')
         plt.xlabel('epochs')
