@@ -29,5 +29,5 @@ python3 ModelCNNMain.py
 ```
 
 ## Author
-[Author: Michael Christian Suhendra](https://www.youtube.com/watch?v=dQw4w9WgXcQ \"Michael Christian Suhendra\")
-[github](https://github.com/michael-suhendra) - [medium](medium.com/@michael.suhendra)
+[![Michael Christian Suhendra](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Check out other stuff - [github](https://github.com/michael-suhendra) - [medium](https://medium.com/@michael.suhendra)
