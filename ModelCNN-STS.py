@@ -24,7 +24,7 @@ MAX_NUM_WORDS = 20000
 EMBEDDING_DIM = 300
 # texts are padded to this length
 # this depends on the average length of a document/text
-MAX_SEQUENCE_LENGTH = 16
+MAX_SEQUENCE_LENGTH = 12
 VALIDATION_SPLIT = 0.2
 RATE_DROP_CNN = 0.2
 RATE_DROP_DENSE = 0.5
@@ -39,9 +39,20 @@ STS_COLUMNS = ['label','s1','s2']
 # # read data
 sts_train = pd.read_csv('data/sts-train.csv',sep='\t',usecols=[i for i in range(4,7)],names=STS_COLUMNS)
 sts_test = pd.read_csv('data/sts-test.csv',sep='\t',usecols=[i for i in range(4,7)],quoting=csv.QUOTE_NONE,names=STS_COLUMNS)
+sts_other = pd.read_csv('data/sts-other.csv',sep='\t',usecols=[i for i in range(3,6)],names=STS_COLUMNS)
+sts_mt = pd.read_csv('data/sts-mt.csv',sep='\t',usecols=[i for i in range(3,6)],names=STS_COLUMNS)
+sts_dev = pd.read_csv('data/sts-dev.csv',sep='\t',usecols=[i for i in range(4,7)],names=STS_COLUMNS)
+
+# trial data augmentation
+sts_train = sts_train.append(sts_other, ignore_index=True)
+sts_train = sts_train.append(sts_dev, ignore_index=True)
+sts_test = sts_test.append(sts_mt, ignore_index=True)
+
 # 
-sts_train.head()
-sts_test.head()
+print(sts_other.head())
+print(sts_mt.head())
+print(sts_dev.head())
+
 # 
 # print('Training size is', sts_train.shape)
 # print('Test size is', sts_test.shape)
@@ -60,9 +71,9 @@ x_train = x_train[:,[1,2]]
 # 
 # print(x_train)
 # # cleanup text
-for x in x_train:
-    x[0] = cleanup_text(x[0])
-    x[1] = cleanup_text(x[1])
+#for x in x_train:
+#    x[0] = cleanup_text(x[0])
+#    x[1] = cleanup_text(x[1])
 # 
 
 # rescale y value from [0,5] to [0,1]
@@ -95,9 +106,9 @@ y_test = x_test[:,0]
 x_test = x_test[:,[1,2]]
 
 # cleanup text
-for x in x_test:
-    x[0] = cleanup_text(x[0])
-    x[1] = cleanup_text(x[1])
+#for x in x_test:
+#    x[0] = cleanup_text(x[0])
+#    x[1] = cleanup_text(x[1])
     
     
 # rescale y value from [0,5] to [0,1]

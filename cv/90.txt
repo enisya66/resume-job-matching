@@ -1,0 +1,224 @@
+DevOps Consultant und Trainer, AWS, Google Cloud, Azure, Linux, Kubernetes, Docker, Security, Puppet, Ansible
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.01.2020
+verfügbar zu
+40 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D8D9
+Städte
+Nürnberg
+100 km
+Bayreuth
+100 km
+Kontaktwunsch
+Ich möchte ausschließlich für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+10/2019 - Heute
+
+1 Monat
+
+OpenShift 4 auf VMware vSphere
+
+Rolle
+DevOps Consultant / Engineer
+Kunde
+Managed Service Provider (Bereich Finsur)
+Einsatzort
+Nürnberg
+Projektinhalte
+- Weiterentwicklung und Betrieb des Managed OpenShift Services für Kunden
+- Entwicklung einer Upgrade Strategie von OpenShift 3 auf OpenShift 4
+- Entwicklung einer Deployment Pipeline zum automatisierten Rollout von OpenShift 4 auf VMware vSphere
+- Evaluierung von OpenShift Container Storage (OCS) als verteilte Storagelösung
+Produkte
+OpenShift Gitlab Ansible RHEL CoreOS Helm
+04/2019 - Heute
+
+7 Monate
+
+Transition Kubernetes/Google Cloud
+
+Rolle
+DevOps/Cloud Engineer/Consultant
+Einsatzort
+Bamberg
+Projektinhalte
+- Automatisierte Provisionierung der der Cloud Infrastruktur mittels Terraform - Installation, Management und Betrieb des Istio Service Mesh auf der Google Kubernetes Engine  - Unterstützung der Entwickler beim Erstellen von Helm Charts für Kubernetes Deployments (NodeJS, React) - Entwicklung von Gitlab CI Pipelines zum Git basierten Deployment in Kubernetes - Monitoring der Cloud Umgebung mit Prometheus, Grafana und Google StackDriver - Entwicklung von Unit und Web Tests für Applikationen und Cloud Infrastruktur 
+Kenntnisse
+Scrum DevOps Cloud Service Mesh
+Produkte
+Google Cloud Terraform Kubernetes Istio NodeJS React Gitlab Helm
+01/2019 - 12/2019
+
+1 Jahr
+
+Migration in neues Datacenter
+
+01/2018 - 12/2018
+
+1 Jahr
+
+ELK as a Service auf OpenShift Plattform
+
+01/2017 - 07/2018
+
+1 Jahr 7 Monate
+
+Upgrade Puppet 3.x zu Puppet 5.x
+
+01/2017 - 06/2018
+
+1 Jahr 6 Monate
+
+Ablöse RedHat Satellite durch Puppet und Foreman
+
+11/2016 - 12/2016
+
+2 Monate
+
+Postfix/Dovecot Mailcluster
+
+09/2016 - 12/2016
+
+4 Monate
+
+Monitoring mit Icinga2
+
+06/2016 - 06/2016
+
+1 Monat
+
+Training Citrix NetScaler
+
+01/2016 - 05/2016
+
+5 Monate
+
+Design und Entwicklung einer Lösung zum Rollout von Patches
+
+09/2015 - 12/2015
+
+4 Monate
+
+Unterstützung im Middleware Bereich
+
+04/2015 - 05/2015
+
+2 Monate
+
+Design und Implementierung RedHat Satellite
+
+11/2014 - 05/2015
+
+7 Monate
+
+LDAP Authentifizierung via SSSD an Active Directory
+
+03/2015 - 03/2015
+
+1 Monat
+
+Citrix NetScaler Training
+
+07/2014 - 12/2014
+
+6 Monate
+
+Upgrade Puppet 2x zu Puppet 3x
+
+Branchen
+Banking
+Finanzen
+Öffentlicher Dienst
+Healthcare
+E-Commerce
+Kompetenzen
+Sprachkenntnisse
+Deutsch Muttersprache
+Englisch (fließend)
+Programmiersprachen
+Bash
+Perl
+PHP
+Zend Certified PHP Engineer
+Python
+Betriebssysteme
+CentOS
+Debian
+Oracle Linux
+RedHat
+SLES
+Ubuntu
+Datenbanken
+MariaDB
+MongoDB
+MySQL
+PostgreSQL
+Produkte / Standards / Erfahrungen
+Ansible
+AWS
+Azure
+Citrix ADC
+Citrix Certified Professional
+Citrix NetScaler
+Citrix Certified Professional
+Cloud
+Configuration Management
+Continuous Integration
+DevOps
+Docker
+Elasticsearch
+ELK
+Foreman
+Git
+Gitlab
+Google Cloud
+Hardening
+Hashicorp
+Helm
+Icinga
+Istio
+ITIL
+ITIL Foundation Certificate
+Jenkins
+Kickstart
+Knative
+Kubernetes
+LDAP
+Loadbalancing
+Logstash
+Nagios
+OpenShift
+Patch Management
+Postfix
+Preseed
+Prometheus
+Provisioning
+Puppet
+Puppet Certified Professional (PCP)
+Redhat Satellite
+RPM
+Scrum
+Security
+SSSD
+Terraform
+Webserver
+Wordpress
+Schwerpunkte
+Ansible
+AWS
+Azure
+Docker
+Gitlab
+Google Cloud
+Jenkins
+Kubernetes
+Puppet
+Puppet Certified Professional (PCP)
+Terraform

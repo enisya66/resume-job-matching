@@ -1,0 +1,131 @@
+Angular, RxJS, TypeScript, ES6, ES2015, JavaScript, SASS, SCSS, LESS, CSS, Bootstrap, Unit-Testing, e2e-Testing, Gulp, AngularCli, Scrum
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.11.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+Städte
+München
+10 km
+Kontaktwunsch
+Ich möchte ausschließlich für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+02/2019 - 10/2019
+
+9 Monate
+
+Scoperty
+
+Rolle
+Selbständiger Lead Software-Entwickler für Angular 4/7
+Kunde
+Scoperty GmbH
+Einsatzort
+München
+Projektinhalte
+Weiterentwicklung des Angular 4 Frontends für ein Immobilien-Portal. Refactoring des bestehenden Codes und der Projektstruktur, Einführung der Entwicklungsstandards. Anleitung und Unterstützung eines Teams von fünf offshore Entwicklern.
+Kenntnisse
+Angular HTML5 CSS REST TypeScript AngularCli Scrum
+06/2018 - 11/2018
+
+6 Monate
+
+KKP-Portal
+
+Rolle
+Selbständiger Software-Entwickler für Angular 5
+Kunde
+servicepro Agentur für Dialogmarketing und Verkaufsförderung GmbH
+Einsatzort
+München
+Projektinhalte
+Weiterentwicklung des Frontends für ein Händler-Portal zur systematischen und kontinuierlichen Kundenbetreuung. Refactoring des bestehenden Codes und der Projektstruktur.
+Kenntnisse
+Angular HTML5 CSS REST TypeScript AngularCli Scrum
+10/2017 - 05/2018
+
+8 Monate
+
+Frontend für Monitoring- und Administrationstool für Fahrzeugsteuergeräte
+
+10/2016 - 09/2017
+
+1 Jahr
+
+p2p iOS-App
+
+04/2016 - 09/2016
+
+6 Monate
+
+Benutzerregistrierung
+
+12/2015 - 03/2016
+
+4 Monate
+
+Anwendung zum Verwalten von Vektoren
+
+09/2015 - 03/2016
+
+7 Monate
+
+Plattform zum Teilen und Speichern von Bookmarks
+
+06/2013 - 09/2015
+
+2 Jahre 4 Monate
+
+Preisvergleich für Elektronik, Medikamente
+
+Kompetenzen
+Programmiersprachen
+Angular
+CSS
+EcmaScript 2015 (ES2015)
+HTML 5
+JavaScript
+TypeScript
+Produkte / Standards / Erfahrungen
+CSS
+HTML 5
+HTML5
+NodeJS
+Responsive Webdesign
+REST
+Scrum
+Bemerkungen
+HTML 5, TypeScript, ECMAScript 2015, JavaScript, Angular, RxJS, CSS, SASS, SCSS, LESS, AngularCli, Gulp, Bootstrap, Karma, Jasmine, Jest, Protractor, Unit-Testing, E2E-Testing, Responsive Webdesign, Scrum
+Aus- und Weiterbildung
+03/2012 - 09/2014
+
+2 Jahre 7 Monate
+
+Informatik Studium
+
+Abschluss
+Master of Science
+Institution, Ort
+Hochschule München
+Schwerpunkt
+Software Engineering
+10/2008 - 02/2012
+
+3 Jahre 5 Monate
+
+Informatik Studium
+
+Abschluss
+Bachelor of Science
+Institution, Ort
+Hochschule München
+09/2002 - 06/2005
+
+2 Jahre 10 Monate
+
+Ausbildung zum Fachinformatiker in der Fachrichtung Anwendungsentwicklung

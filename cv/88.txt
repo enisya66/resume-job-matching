@@ -1,0 +1,224 @@
+Konzeption, Aufbau und Administration von Public Cloud (AWS / Azure / GCP) / DevOps Umgebungen
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+31.10.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9
+Städte
+Ulm (Donau)
+500 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+03/2019 - 06/2019
+
+4 Monate
+
+DevOps / Cloud Consulting - Cloud-Engineering Wirecard AG (AWS)
+
+Rolle
+Cloud Consultant
+Kunde
+Wirecard Technologies GmbH
+Einsatzort
+München
+Projektinhalte
+Unterstützung des internationalen Cloud-Engineering Teams bei sämtlichen AWS und DevOps Themen. Weiterentwicklung der Terraform-Infrastruktur für interne Kunden, Aufbau und Beratung der produktiven Architektur.
+Kenntnisse
+DevOps Public Cloud Infrastructure as Code Hochverfügbarkeit Skalierbarkeit SSL Automatisierung IAM Cloud Security
+Produkte
+AWS Amazon Web Services Docker Datadog Terraform Vault Jenkins Kubernetes Git GitLab Amazon RDS Amazon EFS Amazon Elastic Compute Cloud Amazon EC2 Amazon CloudTrail
+03/2019 - 05/2019
+
+3 Monate
+
+Cloud Evaluierung / Architektur - SPIEGEL.DE
+
+Rolle
+IT-Architect
+Kunde
+SPIEGEL ONLINE GmbH & Co. KG
+Einsatzort
+Hamburg
+Projektinhalte
+Konzeption Public-Cloud Architektur für Spiegel.de, Beratung hinsichtlich des derzeitigen Kubernetes Clusters, Kostenkalkulation für mögliche Migration der vollständigen Umgebung zu einem Public-Cloud Provider (AWS / Google).
+Kenntnisse
+Scrum DevOps Public-Cloud Microservices
+Produkte
+AWS Amazon Web Services Kubernetes Docker Container Google Cloud GCP AWS EKS KOPS
+02/2019 - 03/2019
+
+2 Monate
+
+Cloud / DevOps Consulting - MYPOSTER.DE vollständige AWS Migration
+
+01/2019 - 03/2019
+
+3 Monate
+
+Cloud / DevOps Consulting MYAUDI.DE
+
+01/2019 - 01/2019
+
+1 Monat
+
+Kubernetes Trainer - Advanced Architecting with Kubernetes
+
+02/2018 - 01/2019
+
+1 Jahr
+
+Cloud / DevOps Consulting Audi Konfigurator AUDI.DE
+
+10/2017 - 02/2018
+
+5 Monate
+
+DevOps Consulting Webauftritt Jungheinrich.de
+
+11/2017 - 11/2017
+
+1 Monat
+
+AWS Trainer - AWS Technical Essentials
+
+Branchen
+Automotive
+Intralogistik
+IT
+Banken
+Journalismus / Magazine
+E-Commerce
+Kompetenzen
+Produkte / Standards / Erfahrungen
+Amazon CloudTrail
+Amazon DynamoDB
+Amazon EC2
+Amazon EFS
+Amazon Elastic Compute Cloud
+Amazon Route53
+Amazon VPC
+Amazon Web Services
+Ansible
+Apache Tomcat
+AppDynamics
+Automatisierung
+AWS
+AWS CloudFormation
+AWS CloudTrail
+AWS EKS
+AWS ELB
+AWS Lambda
+AWS OpsWorks
+AWS S3
+AWS SQS
+Bitbucket
+Cisco
+Cisco IronPort
+Cisco IronPort
+Cisco Route
+Cisco Route
+Cloud Security
+Container
+Continuous Deployment
+Datadog
+DevOps
+DevOps
+Docker
+E-Commerce
+ELK
+EMC Storage
+ESX VMware
+GCP
+Git
+GitLab
+Google Cloud
+Hochverfügbarkeit
+IAM
+Infrastructure as Code
+Jenkins
+Kops
+Kubernetes
+Load & Performance Test
+Microsoft Azure
+nginx
+NGINX (Pacemaker + Corosync)
+Office 365
+Public Cloud
+Public-Cloud
+S3
+SaltStack
+SAN
+SCRUM
+SELINUX
+Skalierbarkeit
+SSL
+Terraform
+Vagrant
+Vault
+Versionskontrolle
+VMware
+VMware ESXi
+VMwareESX
+vSphere
+WebApplicationFirewall
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+Verhandlungssicher
+Schwerpunkte
+Amazon Web Services
+Automatisierung
+DevOps
+Infrastructure as Code
+Konzeption sowie strategische und konzeptionelle Beratung
+Guter Marktüberblick über aktuelle Trends und Innovationen der IT
+Entwicklung/Umsetzung unternehmensweiter IT-Strategien
+Umfassende Projekterfahrung im Bereich Cloud Migration
+Generell sehr breitgefächertes IT-Wissen
+Erfahrung in der Umsetzung von DevOps Szenarien in Unternehmen
+Positives Feedback zur Fähigkeit und Bereitschaft, Konflikte konstruktiv zu lösen
+Treffen von Entscheidungen im Rahmen des Projektes
+angemessener Berichts- und Kommunikationswege
+Organisation/Moderation von Meetings und Workshops
+Management und Präsentation regelmäßiger Projektstatusberichte
+Betriebssysteme
+CentOS
+Linux RedHat
+RHEL
+Ubuntu
+Windows Server
+2008 - 2012
+Windows Server 2008 R2
+Datenbanken
+Amazon RDS
+MySQL
+Oracle
+Programmiersprachen
+Bash
+C#
+CSS
+HTML
+Microservices
+PHP
+Python
+XML
+Aus- und Weiterbildung
+09/2014 - 06/2017
+
+2 Jahre 10 Monate
+
+Ausbildung zum Fachinformatiker für Systemintegration
+
+Ausbildungshistorie
+Berufsausbildung Fachinformatiker Systemintegration  Zertifizierungen
+ITIL Foundation Certificate v2011 IT-service management
+AWS Certified Solution Architect Associate

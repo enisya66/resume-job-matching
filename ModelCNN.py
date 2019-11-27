@@ -51,7 +51,7 @@ class SiameseBiCNN:
     
     def manhattan_distance(self, vects):
         x, y = vects
-        return K.exp(-1 * K.sum(K.abs(x - y), axis=1, keepdims=True))
+        return K.exp(-K.sum(K.abs(x - y), axis=1, keepdims=True))
     
     def cosine_distance(self, vects):
         x, y = vects
@@ -116,21 +116,26 @@ class SiameseBiCNN:
         # CNN base network
         # TODO use bias?
         # TODO multi filters + concat
-        cnn_layer = Sequential([Conv1D(128, self.kernel_width, activation=self.activation_function),
-                                BatchNormalization(),
-                                MaxPooling1D(3),
-                                SpatialDropout1D(self.rate_drop_cnn),
+        cnn_layer = Sequential([Conv1D(200, self.kernel_width, activation=self.activation_function),
+                                #Dropout(0.2),
+                                GlobalMaxPooling1D(),
+                                Dense(200, activation=self.activation_function),
+                                Dropout(0.4)
+                                #BatchNormalization(),
+                                #MaxPooling1D(3),
+                                #SpatialDropout1D(self.rate_drop_cnn),
                                 #Conv1D(128, self.kernel_width, activation=self.activation_function),
                                 #BatchNormalization(),
                                 #MaxPooling1D(3),
                                 #SpatialDropout1D(self.rate_drop_cnn),
                                 #Conv1D(128, 3, activation=self.activation_function),
+                                #GlobalMaxPooling1D(),
                                 #MaxPooling1D(3),
                                 #BatchNormalization(),
-                                #Dropout(self.rate_drop_dense),
+                                #Dropout(self.rate_drop_cnn),
                                 #Reshape((-1, 128))
-                                Flatten()
-                                #Dense(2048, activation=self.activation_function, kernel_regularizer=l2(1e-3))
+                                #Dense(256, activation=self.activation_function, kernel_regularizer=l2(1e-3)),
+                                #Dropout(self.rate_drop_cnn)
                                 ])
     
 # =============================================================================
@@ -193,9 +198,9 @@ class SiameseBiCNN:
         #model = Model(inputs=[sequence_1_input, sequence_2_input], outputs=preds)
         
         # comment either one out
-        rms = RMSprop(lr=0.0001)
+        rms = RMSprop()
         #adam = Adam(lr=0.0001)
-        model.compile(loss=self.loss_function, optimizer=rms, metrics=['accuracy'])
+        model.compile(loss=self.loss_function, optimizer='adam', metrics=['accuracy'])
         #model.compile(loss=self.contrastive_loss, optimizer=rms)
 
         
@@ -220,7 +225,7 @@ class SiameseBiCNN:
 
         history = model.fit([train_data_x1, train_data_x2], train_labels,
                   validation_data=([val_data_x1, val_data_x2], val_labels),
-                  epochs=8, batch_size=64, shuffle=True, verbose=1,
+                  epochs=30, batch_size=256, shuffle=True, verbose=1,
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
         
         plt.plot(history.history['loss'], 'bo', label='Loss')

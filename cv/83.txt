@@ -1,0 +1,76 @@
+Fullstack Developer Schwerpunkt Frontend. JavaScript, PHP, Progressive Web App, NodeJs
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+21.10.2019
+verfügbar zu
+80 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D7
+Städte
+Stuttgart
+150 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+06/2019 - 07/2019
+
+2 Monate
+
+Progressive Web App für Stadt / Gemeinde
+
+Rolle
+Webentwickler
+Einsatzort
+Remote
+Projektinhalte
+Realisierung einer Progressive Web App mit Push Notifications mit Anbindung an die Google Cloud Platform Firebase.
+Kenntnisse
+ServiceWorker Asynchronous JavaScript and XML PHP Joomla Firebase Google Cloud
+07/2017 - 07/2018
+
+1 Jahr 1 Monat
+
+Entwicklung Einkaufstool
+
+Rolle
+Web Entwickler Frontend Backend
+Kunde
+Körner Druck GmbH
+Einsatzort
+Sindelfingen
+Projektinhalte
+Unterstützung bei der Weiterentwicklung einer webbasierten Softwarelösung an ein angebundenes ERP-System. Entwicklung eines Einkaufstool - Anfrage Tool an Lieferanten Backend PHP Frontend Vanilla Javascript
+Kenntnisse
+Javascript PHP CSS SQL Oracle/SQL
+07/2017 - 05/2018
+
+11 Monate
+
+E-Learning Platform
+
+Branchen
+Druck / Medien
+Kompetenzen
+Programmiersprachen
+Asynchronous JavaScript and XML
+CSS
+Javascript
+Oracle/SQL
+PHP
+Datenbanken
+SQL
+Aufgabenbereiche
+Firebase
+Google Cloud
+Sprachkenntnisse
+ServiceWorker
+Symony
+Twig
+Produkte / Standards / Erfahrungen
+Joomla
+Symfony

@@ -1,0 +1,19 @@
+Testautomatisierer Microfocus UFT (M/W/D) 
+Unbefristete Festanstellung
+Vollzeit
+Deine Aufgaben
+Aufbau, Weiterentwicklung und Dokumentation automatisierter Testframeworks
+Ausführung und Optimierung automatisierter Testfälle
+Parametrisierung von Skripten und Integration von Prüfungen (Checkpoints)
+Import und Export von Testdaten aus  internen/externen Datenquellen
+Erstellung und Erweiterung von Funktionsbibliotheken 
+Automatisierung von Schnittstellentests
+Erweiterung der Objekt-Repositorys zur Objekterkennung
+Deine Qualifikationen
+Erfolgreich abgeschlossenes Studium der (Wirtschafts-) Informatik oder eine vergleichbare Ausbildung im IT-Umfeld
+Praktische Erfahrung im Bereich Softwaretest und IT-Qualitätssicherung mit Microfocus ALM und UFT
+ISTQB- Foundation Tester Zertifizierung
+Gute Programmierkenntnisse in VBA
+Praktische Erfahrungen mit der Deskriptive Programmierung 
+Erfahrung mit Schnittstellen und Datenbanken (REST, SOAP, SQL, etc.)
+Gute Deutsch- und Englischkenntnisse in Wort und Schrift

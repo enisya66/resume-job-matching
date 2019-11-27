@@ -1,0 +1,225 @@
+
+TOP Personal Dienstleister 2015 (Focus)
+BMEnet Gütesiegel für eSourcing / IT-Dienstleister
+im Bereich Arbeitnehmerüberlassung / Personalvermittlung
+TÜV Rheinland Zertifiziert Management System ISO 9001:2008 ISO 14001:2004
+IZS Siegel Geprüfte SV-Zahlungen
+Weitere Profile einblenden | Erweiterte Suche
+Fachlicher Schwerpunkt dieses Freiberuflers
+JavaScript, Typescript, Angular 2, Redux, StencilJS, Loopback, CSS, SCSS, Bootstrap, node.js
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+16.10.2019
+verfügbar zu
+100 %
+davon vor Ort
+40 %
+PLZ-Gebiet, Land
+Einsatzort unbestimmt
+Städte
+Berlin
+200 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Meine Verfügbarkeit vor Ort ist im Augenblick aus familiären Gründen etwas eingeschränkt. Das wird sich aber mittelfristig ändern und eine schrittweise Erhöhung der Präsenz vor Ort ist möglich.  Bis 100% Verfügbarkeit problemlos möglich, jedoch nur mit einem hohen remote/home-office Anteil.
+Projekte
+10/2018 - 10/2019
+
+1 Jahr 1 Monat
+
+E-Goverment / Education Platform
+
+Rolle
+Frontend Lead
+Kunde
+IBM
+Einsatzort
+Berlin
+Projektinhalte
+As the lead developer of a Frontend Team at IBM I was responsible for designing the system architecture, setting up the boilerplate Angular/Redux System and implementing Angular features. Additionally this project included a StencilJS based UI library with a storybook documentation. Another important part was a JSON Schema based form generator
+Kenntnisse
+Angular Redux Typescript StencilJS JSON-Schema
+11/2017 - 11/2018
+
+1 Jahr 1 Monat
+
+Video Content Managment System
+
+Rolle
+Team Lead Frontend
+Kunde
+Funke Medeien
+Einsatzort
+Berlin / remote
+Projektinhalte
+Architecture.  Greenfield architecture of app eco-system. Frontend Team Lead/architect. Development.  Angular CLI, StencilJS, node.js, JSX, Loopback, GraphQL
+Kenntnisse
+Angular CLI StencilJS JSX Loopback Node.js
+06/2017 - 10/2017
+
+5 Monate
+
+VW Nutzf. Fleet Management
+
+04/2017 - 05/2017
+
+2 Monate
+
+Mobile Billing Project
+
+01/2016 - 03/2017
+
+1 Jahr 3 Monate
+
+Service Planet - Service Management Database
+
+07/2015 - 12/2015
+
+6 Monate
+
+SEO-Suite / Analytics Software
+
+06/2015 - 12/2015
+
+7 Monate
+
+Siemens "Kaffeewelt" Kampagnen-Seite
+
+03/2015 - 07/2015
+
+5 Monate
+
+Hausgeräte & Friends
+
+02/2015 - 04/2015
+
+3 Monate
+
+Auto-Auktions-Portal
+
+01/2015 - 03/2015
+
+3 Monate
+
+MAN-TCO Rechner (Hybrid Applikation iPad - Webapp)
+
+03/2014 - 06/2014
+
+4 Monate
+
+Bild.de Videoportal
+
+03/2014 - 05/2014
+
+3 Monate
+
+Sharepoint 2013 / AngularJS
+
+02/2014 - 03/2014
+
+2 Monate
+
+Audi Quattro Microsite
+
+02/2012 - 03/2013
+
+1 Jahr 2 Monate
+
+DHL "myways" mobile app
+
+06/2011 - 02/2012
+
+9 Monate
+
+BASF Corporate mobile site
+
+01/2011 - 08/2011
+
+8 Monate
+
+BASF Smart4Vision MicroSite
+
+05/2010 - 12/2010
+
+8 Monate
+
+Deutsche Digitale Bibliothek
+
+05/2009 - 06/2009
+
+2 Monate
+
+PIACC Study - User Interface
+
+02/2008 - 05/2009
+
+1 Jahr 4 Monate
+
+ICW AG "LifeSensor" health web application
+
+02/2007 - 02/2008
+
+1 Jahr 1 Monat
+
+UI/UX-Design, T-Online Intranet
+
+Kompetenzen
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+gut
+Rumänisch
+Grundkenntnisse
+Spanisch
+Grundkenntnisse
+Programmiersprachen
+ActionScript
+JavaScript
+TypeScript
+Produkte / Standards / Erfahrungen
+Adobe Illustrator
+Adobe Photoshop
+Angular
+Angular 2
+Angular CLI
+Aptana IDE
+Bootstrap
+Cordova
+CSS
+Gulp
+HTML
+Ionic
+Jasmine
+JSX
+Layout-Design
+Loopback
+Meteor.js
+Mocha
+Node.js
+Parallax
+PhoneGap
+React.js
+Scrum
+SCSS
+Sharepoint 2013
+Skrollr
+StencilJS
+UI-Design
+Visual Design
+Schwerpunkte
+Angular 2/4
+JSON-Schema
+Mobile Optimization
+Redux
+Aus- und Weiterbildung
+01/2000 - 08/2006
+
+6 Jahre 8 Monate
+
+Grafik
+

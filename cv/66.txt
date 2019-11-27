@@ -1,0 +1,90 @@
+SAP R/3 Basisberater1
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+02.12.2019
+verfügbar zu
+100 %
+davon vor Ort
+80 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9ÖsterreichSchweizEinsatzort unbestimmt
+Kommentar
+Deutschland: Bevorzugt D4 D5Weitere Länder: Australienerfahrung, befristeter Einsatz denkbar.
+Position
+Projekthistorie
+Seit 03/2014   NRW.BANK                           SAP-Basis-Administration (Oracle/Solaris, ERP, BI, BA, SolMan); homogene                           Systemkopien, Unicode-Migrationen, Upgrade auf Solution-Manager 7.2, Upgrade                           auf Oracle 12, Betrieb                           Betrieb von SAP-HANA-Systemen, Oracle-Reorganisation, Oracle DB-Vault                           HANA-Systemkopie 10/2013 - 03/2014  TDS, Würzburg/Neckarsulm                                          Heterogene Migrationen (Oracle/Windows --> Oracle/UNIX) 08/2010 - 08/2013  Vodafone, Ratingen Betrieb von SAP-Systemen, Systemkopien, Upgrades Unicode-Migration mit parallelem Ex-/Import Landschaft: Oracle auf Solaris, NetWeaver-Systeme (ABAP und Doublestack) EHP6 einspielen, SAP-Upgrade 4.7 -> NetWeaver Oracle-Upgrade auf 11g   11/2009 - 09/2013   Postbank Systems SAP Upgrade auf NetWeaver 7.10 (DB2 auf z/OS)
+Aufbau einer Systemlandschaft Netweaver 7.01 (Oracle 11 auf AIX), Einspielen eines EHP4, Systemkopien (online)   
+12/2007 - 04/2010    Vodafone
+ Systeminstallationen NetWeaver, Einspielen SP-Stacks,  Systemadministration
+Branchen
+Regierungsbehörde
+Flughafenverwaltung
+Chemische Industrie
+Stadtverwaltung
+Krankenhaus
+Montanindustrie
+Automobilhersteller
+Bank
+Mobilfunk
+Kompetenzen
+Programmiersprachen
+ABAP4
+nicht Haupteinsatzgebiet
+Basic
+C
+C++
+Cobol
+Fortran
+Pascal
+Shell
+Betriebssysteme
+HPUX
+SUN OS, Solaris
+Unix
+Windows
+Datenbanken
+Adabas
+6.*
+DB2
+2.*, UDB
+HANA
+Informix
+7.*
+Oracle
+6.* bis 11g
+Sprachkenntnisse
+Deutsch
+Englisch
+fließend
+Französisch
+Grundkenntnisse
+Spanisch
+Grundkenntnisse
+Datenkommunikation
+CPIC
+Ethernet
+Internet, Intranet
+ISO/OSI
+LAN, LAN Manager
+PC-Anywhere
+RFC
+TCP/IP
+Token Ring
+Windows Netzwerk
+Produkte / Standards / Erfahrungen
+SAP R/3 (Basis)
+APO, BW (basisseitig)
+Ausbildungshistorie
+1983 Abitur
+1984 Wehrdienst
+1985 Grundstudium Physik/Astronomie (Ruhr-Uni Bochum)
+1987 Auslandsaufenthalt an der University of Sussex (1 Jahr)
+1988 Hauptstudium Physik/Astronomie (Bochum)
+1990 Diplomarbeit, Diplomprüfungen, freier Mitarbeiter am Planetarium Bochum
+1993 Studienabschluß, Weiterbildung zum DV-Spezialisten am InBIT in Paderborn
+1995 Mitarbeit im SAP EarlyWatch Service, Zertifizierung
+1997 Basisberater in Australien, Mitarbeit im SAP Support in Sydney
+1998 zertifizierter SAP R/3 Basisberater (CTC)
+2001 zertifizierter Berater für SAP R/3 OS/DB-Migrationen

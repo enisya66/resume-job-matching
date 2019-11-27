@@ -1,0 +1,157 @@
+VMware- & Unix/Linux-Spezialist
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+10.12.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Deutschland: Wiesbaden und Umgebung bevorzugt
+Position
+Projekthistorie
+Zeitraum:        11/2017 -       
+Firma:             Bank
+Projekt:           Unterstützung beim Aufbau einer SAS-Grid-Umgebung, Performance-Tuning, Monitoring, Überführung in die Produktion Zielstellung: - Aufbau einer neuen SAS-Grid-Umgebung / Migration des bestehenden traditionellen Umfeldes in eine SAS-Grid-Umgebung - O/S Optimierung, Gewährleistung resilient Operations Software: - RedHat Enterprise Linux, CentOS, Resilient Storage, Satellite, VMware, iSCSI, Pacemaker, CMAN, DLM, ActiveMQ, SAS, SAS Grid Manager, SAS DMA, SAS Business Analytics, FDW, psql, ansible, …   Zeitraum:        2016 - 10/2017
+Firma:             KMU
+Projekt:           Prototyping spezialisierte Kundensysteme Zielstellung: - Neuentwicklung Linux-basiertes Kundensystem mit extrem erhöhten Anforderungen an die Zuverlässigkeit und an die Wartbarkeit - Unterstützung Hardware-Entwicklung Software: - Ubuntu, RedHat, CentOS, SuSE, VMware, KVM, bash, Perl Scripts   Zeitraum:        2016 - 11/2017
+Firma:             KMU
+Projekt:           Unterstützung Systementwicklung für Spezialmaschinenbau Zielstellung: - Machbarkeitsanalyse, Prototyping, Begleitung der Umsetzung in die Produktion Software: - Ubuntu, Raspbian, OpenELEC, bash scripting   Zeitraum:        2016 - 11/2017
+Firma:             KMU
+Projekt:           Unterstützung Anwendungsentwicklung unter Linux Zielstellung: - Migration Windows Eigenentwicklungen in eine Linuxumgebung Software: - RedHat, CentOS, Ubuntu, Raspbian, Free Pascal, fft, FFTW, GPU_FFT   Zeitraum:        2016 - 11/2017
+Firma:             KMU
+Projekt:           Unterstützung Linux Kernel Treiber Anpassungen Zielstellung: - Migration bestehender Spezialsteuerungssoftware in eine Linuxumgebung Software: - Ubuntu, RedHat, gcc, bash   Zeitraum:        2016 - 11/2017
+Firma:             KMU
+Projekt:           WebPC for Backpackers Zielstellung: - Proof of Concept, Prototyp und Evaluation WebPC für Gäste Software: - Ubuntu, bash, squashfs  
+Zeitraum:        2009 - 2015
+Firma:             E-Trading
+Projekt:           Unterstützung Anwendungsentwicklung / Produktion Zielstellung:
+- Sicherstellung Hochverfügbarkeit Produktions- und Entwicklungsumgebung, Aufbau neuer Systemlandschaften
+Software:
+- VMS, RedHat Enterprise Linux, CentOS, Satellite, Xen, KVM, VMware, RHEV, RHCS, Veritas Cluster, VCS, VxVM, MySQL, ActiveMQ, JBoss AM-Q, psql, jboss, icinga, check_mk, ...
+Branchen
+IT-Dienstleistung
+Softwarehersteller
+Hardwarehersteller
+Kompetenzen
+Programmiersprachen
+Assembler
+Basic
+C
+C++
+DCL
+Delphi
+Imake, GNU-Make, Make-Maker etc...
+Java
+JavaScript
+Pascal
+Perl
+PL/SQL
+Python
+Scriptsprachen
+Shell
+Betriebssysteme
+CP/M
+HPUX
+IRIX
+Mac OS
+MS-DOS
+Novell
+OSF/Motif
+PalmOS
+SUN OS, Solaris
+Unix
+VMS
+Windows
+3.x, 95, NT, XP, 2003, ...
+Datenbanken
+MS SQL Server
+MySQL
+ODBC
+Oracle
+SQL
+Sprachkenntnisse
+Deutsch
+Englisch
+Französisch
+Basics
+Russisch
+Basics
+Hardware
+Alpha
+Ascii/X - Terminals
+Digital
+embedded Systeme
+HP
+Macintosh
+PC
+PDP
+Silicon-Graphics
+SUN
+VAX
+Datenkommunikation
+CORBA
+Ethernet
+FDDI
+Internet, Intranet
+ISDN
+ISO/OSI
+LAN, LAN Manager
+Message Queuing
+NetBios
+Novell
+Router
+RS232
+SMTP
+SNMP
+TCP/IP
+Windows Netzwerk
+Produkte / Standards / Erfahrungen
+Produkte:
+VMware: ESX, VI3, VCB, GSX, Server, Workstation, VDI, View, vSphere
+Unix: True64, HP-UX, AIX, Solaris, Irix
+Linux: RedHat, RHEL, Ubuntu, SuSE, SLES, Debian, CentOS, Fedora, OpenSuSE,
+Gentoo, ...
+
+Erfahrungen:
+Integration, Administration, technische Unterstützung, Support, analytische
+Fehlersuche (analytic troubleshooting)
+Automatisierung von Prozessen
+Kundenspezifisches Skripting
+EMC SAN und NAS
+ITIL Kenntnisse
+
+Spezialkenntnisse:
+Linux Live-Media Internals
+
+Erweiterte Grundkenntnisse:
+Veritas Netbackup
+Citrix, Xenapp
+Xen, Qemu, KVM, OpenVZ, Linux-VServer
+
+Ausbildungshistorie
+1986-1989 Studium Industrielle Elektronik / Informationsverarbeitung / Informatik
+- Diplom/Abschluss als Dipl.-Ing. (FH) für industrielle Elektronik
+
+Schulungen und Zertifikate:
+- VMS complex clusters, DigitalUnix, True64, ASE
+- Oracle, SQL
+- Legato Networker
+- Solaris Performance
+- RedHat Linux
+- Perl
+- Windows NT/2000, MS Cluster, Windows 2003
+- Veritas Volume Manager, Filesystem, Cluster Server, Storage Foundation
+- EMC SAN/NAS, Clariion, Celerra
+- StorAge SVM (Storage Virtualisierung)
+- Brocade SAN Designer
+- Veritas Certified Professional / High Availability Specialist for Unix
+- RHCE (Red Hat Certified Engineer)
+- VCP (VMware Certified Professional)

@@ -1,0 +1,196 @@
+Technischer Projektleiter SAP R/3, SAP HANA und Siteminder Systeme
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+02.12.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D7
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Position
+Kommentar
+Technischer Projektleiter, Senior Projektleiter
+Projekte
+01/2008 - Heute
+
+11 Jahre 10 Monate
+
+Projektleitung und Verantwortung
+
+Kunde
+Automotive
+Projektinhalte
+Technische Projektleitung und Verantwortung von verschiedenen SAP Landschaften (BI, Compliance Platform, SPM, Vertrieb, Aftersales,Testlabor)
+Service Level Agreement Management
+Unicode Migrationen
+Erstellung und Umsetzung von Cluster Konzepten mit IBM HACMP und SAP ERS (Enqueue Replication Service)
+Einführung SSO Integration mit CA Siteminder, Kerberos, X.509 Zertifikat, OIDC und SAML2 für SAP R/3 Systeme
+Technische Projektleitung bei einem SAP HANA (BW Scale Out) PoC
+Planung und Projektmanagement zum SAP Basisbetrieb
+Konzeption und Einführung von BusinessObject
+Erstellen von Betriebskonzepten (SSO mit SAP Web Dispatcher, SAP HANA, SAP Data Provisioning Agent)
+Projektleitung bei Hardware Relaunches auf IBM Power Systeme und VMWare Linux
+SAP BW Migration auf SAP HANA und BW/4HANA
+SAP ERP Migrationen von Oracle nach SAP HANA und S/4HANA
+RZ Umzug Vorort in New Jersey (USA)
+02/2007 - 12/2007
+
+11 Monate
+
+SAP Basisadministration und SAP Basisberatung
+
+Kunde
+Automotive
+Projektinhalte
+SAP Systembetrieb für einen großen Automobilhersteller
+SAP Basisadministration und SAP Basisberatung
+Durchführung von homogenen und heterogenen Systemkopien
+Planung und Einführung von SAP BI Acceleratoren
+SAP TREX und SAP Precalculation Administration
+Hardware Migrationen von SUN nach IBM
+Installation und Upgrade von DB2 Datenbanken
+09/2005 - 02/2007
+
+1 Jahr 6 Monate
+
+SAP Basisadministration und SAP Basisberatung
+
+01/2001 - 08/2005
+
+4 Jahre 8 Monate
+
+SAP Basisadministration und SAP Basisberatung
+
+Branchen
+IT-Systemhaus
+Automobilhersteller
+Automobilzulieferer
+Banken
+Papierindustrie und Großhandel
+Baustoffhersteller
+Einzelhandel
+Kompetenzen
+Sprachkenntnisse
+Englisch
+gut in Wort und Schrift
+Produkte / Standards / Erfahrungen
+Schwerpunkt
+Basisadministration verschiedenster SAP R/3 Systeme
+Technische Projektleitung bei SAP R/3 Projekten, Migrationen, RZ Umzügen
+Projektmanagement und Koordination von SAP Projekten CRM, BW, ERP, SRM, SPM, PI/PO und Solution Manager
+SAP Architektur Planung, Umsetzung, Betrieb, Leitung PoC’s für SAP BW / BI, BI Accelerator, TREX, BusinessObjects, SAP HANA, S/4HANA, BW/4HANA
+SAP R/3 Systemüberwachung mit Xandria, Solution Manager und Hauseigenen Tools wie SAT und ProSysMon
+SSO mit CA Siteminder, Kerberos, X.509, OIDC, SAML2
+SAP Security und Hardening
+Homogene Systemkopien & Heterogene SAP Migrationen
+SAP Release Upgrade Erfahrung von R/3 3.0F bis NW 7.53
+Rechenzentrumsumzüge
+Datenbankadministration Oracle, DB2, SAP HANA, MSSQL
+Betriebssystemadministration AIX, SUN Solaris, HPUX, SLES4SAP, Windows Server, VMWare
+LAMP Systemadministration
+ Kernqualifikationen
+SAP R/3
+SAP BusinessObjects
+SAP HANA
+SSO CA Siteminder, Kerberos, X.509, SAML2
+Datenbank Oracle
+Betriebssystem AIX, Linux
+Softwareentwicklung im Bereich PL-SQL für Monitoring
+Datenbank DB2
+  SAP
+SAP R/3 3.0F - NetWeaver 7.53
+BusinessObjects 3.0 – 4.1
+SAP HR, APO, BW 1.2 – 4.0, BI 7.0 – 7.50
+SAP BI Accelerator, TREX
+SAP Precalculation Service
+SAP Webdispatcher
+SAP Solution Manager
+SAP HANA
+ Sonstiges
+BMC Remedy (CISM)
+ServiceNow (ITSM)
+Syslink Xandria, ProSysMon Monitoring
+Microsoft Office Anwendungen wie Outlook, Sharepoint , Word, Excel, Powerpoint, Visio und Project
+Lotus Notes
+  Zusätzliche Fähigkeiten
+Selbständige, strukturierte Arbeitsweise
+Erfahrung bei der Führung von Begegnungen und Präsentation
+Schulung von Mitarbeitern in Deutsch und Englisch
+Erfahrung in der Führung von Mitarbeitern und kleinen Teams
+Projektmanagement und Koordination von SAP Projekten
+Betriebs- und Systemverantwortung von SAP Landschaften
+Datenbanken
+DB2
+V7 – V10
+MySQL
+Oracle
+7 – 12c
+SAP HANA
+1.0- 2.0, S/4HANA, BW/4HANA
+Betriebssysteme
+AIX
+HPUX
+SUN Solaris
+Suse Linux
+Windows
+NT bis Server 2016
+Programmiersprachen
+C
+Cobol
+HTML
+Java
+Perl
+PHP
+PL/SQL
+Shell Skripte
+Smalltalk
+SQL
+Visual Basic
+Visual C++
+Ausbildungshistorie
+Staatlich geprüfter Wirtschaftsinformatiker
+Certified Technical Consultant mySAP.com Technology  1997 SAP
+Basis Technology
+Technical Core Competence UNIX/Oracle 4.0
+ Oracle
+Professioneller Einstieg in SQL für SAP R/3
+Datenbankverwaltung von Oracle für SAP R/3
+ IBM
+AIX Systemadministration
+  1998 SAP
+Software Logistics Rel. 4.0
+Workload Analyse Rel. 4.0
+ IBM
+AIX TCP/IP Connectivity
+Unix / AIX für Fortgeschrittene
+ Rasterpunkt
+PSF für AIX
+ 1999 Oracle
+Oracle für SAP R/3
+  2000 SAP
+Advanced R/3 System Administration Rel. 4.0
+ABAP Workbench
+ IBM
+AIX Systemadministration II
+AIX Internals
+ IHK
+Windows 2000 Professional
+  2001 SAP
+Database Administration Oracle
+ IBM
+AIX RS/6000 – Performance Analyse und Tuning
+  2002 Oracle
+Oracle Performance Tuning
+2004 SAP
+Delta Implementation & Operation SAP R/3 4.6B – SAP Web AS 6.20
+  2012 SAP
+SAP HANA – Introduction
+SAP HANA – Installation and Administration
+ 2015 LAL London
+Standard General English – Intermediate Level B1

@@ -1,0 +1,150 @@
+
+Unix- und Linux-Administration: HP-UX, Debian, Ubuntu und SLES; Ansible; Scripting: Korn Shell, Bash, Python; Docker; Open Source in general
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+11.11.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9ÖsterreichSchweizEinsatzort unbestimmt
+Projekthistorie
+seit 11.2014 Daimler AG, Fellbach Projekt:            Systemadministration mit Ansible, Bereitstellung von Fahrzeug-Daten
+Aufgaben       
+Erstellung und Optimierung produktionsrelevanter Skripte (File Processing)
+Orchestrierung der HPUX- und Debian-Systemadministration mit Ansible
+DV-Umfeld Server: Itanium, X86 (Proliant)
+Cluster: ServiceGuard, Pacemaker (Corosync), VMWare;
+Betriebssysteme: HP-UX 11.31, SLES[10,11,12], LEAP, Debian, Devuan;
+Storage: HP EVA, EMC;
+Scripting: Shell, Python
+Monitoring: Nagios/Check_mk;
+Reporting: syslog-ng, Splunk;
+Datenbanken: MySQL, Transbase
+08.2010 - 05.2014
+Daimler AG, Stuttgart-Möhringen Projekt:            Projektarbeit, Third-Level-Support, Systemadministration
+Aufgaben:        
+Erstellung von Konzepten im Bereich HPUX/SAP (HA);
+Evaluierung neuer Technologien;
+Planung und Durchführung von Systemmigrationen mittels Ignite;
+Bereitstellung von Hochverfügbarkeitslösungen;
+Bereitstellung von Partitionierungen (nPars, vPars, SRP) und Virtualisierungen (IVM);
+Erstellung von Skript-Frameworks, Scripting;
+Hardwaremigration
+DV-Umfeld:       Itanium- und PA-RISC-Server: Superdome, rx[8,7]*, Blades;
+x86-Server: Proliant;
+Cluster: ServiceGuard, Heartbeat;
+Betriebssysteme: HP-UX 11i (11.11, 11.23 und 11.31), AIX (6.1, 7.1), SLES[10,11];
+Storage: IBM, EMC, NetApp;
+Backup: TSM;
+Monitoring: Nagios, Ganglia
+Branchen
+Automotive, Entwicklung
+Automotive, Betrieb
+Behörden, Behördenumfeld
+Energie
+Telekommunikation
+IT-Business, IT-Industrie
+Bank, Finanzdienstleister
+Forschung, Universität
+Kompetenzen
+Programmiersprachen
+Emacs
+Lisp
+Lisp
+Perl
+PL/SQL
+Python
+(noch)nicht Version 3.*
+Shell
+insbesondere ksh und bash; awk, sed, regexp etc.
+TeX, LaTeX
+PostScript
+HTML, XML
+Scriptsprachen
+Betriebssysteme
+HPUX
+bis 11.31 ( 11iV3 ) mit Virtualisierungen
+SUN OS, Solaris
+Unix
+Linux (Debian, SLES/SuSE), FreeBSD, Tru64
+Windows
+Cisco: IOS
+Datenbanken
+MySQL
+Oracle
+Implementierung, Upgrade, Recovery
+Postgres
+Transaction Transbase
+Sprachkenntnisse
+Englisch
+sehr gut
+Französisch
+gut
+Italienisch
+befriedigend
+Datenkommunikation
+ATM
+Ethernet
+FDDI
+Internet, Intranet
+ISDN
+ISO/OSI
+LAN, LAN Manager
+Router
+SMTP
+SNMP
+TCP/IP
+Token Ring
+BGP/MPLS
+Hardware
+Alpha
+HP
+Integrity (IA64/Itanium) und PA-RISC: alle Klassen, Superdomes, Blades
+SUN
+Ultra, Enterprise, SunFire
+HP/Compaq: Proliant, i86
+Brocade: Switche
+Cisco: Catalysts, Router
+SAN: EMC Symmetrix, HP XP, HP EVA, IBM v7000
+Virtual Connect
+Produkte / Standards / Erfahrungen
+Server-Hardware              HP PA-RISC und Itanium: alle Klassen, Superdomes, Blades, HP i86: Proliants, Blades  Netzwerk-Hardware         Brocade-Switches, Cisco Catalysts und Router  Storage                              EMC: Symmetrix, HP: EVA, 3Par  Betriebssysteme            HP-UX, AIX, Debian, Devuan, SLES, LEAP  Virtualisierung                  VMWare, IVM, XEN, KVM  Partitionierung                 nPars, vPars, SRPs (Container)  Web Apache, Tomcat  Datenbanken                     Oracle, Postgres, Transbase, MySQL  Skriptsprachen                  Korn Shell, Bash, Python  Orchestrierung                   cfengine, Ansible  Kommunikation                 TCP/IP, DNS(BIND), NFS, DHCP, IPv6, CIFS/Samba, SNMP  Monitoring                       HP OpenView, Nagios/Icinga 
+Backup                               Omniback/Dataprotector, TSM, Networker
+Aufgabenbereiche
+Systembetrieb
+Configuration Management
+Projektarbeit 
+Migrationen
+Bemerkungen
+Jira /Confluence
+Ausbildungshistorie
+1985
+Berufsausbildung zum Papiermacher, Gesellenprüfung  
+ 
+1989
+Abendgymnasium in Pforzheim, Abitur
+Studium der Romanistik und Philosophie mit Schwerpunkt formale Sprachen in Tübingen, Nancy und Heidelberg
+ 
+2005, 2009
+ITIL-Schulungen
+ 
+2009
+Kurs: HP Service Manager
+ 
+2004, 2009
+BMC-Remedy-Schulung
+ 
+1999, 2000
+Cisco-Schulungen 
+ 
+EDV-Schulungen
+Client-Server-Architekturen,
+Unix
+TCP/IP-Routing
+WAN, LAN
+Linux User Group
+Uni Heidelberg

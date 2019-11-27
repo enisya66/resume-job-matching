@@ -7,5 +7,4 @@ ab sofort
 Einsatzort
 Süddeutschland
 Beschreibung
-Projektbeschreibung Anwendungsentwickler (w/m/d) Tätigkeit Für einen Versicherungskunden in Stuttgart suchen wir für unser bestehendes Entwicklerteam einen erfahrenen Entwickler (m/w/d) mit Cloud-Architektur-Kenntnissen. Zu Ihren Aufgaben gehören die Analyse und das Design von Digitalisierungsvorgaben aus dem Fachbereich, Schulung und Training von internen Junioren, Entwicklung im Backend-Bereich mit TypesSript und funktionale Programmierung in Angular. Erforderliche Kenntnisse: Angular 6, TypeScript, [...]
-Textauszug. Die vollständige Projektbeschreibung finden Sie beim Projektanbieter.
+Projektbeschreibung Anwendungsentwickler (w/m/d) Tätigkeit Für einen Versicherungskunden in Stuttgart suchen wir für unser bestehendes Entwicklerteam einen erfahrenen Entwickler (m/w/d) mit Cloud-Architektur-Kenntnissen. Zu Ihren Aufgaben gehören die Analyse und das Design von Digitalisierungsvorgaben aus dem Fachbereich, Schulung und Training von internen Junioren, Entwicklung im Backend-Bereich mit TypesSript und funktionale Programmierung in Angular. Erforderliche Kenntnisse: Angular 6, TypeScript

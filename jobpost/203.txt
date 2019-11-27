@@ -1,0 +1,16 @@
+Senior Backend Entwickler (M/W/D) 
+Unbefristete Festanstellung
+Vollzeit
+Ihre Aufgaben
+Konzeption, Entwicklung und Umsetzung von komplexen Softwareprodukten und –architekturen
+Weiterentwicklung von dynamischen Schnittstellen und datenbankbasierten Anwendungen 
+Unterstützung und Leitung unserer Teams in abwechslungsreichen und agilen Projekten - nach SCRUM und Pair Programming 
+Analyse von Kundenanforderungen und Automatisierung von Arbeitsprozessen
+Design, Modellierung und Programmierung von Workflows
+Training, Coaching und Einarbeitung neuer MitarbeiterInnen
+Ihre Qualifikationen
+Mehrjährige praktische Erfahrung als Softwareentwickler (M/W/D) mit objektorientierten Sprachen wie  Java, C#, Python und entsprechenden Frameworks
+Sehr gutes Verständnis von Continuous Integration Tools wie Bitbucket, Git oder Jenkins
+Kenntnisse in gängigen Methoden, Datenbanken, Frameworks, Tools und Patterns
+Teamorientierte und vom hohen Qualitätsbewusstsein geprägte Arbeitsweise 
+Gute Deutsch- und Englischkenntnisse in Wort und Schrift

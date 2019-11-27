@@ -1,0 +1,16 @@
+Linux System Administrator (M/W/D) 
+Unbefristete Festanstellung
+Vollzeit
+Deine Aufgaben
+Installation, Konfiguration und Wartung von Linux-Serversystemen 
+Entwicklung von Skripten in geeigneten Skriptsprachen wie Perl, Shell, Python oder Ähnlichen
+Integration von DevOps-orientierten Tools (Git, Puppet, Docker, Kubernetes, Terraform, etc.) 
+Migration klassischer Infrastrukturen in Hybrid- und Public Cloud Umgebungen 
+Unterstützung bei Konzeption, Implementierung, Konfigurationsmanagement und Deployment
+Deine Qualifikationen
+Erfolgreich abgeschlossenes Studium der (Wirtschafts-) Informatik oder eine vergleichbare Ausbildung im IT-Umfeld
+Gute Kenntnisse im Bereich Betriebssysteme und Servervirtualisierung
+Kenntnisse in der Systemprogrammierung (Shell oder vergleichbare Skriptsprachen)
+Grundkenntnisse im Netzwerkbereich (DNS, DHCP, Routing, Dienste)
+Erfahrung  in Erweiterung und Optimierung von Continuous Integration und Deployment Pipelines
+Gute Deutsch- und Englischkenntnisse in Wort und Schrift

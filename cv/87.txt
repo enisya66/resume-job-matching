@@ -1,0 +1,118 @@
+DevOps & Cloud Engineer / Kubernetes / Jenkins / Docker / Ansible / GCP / Automatisation / Virtualisation
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.12.2019
+verfügbar zu
+60 %
+davon vor Ort
+20 %
+PLZ-Gebiet, Land
+D9D7D8D0
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+09/2019 - 11/2019
+
+3 Monate
+
+Aufbau API-Management/Gateway & User Authentifizierung, Optimierung der Azure Pipelines und Schulung der Mitarbeiter
+
+Rolle
+DevOps Support
+Kunde
+up2parts GmbH
+Einsatzort
+Weiden in der Oberpfalz
+Projektinhalte
+Die Unterstützung erfolgte bei DevOps Aufgaben in Azure Cloud & Azure DevOps:
+- Erstellung/Optimierung der Azure Dev Pipelines (Build/Release)
+- Einführung und Aufbau eines API-Gateways (Kong)
+- Einführung eines User Authentifizierungs Tools (Okta)
+- Erstellung von self-hosted Datenbank Systemen (MongoDB, PostgreSQL) in Docker Containern - Schulung Mitarbeiter in DevOps Kenntnisse und Arbeit mit Azure Cloud
+Kenntnisse
+Docker Schulung IT-Security WAFIT-Architektur
+Produkte
+Microsoft Azure Azure DevOps Kong Okta MongoDB PostgreSQL
+02/2019 - 05/2019
+
+4 Monate
+
+Setup Systemmanagement & Backup Tool
+
+Rolle
+DevOps Support
+Einsatzort
+München
+Projektinhalte
+Aufbau eines Systemmanagement Tools (Foreman) und eines Backup Tools (Bareos) um die Server eines neuen Rechenzentrums von Grund auf neu aufzubauen und nach der Installation zu sichern (VM recovery). 
+
+Das Rechenzentrum wurde über VMware vSphere gemanagt und die Installation erfolgte auf CentOS.
+
+
+Kenntnisse
+Systemmanagement Datensicherung Systeminstallation
+Produkte
+VMware vSphere Bareos Foreman CentOS
+Projekthistorie
+02/2019 - X : Freelancer
+
+ Rolle: DevOps / Cloud Engineer  Offen für neue Projekte ab 01.12.2019
+
+Aufgabengebiete:
+- Cloud Lösungen
+- Infrastruktur Migration
+- automatischem Infrastrukturaufbau
+- CI/CD Lösungen
+- sonstiges in Bereich DevOps
+Kompetenzen
+Produkte / Standards / Erfahrungen
+Ansible
+Atlassian Confluence
+Atlassian JIRA
+AWS
+Azure DevOps
+Datensicherung
+Docker
+G SUITE
+Google Cloud
+IT-Architektur
+IT-Security
+Jenkins
+Kubernetes
+Microsoft Azure
+Schulung
+Systeminstallation
+Systemmanagement
+VMware vSphere
+WAF
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+sehr gut
+Betriebssysteme
+CentOS
+Linux
+Microsoft Windows
+Ubuntu
+Programmiersprachen
+bash
+Groovy
+Java
+Python
+Datenbanken
+MongoDB
+Server Betrieb & Aufbau
+MySQL
+Server Betrieb & Aufbau
+PostgreSQL
+Server Betrieb & Aufbau
+Aus- und Weiterbildung
+09/2011 - 07/2014
+
+2 Jahre 11 Monate
+
+Fachinformatiker

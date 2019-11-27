@@ -1,0 +1,18 @@
+C# Software Entwickler (M/W/D) 
+Unbefristete Festanstellung
+Vollzeit
+Die Ampada GmbH ist mit mehr als 70 Mitarbeiter/innen ein stetig wachsendes IT-Beratungshaus in den Zentren von Köln und Frankfurt. Über 50 namhafte Kunden werden von uns in den Bereichen Softwareentwicklung, Qualitätssicherung, SAP- und IT-Beratung betreut. Mit neusten Technologien, innovativen Ideen und qualifizierten Teams gewinnen wir seit 10 Jahren deutschlandweit konstant neue Marktanteile dazu. Lassen Sie sich von unserem Ehrgeiz packen.  Mit Ihrer Unterstützung werden wir unseren Erfolgskurs garantiert weiter fortführen!
+Ihre Aufgaben
+Konzeption, Entwicklung und Umsetzung von komplexen Softwareprodukten und –architekturen
+Weiterentwicklung von dynamischen Schnittstellen und datenbankbasierten Anwendungen 
+Unterstützung und Leitung unserer Teams in abwechslungsreichen und agilen Projekten - nach SCRUM und Pair Programming 
+Analyse von Kundenanforderungen und Automatisierung von Arbeitsprozessen
+Design, Modellierung und Programmierung von Workflows
+Training, Coaching und Einarbeitung neuer MitarbeiterInnen
+Ihre Qualifikationen
+Mehrjährige praktische Erfahrungen mit der objektorientierten Sprache C# und einigen der .NET-Plattformen
+Gute Kenntnisse von VBA, C++ oder C
+Idealerweise Erfahrungen mit agilen Methoden und gute Datenbankkenntnisse (Oracle, DB2, SQL oder MongoDB)
+sicherer Umgang mit Produkten von Microsoft (z.B. Visual Studio, Windows Server, Office)
+Teamorientierte und vom hohen Qualitätsbewusstsein geprägte Arbeitsweise 
+Gute Deutsch- und Englischkenntnisse in Wort und Schrift

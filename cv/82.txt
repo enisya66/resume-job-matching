@@ -1,0 +1,128 @@
+Frontend für Webanwendungen in Angular, TypescriptJS, VueJS, CSS, HTML
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+15.10.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9Einsatzort unbestimmt
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+01/2019 - Heute
+
+10 Monate
+
+Verwaltungssoftware für Wohnungseigentümergemeinschaften
+
+Rolle
+Software Entwickler Frontend Angular
+Kunde
+myimmo-office AG
+Einsatzort
+remote
+Projektinhalte
+Mitarbeit an der Entwicklung des Frontends mit Angular 7 / Typescript / Sass / HTML  Mitarbeit am serverless backend mit  AWS Services / Lambda /DynamoDB  Das Projekt umfasst im wesentlichen Dokumentenverwaltung, Finanzführung, Schriftverkehr, Verwaltung der Wohneinheiten, Anfragen entgegennehmen, Aufträge erteilen.
+03/2017 - Heute
+
+2 Jahre 8 Monate
+
+Entwicklung des Web-Frontends für einen Marktplatz
+
+Rolle
+Webentwickler für Frontend
+Projektinhalte
+Entwicklung des Web-Frontends für einen Marktplatz individuell gefertigter Produkte in Angular, ES6, Sass, CSS, HTML.
+Einrichten eines Javaservers ( Jetty ) auf Linux
+Mitarbeit im Backend ( Java )
+06/2018 - 11/2018
+
+6 Monate
+
+Produkt Informations Management System in Angular und Typescript
+
+Rolle
+Frontendentwickler
+Kunde
+masterpim GmbH
+Einsatzort
+Weimar/remote
+Projektinhalte
+- Weiterentwicklung des Frontends für ein PIM ( Product Informations Management) System mit Angular5/6, Typescript und SCSS.  - Entwicklung einer Contentbox mit VueJS. Die Contentbox lässt sich mit einem Codeschnipsel in die Webseite/Shopsysteme des Kunden integrieren um dort seine PIM-Produkte anzeigen zu können
+Kenntnisse
+VueJS Angular SCSS CSS TypeScript JavaScript
+Produkte
+Microsoft Visual Studio JetBrains IntelliJ IDEA Microsoft Azure
+01/2016 - 08/2018
+
+2 Jahre 8 Monate
+
+Webandwending zur Preisorientierung für Direktvermarkter
+
+03/2014 - 11/2015
+
+1 Jahr 9 Monate
+
+Entwicklung von mobile games für iOS und Android
+
+03/2012 - 11/2015
+
+3 Jahre 9 Monate
+
+Online Games und Mobile Games Frontendentwicklung
+
+03/2013 - 11/2014
+
+1 Jahr 9 Monate
+
+Refactorings von veralteten Codestrukturen
+
+03/2012 - 03/2013
+
+1 Jahr 1 Monat
+
+Frontend Entwicklung von komplexen multiplayer games in Actionscript 3
+
+Branchen
+Web
+Games
+Consulting
+Kompetenzen
+Aufgabenbereiche
+Budgetmanagement
+Projektleiter
+Projektmanagement
+Produkte / Standards / Erfahrungen
+CSS
+JetBrains IntelliJ IDEA
+Linux Apache MySQL PHP
+Microsoft Azure
+Microsoft Visual Studio
+Sass
+Kenntnisse und Fähigkeiten
+Javascript, Typescript, ES6, NodeJs, Angular, React, d3js
+Sass, CSS3, HTML, PHP, JAVA
+Subversion, GIT
+MYSQL, MongoDB, Apache, Nginx, Linux
+Jira, Scrums, Agiles Projektmanagement
+Gute Erfahrungen in Teamarbeit aber auch eigenständiger Projektarbeit
+Programmiersprachen
+Angular
+Angular.js
+Javascript
+Laravel
+SCSS
+TypeScript
+VueJS
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+flüssig
+Spanisch
+Grundkenntnisse

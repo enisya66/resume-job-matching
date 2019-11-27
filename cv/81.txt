@@ -1,0 +1,151 @@
+Scrum Master, FullStack, Frontend: AngularJS, Angular, React, Redux, JavaScript
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.10.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5
+Städte
+Hamburg
+150 km
+Frankfurt am Main
+50 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Position
+Kommentar
+Senior Lead Entwickler
+Projekte
+08/2019 - Heute
+
+3 Monate
+
+Entwicklung von einem 3D Portal VR/AR
+
+Rolle
+Senior Software Engineer Frontend
+Kunde
+3D-Digitalisieren AR & VR
+Projektinhalte
+Update eines Anzeigeportals für 3D-Modelle, Prototypenbau in ReactJS mit Schwerpunkt UI/UX, Betatung Frontend für eine Online-Bibliothek von 3D-Modellen und 3D-Scans sowie Usability
+Erstellung von Single-Page-Apps
+UI-Komponenten und –Bibliotheken
+User Interface Entwicklung für Desktop- und mobile Webanwendungen
+Umsetzung in Azure Cloud
+Redux, Frontend Application Architecture, Microfrontends
+Kenntnisse
+ReactJS JavaScript Redux Three JS SASS HTML5/CSS3 Angular Azure Cloud Docker WebStorm REST JSON
+07/2019 - 08/2019
+
+2 Monate
+
+Entwicklung Frontend DSGVO Portal
+
+Rolle
+Senior Software Engineer Frontend
+Kunde
+auf Anfrage
+Projektinhalte
+Analyse/Bestandsaufnahme
+WP-Altsystem, WooCommerce, Einarbeitung/Backup/Migration WP auf neuen Server, Anpassung neues Template, etc.
+Portierung WP-Theme auf HTML/CSS, Redesign, anschließende Vereinfachung und UX-Streamlining
+Anpassung der abgestimmten Änderungen, Konstruktion zusätzlicher Section, etc.
+Kenntnisse
+JavaScript/TypeScript HTML5 CSS3 Angular 6 SASS Webpack JHipster Material Design Bootstrap REST Jenkins Docker WordPress WP
+Branchen
+IT Aviation eCommerce Games Medien Consulting Logistik
+Kompetenzen
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+Französisch
+Latein
+Russisch
+Spanisch
+Schwerpunkte
+Programmkonzeption und Umsetzung nach Anforderungskatalog
+Analyse und Behebung bestehender Bugs
+Fundierte JavaScript Kenntnisse
+4-jährige Berufserfahrung im C#-sowie JavaScript-Bereich
+Kommunikationsfähigkeit mit Partnern und Kunden
+Programmiersprachen
+C#
+CSS
+HTML
+JavaScript
+LESS
+PHP
+SASS
+TypeScript
+Datenbanken
+Doctrine ORM
+MariaDB
+MongoDB
+MySQL
+Betriebssysteme
+Linux
+Ubuntu/Debian
+Mac OS
+Windows
+Produkte / Standards / Erfahrungen
+Methoden/Tools
+Frontend:
+AngularJS
+Angular BEM
+ReactJS
+Bower
+Grunt
+Gulp
+Webpack
+Bootstrap
+Google Material Design
+ZURB's Foundation
+Agile Methoden:
+SCRUM
+Kanban
+Lean
+XP
+Design-Patterns
+Docker
+Domain Driven Design
+Micro Service
+Architecture
+RESTful Webservices
+REST
+S.O.L.I.D.
+Backend:
+Symfony2
+Zend2
+Silex
+Sulu.io
+VM:
+Vagrant (Puppet, Puphpet, Chef, Librarian)
+VBoxOSE
+Docker
+CI/CD & VCS:
+Jenkins
+GoCD
+Ansible
+Ant
+Git
+GitFlow
+Aufgabenbereiche
+FullStack Entwicklung
+Scrum Master und Agile Coach / Agile Methoden, Kanban, Lean, XP
+Design-Patterns, Docker, Domain Driven Design, Service Oriented Architecture, RESTful Webservices, REST, S.O.L.I.D.
+Frontend: AngularJS, Angular, BEM, Vue,js, Bower, Grunt, Gulp, Webpack, Bootstrap, Google Material Design, ZURB's Foundation, jQuery, MooTools
+Backend: Symfony2, Zend2, Silex, Sulu.io, Node.js, Express
+VM: Vagrant (Puppet, Puphpet, Chef, Librarian), VBoxOSE, Docker
+CI/CD & VCS: Jenkins, GoCD, Ansible, Ant, Git, GitFlow
+Cloud AWS Microservices und Backend
+Redux
+Ausbildungshistorie
+Studium University London Abschluss mit Diplom  Zertifizierung
+Scrum Master

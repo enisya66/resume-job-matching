@@ -29,10 +29,3 @@ Folgendes wäre wünschenswert:
 Erfahrungen mit Betriebsaufgaben (Deployment, Monitoring, ...)
 Erfahrungen mit Docker und Kubernetes
 weitere Fremdsprachenkenntnisse
-Wir bieten außerdem
-Anspruchsvolle Projekte im internationalen Umfeld
-Umgang mit neuen Technologien im Umfeld der Biometrie
-Eine interessante, abwechslungsreiche und herausfordernde Tätigkeit in einem hochmotivierten Team
-Flexible Arbeitszeiten
-Eine leistungsgerechte Vergütung
-HVV-ProfiCard, Sodexo-Gutscheine

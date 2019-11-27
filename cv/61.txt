@@ -1,0 +1,220 @@
+Systemadministration, Linux, Debian, RHEL, Hochverfügbarkeit, Konfigurationsmanagement, Virtualisierung, Middleware
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+15.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9
+Städte
+Hamburg
+10 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+02/2019 - Heute
+
+9 Monate
+
+Unterstützung in der Systemadministration
+
+Rolle
+Systemadministrator
+Kunde
+PE Digital GmbH
+Kenntnisse
+f5 big ip JDK Apache Jack Rabbit Redis Apache docker Application Virtualization
+09/2018 - 12/2018
+
+4 Monate
+
+Awstats & Elasticsearch
+
+Rolle
+Systemadministrator
+Kunde
+Helmholtz Zentrum Geesthacht
+Einsatzort
+Geesthacht
+Projektinhalte
+Anbindung von Awstats an Elasticsearch
+Produkte
+awstats elasticsearch
+08/2018 - 11/2018
+
+4 Monate
+
+Shibboleth / DFN-AAI
+
+03/2018 - 06/2018
+
+4 Monate
+
+Wechsel von Glassfish 3 zu Payara 4
+
+08/2017 - 11/2017
+
+4 Monate
+
+Unified Automated Deployment
+
+04/2016 - 07/2017
+
+1 Jahr 4 Monate
+
+Unterstützung Linux-Administration
+
+04/2016 - 08/2016
+
+5 Monate
+
+Appian Upgrade Automatisierung
+
+01/2016 - 03/2016
+
+3 Monate
+
+Unterstützung in Linux-Administration
+
+08/2012 - 04/2015
+
+2 Jahre 9 Monate
+
+Unterstützung bei der Systemadministration im Linux-Umfeld
+
+11/2009 - 07/2012
+
+2 Jahre 9 Monate
+
+Clusterumstellung und Unterstützung im Produktivbetrieb
+
+09/2011 - 10/2011
+
+2 Monate
+
+Dokumentation „Hardening von RHEL 5 und RHEL 6 Systemen“
+
+04/2008 - 11/2009
+
+1 Jahr 8 Monate
+
+Unterstützung bei Outsourcing des Rechenzentrums
+
+09/2009 - 09/2009
+
+1 Monat
+
+Planung und Implementierung WiFi Access Point und Mesh-Netzwerk für Hotels und Kliniken
+
+05/2008 - 05/2009
+
+1 Jahr 1 Monat
+
+Beratung zum Aufbau zweier Heartbeat-Web-Cluster, zweier NDB-Cluster und Master-Master- Replikation letzterer sowie Realisation des Projektes
+
+05/2003 - 07/2007
+
+4 Jahre 3 Monate
+
+Systemadministration
+
+05/2000 - 04/2003
+
+3 Jahre
+
+IT-Consulting
+
+Branchen
+Internetdienstanbieter
+Automotive
+IT-Dienstleister
+Kompetenzen
+Betriebssysteme
+CentOS
+Debian GNU/Linux
+bevorzugte Distribution
+RedHat Enterprise Linux
+SUSE Linux Enterprise Server
+Ubuntu
+Datenbanken
+Apache Cassandra
+MySQL
+Programmiersprachen
+Apache Jack Rabbit
+Bash
+bevorzugt
+C
+(Debugging, Fehlersuche)
+Java
+(Debugging, Fehlersuche)
+Linux-Scripting
+Perl
+bevorzugt
+PHP
+Python
+(Debugging, Fehlersuche)
+Ruby
+Shell-Script
+Schwerpunkte
+IT, EDV
+Systemadministration Debian/GNU Linux
+Produkte / Standards / Erfahrungen
+Ansible
+Apache
+Apache HTTP Server
+Apache Tomcat
+Appian BPM Suite
+Application Virtualization
+Cfengine
+Docker
+DRBD
+elasticsearch
+f5 big ip
+Foreman
+Glassfish
+Heartbeat
+JBoss Application Server
+JDK
+Jenkins
+Kanban
+Katello
+Keepalived
+Kubernetes
+KVM
+Linux Administration
+Logstash
+memcached
+nginx
+Pacemaker
+Payara
+Puppet
+Redhat Satellite
+Redis
+Shibboleth
+SSO
+Subversion
+Sprachkenntnisse
+Englisch gute Kenntnisse
+Russisch
+Anfängerniveau
+Spanisch
+Anfängerniveau
+Datenkommunikation
+Postfix
+Aus- und Weiterbildung
+10/2000 - 09/2002
+
+2 Jahre
+
+Informatik-Studium
+
+10/1997 - 09/2000
+
+3 Jahre
+
+Studium Wirtschaftsingenierswesen/Bauwesen

@@ -6,8 +6,10 @@ Created on Tue Oct 22 11:15:14 2019
 """
 from keras.preprocessing.sequence import pad_sequences
 from keras.preprocessing.text import Tokenizer
+from sklearn.model_selection import train_test_split
 from fasttext import load_model
 from tqdm import tqdm
+import random
 import numpy as np
 import os
 import gc # garbage collector
@@ -151,6 +153,19 @@ def create_train_dev_set(tokenizer, sentences_pair, is_similar, max_sequence_len
     leaks_train, leaks_val = leaks_shuffled[:-dev_idx], leaks_shuffled[-dev_idx:]
 
     return train_data_1, train_data_2, labels_train, leaks_train, val_data_1, val_data_2, labels_val, leaks_val
+
+def build_dataset(tokenizer, sentences_pair, is_similar, max_sequence_length, validation_split_ratio):
+        
+    sentences1 = [x[0] for x in sentences_pair]
+    sentences2 = [x[1] for x in sentences_pair]
+    train_sequences_1 = tokenizer.texts_to_sequences(sentences1)
+    train_sequences_2 = tokenizer.texts_to_sequences(sentences2)
+    train_padded_data_1 = pad_sequences(train_sequences_1, maxlen=max_sequence_length)
+    train_padded_data_2 = pad_sequences(train_sequences_2, maxlen=max_sequence_length)
+    train_labels = np.array(is_similar)
+    
+    # randomly select from train for dev
+    dev_idx = max(1, int(len(train_labels_shuffled) * validation_split_ratio))
 
 def create_test_data(tokenizer, test_sentences_pair, max_sequence_length):
     """

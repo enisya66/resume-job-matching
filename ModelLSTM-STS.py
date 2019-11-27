@@ -8,6 +8,7 @@ Created on Tue Oct 22 15:30:38 2019
 from keras.models import load_model
 from keras.utils import plot_model
 import pandas as pd
+import numpy as np
 import csv
 from statsmodels.nonparametric.kernel_regression import KernelReg
 
@@ -38,14 +39,14 @@ STS_COLUMNS = ['label','s1','s2']
 # # read data
 sts_train = pd.read_csv('data/sts-train.csv',sep='\t',usecols=[i for i in range(4,7)],names=STS_COLUMNS)
 sts_test = pd.read_csv('data/sts-test.csv',sep='\t',usecols=[i for i in range(4,7)],quoting=csv.QUOTE_NONE,names=STS_COLUMNS)
-#sts_other = pd.read_csv('data/sts-other.csv',sep='\t',usecols=[i for i in range(4,7)],names=STS_COLUMNS)
-#sts_mt = pd.read_csv('data/sts-mt.csv',sep='\t',usecols=[i for i in range(4,7)],names=STS_COLUMNS)
+#sts_other = pd.read_csv('data/sts-other.csv',sep='\t',usecols=[i for i in range(3,6)],names=STS_COLUMNS)
+#sts_mt = pd.read_csv('data/sts-mt.csv',sep='\t',usecols=[i for i in range(3,6)],names=STS_COLUMNS)
 #sts_dev = pd.read_csv('data/sts-dev.csv',sep='\t',usecols=[i for i in range(4,7)],names=STS_COLUMNS)
 
 # trial data augmentation
-#sts_train.append(sts_other, ignore_index=True)
-#sts_train.append(sts_dev, ignore_index=True)
-#sts_test.append(sts_mt, ignore_index=True)
+#sts_train = sts_train.append(sts_other, ignore_index=True)
+#sts_train = sts_train.append(sts_dev, ignore_index=True)
+#sts_test = sts_test.append(sts_mt, ignore_index=True)
 
 # 
 sts_train.head()
@@ -68,14 +69,13 @@ x_train = x_train[:,[1,2]]
 # 
 # print(x_train)
 # # cleanup text
-for x in x_train:
-    x[0] = cleanup_text(x[0], False)
-    x[1] = cleanup_text(x[1], False)
+#for x in x_train:
+#    x[0] = cleanup_text(x[0], False)
+#    x[1] = cleanup_text(x[1], False)
 
 # rescale y value from [0,5] to [0,1]
 for i in range(len(y_train)):
     y_train[i] = y_train[i]/5
-
 # 
 # # generate embedding matrix
 tokenizer, embedding_matrix = word_embedding_metadata(x_train.ravel().astype('U'), MAX_NUM_WORDS, EMBEDDING_DIM)
@@ -103,13 +103,13 @@ y_test = x_test[:,0]
 x_test = x_test[:,[1,2]]
 
 # cleanup text
-for x in x_test:
-    x[0] = cleanup_text(x[0], False)
-    x[1] = cleanup_text(x[1], False)
+#for x in x_test:
+#    x[0] = cleanup_text(x[0], False)
+#    x[1] = cleanup_text(x[1], False)
 
 # rescale y value from [0,5] to [0,1]
 for i in range(len(y_test)):
-    y_test[i] = y_test[i]/5 
+    y_test[i] = y_test[i]/5
     
 
 test_data_x1, test_data_x2, leaks_test = create_test_data(tokenizer,x_test, MAX_SEQUENCE_LENGTH)
@@ -118,17 +118,19 @@ y_pred = model.predict([test_data_x1, test_data_x2], verbose=1)
 y_pred = y_pred[:,0]
 
 # test nonparametric regression
-y = y_train.append(y_test)
-X = x_train.append(x_test)
-npr = KernelReg(endog=y, exog=X, var_type='c')
-mean, _ = npr.fit()
-print(mean)
+# =============================================================================
+# y = np.append(y_train, y_test, axis=1)
+# X = np.append(x_train, x_test, axis=1)
+# npr = KernelReg(endog=y, exog=X, var_type='c')
+# mean, _ = npr.fit()
+# print(mean)
+# =============================================================================
 
 
 # convert back y value from [0,1] to [0,5]
-#for i in range(len(y_test)):
-#    y_test[i] = y_test[i]*5
-#    y_pred[i] = y_pred[i]*5
+for i in range(len(y_test)):
+    y_test[i] = y_test[i]*5
+    y_pred[i] = y_pred[i]*5
 
 # print evaluation measures
 evaluate_continuous_data(y_test, y_pred)

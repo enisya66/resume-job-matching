@@ -15,9 +15,3 @@ Sie haben berufliche Erfahrung mit IT-Security-Technologien wie z.B. SAML, SSO, 
 Sie bringen Erfahrung im Webserver-Technologien wie z.B. JEE-Container, Webservices, REST, JSON mit
 Sie kennen sich mit gängigen Entwicklungstools (bspw. Eclipse, Sonar, GIT, JUnit...) aus
 Nice to have sind Erfahrungen mit Docker, DevOps, Microservices, Elastic, Kibana, Logstash, SQL
-Wir bieten außerdem
-sehr gute fachliche Entwicklung innerhalb der vielfältigen Projektlandschaft bei namhaften internationalen Unternehmen
-individuelle, verbindliche Weiterentwicklungsmöglichkeiten
-dynamisches Umfeld mit spannenden Kontakten
-markt- und leistungsorientierte Vergütung
-alle Vorteile einer Konzernzugehörigkeit

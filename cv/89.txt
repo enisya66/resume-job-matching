@@ -1,0 +1,90 @@
+Kubernetes, DevOps, Docker, Ansible, Terraform, CI/CD, GitLab, Apache Mesos, Cloud
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+02.01.2020
+verfügbar zu
+90 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D5
+Städte
+Köln
+50 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+09/2016 - 01/2017
+
+5 Monate
+
+PoC Docker Container Plattform auf Mesos/DC/OS Basis
+
+Rolle
+DevOps Engineer
+Kunde
+e.on
+Einsatzort
+Essen und Remote
+Projektinhalte
+Installation und Dokumentation eines Mesos DC/OS Clusters in der Azure Cloud auf RHEL/CentOS 7.2 VMs. Setup von Logging (Elasticsearch) und Metrikvisualisierung (cadvisor, prometheus, grafana).
+ Arbeiten in einem internationalen Spezialisten Team unter Einhaltung strenger Securityvorgaben und ITIL Prozessen.  Schulung von e.on Mitarbeitern
+Kenntnisse
+DNS
+Produkte
+DC/OS Elastic Search Apache Mesos Docker CentOS 7.2 Ansible Zabbix Atlassian JIRA Atlassian Confluence Jenkins LDAP
+Kompetenzen
+Produkte / Standards / Erfahrungen
+Amazon Elastic Compute Cloud
+Ansible
+Apache Mesos
+Atlassian Confluence
+Atlassian JIRA
+AWS
+Azure
+Bash
+Continuous Integration
+DC/OS
+alias Apache Mesos
+DevOps
+Digital Ocean
+Docker
+Elastic Search
+GitLab
+CI/CD
+Google Cloud Platform
+IT-Security
+Kibana
+Kubernetes
+LDAP
+Linux Administration
+Loadbalancing
+Logstash
+Marathon
+Netzwerkadministration
+Prometheus
+Zabbix
+Betriebssysteme
+CentOS
+CentOS 7.2
+Debian
+Linux RedHat
+Ubuntu
+Datenkommunikation
+DNS
+Datenbanken
+CouchDB
+MongoDB
+MySQL/MariaDB
+PostgreSQL
+Bemerkungen
+Founder and CTO of [URL auf Anfrage]
+Aus- und Weiterbildung
+09/1999 - 05/2005
+
+5 Jahre 9 Monate
+
+Informationswirtschaft

@@ -20,8 +20,3 @@ Must-have: Umfangreiche Kenntnisse mit der AWS Cloud und Kubernetes; routinierte
 Nice-to-have: Grundlegendes Verständnis von Microsoft Azure, Google Cloud oder IBM Cloud; Erfahrungen mit PHP, Java, GO oder Apache Kafka; gute Kenntnisse in der Administration von Web Servern und VMs
 Hohes Maß an Qualitätsbewusstsein und Eigeninitiative sowie eine schnelle und strukturierte Einarbeitung in neue Themen
 Sehr gute Deutsch- und Englischkenntnisse
-Wir bieten außerdem
-Bei uns hast du die freie Wahl des OS und der Entwicklungsumgebung
-Experten-Know-how und Gestaltungsspielraum, auch was deine persönliche und fachliche Entwicklung betrifft – wir unterstützen dich dabei!
-Komm mit uns auf (internationale) Fachkonferenzen wie Code Talks, GOTO Berlin, JAX, DEVOXX, interne Fachevents, Hackathons und Tech Talks/Meetups
-Innovative Arbeitswelten, flexible Arbeitszeiten (37,5-Stunden-Woche, Gleitzeit), Homeoffice- und Sabbatical-Möglichkeiten

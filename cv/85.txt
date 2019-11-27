@@ -1,0 +1,151 @@
+Frontend Entwickler, JavaScript, React, Angular, Typescript, HTML, CSS, SCSS, JSP, Bootstrap, JQuery
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+28.10.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D1
+Städte
+Berlin
+50 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+07/2019 - 09/2019
+
+3 Monate
+
+SPA Entwicklung für eine Musik-Platform
+
+Rolle
+Frontend-Entwickler
+Einsatzort
+Berlin
+Projektinhalte
+Entwicklung einer Angular-Anwendung zur Verwaltung und Pflege eines Musik-Streaming Anbieters.
+SPA Entwicklung mit Angular2+/8
+State Managment mit Ngrx
+Integration einer externen REST API
+Kenntnisse
+Angular TypeScript Ngrx CSS HTML Angular Material Git GUI Entwicklung REST Redux
+01/2019 - 02/2019
+
+2 Monate
+
+Theme Entwicklung und App Integration
+
+Rolle
+Software-Entwickler
+Einsatzort
+Berlin
+Projektinhalte
+Entwicklung eines WordPress-Themes für ein Entsorgungsunternehmen und Integration einer Angular Kalkulations-Anwendung.
+Kenntnisse
+PHP JavaScript CSS HTML Bootstrap Angular Git
+05/2017 - 09/2018
+
+1 Jahr 5 Monate
+
+Entwicklung von Anwendungen im Medizinumfeld
+
+01/2017 - 03/2017
+
+3 Monate
+
+Prototyp Entwicklung
+
+09/2016 - 11/2016
+
+3 Monate
+
+Online-Community/Blog für eine Online-Bank
+
+08/2016 - 08/2016
+
+1 Monat
+
+Online-Styleguide Entwicklung für eine Versicherung
+
+07/2016 - 07/2016
+
+1 Monat
+
+Online-Styleguide Entwicklung für ein Discountunternehmen
+
+06/2016 - 06/2016
+
+1 Monat
+
+Entwicklung einer Antragsstrecke für eine Online-Bank
+
+01/2012 - 05/2016
+
+4 Jahre 5 Monate
+
+Theme und Plugin Entwicklung
+
+10/2008 - 09/2011
+
+3 Jahre
+
+Weiterentwicklung und Roll-Out eines Online-Magazins
+
+Branchen
+Digital Banking
+InsurTech
+Healthcare
+Kompetenzen
+Programmiersprachen
+Angular
+JavaScript
+JSP
+PHP
+TypeScript
+Produkte / Standards / Erfahrungen
+Angular Material
+Apache Tomcat
+API
+Babel
+BEM
+Bootstrap
+CSS
+CSS3
+Eslint
+FreeMarker
+Git
+Grunt
+GUI Entwicklung
+Gulp
+HTML
+HTML5
+Jade
+Jade
+Jenkins
+JQuery
+JSON
+Jsx
+Jsx
+Lithium
+Photoshop
+React
+Redux
+REST
+SCSS
+Sketch
+Webpack
+Design / Entwicklung / Konstruktion
+Jsx
+NgRx
+RxJS
+Aus- und Weiterbildung
+10/2005 - 01/2010
+
+4 Jahre 4 Monate
+
+Medienproduktion und Medientechnik

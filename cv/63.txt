@@ -1,0 +1,362 @@
+IT Software- Network Administration / Security, Role: System-Network-Administrator (Linux, Unix), App/System Programmer (Unix,Linux), Cloud
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.11.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D0D1D3D4D5D6D7D8D9 Österreich Schweiz Einsatzort unbestimmt
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Weltweiter Einsatz moeglich, mehrjaehrige Auslands-Erfahrungen bereits vorhanden (in den Sprachen Deutsch, Englisch und Franzoesisch)
+Position
+Kommentar
+Senior  Dozent Universität
+Projekte
+05/2017 - Heute
+
+2 Jahre 6 Monate
+
+IT infrastructure
+
+Rolle
+Senior DevOps Engineer, Snr. System-Admin
+Kunde
+Marche Solution Ltd
+Einsatzort
+Hamburg/Newport/Serekunda
+Projektinhalte
+FLMS -------- Fuel-Level-Monitor-System
+DevOps (development, backend, frontend, Betrieb)
+docker swarm
+docker machine
+git
+Fluessigkeitsmessungen
+Monitoring Flussigkeitsstaende (inkl. Bezin, Diesel, Oel)
+Alert-System (rot/gelb/gruen)
+Perl/Python Scripts
+Push-Nachrichten (Web/Android/iOS), SMS und/oder Email
+Umfangreiche Statistik und Reportfunktionen
+Dashboard (ionic, cordova, ios, android, win-mobile, web)
+ TV Streaming ------------------
+rtmp/http/hls stream
+mobile/web
+SRS, ffmpeg
+Dashboard Systemauslastung
+Monitoring
+Docker cluster
+Dashboard (ionic, cordova, ios, android, win-mobile, web)
+ ASN1 -------
+asn1 decodierung
+docker cluster
+Perl/Python Scripts
+mongo datenbank
+Windows Winbatch
+ iQbot -------
+DevOps (development, backend, frontend, Betrieb)
+Handy-Cell Monitoring
+automatische Test-calls, Test-SMS, Speed-Tests
+automatische Cell-, WiFi, Location-Abfragen (5min-1h)
+Dashboard (manuelle Test - ionic, cordova, ios, android, win-mobile, web)
+Perl/Python Scripts
+ Cloud  -------
+Private Cloud
+9 Rechenersysteme in 4 Laender
+Public Cloud
+Docker Swarm
+AWS
+Google Cloud
+Ionic etc.
+ Network -----------
+Sicherungskonzepte erstelle, erstellen und managen
+Routingkozepte
+Firewall iptables (nat, masq, mangle)
+multi gateway routing (route2)
+Linux Gatways (Multi Network Cards)
+pfsense
+QoS (Quality of service)
+ BigData -----------
+Cassandra db
+Convertierung mysql->Cassandra
+file storage
+Rest-API
+Create/Manage User, Projekte, Dataenbanken
+User-Authentifizierung (passwort, oauth, jwt, facebook, google, github etc)
+Datenbankabfragen (SELECT,UPDATE,DELETE)
+Kenntnisse
+docker Git Monitoringsysteme Alert Docker Swarm iptables iptable2 Traffic Analyse traffic control mrc ntop ctop htop Nagios Icinga nginx nginx proxy nginx traffic control nginx wss proxy traeffic cluster Cloud AWS Python Kubernetes Datenbankserver JSON Web Token (JWT)
+Produkte
+docker swarm portainer git docker container ionic pwa cordova pwa react Angular vue caasandra MariaDB
+09/2017 - 02/2018
+
+6 Monate
+
+Dozent Universität
+
+02/2017 - 04/2017
+
+3 Monate
+
+Linux Administrator
+
+11/2013 - 02/2017
+
+3 Jahre 4 Monate
+
+System-Networkadministration; Programmierung
+
+06/2011 - 11/2013
+
+2 Jahre 6 Monate
+
+System-Networkadministration; Programmierung
+
+08/2010 - 10/2011
+
+1 Jahr 3 Monate
+
+System-Networkadministration; Programmierung
+
+11/2008 - 08/2010
+
+1 Jahr 10 Monate
+
+System-Networkadministration; Programmierung
+
+12/2006 - 11/2008
+
+2 Jahre
+
+design and installation of ISP infrastructure
+
+11/2004 - 04/2006
+
+1 Jahr 6 Monate
+
+Install and maintainer of Linux Network
+
+06/2001 - 04/2004
+
+2 Jahre 11 Monate
+
+System/Network Admin
+
+03/2001 - 04/2001
+
+2 Monate
+
+Web Programming
+
+05/1999 - 02/2001
+
+1 Jahr 10 Monate
+
+UNIX (Sinix) System-Admin
+
+04/1983 - 10/1989
+
+6 Jahre 7 Monate
+
+Prof. Sonderschule ZK der DDR
+
+02/1982 - 10/1988
+
+6 Jahre 9 Monate
+
+Dozent Volkshochschule
+
+Branchen
+ISP Telekomunikation Gouverment Bankenumfeld 
+Kompetenzen
+Sprachkenntnisse
+Deutsch
+Muttersprache
+English
+sehr gut
+Aufgabenbereiche
+Technische Projektleitung
+sehr gut
+Datenbanken
+caasandra
+Cassandra
+Datenbanken
+dbase
+sehr gut
+MariaDB
+MySQL 5
+sehr gut
+ODCB
+sehr gut
+Progress
+gut
+SQLite
+sehr gut
+Datenkommunikation
+Asterisk
+DHCP
+sehr gut
+DNS
+sehr gut
+IAX2
+IMAP
+sehr gut
+iptable2
+iptables
+IPv4
+sehr gut
+IPv6
+gut
+Kamailo
+LAN
+sehr gut
+PGP
+sehr gut
+POP3
+sehr gut
+Radius
+gut
+S/MIME
+sehr gut
+SIP
+SMTP
+sehr gut
+SSL
+Voice
+sehr gut
+WAN
+sehr gut
+WebRTC
+Wifi
+sehr gut
+WLAN
+sehr gut
+Betriebssysteme
+AIX
+gut
+CentOS
+sehr gut
+CP/M
+sehr gut
+Debian
+sehr gut
+docker
+docker container
+docker swarm
+Fedora
+sehr gut
+HP-UX
+sehr gut
+Linux Mint
+sehr gut
+MSDOS
+sehr gut
+openSUSE
+sehr gut
+portainer
+ReactOS
+gut
+Red Hat Enterprise Linux
+sehr gut
+SINIX
+sehr gut
+Solaris
+sehr gut
+SUSE Linux Enterprise Server
+sehr gut
+Ubuntu
+sehr gut
+Unix
+sehr gut
+Unix Programmierung
+Unix-Derivate
+sehr gut
+Wega
+Windows
+gut
+Programmiersprachen
+Angular
+Bash
+sehr gut
+C
+Git
+GitHub
+JSON Web Token (JWT)
+Pascal
+sehr gut
+Perl
+sehr gut
+PHP
+PHP 6
+sehr gut
+pqgrid
+Python
+react
+ReactJS
+Schwerpunkte
+Netzwerk-Administration
+sehr gut
+System-Adminstration
+sehr gut
+System-Programierung
+sehr gut
+Personalverantwortung
+26 - 100 Mitarbeiter
+sehr gut
+CTO
+sehr gut
+Managementerfahrung in Unternehmen
+CTO
+sehr gut
+Head of Unit
+sehr gut
+Produkte / Standards / Erfahrungen
+Alert
+AWS
+Bootstrap
+Cloud
+cloud cluster
+cordova
+ctop
+Data Security
+Datenbankserver
+docker machine
+ESX VMware
+failban
+Firewall
+High Availability Cluster Multi Processing
+htop
+icinga
+ionic
+Kubernetes
+LAMP
+libvirt
+Linux Apache MySQL PHP
+logchecker
+Monitoringsysteme
+mrc
+Nagios
+nginx
+nginx proxy
+nginx traffic control
+nginx wss proxy
+ntop
+OTRS
+Proxy
+pwa
+RHELAdministration
+Sicherheit Certificate
+traeffic cluster
+Traffic Analyse
+traffic control
+Unix Administration
+Virtualbox
+VPN
+vue
+Hardware
+PC

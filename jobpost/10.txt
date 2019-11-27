@@ -7,5 +7,4 @@ sofort
 Einsatzort
 Raum Zürich
 Beschreibung
-Java Backend Developer (Professional/Senior) (77195) Raum Zürich Einsatz ab: sofort Aufgabe Wir suchen Sie als Java Backend Developer (Professional/Senior) für unseren Kunden im Kanton Zürich. In dieser verantwortungsvollen Aufgabe sind Sie zuständig für: - Analyse und Bewertung der Aufgaben und Anforderungen der Softwareentwicklung gemäß dem Auftrag (Projekte und/oder Wartung) auf der Grundlage von Kostenschätzungen. - Implementierung von Softwareanforderungen auf Basis von Anforderungsanalyse und [...]
-Textauszug. Die vollständige Projektbeschreibung finden Sie beim Projektanbieter.
+Java Backend Developer (Professional/Senior) (77195) Raum Zürich Einsatz ab: sofort Aufgabe Wir suchen Sie als Java Backend Developer (Professional/Senior) für unseren Kunden im Kanton Zürich. In dieser verantwortungsvollen Aufgabe sind Sie zuständig für: - Analyse und Bewertung der Aufgaben und Anforderungen der Softwareentwicklung gemäß dem Auftrag (Projekte und/oder Wartung) auf der Grundlage von Kostenschätzungen. - Implementierung von Softwareanforderungen auf Basis von Anforderungsanalyse .

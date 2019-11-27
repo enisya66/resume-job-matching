@@ -14,9 +14,3 @@ Sie haben ein Studium der Informatik, Wirtschaftsinformatik oder eine vergleichb
 Sie haben mehrjährige Erfahrung in der Softwareentwicklung mit Java, Groovy oder JavaScript und in der Arbeit mit gängigen Entwicklungstools (bspw. Eclipse, Git)
 Sie haben bereits erfolgreich mit Enterprise Technologien wie z.B. JEE oder Webservices gearbeitet
 Sie sind mit SQL, XML und JSON vertraut
-Wir bieten außerdem
-sehr gute fachliche Entwicklung innerhalb der vielfältigen Projektlandschaft bei namhaften internationalen Unternehmen
-individuelle, verbindliche Weiterentwicklungsmöglichkeiten
-dynamisches Umfeld mit spannenden Kontakten
-markt- und leistungsorientierte Vergütung
-alle Vorteile einer Konzernzugehörigkeit

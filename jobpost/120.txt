@@ -7,5 +7,4 @@ asap
 Einsatzort
 Frankfurt
 Beschreibung
-Frontend Developer (m/w/d) – Frankfurt Stellenbeschreibung Für einen unserer Kunden sind wir auf der Suche nach Spezialisten für das folgende Anforderungsprofil: Frontend Developer (m/w/d) Stellenanforderung Muss-Anforderungen: - Langjährige Expertise (> 5Jahre) in der Entwicklung mit Angular - Langjährige Expertise (> 5Jahre) in der Entwicklung mit objektorientieren Sprachen - Sehr gute Erfahrung in der Styleguide konformen Gestaltung mit CSS und SASS - Google Material Design oder ähnlichen Bibliotheken [...]
-Textauszug. Die vollständige Projektbeschreibung finden Sie beim Projektanbieter.
+Frontend Developer (m/w/d) – Frankfurt Stellenbeschreibung Für einen unserer Kunden sind wir auf der Suche nach Spezialisten für das folgende Anforderungsprofil: Frontend Developer (m/w/d) Stellenanforderung Muss-Anforderungen: - Langjährige Expertise (> 5Jahre) in der Entwicklung mit Angular - Langjährige Expertise (> 5Jahre) in der Entwicklung mit objektorientieren Sprachen - Sehr gute Erfahrung in der Styleguide konformen Gestaltung mit CSS und SASS - Google Material Design oder ähnlichen Bibliotheken 

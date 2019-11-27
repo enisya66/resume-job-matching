@@ -111,7 +111,7 @@ class SiameseMaLSTM:
         
         # LSTM base network
         
-        lstm_layer = LSTM(self.number_lstm_units)
+        lstm_layer = LSTM(self.number_lstm_units, dropout=self.rate_drop_lstm, recurrent_dropout=self.rate_drop_lstm)
         #lstm_layer = Bidirectional(LSTM(self.number_lstm_units, dropout=self.rate_drop_lstm, recurrent_dropout=self.rate_drop_lstm))
 
 
@@ -131,8 +131,8 @@ class SiameseMaLSTM:
         distance = Lambda(self.manhattan_distance, output_shape=self.eucl_dist_output_shape)([x1, x2])
         
         # comment either one out
-        #output = Dense(categories.shape[1], activation='softmax')(distance)
-        output = Dense(1, activation='sigmoid')(distance)
+        output = Dense(categories.shape[1], activation='sigmoid')(distance)
+        #output = Dense(1, activation='sigmoid')(distance)
 
 
         model = Model([sequence_1_input, sequence_2_input], output)
@@ -141,7 +141,7 @@ class SiameseMaLSTM:
         #rms = RMSprop(lr=0.0001)
         adam = Adam(lr=0.0001)
         adadelta = Adadelta(clipnorm=1.)
-        model.compile(loss=self.loss_function, optimizer='adam', metrics=['accuracy'])
+        model.compile(loss=self.loss_function, optimizer='nadam', metrics=['accuracy'])
         #model.compile(loss=self.contrastive_loss, optimizer=rms)
 
         
@@ -159,13 +159,13 @@ class SiameseMaLSTM:
 
         bst_model_path = checkpoint_dir + STAMP + '.h5'
 
-        model_checkpoint = ModelCheckpoint(bst_model_path, save_best_only=True, save_weights_only=False)
+        #model_checkpoint = ModelCheckpoint(bst_model_path, save_best_only=True, save_weights_only=False)
 
-        tensorboard = TensorBoard(log_dir=checkpoint_dir + "logs/{}".format(time.time()))
+        #tensorboard = TensorBoard(log_dir=checkpoint_dir + "logs/{}".format(time.time()))
 
         history = model.fit([train_data_x1, train_data_x2], train_labels,
                   validation_data=([val_data_x1, val_data_x2], val_labels),
-                  epochs=8, batch_size=64, shuffle=True, verbose=1,
+                  epochs=25, batch_size=128, shuffle=True, verbose=1,
                   callbacks=[early_stopping])
         
         plt.plot(history.history['loss'], 'bo', label='Loss')

@@ -1,0 +1,102 @@
+Senior Fullstack Dev/Architect/Ops. Go, PHP7, Javascript (ES8), SQL, bash, Linux, REST APIs. Symfony 4, vue.js, Docker, Gitlab, CI/CD.
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+50 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9ÖsterreichSchweiz
+Städte
+Berlin
+50 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+09/2018 - 08/2019
+
+1 Jahr
+
+European Customer Portal
+
+Rolle
+Senior Frontend Developer
+Kunde
+Coca-Cola
+Einsatzort
+Berlin
+Projektinhalte
+* Vue.js Frontend Development * REST API * Bitbucket CI/CD
+Produkte
+Vue Bitbucket REST
+05/2018 - 08/2018
+
+4 Monate
+
+Symfony: Custom Forms
+
+Rolle
+Backend
+Kunde
+KPMG
+Einsatzort
+Berlin
+Projektinhalte
+Building a custom form generator fed by editable customer data.
+Produkte
+Symfony PHP
+03/2017 - 04/2018
+
+1 Jahr 2 Monate
+
+hellolaw.com
+
+01/2016 - 02/2017
+
+1 Jahr 2 Monate
+
+wetten.tv
+
+06/2015 - 07/2015
+
+2 Monate
+
+changers.com
+
+Kompetenzen
+Programmiersprachen
+bash
+Go
+JavaScript
+ES6
+PHP
+Python
+Betriebssysteme
+Linux
+Datenbanken
+MySQL
+Postgres
+SQLite
+Sprachkenntnisse
+Deutsch Muttersprache
+Englisch (fließend)
+Produkte / Standards / Erfahrungen
+Ansible
+Apache
+Bitbucket
+Docker
+Git
+Gitlab
+Gitlab / CI
+Kibana / Logstash
+nginx
+RabbitMQ
+REST
+Symfony
+Vagrant
+Vue
+vue.js

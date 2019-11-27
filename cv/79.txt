@@ -1,0 +1,302 @@
+Freelance Frontend Developer. HTML5, CSS3, SASS, LESS, JavaScript, jQuery, Vue.js, Nuxt.js
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+02.12.2019
+verfügbar zu
+100 %
+davon vor Ort
+80 %
+PLZ-Gebiet, Land
+D5
+Städte
+Köln
+100 km
+Düsseldorf
+50 km
+Bonn
+100 km
+Bergisch Gladbach
+100 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+07/2018 - 11/2018
+
+5 Monate
+
+Intranet Anwendung zur Metadatenerfassung von Bildern und Videos
+
+Rolle
+Freelance Senior Frontend Developer
+Kunde
+CBC Cologne Broadcasting Center GmbH
+Einsatzort
+Köln
+Projektinhalte
+Gegenüberstellung von Vue, React und Angular
+Prototypentwicklung auf Basis von Vue.js/Nuxt.js
+Prototypentwicklung auf Basis von Angular 7
+Projektsetup und Frontendentwicklung des Metadatenerfassungssystems mit Angular 7
+Implementierung einer internen Video Downloader Anwendung für verschiedenste Quellen mit Vue.js
+Frontend Dokumentation
+Arbeit beim Kunden vor Ort
+Kenntnisse
+HTML5 SASS Vue.js Nuxt.js Angular 7 Jasmine Jest Webpack GIT Compodoc
+Produkte
+Visual Studio Code Sourcetree
+10/2017 - 07/2018
+
+10 Monate
+
+Responsive Website Relaunch eurowings.com
+
+Rolle
+Freelance Senior Frontend Developer
+Kunde
+cyber:con - Gesellschaft für neue Medien mbH
+Einsatzort
+Köln
+Projektinhalte
+Frontend-Entwicklung/Implementierung modularer Frontend Komponenten für das CMS AEM
+Qualitätssicherung des Styleguide
+Schnittstelle zwischen Frontend-Entwicklung und Design Team
+POC zu http/2
+Sprint Review/Sprint Planung
+Code Reviews
+Arbeit beim Kunden vor Ort
+Kenntnisse
+HTML5 Sass Twig Vue.js Grunt Webpack Jest Mercurial Node WCAG  Barrierefreiheit RxJS ADoc Atomic Design
+09/2016 - 09/2017
+
+1 Jahr 1 Monat
+
+Website Relaunch von NaturEnergiePlus
+
+06/2015 - 09/2016
+
+1 Jahr 4 Monate
+
+Website Relaunch von HUGO BOSS
+
+04/2015 - 06/2015
+
+3 Monate
+
+Lufthansa
+
+01/2015 - 03/2015
+
+3 Monate
+
+KIA PIP und KIA Press
+
+12/2013 - 12/2014
+
+1 Jahr 1 Monat
+
+Globetrotter Responsive Online Shop
+
+09/2012 - 12/2013
+
+1 Jahr 4 Monate
+
+Bonprix Tablet Shop
+
+01/2011 - 12/2013
+
+3 Jahre
+
+Bonprix Mobile Shop
+
+01/2011 - 01/2011
+
+1 Monat
+
+HUGO BOSS
+
+11/2010 - 12/2010
+
+2 Monate
+
+RLV Versicherungen
+
+09/2010 - 10/2010
+
+2 Monate
+
+Germanwings
+
+03/2010 - 08/2010
+
+6 Monate
+
+XING
+
+03/2010 - 04/2010
+
+2 Monate
+
+B&B Hotels - Mobile Website Launch
+
+11/2009 - 03/2010
+
+5 Monate
+
+TUIfly.com
+
+10/2009 - 10/2009
+
+1 Monat
+
+KLM Mobile Website Pitch
+
+09/2009 - 09/2009
+
+1 Monat
+
+o2 Coaching Quiz
+
+09/2008 - 06/2009
+
+10 Monate
+
+Equestrian Web School
+
+Branchen
+E-Commerce
+Fashion
+Airlines
+Telekommunikation
+Automobilindustrie
+Reise- und Hotelgewerbe
+Energieversorgung
+Kompetenzen
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+Fließend
+Hardware
+Mac
+Arbeitsgerät
+Programmiersprachen
+AJAX
+Angular 7
+CSS3
+Grunt
+GSAP
+Handlebars.js
+HTML5
+Jasmine
+JavaScript
+JEST
+jQuery
+JSP
+JSTL
+LESS
+Mustache
+Nuxt.js
+RequireJS
+SASS
+SQL
+SVG
+Twig
+Vue.js
+Webpack
+XHTML
+XML
+Schwerpunkte
+CSS3
+E-Commerce
+Frontend
+HTML5
+JavaScript
+jQuery
+LESS
+Responsive Web
+SASS
+Vue.js
+Datenbanken
+MySQL
+Produkte / Standards / Erfahrungen
+Adobe Photoshop
+Agile
+Animationen
+BEM
+Contentful
+CVS
+Device Optimierungen
+E-Commerce
+Eclipse
+FirstSpirit Frontend Templates
+FTP
+GIT
+Mercurial
+Mobile Web
+MS-Office
+Responsive Web
+Scrum
+SEO
+Sketch
+SourceTree
+Sublime
+SVN
+TFS
+TortoiseSVN
+Visual Studio Code
+WCAG Barrierefreiheit
+Zeplin
+Bemerkungen
+Awards
+2012
+Bester Mobile Shop – INTERNET WORLD Business Shop Award
+  Zertifikate
+2008
+English Test IELTS, Abschluss: Level 6
+ 2013
+English Certificate – Wall Street Institute, Level: Threshold 1
+ 2015
+FirstSpirit Teilnahmezertifikat – Developer Training Basic
+ 2017
+Google Zertifikat – Qualifikation Online Marketing Grundlagen
+ 2017
+XDI - Certified Digital Designer
+  Beruflicher Werdegang
+10/2017 - heute Annick Walkenhorst
+Freelance Frontend Developer 
+03/2017 – 09/2017 SapientRazorfish, Köln
+Senior Associate Experience Technology L2 
+01/2015 – 03/2017 SapientNitro, Köln
+Senior Associate Experience Technology L2 
+10/2012 – 12/2014 SapientNitro, Köln
+Senior Developer Mobile Solutions L1 
+01/2011 – 09/2012 SapientNitro, Köln
+Developer Mobile Solutions 
+09/2010 – 01/2011 CLANMO GmbH – a MindMatics Company, Köln
+Junior Developer 
+09/2009 – 08/2010 CLANMO GmbH – a MindMatics Company, Köln Trainee Software Development    Persönliche Eigenschaften
+hohe Leistungsbereitschaft
+Ehrgeiz
+Verlässlichkeit
+Liebe zum Detail
+Aus- und Weiterbildung
+09/2008 - 09/2009
+
+1 Jahr 1 Monat
+
+Studium Computing
+
+10/2006 - 09/2008
+
+2 Jahre
+
+Studium Informatik Multimedia
+
+Ausbildungshistorie
+Praktikum
+02/2008 – 03/2008 Synergetics Management Information Company GmbH,
+Düsseldorf
+Entwicklung einer Java-Applikation zur Planung und Durchführung von Projekten unter Verwendung von Struts und Hibernate

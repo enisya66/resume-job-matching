@@ -1,0 +1,18 @@
+JavaScript/ Frontend Entwickler (M/W/D) 
+Unbefristete Festanstellung
+Vollzeit
+Die Ampada GmbH ist mit mehr als 70 Mitarbeiter/innen ein stetig wachsendes IT-Beratungshaus in den Zentren von Köln und Frankfurt. Über 50 namenhafte Kunden werden von uns in den Bereichen Softwareentwicklung, Qualitätssicherung, SAP- und IT-Beratung betreut. Mit neusten Technologien, innovativen Ideen und qualifizierten Teams gewinnen wir seit 10 Jahren deutschlandweit konstant neue Marktanteile dazu. Lassen Sie sich von unserem Ehrgeiz packen.  Mit Ihrer Unterstützung werden wir unseren Erfolgskurs garantiert weiter fortführen!
+Ihre Aufgaben
+Konzeption, Entwicklung und Realisierung anspruchsvoller Web- und Mobileapplikationen
+Verbesserung der Benutzerfreundlichkeit von Webanwendungen
+Regelmäßige Wartung von Webseiten
+Erarbeitung und Umsetzung kundenspezifischer Feature-Anfragen und UIs unter Einsatz modernster Technologien
+Enge Zusammenarbeit mit unseren Designern und Entwicklern
+Abwechslungsreiche und agile Projekte - nach SCRUM und Pair Programming
+Training und Coaching neuer MitarbeiterInnen
+Ihre Qualifikationen
+Jahrelange praktische Erfahrungen in der Webarchitektur mit JavaScript, HTML5 und CSS3
+Fundierte Kenntnisse im Umgang mit verschiedenen JavaScript Frameworks (z.B. Angular/Angular.js, Vue.js) und entsprechenden Bibliotheken (z.B. jQuery, React)
+Praktische Erfahrungen in der Durchführung von Unittests
+Teamorientierte Arbeitsweise, Qualitätsbewusstsein und Begeisterung für neue Technologien
+Gute Deutsch- und Englischkenntnisse in Wort und Schrift

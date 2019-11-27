@@ -1,0 +1,118 @@
+SAP BC, Schwerpkt.: Berechtigungen, Systemadministration
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.10.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9ÖsterreichSchweizEinsatzort unbestimmt
+Kommentar
+Deutschland: uneingeschränkt mobil und kurzfristig einsetzbar, kurzfristig auch als Vertretung für Teammitglieder und/oder kranke Mitarbeiter/innen kurzfristige Urlaubsvertretung  Weitere Länder: nach Absprache zu 100% im Ausland verfügbar Projektsprache Englisch oder Dolmetscher auch kurzfristig als Urlaubsvertretung oder Krankheitsvertretung einsetzbar. Arbeitserlaubnis: Formalitäten zur Arbeitserlaubnis, Visa, etc. sollte vom Projektanbieter abgewickelt werden
+Position
+Kommentar
+Schwerpunkt:
+SAP Berechtigungswesen
+SAP Technical Support
+SAP Systemmonitoring
+Projekthistorie
+Zeitraum ab 03/2019 bis heute
+Firma: EDEKA-Digital, Hamburg
+Projekt: SAP ECC, SAP GRC: Benutzer- und Berechtigungswesen
+- GRC: Fire Fighter Administration/Einrichtung
+- Berechtigungsentwicklung
+- Benutzerverwaltung (einschl. ZBV)
+ 
+Zeitraum ab 04/2011 bis 01/2019
+Firma: Bayer Business Services GmbH (Bayer AG)
+Projekt: SAP ECC 6.0, 4.7, SAP GRC: Benutzer- und Berechtigungswesen
+             Module MM, SD, FI/CO, PP, BC, MD, AM
+- Projektbetreuung - Überarbeitung Berechtigungskonzepte - Analyse von Rollen Traceauswertung & Umsetzung von Berechtigungsproblemen - Entwicklung, Dokumentation und Test von Rollen   mit Absprache der Fachabteilungen - internationaler Rollout - 'Go Live' Begleitung mehrerer Geschäftsfleder/-bereiche - Benutzerverwaltung - Schulung der Mitarbeiter im Benutzer- und Berechtigungsumfeld - C-level Benutzer- und Berechtigungs Support - Auswertung interner Audits - Beseitgung von Auditverletzungen (Rollenentzug Benutzer o. Rollenentwicklung/Änderung)   SAP Solution Manager 7.0 + 7.1: Berechtigungswesen - Einrichten WEB UI (user interface) Oberfläche für das Change Management - Rollenentwicklung für WEB UI basierte Anwendungen - Projektbetreuung - Berechtigungskonzepte - Analyse von Rollen Traceauswertung & Umsetzung von Berechtigungsproblemen - Entwicklung, Dokumentation und Test von Rollen   mit Absprache der Fachabteilungen - internationaler Rollout - 'Go Live' Begleitung mehrerer Geschäftsfleder/-bereiche - Schulung der Mitarbeiter im Benutzer- und Berechtigungsumfeld - Betreuung & Umsetzung upgrade auf Release 7.1, Berechtigungswesen      
+Zeitraum 01/2010 - 02/2011
+Firma: Lanxess AG, Lanxess GmbH
+Projekt: SAP ECC 6.0 Berechtigungswesen, Module MM, SD, FI/CO, PP, BC, MD, AM
+- Projektbetreuung   Konzeption erweitertes Berechtigungskonzept für go live neuer Teilgesellschaften   aus Übersee - Analyse von Rollen im Alt-System, Traceauswertung & Umsetzung - Entwicklung, Dokumentation und Test der neuen Rollen im System   mit Absprache der Fachabteilungen - internationaler Rollout der neuen Rollen - 'Go Live' Begleitung mehrerer Geschäftsfleder/-bereiche - Einführung einer revisionssicheren SAP Benutzer- und   Berechtigungsverwaltung im Prod. System - Schulung der Mitarbeiter im Benutzer- und Berechtigungsumfeld
+Branchen
+Metallindustrie
+Pharma/Chemieindustrie
+Lebensmittel Handel
+Kompetenzen
+Programmiersprachen
+ABAP
+Grundkenntnisse im Bereich BC
+Betriebssysteme
+MS-DOS
+Windows
+Windows 2000/2003 Server
+Windows 2000/2003 Server Administration für SAP Systeme
+Datenbanken
+Access
+Grundkenntnisse
+Adabas
+geplante Weiterbildung in 2011
+Oracle
+geplante Weiterbildung in 2011
+Sprachkenntnisse
+Deutsch
+Englisch
+Datenkommunikation
+RFC
+im SAP ERP und R/3 Bereich
+Windows Netzwerk
+Grundkenntnisse
+Hardware
+SPS
+progamierbare Steuerungen bei der E-Techniker Ausbildung
+Produkte / Standards / Erfahrungen
+Produkte:       SAP R/3
+                      SAP ECC
+                      SAP GRC
+                      SAP BW System 3.0B
+                      MS-Office
+                      Lotus Notes
+
+Erfahrungen:      konzeptionelle Mitarbeit bei der Erstellung, Pflege und Erweiterung von:
+                           SAP Sol. Man. 7.0 & 7.1 Berechtigungskonzepten
+                           SAP R/3 und SAP-ECC Basis-Berechtigungskonzepten
+ SAP R/3 und SAP-ECC Basis-Berechtigungsentwicklung/-erweiterung  SAP R/3 und SAP-ECC C-level Support, Berechtigungsentwicklung  SAP R/3 und SAP-ECC Analyse von Auditauswertungen und Beseitung d. Violations  SAP GRC Berechtigungsentwicklung, Benutzer und Rollen Administration  SAP R/3 und SAP-ECC 2nd + 3rd Level Support Basis- in einem Chemiekonzern  SAP R/3 Systemmonitoring & Performanceanalyse                 SAP BW  Überprüfung eines Berechtiungskonzeptes nach Konzernrevisionsvorgaben  SAP BW  Erstellen einer Risikoanalyse im Berechtigungsumfeld  Dokumentation in Lotus Notes und SAP-Solution Manager  
+Bemerkungen
+Nach Absprache europweit einsetzbar.
+
+Bei längerfristigen Projekten ist das Honorar unter Umständen verhandelbar.
+Ausbildungshistorie
+08/1984 - 06/1988  Elektroinstallteur
+
+07/1988 - 06/1998  Soldat auf Zeit (12 Jahre), elektr. Justierung von Waffen-
+ systemen,  Ausbildung & Personalführung von bis zu 15 Soldaten,  Planung & Durchführung von Seminaren  Weiterbildung von Führungspersonal
+07/1998 - 09/1999  Ausbbildung zum Elektrotechniker
+
+08/1998 - 08/1999  Fernunterricht: Betriebswirtschaft
+
+10/1999 - 01/2000  Ausbildung zum SAP R/3 Berater, Module MM, SD, ABAP/4
+ bei BM+P GmbH,IT-Training, in Düsseldorf
+02/2000 - 12/2000  Praktikum als SAP R/3 Berater bei Manß & Partner GmbH,
+ IT-Consulting in Wermelskirchen.  Projekte: Thyssen (ABAP/4),  Bayer AG (2nd Level Supportdesk Basis, erstellen eines Basis-Berechtigungskonzepts,  Berechtigungsentwicklung/-verwaltung, Dokumentation)
+
+besuchte Seminare
+ 
+02/2014            CR580      CRM - WEB UI (User Interface)
+ 
+07/2004            AD650      MS WINDOWS 2000/2003 Server
+(AddOn GmbH)                  für SAP Administratoren
+
+01/2003            ADM100     mySAP Technology, System-Administration
+(SAP AG)                      Release: WEB AS 6.20
+
+10/2002            SAPTEC 50  Grundlagen der Lösung mySAP Technology
+(SAP AG)
+ 
+
+
+09/2000            CA 940      SAP R/3 Berechtigungskonzept
+(SAP AG)
+
+10/2014            CRM 7.0    Authorzation Concept CRM
+(SAP AG)          (EHP1)

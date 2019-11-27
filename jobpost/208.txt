@@ -1,0 +1,17 @@
+System Administrator (M/W/D) 
+Unbefristete Festanstellung
+Vollzeit
+Deine Aufgaben
+Administration verschiedener Servertypen und IT Systeme auf Basis von Windows und Linux
+Überwachung der IT-Infrastruktur und Lizenzverwaltung
+Migration von Infrastruktursystemen/ Cloud Umgebungen
+Bearbeitung und Anpassung diverser Programme mittels gängiger Skriptsprachen
+Aufbau von virtuellen Umgebungen mit VMWare, Hyper-V oder Docker
+Inventarisierung von Soft-und Hardwarekomponenten 
+Pflege und Erstellung von Dokumentationen 
+Deine Qualifikationen
+Erfolgreich abgeschlossene Ausbildung als Fachinformatiker (W/M/D) oder eine vergleichbare Qualifikation
+Erfahrungen im Bereich der Netzwerktechnologien (LAN, WAN, VPN)
+Gute Kenntnisse in der Administration von Linux Systemen, Active Directory, Microsoft Windows Servern und/oder anderen Microsoft Produkten
+Gute Kenntnisse in der Automatisierung von IT-Prozessen und der Konfiguration komplexer IT Infrastrukturen
+Gute Deutsch- und Englischkenntnisse in Wort und Schrift

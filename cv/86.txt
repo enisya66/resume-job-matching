@@ -1,0 +1,85 @@
+DevOps Consultant, Ansible, Docker, Jenkins, Prozessautomatisierung und -optimierung, Microservices, Jira, Confluence
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.11.2019
+verfügbar zu
+100 %
+davon vor Ort
+80 %
+PLZ-Gebiet, Land
+D8D9
+Städte
+Nürnberg
+150 km
+München
+10 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+11/2018 - 05/2019
+
+7 Monate
+
+Umstellung der IT-Infrastruktur in eine cloud basiere Lösung
+
+Rolle
+DevOps Engineer
+Einsatzort
+Nürnberg
+Produkte
+Ansible
+10/2018 - 10/2018
+
+1 Monat
+
+Aufbau einer dockerisierten ETL-Umgebung
+
+Rolle
+DevOps Engineer
+Einsatzort
+Pullach im Isartal
+Kenntnisse
+Scrum JIRA Confluence Ansible Docker Jenkins
+Produkte
+Ansible Docker JIRA Confluence Jenkins
+09/2016 - 09/2018
+
+2 Jahre 1 Monat
+
+Entwicklung eines Realtime Messaging Systems
+
+Kompetenzen
+Produkte / Standards / Erfahrungen
+Ansible
+Apache Camel
+ApacheActiveMQ
+Confluence
+Docker
+Git
+Jenkins
+JIRA
+Proxmox
+Scrum
+Programmiersprachen
+Bash
+Groovy
+PHP
+Datenbanken
+MSSQLServer
+MySQL
+Postgres
+Schwerpunkte
+Ansible
+Bash
+Docker
+Linux
+Scrum
+Aus- und Weiterbildung
+02/2010 - 01/2012
+
+2 Jahre
+
+Computersystem- und Netzwerktechnik

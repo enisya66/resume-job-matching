@@ -1,0 +1,99 @@
+Erfahrener Berater, Architekt und Site Reliability Engineer für Linux, Hochverfügbarkeit, Cloud, DevOps und Big Data. Senior Management & Agile Expert
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.01.2020
+verfügbar zu
+80 %
+davon vor Ort
+20 %
+PLZ-Gebiet, Land
+Einsatzort unbestimmt
+Städte
+München
+100 km
+Hannover
+100 km
+Berlin
+50 km
+Hamburg
+50 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekthistorie
+o Leading SRE Big Data and Cloud team across of Scrum teams spanning over 25 projects/customers o Definition and implementation of Big Data SRE support and SPOCs (ITIL/DevOps) o Definition and implementation of a Real-time predictive maintenance monitoring for Big Data and Kubernetes clusters o Go-Live and SRE support of infrastructure components o Design, implementation and support of Cloudera Hadoop, Elasticsearch and Kafka clusters o Bring Data Scientists use-cases in Production mode o Design and implementation of Big Data Hub/Lake (infrastructure-as-code) and Kubernetes o Design, implementation and optimization of Kubernetes/Openshift clusters o Coach and mentor for team members to use the SRE + DevOps approach o Communicate with C-Level and Board of BU Managers for strategic initiatives and tactical vision o Responsible for P/L business unit
+Branchen
+Customer focus sector: • Semiconductor & System Solution (quoted in NASDAQ) • Automotive Industrial (quoted in DAX) • Media broadcast (quoted in DAX/MIB/LSE) • Telecommunication (quoted in NYS/LSE) • Insurance (+10000 employees)
+Kompetenzen
+Produkte / Standards / Erfahrungen
+Ansible
+AWS
+Container
+Elasticsearch
+Monitoringsysteme
+Puppet
+Virtualisierungssystem
+Sprachkenntnisse
+Deutsch
+fließend (Wort und Schrift)
+English
+fließend (Wort und Schrift)
+Italienisch
+Muttersprache
+Datenbanken
+Microsoft SQL Server
+MySQL
+PostgreSQL
+Betriebssysteme
+CentOS
+Linux
+Red Hat
+Ubuntu
+Unix
+VmWare
+Programmiersprachen
+Bash Shell
+PHP
+Python
+SQL
+Bemerkungen
+Betriebssystemkenntnisse:
+- Linux (Gentoo, Debian, Ubuntu, SuSE Linux Enterprise Server, SLES, Red Hat, RHEL, CentOS, Fedora)
+- Windows (Server and Desktop)
+- BSD (FreeBSD)
+- MacOS (MacOS X)
+
+Erfahrungen in Datenbanksystemen:
+- MySQL and MariaDB
+- PostgreSQL 
+- MS SQL Server 
+ 
+Monitoring System:
+- ELK Cluster
+- InfluxDB TICK Stack
+- Nagios/Zabbix
+- Grafana
+- Prometheus
+ 
+Automation:
+- Jenkins
+- Puppet
+- Ansible
+- Bitbucket/Git
+ 
+DataLake:
+- Cloudera Hadoop und CDSW
+- Kafka (Confluent, Cloudera und Kafka Connectors)
+- Kerberos und SSL
+ 
+Appliances: - Cisco ASA (FW und VPN) - Cisco Switches L3 - Cisco Routers  Soft Skills: - ITIL v.3 Foundation official course
+- Agile/Scrum official course
+- Site Reliability Engineering: Measuring and Managing Reliability (Coursera)  - CCNA official course  
+Weitere Erfahrungen:
+- Umfassende Kenntnisse der Systemadministration und - verwaltung inklusive Shell-Scripting, Automatisierung und Python-Programmierung
+- Aufsetzen von hoch verfügbaren Clustern und Hochlastsystemen basierend auf Standard-Software wie Hadoop, Cloudera, Kafka, HAProxy, Kubernetes, Mesos
+- Jira/Jira Service Desk/Confluence Customer Care Systeme 
+- Sehr gute Kenntnisse von Docker und Cloud AWS
+- Cybersecurity
