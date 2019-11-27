@@ -88,3 +88,24 @@ def generate_data_for_resume_matcher(filename):
     labels = df_labels.to_numpy()
     
     return pairs, labels
+
+def generate_data_for_sts():
+    """
+    Create array with .csv file for mapping as input
+    Args:
+        filename: name of the .csv file
+    Returns:
+        sts_train: dataframe of training set
+        sts_test: dataframe of test set
+    """
+    STS_COLUMNS = ['label','s1','s2']
+
+    # read data
+    sts_train = pd.read_csv('data/sts-train.csv',sep='\t',usecols=[i for i in range(4,7)],names=STS_COLUMNS)
+    sts_test = pd.read_csv('data/sts-test.csv',sep='\t',usecols=[i for i in range(4,7)],quoting=csv.QUOTE_NONE,names=STS_COLUMNS)
+    
+    # drop rows with nan values
+    sts_train = sts_train.dropna(axis=0,how='any')
+    sts_test = sts_test.dropna(axis=0,how='any')
+    
+    return sts_train, sts_test

@@ -13,6 +13,7 @@ import csv
 from statsmodels.nonparametric.kernel_regression import KernelReg
 
 # import functions
+from FileReader import generate_data_for_sts
 from DataGenerator import cleanup_text
 from EmbeddingUtils import word_embedding_metadata, create_test_data
 from ModelLSTM import SiameseBiLSTM
@@ -33,36 +34,8 @@ LEARNING_RATE = 0.001
 ACTIVATION_FUNCTION = 'relu'
 LOSS_FUNCTION = 'mse'
 
-STS_COLUMNS = ['label','s1','s2']
+sts_train, sts_test = generate_data_for_sts()
 
-# =============================================================================
-# # read data
-sts_train = pd.read_csv('data/sts-train.csv',sep='\t',usecols=[i for i in range(4,7)],names=STS_COLUMNS)
-sts_test = pd.read_csv('data/sts-test.csv',sep='\t',usecols=[i for i in range(4,7)],quoting=csv.QUOTE_NONE,names=STS_COLUMNS)
-#sts_other = pd.read_csv('data/sts-other.csv',sep='\t',usecols=[i for i in range(3,6)],names=STS_COLUMNS)
-#sts_mt = pd.read_csv('data/sts-mt.csv',sep='\t',usecols=[i for i in range(3,6)],names=STS_COLUMNS)
-#sts_dev = pd.read_csv('data/sts-dev.csv',sep='\t',usecols=[i for i in range(4,7)],names=STS_COLUMNS)
-
-# trial data augmentation
-#sts_train = sts_train.append(sts_other, ignore_index=True)
-#sts_train = sts_train.append(sts_dev, ignore_index=True)
-#sts_test = sts_test.append(sts_mt, ignore_index=True)
-
-# 
-sts_train.head()
-sts_test.head()
-# 
-# print('Training size is', sts_train.shape)
-# print('Test size is', sts_test.shape)
-# 
-# # drop rows with nan values
-sts_train = sts_train.dropna(axis=0,how='any')
-sts_test = sts_test.dropna(axis=0,how='any')
-# 
-# print('Training size is', sts_train.shape)
-# print('Test size is', sts_test.shape)
-# 
-# # train model
 x_train = sts_train.to_numpy()
 y_train = x_train[:,0]
 x_train = x_train[:,[1,2]]
