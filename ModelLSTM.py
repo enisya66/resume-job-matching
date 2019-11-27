@@ -53,19 +53,15 @@ class SiameseBiLSTM:
     
     def train_model(self, sentences_pair, categories, tokenizer, embedding_matrix, model_save_directory='./models/'):
         """
-        Train Siamese network to find similarity between sentences in `sentences_pair`
-            Steps Involved:
-                1. Pass the each from sentences_pairs  to bidirectional LSTM encoder.
-                2. Merge the vectors from LSTM encodes and passed to dense layer.
-                3. Pass the  dense layer vectors to sigmoid output layer.
-                4. Use cross entropy loss to train weights
+        Trains Siamese network to find similarity between sentences in `sentences_pair`
         Args:
             sentences_pair (list): list of tuple of sentence pairs
             categories (list): target values (1-5)
-            embedding_meta_data (dict): dict containing tokenizer and word embedding matrix
-            model_save_directory (str): working directory for where to save models
+			tokenizer (keras.Tokenizer): keras Tokenizer object containing word indexes
+			embedding_matrix (np.array): matrix of word indexes and respective word vectors
+            model_save_directory (str): working directory to save models
         Returns:
-            return (best_model_path):  path of best model
+            model: trained keras model
         """
         train_data_x1, train_data_x2, train_labels, leaks_train, \
         val_data_x1, val_data_x2, val_labels, leaks_val = create_train_dev_set(tokenizer, sentences_pair,
@@ -73,7 +69,7 @@ class SiameseBiLSTM:
                                                                                self.validation_split_ratio)
 
         if train_data_x1 is None:
-            print("++++ !! Failure: Unable to train model ++++")
+            print("No training data available")
             return None
 
         nb_words = len(tokenizer.word_index) + 1
@@ -85,12 +81,12 @@ class SiameseBiLSTM:
         # Creating LSTM Encoder
         lstm_layer = Bidirectional(LSTM(self.number_lstm_units))
 
-        # Creating LSTM Encoder layer for First Sentence
+        # Creating LSTM Encoder layer for first sentence
         sequence_1_input = Input(shape=(self.max_sequence_length,), dtype='int32')
         embedded_sequences_1 = embedding_layer(sequence_1_input)
         x1 = lstm_layer(embedded_sequences_1)
 
-        # Creating LSTM Encoder layer for Second Sentence
+        # Creating LSTM Encoder layer for second sentence
         sequence_2_input = Input(shape=(self.max_sequence_length,), dtype='int32')
         embedded_sequences_2 = embedding_layer(sequence_2_input)
         x2 = lstm_layer(embedded_sequences_2)
@@ -121,10 +117,9 @@ class SiameseBiLSTM:
         model.compile(loss=self.loss_function, optimizer=nadam, metrics=['accuracy'])
         #model.compile(loss=self.contrastive_loss, optimizer=rms, metrics=['accuracy'])
 
-        
         # print model
         model.summary()
-
+		# stops training when there's no improvement
         early_stopping = EarlyStopping(monitor='val_loss', patience=3)
 
         STAMP = 'lstm_%d_%d_%.2f_%.2f' % (self.number_lstm_units, self.number_dense_units, self.rate_drop_lstm, self.rate_drop_dense)
@@ -139,13 +134,15 @@ class SiameseBiLSTM:
         model_checkpoint = ModelCheckpoint(bst_model_path, save_best_only=True, save_weights_only=False)
 
         tensorboard = TensorBoard(log_dir=checkpoint_dir + "logs/{}".format(time.time()))
-
+		
+		# happy training
         history = model.fit([train_data_x1, train_data_x2, leaks_train], train_labels,
                   validation_data=([val_data_x1, val_data_x2, leaks_val], val_labels),
                   epochs=25, batch_size=64, shuffle=True,
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
         
-        plt.plot(history.history['loss'])
+        # plot metrics graphs
+		plt.plot(history.history['loss'])
         plt.xlabel('epochs')
         plt.ylabel('loss')
         plt.show()
