@@ -1,0 +1,201 @@
+Senior Software Engineer, Testautomatisierung, Testvorbereitung Testdurchführung Testdokumentation, Testmanagement
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+20.11.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D5D6
+Städte
+Köln
+100 km
+Frankfurt am Main
+100 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Projekte
+04/2016 - 09/2019
+
+3 Jahre 6 Monate
+
+Qualitätssicherung des GK-Portals der Deutschen Telekom AG, in der Geschäftskunden die Möglichkeit haben, ihre Geschäftsprozesse übers Internet abzuschließen.
+
+Rolle
+Testautomatisierer
+Kunde
+Deutsche Telekom AG
+Einsatzort
+Bonn
+Projektinhalte
+Mitarbeit in einem agilen Projekt als Verantwortlicher für Test- und Qualitätssicherung
+Review von Dokumenten, Anforderungsdokumenten und Fachkonzepten
+Erstellung und Aktualisierung von (funktional, integrativ und geschäftsprozessorientiert) Testfällen basierend auf User-Stories, technische Dokumentationen und Fachkonzepte
+Tracking der Fehler und Verifikation der Fehlerbehebung (Retests)
+Automatisierung von Testfällen unter Verwendung von Selenium, Cucumber und Serenitiy BDD (Testautomatisierungsframework)
+Aktualisierung von automatisierten Regressionstestfällen
+Ausführung und Überwachung automatisierter Testfälle
+Spezifikation und Durchführung von Integrationstestfällen mit anderen Partnersystemen (CARMEN/ OMS-OE/ CCOS)
+Dokumentation der Testergebnisse (ALM/ Jira)
+Teilnahme an Story-Times und Stand-Up Meetings
+Erstellung von Teststatusreports
+Präsentation der Sprintergebnisse in Review Meetings
+Automatisierung von Schnittstellentests mittels SoapUI
+Erstellung und Anonymisierung von Testdaten mittels Shell Skripten und SoapUI (Webservices)
+Wahrnehmung von Testkoordinationsaufgaben und Transition der Testaufgaben an russische Kollegen von T-Systems
+Erweiterung der Testautomatisierung und Integration in die neue Umgebungen, Testobjekte und Anforderungen
+Kenntnisse
+Selenium Eclipse Cucumber Serenity HP QualityCenter Jira Soap UI OMS SOA-Backplane CCOS Customer Care Billing System
+04/2014 - 04/2016
+
+2 Jahre 1 Monat
+
+B2B Event Processor Qualitätssicherung des Business Prozesses Client-Portal des Deutschen Telekom Konzerns BEP. Hierbei geht es um das im Internet basierte Prozessieren von Festnetzaufträgen durch Geschäftskunden der DT. Telekom AG.
+
+04/2012 - 04/2014
+
+2 Jahre 1 Monat
+
+Testkoordination und Qualitätssicherung des B2B Event Processor (BEP) des Deutschen Telekom Konzerns. Geschäftskunden haben die Möglichkeit ihre Geschäftsprozesse, wie Neugeschäft, Bestandsgeschäfts, Vertragsverlängerungen und Kundenadministration
+
+04/2009 - 03/2012
+
+3 Jahre
+
+Testkoordination und Qualitätssicherung des Business Service Portals (BSP) des Deutschen Telekom Konzerns. Geschäftskunden haben die Möglichkeit ihre Geschäftsprozesse wie Neugeschäft, Bestandsgeschäfts, Vertragsverlängerungen und Kundenadministration.
+
+04/2006 - 03/2009
+
+3 Jahre
+
+Testkoordination und Qualitätssicherung des System zur Administration von Rahmenverträgen (SARAH) in dem Geschäftskunden die Möglichkeit haben, ihre Geschäftsprozesse, Aufträge für Sonderkonditionen der Rahmenverträge und mehr.
+
+04/2003 - 03/2006
+
+3 Jahre
+
+Testkoordination und Qualitätssicherung des T-Mobile Extra Ordners (TEO) des Deutschen Telekom Konzerns. Geschäftskunden haben die Möglichkeit ihre Geschäftsprozesse wie Neugeschäft, Bestandsgeschäfts, Vertragsverlängerungen und Kundenadministration.
+
+09/2002 - 03/2003
+
+7 Monate
+
+Test von Mediation
+
+03/2001 - 08/2002
+
+1 Jahr 6 Monate
+
+Testing von Billing-Systemen (Amdocs)
+
+05/2000 - 02/2001
+
+10 Monate
+
+Mediation Device
+
+Projekthistorie
+Der Kandidat verfügt über langjährige Erfahrung im Testen moderner Softwaresysteme, im Umgang mit verschiedenen Testmethoden sowie in der Entwicklung von Software. Seine schnelle Auffassungsgabe, die analytische Arbeitsweise und das ausgesprochen methodische Vorgehen kommen ihm bei den Konzeptions-, Entwicklungs-und Testaktivitäten zugute. Der Kandidat hat Programmiererfahrung in aktuellen Programmier- und Skriptsprachen wie C, Java, JavaScript, Visual Basic, SQL, AWK, Perl, PHP und Python. Sicheres Auftreten, Selbstständigkeit, Kundenorientierung und Flexibilität runden sein Profil ab.
+Branchen
+Telekommunikation IT-Dienstleistung
+Kompetenzen
+Produkte / Standards / Erfahrungen
+ANSI C-Programmierung
+Apache CXF
+Apache Maven
+Apache Struts
+ASCII
+Atlassian
+Axway
+CCOS
+ClearQuest
+Cucumber
+Customer Care & Billing System
+Customer Care Billing System
+ebXML
+Eclipse
+Exceed
+Git
+HP QTP
+HP Quality Center
+HP QualityCenter
+HPQuickTest
+HTML
+Java Server Faces
+JavaServer Faces
+JBoss
+JetBrains TeamCity
+Jira
+JMeter
+MS Office
+OMS
+OMS/ OE Webportale (B2B)
+OMS/OE
+Rational DDTL
+Rational DDTS
+Selenium
+Serenity
+Shell Scripting
+SOA-Backplane
+SOA-BP
+SOAP
+SoapUI
+TOAD
+V-Modell
+XML
+XML Spy
+XML-SPY
+XSLT
+Programmiersprachen
+ASN.1
+Java
+JEE
+Perl
+PHP
+Python
+Datenbanken
+Oracle
+SQL
+Betriebssysteme
+Linux
+Windows
+Bemerkungen
+  ZERTIFIKATE   ISTQB – Certified Tester - Foundation Level     ISTQB Certified Tester - Advanced Level     ITIL V3 Foundation   PSM1 Professional Scrum Master    
+Ausbildungshistorie
+MANAGEMENT SUMMARY  Der Kandidat verfügt über langjährige Erfahrung im Testen moderner Softwaresysteme, im Umgang mit verschiedenen Testmethoden sowie in der Entwicklung von Software. Seine schnelle Auffassungsgabe, die analytische Arbeitsweise und das ausgesprochen methodische Vorgehen kommen ihm bei den Konzeptions-, Entwicklungs-und Testaktivitäten zugute. Der Kandidat hat Programmiererfahrung in aktuellen Programmier- und Skriptsprachen wie C, Java, JavaScript, Visual Basic, SQL, AWK, Perl, PHP und Python. Sicheres Auftreten, Selbstständigkeit, Kundenorientierung und Flexibilität runden sein Profil ab.    ZERTIFIKATE 
+ISTQB – Certified Tester - Foundation Level
+ISTQB Certified Tester - Advanced Level
+ITIL V3 Foundation
+PSM1 Professional Scrum Master
+   BRANCHENKENNTNISSE 
+Telekommunikation
+IT-Dienstleistung
+  KNOW HOW SCHWEREPUNKTE   FACHSPEZIFISCHES 
+Testautomatisierung
+Testvorbereitung Testdurchführung
+Testdokumentation
+Schnittstellentests
+Testkoordination
+Konzeption und Durchführung von Last- und Performancetests
+ TOOLS 
+Selenium Webdriver
+Cucumber
+Microfocus UFT
+Microfocus ALM
+SoapUI
+  PRODUKTE/STANDARDS 
+SCRUM / Agile Projekte
+REST API ; JSON API Webservices
+SOA-Backplane
+Eclipse
+TOAD
+   PROGRAMMIERSPRACHEN 
+Perl
+Unix Shell
+Java EE 8
+SQL / NoSQL Datenbanken
+JMeter

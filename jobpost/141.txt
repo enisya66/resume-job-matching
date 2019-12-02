@@ -21,9 +21,3 @@ Idealerweise erste Erfahrung im Test mobiler Anwendungen und Apps
 Fundierte Kenntnisse in HP-ALM und JIRA sowie in Testdesignmethoden
 Wünschenswert sind mehrjährige Testerfahrung im Bereich des funktionalen Tests und eine Zertifizierung nach Scrum
 Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
-Sie haben noch offene Fragen oder möchten schnellstmöglich mit uns in Kontakt treten? Ihr persönlicher Kontakt in Rhein-Main:
-
-Karl Schmidt
-Tel. 069-999911614
-Mobil (inkl. WhatsApp* und SMS): 01525-4507083
-E-Mail: karl.schmidt@gulp.de

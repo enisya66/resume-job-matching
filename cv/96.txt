@@ -1,0 +1,155 @@
+zertifizierter Scrum Master, Agile Coach und Product Owner
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+15.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9ÖsterreichSchweizEinsatzort unbestimmt
+Position
+Kommentar
+zertifizierter Scrum Master, Product Owner und Agile Coach
+Projekte
+07/2018 - 09/2018
+
+3 Monate
+
+Senior Entwickler, Migration von Natural nach C#
+
+Rolle
+Senior Entwickler
+Kunde
+DWS
+Einsatzort
+Frankfurt am Main
+Projektinhalte
+Viele Code-Module zur Verwaltung von Investment-Fonds bei der DWS sind noch in Natural und COBOL geschrieben. Diese Module wurden bereits in Teilen zu C# und .NET migriert, verwenden dabei jedoch noch Entwicklungsparadigmen und Systemarchitekturen, die aus der Mainframe-Welt stammen. Als Senior-Entwickler war es meine Aufgabe, das bestehende Entwickler-Team dabei zu unterstützen und zu coachen, objektorientierte Ansätze bei der Entwicklung zu nutzen und Systemarchitekturen zu überarbeiten.
+Kenntnisse
+c# Natural BiztalkServer GIT Subversion
+01/2018 - 06/2018
+
+6 Monate
+
+Fullstack Developer in einem Scrum Team
+
+Rolle
+Fullstack Developer
+Kunde
+Yello Strom
+Einsatzort
+Köln
+Projektinhalte
+Fullstack Entwickler in einem cross-funktionalem Scrum-Team. Das Team, bestehend aus Entwicklern, UX-Designer und Redakteuren, war verantwortlich für die Konzeption und Entwicklung eines zukünftigen Kundenportals.
+Kenntnisse
+Scrum KanbanTeam Foundation Server Microsoft Azure C# KnockoutJS VueJS MS SQL Server
+09/2016 - 12/2017
+
+1 Jahr 4 Monate
+
+Scrum Master in einem remote arbeitendem Scrum-Team
+
+03/2008 - 03/2013
+
+5 Jahre 1 Monat
+
+Integration Engineer / Projekt Manager
+
+Projekthistorie
+ÜBER MICH   Seit mehr als 10 Jahren arbeite ich in und mit agilen Teams und Organisationen als Softwareentwickler, Projektleiter und Scrum Master. Agilität bedeutet für mich mehr als Methoden und Prozesse. Sie definiert auch die Art und Weise, wie Menschen miteinander arbeiten; respektvoll und selbstorganisiert, mit Raum, um die eigenen Stärken zu entwickeln und mit klarem Fokus auf die Bedürfnisse der Kunden.   Als zertifizierter Scrum Master, Product Owner und Agile Coach unterstütze ich mit Leidenschaft Organisationen dabei, ungenutzte Potentiale in den Teams freizusetzen und die zunehmenden Veränderungen der Zukunft für sich nutzbar zu machen.   ZERTIFIKATE   Professional Scrum Master I (scrum.org) Professional Scrum Master II (scrum.org) Professional Scrum Product Owner I (scrum.org) Professional Agile Leadership (scrum.org)
+Programmiersprachen
+.NET
+Angular
+ASP.NET
+Basic
+sehr gute Kenntnisse
+C
+Grundkenntnisse
+c#
+C++
+Grundkenntnisse
+Java
+Grundkenntnisse
+JavaScript
+sehr gute Kenntnisse
+Natural
+PHP
+gute Kenntnisse
+ASP (sehr gute Kenntnisse)
+C# (sehr gute Kenntnisse)
+VB.NET (sehr gute Kenntnisse)
+XML (sehr gute Kenntnisse)
+XSLT (sehr gute Kenntnisse)
+T-SQL (sehr gute Kenntnisse)
+VBA (gute Kenntnisse)
+Visual Basic (gute Kenntnisse)
+Betriebssysteme
+Mac OS
+gute Kenntnisse
+SUN OS, Solaris
+Grundkenntnisse
+Unix
+gute Kenntnisse
+Windows
+sehr gute Kenntnisse
+Datenbanken
+Access
+sehr gute Kenntnisse
+Analysis Services
+Microsoft SQL Server
+MS SQL Server
+sehr gute Kenntnisse
+MS SQL Server Reporting Services
+MySQL
+sehr gute Kenntnisse
+Sprachkenntnisse
+Deutsch
+Englisch
+Datenkommunikation
+TCP/IP
+gute Kenntnisse
+HTTP (sehr gute Kenntnisse) SOAP (sehr gute Kenntnisse)
+Produkte / Standards / Erfahrungen
+BiztalkServer
+Confluence
+GIT
+JIRA
+Kanban
+Microsoft Azure
+Scrum
+Subversion
+Team Foundation Server
+.NET (sehr gute Kenntnisse) ASP.NET (sehr gute Kenntnisse) JQuery Regular Expression Silverlight NUnit Selenium CSS MS Powershell WinForms WebForms Windows Communication Foundation (WCF) Windows Presentation Foundation (WPF) Windows Workflow Foundation (WF) Enity Framework NHibernate  
+Bemerkungen
+Toos, Methoden - Scrum - Kanban - User Story Mapping - Gewaltfreie Kommunikation nach Rosenberg - JIRA - Object Key Results - Team Foundation Server - Confluence - Design Thinking - Lean Startup - Trello
+Aus- und Weiterbildung
+04/2019 - 04/2019
+
+1 Monat
+
+Professional Agile Leadership I (PAL I)
+
+09/2018 - 09/2018
+
+1 Monat
+
+Professional Scrum Master II (PSM II)
+
+07/2018 - 07/2018
+
+1 Monat
+
+Professional Scrum Master I (PSM I)
+
+07/2018 - 07/2018
+
+1 Monat
+
+Professional Scrum Product Owner I (PSPO I)
+
+Ausbildungshistorie
+09/1999 - 03/2002 Informatikstudium an der Fachhochschule Stralsund
+04/2002 - 04/2007 Informatikstudium an der Universität Paderborn 

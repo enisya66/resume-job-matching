@@ -21,9 +21,3 @@ Folgendes wäre wünschenswert:
 
 Fundierte Kenntnisse in .NET, C# und Angular
 Erfahrung in der Einführung von MS Dynamics NAV 
-Wir bieten außerdem
-Es erwartet Dich ein modernes, offenes und kommunikatives Arbeitsumfeld
-Außerdem moderne und zentral gelegene Büroräume mit Blick auf die Elbe
-Die Teilnahme an verschiedenen Seminaren, wie Persönlichkeits-, Führungskräfte- oder Kompetenzschulungen
-Die Möglichkeit des persönlichen und individuellen Coachings
-Ein dynamisches Team 

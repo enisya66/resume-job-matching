@@ -1,0 +1,245 @@
+Freiberuflich tätig für mehr Qualität in Ihren IT-Projekten: Testmanagement (ISTQB), Testkoordination, Defectmanagement, klassische und agile Projekte
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+02.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Kommentar
+Deutschland: Bevorzugt D6 (Frankfurt, 5-Tage-Woche) sonst nach Absprache und Entfernung 4-Tage-Woche Gelegentliche Reisen (national / international) möglich Arbeitserlaubnis: deutscher Staatsbürger
+Position
+Kommentar
+IT-Consultant mit Schwerpunkt Testmanagement
+ISTQB Testmananger, IREB Requirements Engineer, PMP, Scrum Master, Mediator
+Projekte
+08/2017 - 07/2019
+
+2 Jahre
+
+Kreditentscheidung
+
+Rolle
+Testmanager
+Einsatzort
+Eschborn
+Kenntnisse
+Testmethodik
+Produkte
+Silk Jira
+08/2017 - 11/2017
+
+4 Monate
+
+SAP Soplex CLS-Einführung
+
+Rolle
+Testmanager
+Einsatzort
+Eschborn
+Kenntnisse
+Testmethodik
+Produkte
+Silk JIRA
+04/2017 - 07/2017
+
+4 Monate
+
+Regulatorik: Gruppe verbundener Kunden
+
+Rolle
+Testmanager
+Kunde
+Leasing-Gesellschaft
+Einsatzort
+Eschborn
+Projektinhalte
+Testmanagement, Defectmanagement.
+07/2016 - 03/2017
+
+9 Monate
+
+Regulatorik: Rating
+
+03/2016 - 06/2016
+
+4 Monate
+
+Umstellung der Zahlungsweise einer Versicherung für ein Leasing-Produkt
+
+08/2015 - 02/2016
+
+7 Monate
+
+Einführung Versicherung für ein Leasing-Produkt
+
+03/2014 - 06/2015
+
+1 Jahr 4 Monate
+
+Aktualisierung SAS-Plattform
+
+09/2013 - 01/2014
+
+5 Monate
+
+Jahresendreporting (Jahressteuerbescheinigung)
+
+04/2013 - 08/2013
+
+5 Monate
+
+Aktualisierung Kaufsoftware Dokumentengeschäft
+
+11/2011 - 03/2013
+
+1 Jahr 5 Monate
+
+Neuausrichtung der IT nach Verkauf der Privatkundensparte
+
+04/2011 - 10/2011
+
+7 Monate
+
+Retail-Anwendung für Schalter-Mitarbeiter, Druckoutput
+
+09/2010 - 04/2011
+
+8 Monate
+
+Jahresendreporting (Jahressteuerbescheinigung)
+
+05/2009 - 06/2010
+
+1 Jahr 2 Monate
+
+mehrere Projekte, auch Migrationsprojekt: Test Infrastruktur Management (Host und Client/Server)
+
+06/2008 - 05/2009
+
+1 Jahr
+
+mehrere Projekte: Legal Split, Abgeltungsteuer, Verschmelzung mit anderer Großbank: Umstellung Druckformulare
+
+04/2006 - 10/2008
+
+2 Jahre 7 Monate
+
+Hardware-Rollout: Migration von bestehender bzw. aktualisierter Software auf neuer Hardware
+
+02/2006 - 03/2006
+
+2 Monate
+
+Neuer Webauftritt
+
+11/2005 - 02/2006
+
+4 Monate
+
+Optimierung des bestehenden Testvorgehens
+
+10/2004 - 09/2005
+
+1 Jahr
+
+Einführung einer neuen technischen Plattform sowie Archivierung
+
+09/2004 - 10/2004
+
+2 Monate
+
+Vereinfachung der Auftragsabwicklung
+
+06/2003 - 08/2004
+
+1 Jahr 3 Monate
+
+Einführung Corebanking-System
+
+Projekthistorie
+Seit 05/2008: Freiberufliche Tätigkeit, Schwerpunkt Testmanagement   11/2005 - 04/2008: Logica, Consultant, Schwerpunkt Test- und
+Qualitätsmanagement   04/1996 - 10/2005: CSC, Consultant, Schwerpunkt Test- und Qualitätsmanagement
+Branchen
+Leasing, Versicherung
+Bank/Großbank/Finanzinstitut: Giro, Wertpapier, Dienstleistungserfassung, Zusammenlegung / Trennung von Banken
+Inkasso-Gesellschaft
+Luftfahrt
+Logistikdienstleister
+Retail
+Kompetenzen
+Programmiersprachen
+C
+veraltete Kenntnisse
+C++
+veraltete Kenntnisse
+Cobol
+veraltete Kenntnisse
+Betriebssysteme
+Windows
+Anwender
+Datenbanken
+Access
+Anwender
+DB2
+veraltet
+Lotus Notes
+Anwender
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+sehr gut (BULATS Level 4 von 5)
+Französisch
+gut
+Englisch: Verstehen: sehr gut / Sprache: fließend / Schrift: gut - BULATS Level 4 von 5
+Französisch: Verstehen: gut / Sprache: gut / Schrift: wenig Übung
+
+Hardware
+IBM Großrechner
+veraltete Erfahrung Hostentwicklung; aktuelle Erfahrung Test im Online- und Batch-Bereich
+PC
+Nutzer; aktuelle Erfahrung Test unterschiedliche Anwendungen im C/S-Bereich
+Datenkommunikation
+Internet, Intranet
+Anwender
+Produkte / Standards / Erfahrungen
+Acceptance Test
+methodischer Hauptschwerpunkt
+Atlassian JIRA
+gut
+HP ALM
+(früher: HP Qualitycenter) - Module: TestPlan, TestLab, Defects, Requirements, Releases
+JIRA
+MS Office
+Word, Excel, Powerpoint - sehr gut. Project - gut
+Silk
+Silk Test
+gut
+Testmanagement
+methodischer Hauptschwerpunkt
+Testmethodik
+HP ServiceCenter: Grundkenntnisse
+Mercury Quick Test Professional: Grundkenntnisse
+ClearQuest: gut
+Vignette CMS: Grundkenntnisse, inzwischen nicht mehr aktuell
+Serena ChangeMan Dimensions: gut, inzwischen nicht mehr aktuell
+RationalRose ClearCase: gut, inzwischen nicht mehr aktuell
+RequisitePro: gut, inzwischen nicht mehr aktuell
+SQS: veraltet
+Intertest: veraltet
+Xpediter: veraltet
+
+Ausbildungshistorie
+09/1991 - 02/1996: Technische Informatik, Abschluss: Dipl.Ing.(FH)
+04/1989 - 04/1991: Ausbildung zur DV-Kauffrau
+06/1983: Allgemeine Fachhochschulreife
+ 
+Zertifizierungen 2018: Scrum Master 2016: ISTQB Foundation Level Extension, Agile Tester 2015: Ausbildung zur Mediatorin 2010: ITIL (Foundation Level) 2009: Requirements Engineer (IREB) 2008: Project Manager Professional (PMP)                                                                                  2007: ISTQB Advanced Level Testmanager    2007: ISTQB Certified Tester

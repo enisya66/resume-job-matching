@@ -1,0 +1,249 @@
+Senior Test Manager Banken - Qualitäts-, Testmanagement, Testprozessverbesserungen - ISTQB Certified Tester Expert Level & Advanced Level: TM, TA, TTA
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+18.10.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D1D2D4D5D6
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Position
+Kommentar
+Testmanager
+(Senior) Testmanager
+Testkoordinator
+Abweichungsmanager
+Projekte
+04/2019 - Heute
+
+8 Monate
+
+Aufbau und Migration eines Rechenzentrums
+
+Rolle
+Testmanager
+Kunde
+Banken
+Projektinhalte
+Aufbau der IT-Infrastruktur
+Einrichtung der Basisdienste für ein Out-of-Band Management
+IT-Grundschutz BSI
+Vorbereitung Geo-Redundanz
+Hochverfügbarkeit, Tier 4-Klassifizierung
+Anbindung von Standorten
+Überführung der Services aus dem bestehenden Rechenzentrums-betrieb
+Transformation von Services
+  Aktivitäten
+Teilprojektleitung Test für mehrere Projekte
+Erstellung einer Teststrategie für das Gesamtprogramm
+Vorgabe und Implementierung eines Testprozesses auf Programmebene
+Erstellung von aufeinander aufbauenden Testkonzepten für die vom Programm verantworteten Teilprojekte
+Festlegung von Testvorgehen und -methoden
+Testplanung und -vorbereitung von Systemintegrations-, System- und Abnahmetests
+Verantwortung der Testaktivitäten
+Koordination der Testbeteiligten (Projektmitarbeiter, IT-Betrieb, IT-Compliance und Fachbereiche)
+Durchführung von Anforderungsreviews
+Durchführung von Quality Gates
+Berichterstattung an die Programm-/Projektleitungen(en)
+Einführung von Tricentis Tosca Test Suite zwecks Unterstützung des Testprozesses
+Einführung Testautomatisierung (im Rahmen der Überführung der Services)
+05/2017 - 12/2018
+
+1 Jahr 8 Monate
+
+Einführung SAP Payment Engine (Zahlungsverkehr, SEPA)
+
+Rolle
+Testmanager
+Kunde
+Banken
+Projektinhalte
+Teilprojektleitung
+Umsetzung der unternehmensseitig vorgegebenen Teststrategie
+Verantwortung aller Testaktivitäten
+Erstellung von Testplänen
+Festlegung von Testvorgehen und -methoden
+Testplanung und -vorbereitung von Systemintegrations-, System- und Abnahmetests
+Durchführung von Anforderungsreviews
+Steuerung eines 5-köpfigen Testteams
+Testen im agilen Entwicklungsumfeld (Scrum)
+Einbindung von HP Quality Center zwecks Unterstützung des Testprozesses
+01/2015 - 04/2017
+
+2 Jahre 4 Monate
+
+Financial Crime Compliance (AML, CDD, KYC, FCRM)
+
+02/2014 - 12/2014
+
+11 Monate
+
+Einführung internationale Rechnungslegung/Bilanzierung nach IFRS
+
+04/2012 - 08/2013
+
+1 Jahr 5 Monate
+
+Einführung Testautomatisierung
+
+11/2011 - 03/2012
+
+5 Monate
+
+Einführung eines Kreditantragssystems KMU
+
+02/2011 - 11/2011
+
+10 Monate
+
+Einführung eines Steuerverwaltungssystems
+
+10/2010 - 02/2011
+
+5 Monate
+
+Einführung elektronischer Dokumentenversand
+
+09/2008 - 10/2010
+
+2 Jahre 2 Monate
+
+Testdatenmanagement
+
+08/2009 - 05/2010
+
+10 Monate
+
+Migration eines Kreditkartensystems
+
+09/2008 - 06/2009
+
+10 Monate
+
+Entwicklung und Einführung eines Kernbanksystems
+
+04/2008 - 08/2008
+
+5 Monate
+
+Einführung Chipkarte; Umsetzung EMV-Standard
+
+06/2007 - 03/2008
+
+10 Monate
+
+Entwicklung und Einführung eines Kernbanksystems
+
+07/2006 - 06/2007
+
+1 Jahr
+
+Entwicklung und Einführung eines Kernbanksystems
+
+01/2006 - 06/2007
+
+1 Jahr 6 Monate
+
+Testkoordination Kundenselbstbedienungskanäle
+
+01/2006 - 06/2006
+
+6 Monate
+
+Einführung einer Software
+
+07/2005 - 11/2005
+
+5 Monate
+
+Einführung einer Software
+
+Branchen
+Banken
+Finanzdienstleistungen
+Öffentliche Verwaltung
+Steuerverwaltung
+Versicherung
+Kompetenzen
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+Fließend in Wort und Schrift
+Französisch
+Grundkenntnisse
+Spanisch
+Grundkenntnisse
+Produkte / Standards / Erfahrungen
+Testwerkzeuge
+HP ALM, Quality Center
+HP Quick Test Professional
+Atlassian JIRA  
+
+Standard-SW
+Microsoft Office (Access, Excel, Power Point, Word)
+MS Project
+MS Visio
+  Bankfachliche Kenntnisse
+Aktivgeschäft: Kurz- und langfristiges Kreditgeschäft, Besicherung von Krediten.  Produkte
+Immobilien-, Konsumenten-, Kontokorrentkredite
+Unternehmensfinanzierungen
+
+Passivgeschäft Wertschriftenhandel und –abwicklung, Depotverwaltung.
+Produkte
+Renten
+Aktien
+Fonds
+Derivate
+Strukturierte Produkte
+  Weitere Abgeltungssteuer, AML, Call-Center, Customer Due Diligence,  Card-Banking, Devisenhandel, Financial Crime Compliance, Finanzbuchhaltung, Finanzplanung, Finanztransaktionssteuern, Geldwäschebekämpfung, Kundenselbstbedienungskanäle ( Geldauto-maten, Internet-Banking, Kunden-Terminals und Telefon-Banking), Know-Your-Customer, Kreditkarten, OECD Common Reporting Standard, SEPA, Tax Transparency, Zahlungsverkehr  Schwerpunkte Qualitätsmanagement: Organisations- und Prozessberatung; Testmanagement, Testkoordination, Schulung und Einführung von Methoden, Verfahren und Werkzeugen zur Software-Entwicklung und Wartung, insbesondere der Qualitätssicherung und Aufwandschätzung, Systemanalyse, Systementwicklung; Abweichungsmanagement  Fachlich
+Test- und Abweichungsmanagement von Multi-Systemen im Bankenumfeld (Deutschland, Schweiz)
+Testmanagement von Multi-Systemen der Öffentlichen Verwaltung (Schweiz)
+ Persönlich
+Überzeugte in seinen Tätigkeiten als Test- und/oder Abweichungsmanager, Berater durch tragfähige, praxisorientierte und kreative Lösungsansätze
+Kommunikationsstark mit hoher Teamorientierung
+ Projekte (Auszug)
+Teilprojektleitung mit Schwerpunkt Testmanagement Aufbau und
+Migration Rechenzentrum
+Teilprojektleitung mit Schwerpunkt Testmanagement Einführung SAP Payment Engine
+Senior Testmanager Financial Crime Compliance (AML, CDD, KYC, FCRM)
+Senior Testmanager Wertpapierabwicklung und Depotverwaltung
+Testmanager - Einführung eines Steuerverwaltungssystems
+Testkoordination – Einführung Bilanzierung nach IFRS im Bankenumfeld
+Test- und Abweichungsmanager - Einführung elektronischer Dokumentenversand für Internet-Kunden; Migration historischer Daten (Dokumente)
+Test- und Abweichungsmanager - Migration eines Kreditkartensystems
+Abweichungsmanager - Entwicklung und Einführung eines Kernbanksystems
+ Vorgehensmodelle(Software) Dokumententests (Review der Testbasis), Integrationstest, Migrationstest, funktionales, nichtfunktionales und exploratives Testen, risikobasiertes Testen, Testanalyse, Testentwurf, Testplanung und -durchführung, Berichterstattung, Testdaten- und Umgebungsmanagement, Testmanagement; Testprozessverbesserung  Qualitätsmanagement/Normen/Standards/Regularien Abweichungsmanagement  Projektmanagement
+Business Service Management
+Geschäftsprozessanalyse
+Projektmanagementunterstützung
+Risikomanagement
+ Werkzeuge Testmanagement/Testverwaltung/Testdatenmanagement HP ALM/Quality Center, Tricentis Tosca Test Suite  Test Automation HP UFT (ehemals HP OTP)  Anforderungsmanagement HP ALM/Quality Center, JIRA  Prozessmodellierung MS Visio, SPARX Enterprise Architect  Abweichungsmanagement HP ALM/Quality Center, JIRA   Standard- / Branchensoftware MS Office, OpenOffice  Weitere MS Project  Technologien (F)DWH, Business Rule Engines, Event Driven Logic, IBM webSphere,  SAP: BA, BI, CO, FI, HANA, PE  Auswahl – Branchenerfahrung Banken Migration Kernbanksystem (Kundenstammdaten, Karten, Kredit, Wertpapier, Anlage- und Zahlungsverkehrskonten, Zahlungsverkehr, SEPA, FinCon), Migration Kreditkartensystem, Wertschriften (Non-Order-Room Institutionelle Anleger, Non-Order-Room Privatkunden, Wertpapierabwicklung, Depotverwaltung, Namensaktienverwaltung, Einführung Finanztransaktionssteuer, Einführung Abgeltungssteuer), Einführung eines Kreditantragssystems für KMU, Filialanwendungen (Aktiv- und Passivgeschäft), Kundenselbstbedienungskanäle (Internet Banking inkl. elektronischem Dokumentenversand und -archivierung, Kontoticker (E-Mail-/SMS-Alerts), Telefon-Banking, Geldautomaten und Kunden-terminals), Compliance (AML, CDD, CRS, Geldwäschebekämpfung, KYC, FATCA, Name Screening) Migration Zahlungsverkehrssystems, IT Compliance (Informationssicherheit, IT-Sicherheit, Datenschutz, BAIT), IT-Betrieb (Aufbau und Migration eines Rechenzentrums inkl. Geo-Redundanz)  Öffentliche Verwaltung (Steuerverwaltung, Behörden) Migration Steuerverwaltungssystem: Schwerpunkt: Kundenstammdaten, Datenübernahme von Bestandssystemen,  Mitarbeiterportal: Stammdatenbewirtschaftung  Auswahl – Qualitätsmanagement- und Testerfahrung (Senior) Testmanager Teststrategie, Testkonzeption und -methodik, Testplanung und -vorbereitung, Durchführung von Anforderungsreviews, Testanalyse und -entwurf, Durchführung von Quality Gates, Einbindung von Testwerkzeugen (HP ALM, Tricentis Tosca Test Suite) zwecks Unterstützung des Testprozesses, Ausbildung von Testern, kontinuierliche Verbesserung des Testprozesses, Einführung von Testautomatisierung (HP UFT), Einführung von Managed Services  Abweichungsmanager Konzeption, Aufbau und Durchführung des Abweichungsmanagements, fortlaufende Verbesserung des Abweichungsmanagements, Umsetzung und Einhaltung bestehender Standards und Richtlinien, Multiplikator für das Testmanagement-Werkzeug HP ALM, Quality Center  Testkoordinator Beratung der Projektleitung und der Kunden bezüglich der Teststrategie und -methoden, Planung projektspezifischer Testprozesse sowie den dazugehörigen Testfällen in Abstimmung mit der Projektleitung, einplanen und koordinieren von Testaktivitäten im System- und Abnahmetest, der Belegung von Testumgebungen, der Bereitstellung von Testinfrastruktur wie Testverbindungen zu Umsystemen interner als auch externer Testsysteme, Kunden-Betreuung bei Software- und Hardware-Tests
+Datenbanken
+IBM DB2
+Oracle
+SAP HANA
+Programmiersprachen
+4GL-Sprachen
+Objektorientierte Sprachen
+Skriptsprachen
+VB-Script
+Ausbildungshistorie
+Diplom-Volkswirt, Universität Köln Bankkaufmann, Sparkasse Lüdenscheid  ISTQB Zertifizierungen
+11/2015 Certified Tester Expert Level – Implementing Test Process Improvement  12/2010 Certified Tester Advanced Level – Technical Test Analyst   09/2010 Certified Tester Advanced Level – Test Analyst  09/2009 Certified Tester Advanced Level – Test Manager  12/2008 Certified Tester Foundation Level     Ausbildung/Studium
+
+10/96 - 05/03 Universität zu Köln, Studium der Volkswirtschaftslehre, Abschluss: Diplom-Volkswirt
+07/00 - 03/02 Universität zu Köln, Seminar für Allgemeine Betriebswirtschaftslehre und
+Finanzierungslehre, Studentische Hilfskraft
+05/96 - 06/00 Sauren Finanzdienstleistungen, Köln, Studentische Hilfskraft
+08/95 - 06/96 Heeresamt Stammkompanie, Köln, Ableistung des Wehrdienstes
+08/92 - 06/95 Sparkasse Lüdenscheid
+02/95 - 06/95 Anstellung als Bankkaufmann bis zum Antritt des Wehrdienstes
+08/92 - 01/95 Ausbildung zum Bankkaufmann
+1982 - 1992 Burggymnasium der Stadt Altena, Abschluss: Abitur

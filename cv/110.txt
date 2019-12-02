@@ -1,0 +1,232 @@
+Testmanager/-koordinator - ISTQB advanced - ERP Rollout S/4HANA - Rollout Methodik - Projektmanagement
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+06.01.2020
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D0D1D2D3D4D5D6D7D8D9ÖsterreichSchweizEinsatzort unbestimmt
+Position
+Kommentar
+Rollout Berater Testing in Business und IT Transformations Projekte im ERP S/4HANA Umfeld 
+Mehr als 5+ Jahren in internationalen ERP-Rollout Großprojekten im Test Umfeld,
+10+ Jahre Erfahrung im Testing
+Projekt Methodik von großen Transformationsprojekten
+Hands-on Mentalität und agiles Mind-Set
+Projekte
+01/2019 - 07/2019
+
+7 Monate
+
+ERP Rollout | Mechanical Engineering – Automation project
+
+Rolle
+Rollout Manager Testing
+Einsatzort
+Flensburg
+Projektinhalte
+OneERP ist ein Business- und Prozess-Transformationsprojekt mit einem ehrgeizigen Zeitplan und Umfang. Um diesem engen Zeitplan gerecht zu werden, wurde ein industrialisierter Roll-In-Ansatz mit parallelen Roll-Ins mehrerer Landesgesellschaften an mehreren Standorten pro Release eingerichtet. Die Testautomatisierung wird der Schlüssel zur Deckung des wachsenden Bedarfs an Tests sein.   Meine Aufgaben im Rahmen dieses Projektes sind:  
+Definition der notwendigen Rollout Aktivitäten Testautomatisierung zur Ermöglichung einer engeren Roadmap
+Dokumentation des Testprozess-Frameworks in UML
+Definition des Automatisierungsumfangs (Risk Exposure Matrix)
+Externe Lieferantenunterstützung für OneERP-Prozesse, Leistungen und Datenanalysen in der Pilotphase des Automatisierungsprojekts
+Methodische Unterstützung beim POC (Proof of concept)
+Methodische Unterstützung beim RFP (Request for proposal)
+Kenntnisse
+iSTQBTeststrategie des KundenASAPRisikomanagementOfficeVBASAP Solu-tion ManagerBlack BoxIntegration TestUnit TestUser Acceptance testCubettoSVNUFT
+Produkte
+Microsoft Office Cubetto (UML) SVN UFT Solution Manager 7.2
+01/2018 - 12/2018
+
+1 Jahr
+
+ERP Rollout | Mechanical Engineering – Release 1
+
+04/2015 - 12/2017
+
+2 Jahre 9 Monate
+
+ERP Rollout | Telecommunication - Management Design Team
+
+04/2014 - 03/2015
+
+1 Jahr
+
+ERP Rollout | Telecommunication – Rollout Management
+
+04/2013 - 03/2014
+
+1 Jahr
+
+ERP Rollout | Telecommunication – E2E Test
+
+08/2012 - 03/2013
+
+8 Monate
+
+Logistikdienstleister Wechsel
+
+05/2011 - 07/2012
+
+1 Jahr 3 Monate
+
+Billing Festnetz
+
+10/2010 - 04/2011
+
+7 Monate
+
+Testdatenkoordinator CRM
+
+10/2008 - 09/2010
+
+2 Jahre
+
+CRM E2E Testing
+
+07/2006 - 09/2008
+
+2 Jahre 3 Monate
+
+IQREP
+
+07/2004 - 03/2006
+
+1 Jahr 9 Monate
+
+Hardwarevertrieb
+
+03/2000 - 06/2004
+
+4 Jahre 4 Monate
+
+Systemmanagement Alldata
+
+Branchen
+Maschinenbau
+Telekommunikation
+Banken
+Versicherung
+ 
+Kompetenzen
+Programmiersprachen
+ABAP4
+0 - 1 Jahre Erfahrung
+Bash Shell
+Basic
+3 Jahre Erfahrung
+C
+0 - 1 Jahre Erfahrung
+C++
+0 - 1 Jahre Erfahrung
+CShell
+Excel VBA
+Java
+0 - 1 Jahre Erfahrung
+JavaScript
+0 - 1 Jahre Erfahrung
+Oracle/SQL
+Perl
+2 - 3 Jahre Erfahrung
+PL/SQL
+über 5 Jahre Erfahrung
+Shell
+über 5 Jahre Erfahrung
+VBA
+Betriebssysteme
+Administration AIX
+Mac OS
+MS-DOS
+SUN OS, Solaris
+Unix
+Windows
+Datenbanken
+Access
+0 - 1 Jahre Erfahrung
+Informix
+0 - 1 Jahre Erfahrung
+MySQL
+3 - 5 Jahre Erfahrung
+Oracle
+3 - 5 Jahre Erfahrung
+SQL
+über 5 Jahre Erfahrung
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+fließend in Wort und Schrift
+Französisch
+Grundlagen Schule
+Datenkommunikation
+Bus
+EDIFACT
+Ethernet
+Internet, Intranet
+PC-Anywhere
+Router
+TCP/IP
+Token Ring
+Windows Netzwerk
+Produkte / Standards / Erfahrungen
+ASAP
+ASAP
+Black Box
+CCOS
+CI-ODS
+Cubetto (UML)
+ERP Systeme
+Explorative testing
+HP QC
+iQREP
+iSTQB
+iSTQB
+Microsoft Office
+SAP Business Suite 4 SAP HANA
+SAP Solution Manager
+SAP SolutionManager
+Solution Manager
+Solution Manager
+Solution Manager 7.2
+SVN
+Teststrategie des Kunden
+Teststrategie des Kunden
+UFT
+Unit Test
+User acceptance test
+ASAP Changemanagement DDTS EFQM EPK FMEA GSM HoQ HTML     Internetsecurity   iQReP ISTQB ITIL Grundlagen Jira KVP MS Office ( Excel, Project, Powerpoint, Visio, Word) Projektmanagement Prozessdefinitionen Qualitätssicherung Qualitätsmanagement Quality Center Quick Test Pro RADAR Risk Based Testing SQL-Backtrack SQL Developer Telko Geschäftsprozesse Telko Kampagnenadministration Telko Offermanagement Tivoli Enterprise Console Tivoli Framework   Tivoli Monitoring / ITM     Tivoli Rulebuilding         Toad TPI TMap TQM V-Modell
+Aufgabenbereiche
+Capacity planing
+Defect management
+Integration testing
+Project management
+Resource planing
+Risikomanagement
+Riskmanagement
+Test data definition
+Test specification
+Ausbildungshistorie
+ISTQB Certified Tester Advanced Level - Test Manager
+ISTQB Certified Tester Advanced Level - Test Analyst
+ISTQB Certified Tester - Foundation Level
+Prince2 Foundation Zertifizierung
+Systemischer Coach DCV e.V. 
+Zertifizierung: EFQM Assessor
+6Sigma GreenBelt Training
+Schulung: Administration Windows NT
+Schulung: AIX Systemadministration I
+Schulung: AIX Grundlagen-Praktikum
+Schulung: Billing
+Schulung: Oracle DBA
+Schulung: Orache Dumps
+Schulung: Oracle SQL
+Schulung: Tivoli Enterprise Console
+Schulung: Tivoli Framework
+Schulung: Tivoli Programming Rules
+Schulung: Troubleshooting Windows NT
+Schulung: Wie funktioniert ein Netzwerk?
+Gesamthochschule, Essen: Studium Wirtschaftsinformatik

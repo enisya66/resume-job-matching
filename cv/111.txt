@@ -1,0 +1,225 @@
+Senior Testmanager und Tester Full Advanced Level (ISTQB) in agilem und traditionellen Umfeld
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+11.11.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+PLZ-Gebiet, Land
+D5D6D7D8D9Schweiz
+Städte
+München
+500 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Position
+Kommentar
+Langjährig erfahrener Testmanager und Tester von Software.
+Bisher Aufträge als freiberuflicher IT - Consultant in Deutschland, Österreich und in der Schweiz. Testspezialist mit "Hands on" Mentalität, jeweils abhängig von Auftrag und Kundenwünschen, kann ich testseitig alle Bereiche abdecken, von Analyse der Anforderungen, Definition des Testkonzepts, Erstellung von Testfällen, Durchführung der Tests, Schulung und Einarbeitung von Testern, Leitung eines Testteams, Zusammenarbeit mit Fach - und IT - Abteilungen in allen Entwicklungsstufen bis die gewünschte Software in Produktion geht.
+Berichte und Monitoring der Testergebnisse mit Präsentation für das Management. Überführung der Software in den Wartungs- bzw. Produktionsbetrieb.
+Testautomatisierung von Regressionstests während und nach der Entwicklungsphase.
+Professioneller IT - Consultant in der Software Entwicklung entweder in traditionellen V - Modellen oder in agilen Teams mit SCRUM als verantwortlicher Tester bzw. Testmanager. Erfahrung als Tester und Testmanager in diversen Entwicklungs- und Testtools wie HP-ALM, Jira, Confluence, Eclipse, SVM und anderen, sowie Testautomatisierung mit UFT, Performance Tests.
+Projekte
+07/2019 - 10/2019
+
+4 Monate
+
+Release mit mehreren Applikationen und Projekten
+
+Rolle
+Testmanager
+Kunde
+Postfinance in Bern / Zofingen
+Projektinhalte
+Interim Testmanager für ein Release mit mehreren Applikationen und Projekten.
+Leitung Testteam 4 Tester, Releasemanagement und Steuerung des Releases für die Bereiche und die Testaktivitäten.
+Erstellung von Testkonzepten und Teststrategien und Definition von Teststandards.
+Fachbereich Fraud Prevention und Erkennung von anormalen Finanztransaktionen nach einem komplexen internen Regelwerk.
+10/2018 - 04/2019
+
+7 Monate
+
+Testmanager
+
+Rolle
+Testmanager Output Systeme
+Kunde
+CreditBank
+Einsatzort
+Stuttgart
+Projektinhalte
+Test der Dokumente im Qutputmanagement, Erstellung neuer Testfälle, End to End Test, Jira mit Confluence und KANBAN.
+Weiterführung der Testautomatisierung mir Selenium und Jenkins, SVN, GIT und Imbus Testbench
+Kenntnisse
+TestanalyseAgiles TestenTestkonzeptionTestkoordinationUATTestautomatisierung
+Produkte
+Atlassian Confluence Scrum HP UFT Atlassian JIRA Agile Kanban zephyr HP ALM
+04/2018 - 09/2018
+
+6 Monate
+
+Reorganisation Teststrukturen der Landesbank Stuttgart
+
+01/2018 - 03/2018
+
+3 Monate
+
+Einsatz in einem Projekt zum europaweiten Rollout der Kundenkarten des Konzerns
+
+01/2017 - 12/2017
+
+1 Jahr
+
+Entwicklung einer Software-Steuerung
+
+09/2016 - 12/2016
+
+4 Monate
+
+Ablösung der Systeme von Fahrkartenautomaten der DB
+
+07/2016 - 09/2016
+
+3 Monate
+
+Migration aller Prozessen in neues SAP System
+
+05/2016 - 07/2016
+
+3 Monate
+
+Erstellung des strategischen Testkonzepts
+
+04/2016 - 05/2016
+
+2 Monate
+
+Qualitätsprüfung des Testmanagements
+
+01/2015 - 03/2016
+
+1 Jahr 3 Monate
+
+Definition, Aufbau, Leitung und Abschluss mehrerer Projekte
+
+07/2014 - 12/2014
+
+6 Monate
+
+Innovationssystem 2.0
+
+01/2014 - 06/2014
+
+6 Monate
+
+siehe Aus- und Weiterbildung
+
+07/2013 - 12/2013
+
+6 Monate
+
+Testmanagement
+
+01/2013 - 06/2013
+
+6 Monate
+
+Testsysteme
+
+01/2011 - 12/2012
+
+2 Jahre
+
+Update und Migration von Projekten in HP Quality
+
+01/2010 - 12/2010
+
+1 Jahr
+
+freiberufliche Durchführung von Tests in kleinen und mittleren Projekten
+
+01/2008 - 12/2009
+
+2 Jahre
+
+Beratung bei Testplanung
+
+06/2002 - 12/2007
+
+5 Jahre 7 Monate
+
+Leitung Testmanagement
+
+05/1997 - 05/2002
+
+5 Jahre 1 Monat
+
+Bankanwendungen
+
+Branchen
+Bank / Kreditkarten 
+Pharma- und Medical Technik
+Automobil 
+Luftverkehr
+Logistik 
+Deutsche Bahn
+Kompetenzen
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+sehr gut
+Französisch
+gut
+Produkte / Standards / Erfahrungen
+Agiles Testen
+ALM
+ALM HP - QC
+Atlassian Confluence
+Atlassian JIRA Agile
+BizzTalk
+HP UFT
+JIRA Agile
+Kanban
+Logistikkonzepte
+Microsoft Dynamics AX
+UAT
+zephyr
+Schwerpunkte
+Acceptance Test
+HP ALM 12
+Jira
+Leitung Testteam
+Scrum
+Testanalyse
+Testdurchführung
+Testkonzeptionen
+Testkoordination
+Testmanagement
+Datenbanken
+MS-SQL Server
+Betriebssysteme
+heterogene Systemlandschaft
+IBM Host und Client Server Architektur
+Windows
+Managementerfahrung in Unternehmen
+HP ALM
+Testautomatisierung
+Testkonzeption
+Ausbildungshistorie
+Ausbildung und Zertifizierungen:
+Informatiker und Programmierer (FH ILS Hamburg)
+QAMP Quality Assurance Management Professional (ASQF)
+Testmanager Expert Level (SWQL, Software Quality Lab)
+Full Advanced Tester (ISTQB), Testmanager, Testanalyst und Technical Testanalyst
+Requirement Engineer (IREB)
+Agiler Tester (CAT) (ISTQB)
+ 01/2014 - 06/2014 Weiterbildung im Test- und Qualitätsmanagement
+Zum Testmanager Expert Level (SWQL)
+Testmanagement in agilen Projekten
+HP ALM Quality Center
+Testautomatisierung mit Robot Framework und UFT

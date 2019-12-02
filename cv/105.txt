@@ -1,0 +1,200 @@
+- Testmanagement - Scrum Master - Defectmanagement - Releasemanagement
+gulp_id_picture
+Kontaktieren
+Auf die Merkliste
+verfügbar ab
+01.11.2019
+verfügbar zu
+100 %
+davon vor Ort
+100 %
+Städte
+Frankfurt
+20 km
+Kontaktwunsch
+Ich möchte bevorzugt für Projekte in diesen Einsatzorten kontaktiert werden.
+
+Position
+Kommentar
+Testmanagement, Testkoordination, SCRUM Master (Agile Projektkoordination/-management)
+Projekte
+02/2019 - 10/2019
+
+9 Monate
+
+GDPP Rollout
+
+Rolle
+Releasemanager
+Kunde
+Fidelity Inernational Service GmbH
+Einsatzort
+Kronberg im Taunus
+Projektinhalte
+Verantwortlicher für Planung, Koordination und Durchführung aller
+Releases auf Test- und Produktionsumgebung im Rahmen eines agilen
+Softwareprojekts.
+Optimierung und Dokumentation des Release-Prozesses.
+Organisation und Dokumentation der Inhalte aller Releases.
+Verantwortung über die Einhaltung der Compliance-Regeln rund um den
+Release-Prozess.
+Koordination der Kommunikation zu den Stakeholdern bezüglich aller
+release-spezifischen Themen.
+Überwachung der Mindestanforderungen für neu erstellte Defects.
+Vertretungsweise Übernahme der Scrum Master- und Testmanager
+Aufgaben.
+Vertretung des Testmanagers und der Scrum Masters.
+Unterstützung bei der Durchführung von manuellen Testfällen und der
+Testdokumentation.
+Kenntnisse 
+Releasemanagement Scrum Master Testmanager Defectmanagement
+Produkte
+JIRAAtlassian Confluence
+07/2018 - 12/2018
+
+6 Monate
+
+Update OS für Bioreaktoren
+
+Rolle
+Testmanager
+Kunde
+Sartorius Stedim Systems
+Einsatzort
+Guxhagen
+Projektinhalte
+Sicherstellung der Softwarequalität des Betriebssystems für
+unterschiedliche Bioreaktoren in Verbindung mit diversen
+Peripheriegeräten und Sensoren
+Kenntnisse
+Testmanagement Testdesign
+Produkte
+Polarion
+08/2017 - 02/2018
+
+7 Monate
+
+TMU-Migrationsprojekt
+
+06/2017 - 07/2017
+
+2 Monate
+
+Testen des Betriebssystems von Bioreaktoren in Verbindung mit diversen Peripheriegeräten und Sensoren
+
+02/2017 - 04/2017
+
+3 Monate
+
+Testen des Betriebssystems von Bioreaktoren in Verbindung mit diversen Peripheriegeräten und Sensoren
+
+09/2015 - 12/2016
+
+1 Jahr 4 Monate
+
+Einführung eines eDMS/SMS auf Basis SAP und Microsoft SharePoint
+
+11/2014 - 11/2016
+
+2 Jahre 1 Monat
+
+Support und Weiterentwicklung der Produktivumgebung für Risk Management in Nintex
+
+08/2013 - 06/2016
+
+2 Jahre 11 Monate
+
+Umsetzung eines neuen Intranets auf Basis von SharePoint 2010 mit innovativem, responsive Design und vielen Personalisierungsfeatures.
+
+09/2015 - 04/2016
+
+8 Monate
+
+Realisierung der Businessprozesse mit K2 Smartforms und K2 Workflows.
+
+12/2014 - 06/2015
+
+7 Monate
+
+Erstellung eines 8D-Reports für Zentrifugen
+
+08/2014 - 03/2015
+
+8 Monate
+
+Erstellung eines Prozess-Portals
+
+05/2014 - 02/2015
+
+10 Monate
+
+Erstellung einer Vertragsverwaltung, welche innerhalb einer SharePoint 2013-Umgebung läuft.
+
+12/2013 - 05/2014
+
+6 Monate
+
+Umsetzung eines redaktionell gepflegten Intranets zur Darstellung von vornehmlich standortbezogenen Inhalten
+
+Branchen
+Finanzen
+Telekommunikation
+Behörden
+Pharma / Chemie
+Logistik / Transport / Vertrieb
+Energieversorgung
+Automobil / Zulieferung
+Gesundheitswesen
+Kompetenzen
+Produkte / Standards / Erfahrungen
+Analytisches Vorgehen bei Problemen
+Atlassian Confluence
+JIRA
+KAIZEN/KVP
+Continous Improvement Process
+Microsoft Team Foundation Server
+Microsoft Test Manager
+Microsoft Visual Studio
+Polarion
+Scrum
+Visual Studio 2013
+Beruflicher Werdegang  ab 2017 Selbstständig mit Schwerpunkt Testmanagement/Scrum Master  2013 - 2016 Alegri International Service GmbH
+Test-/Qualitätsmanagement, Steuerung und Betreuung agiler Projekte (Scrum Master)
+ 2011 – 2013 MISUMI Europa GmbH
+Softwareentwicklung, Projektleitung, Prozessanalyse und -optimierung
+ 2010 – 2010 eWorks GmbH
+Praktikum Softwareentwicklung (C#, VBA) – als Teil des Studiums
+ 2007 – 2010 FH Frankfurt
+Bachelor Studium Informatik
+ 2003 – 2007 Lorenz Orga-Systeme GmbH
+Softwareentwickler (Visual Basic 6.0, SQL Oracle/MS, VBA, VBS, Centura)
+ 2000 – 2003 Lorenz Orga-Systeme GmbH
+Ausbildung Fachinformatiker für Anwendungsentwicklung
+Schwerpunkte
+Defectmanagement
+Releasemanagement
+Scrum Master
+Testdesign
+Testmanagement
+Testmanager
+Fachlicher Schwerpunkt 
+Testmanagement
+Scrum Master (Steuerung/Betreuung agiler Projekte)
+Releasemanagement
+Defectmanagement
+Sprachkenntnisse
+Deutsch
+Muttersprache
+Englisch
+fließend
+Ausbildungshistorie
+Zertifizierungen/Schulungen 
+Zertified Scrum Master
+ITIL V3 Foundation
+ISTQB Foundation
+Microsoft: Software Testing with Visual Studio
+Microsoft: Application Lifecycle Management/SCRUM
+Validierungsstrategien nach GAMP5
+Microsoft Application Accelerate Programm
+ Abschluss 
+BA Informatik & Fachinformatiker AE
