@@ -29,7 +29,7 @@ Ditzingen
 Projektinhalte
 Umstellung der Hardwareentwicklung auf Scrum.
 Kenntnisse
-Scaled Professional ScrumPSM IPSM II
+Scaled Professional Scrum PSM IPSM II
 Produkte
 Atlassian JIRA Atlassian Confluence
 11/2017 - 05/2018

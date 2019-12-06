@@ -142,7 +142,7 @@ class SiameseBiLSTM:
                   callbacks=[early_stopping, model_checkpoint, tensorboard])
         
         # plot metrics graphs
-		plt.plot(history.history['loss'])
+    	  plt.plot(history.history['loss'])
         plt.xlabel('epochs')
         plt.ylabel('loss')
         plt.show()

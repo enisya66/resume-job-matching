@@ -67,7 +67,7 @@ Project Scope: Intranet-Plattform
 Kenntnisse
 professional scrum master Scrum Scrum Master zertifizierter scrum master Agile Entwicklung agile Entwicklungsmethoden Agile Softwareentwicklung Agile Coaching
 Produkte
-TFSTeam Foundation Server
+TFS Team Foundation Server
 03/2019 - 07/2019
 
 5 Monate

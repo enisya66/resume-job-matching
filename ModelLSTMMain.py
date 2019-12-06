@@ -18,9 +18,9 @@ from keras.utils.vis_utils import model_to_dot
 from FileReader import generate_data_for_resume_matcher
 from DataGenerator import cleanup_text, get_average_text_length, plot_text_length
 from EmbeddingUtils import word_embedding_metadata, create_test_data
-from ModelLSTM import SiameseBiLSTM
 from ModelMaLSTM import SiameseMaLSTM
 from ModelEvaluation import plot_confusion_matrix, model_classification_report
+from ResumeMatchingAnalysis import get_best_preds
 
 # constants
 NUM_CLASSES = 5 #len(np.unique(y))
@@ -47,17 +47,14 @@ Siamese LSTM for resume matching method
 # load data for resume matcher
 pairs, labels = generate_data_for_resume_matcher('data.csv')
 
-# downsample class 5
-
-
 # visualise data
 # print the first 5 pairs/labels
-print(pairs[:5])
-print(labels[:5])
+#print(pairs[:5])
+#print(labels[:5])
 
 # print the average length of documents
-print('Average CV length: ', get_average_text_length(pairs[:,0]))
-print('Average job post length: ', get_average_text_length(pairs[:,1]))
+#print('Average CV length: ', get_average_text_length(pairs[:,0]))
+#print('Average job post length: ', get_average_text_length(pairs[:,1]))
 
 # cleanup text
 for p in pairs:
@@ -65,8 +62,8 @@ for p in pairs:
     p[1] = cleanup_text(p[1])
     
 # print the first 5 pairs/labels
-print(pairs[:5])
-print(labels[:5])
+#print(pairs[:5])
+#print(labels[:5])
 
 # print the average length of documents
 print('Average CV length: ', get_average_text_length(pairs[:,0]))
@@ -75,8 +72,8 @@ plot_text_length(pairs[:,0])
 plot_text_length(pairs[:,1])
 
 # print the array shape
-print(pairs.shape)
-print(labels.shape)
+#print(pairs.shape)
+#print(labels.shape)
 
 # split data into train and test
 tokenizer, embedding_matrix = word_embedding_metadata(pairs, MAX_NUM_WORDS, EMBEDDING_DIM)
@@ -128,3 +125,7 @@ y_test = encoder.transform(y_test)
 # print evaluation measures
 print(model_classification_report(y_test, y_pred, LABELS))
 plot_confusion_matrix(y_test, y_pred, LABELS)
+
+df_pred = get_best_preds(x_test, y_test, y_pred)
+with open('best_predictions.txt', 'w') as csv_file:
+    df_pred.to_csv(path_or_buf=csv_file)

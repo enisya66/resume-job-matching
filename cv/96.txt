@@ -45,7 +45,7 @@ Köln
 Projektinhalte
 Fullstack Entwickler in einem cross-funktionalem Scrum-Team. Das Team, bestehend aus Entwicklern, UX-Designer und Redakteuren, war verantwortlich für die Konzeption und Entwicklung eines zukünftigen Kundenportals.
 Kenntnisse
-Scrum KanbanTeam Foundation Server Microsoft Azure C# KnockoutJS VueJS MS SQL Server
+Scrum Kanban Team Foundation Server Microsoft Azure C# KnockoutJS VueJS MS SQL Server
 09/2016 - 12/2017
 
 1 Jahr 4 Monate

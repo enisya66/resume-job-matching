@@ -56,7 +56,7 @@ Stakeholdermanagement
 Verantwortlich für die Einhaltung des Scrum-Frameworks
 Steuerung eines internationalen Scrum Teams
 Kenntnisse
-Scrumagile ProjectmanagementAnforderungsanalyse
+Scrumagile Projectmanagement Anforderungsanalyse
 Produkte
 Atlassian JIRA Atlassian Confluence
 01/2018 - 12/2018

@@ -105,13 +105,13 @@ class SiameseMultiCNN:
         # CNN base network
 
         # TODO multi filters (2,3,4) + concat
-        kernel_size = [3,4]
+        kernel_size = [2,3,4]
         cnn_layer = []
         inp = Input(shape=(self.max_sequence_length, 300, ))
         
         for i in kernel_size:
             #submodel = Sequential()
-            conv = Conv1D(128, i, activation=self.activation_function)(inp)
+            conv = Conv1D(256, i, activation=self.activation_function)(inp)
             pool = MaxPooling1D(i)(conv)
             flat = Flatten()(pool)
             drop = Dropout(0.4)(flat)
@@ -141,8 +141,8 @@ class SiameseMultiCNN:
         #dense2 = Dense(256, activation=self.activation_function)(dense1)
         
         # comment either one out
-        #output = Dense(categories.shape[1], activation='softmax')(distance)
-        output = Dense(1, activation='sigmoid')(distance)
+        output = Dense(categories.shape[1], activation='softmax')(distance)
+        #output = Dense(1, activation='sigmoid')(distance)
 
         model = Model([sequence_1_input, sequence_2_input], output)
 
@@ -164,7 +164,7 @@ class SiameseMultiCNN:
         # comment either one out
         rms = RMSprop()
         #adam = Adam(lr=0.0001)
-        model.compile(loss=self.loss_function, optimizer=rms, metrics=['accuracy'])
+        model.compile(loss=self.loss_function, optimizer='adam', metrics=['accuracy'])
         #model.compile(loss=self.contrastive_loss, optimizer=rms)
 
         # print model
@@ -190,8 +190,8 @@ class SiameseMultiCNN:
 		# happy training
         history = model.fit([train_data_x1, train_data_x2], train_labels,
                   validation_data=([val_data_x1, val_data_x2], val_labels),
-                  epochs=8, batch_size=64, shuffle=True, verbose=1,
-                  callbacks=[model_checkpoint, tensorboard])
+                  epochs=30, batch_size=128, shuffle=True, verbose=1,
+                  callbacks=[model_checkpoint, tensorboard, early_stopping])
         
 		# plot metrics graphs
         plt.plot(history.history['loss'], 'bo', label='Loss')

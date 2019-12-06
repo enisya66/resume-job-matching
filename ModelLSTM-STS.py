@@ -16,7 +16,7 @@ from statsmodels.nonparametric.kernel_regression import KernelReg
 from FileReader import generate_data_for_sts
 from DataGenerator import cleanup_text
 from EmbeddingUtils import word_embedding_metadata, create_test_data
-from ModelLSTM import SiameseBiLSTM
+#from ModelLSTM import SiameseBiLSTM
 from ModelMaLSTM import SiameseMaLSTM
 from ModelEvaluation import evaluate_continuous_data
 

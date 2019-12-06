@@ -19,7 +19,8 @@ import pydot
 from FileReader import generate_data_for_resume_matcher
 from DataGenerator import cleanup_text, get_average_text_length, plot_text_length
 from EmbeddingUtils import word_embedding_metadata, create_test_data
-from ModelCNN import SiameseBiCNN
+from ModelCNN import SiameseCNN
+from ModelCNNMultiFilter import SiameseMultiCNN
 from ModelEvaluation import plot_confusion_matrix, model_classification_report, evaluate_continuous_data
 
 # constants
@@ -34,7 +35,7 @@ MAX_SEQUENCE_LENGTH = 512
 VALIDATION_SPLIT = 0.2
 RATE_DROP_CNN = 0.25
 RATE_DROP_DENSE = 0.4
-KERNEL_WIDTH = 5
+KERNEL_WIDTH = 3
 NUMBER_DENSE_UNITS = 50
 ACTIVATION_FUNCTION = 'relu'
 LOSS_FUNCTION = 'categorical_crossentropy'
@@ -62,13 +63,16 @@ print('Average job post length: ', get_average_text_length(pairs[:,1]))
 
 # cleanup text
 for p in pairs:
-    p[0] = cleanup_text(p[0])
-    p[1] = cleanup_text(p[1])
+    p[0] = cleanup_text(p[0], False)
+    p[1] = cleanup_text(p[1], False)
     
-# rescale y value from [5,1] to [0,1]
-labels = labels.astype(np.float)
-for i in range(len(labels)):
-    labels[i] = abs(1-labels[i])/4.0
+# =============================================================================
+# # rescale y value from [5,1] to [0,1]
+# labels = labels.astype(np.float)
+# for i in range(len(labels)):
+#     labels[i] = abs(1-labels[i])/4.0
+# =============================================================================
+
 
 # print the first 5 pairs/labels
 print(pairs[:5,0])
@@ -101,7 +105,7 @@ tokenizer, embedding_matrix = word_embedding_metadata(pairs, MAX_NUM_WORDS, EMBE
 x_train, x_test, y_train, y_test = train_test_split(pairs, labels, stratify=labels, test_size=TEST_SPLIT, random_state=42)
 
 # create model
-siamese = SiameseBiCNN(EMBEDDING_DIM , MAX_SEQUENCE_LENGTH, KERNEL_WIDTH , NUMBER_DENSE_UNITS, 
+siamese = SiameseCNN(EMBEDDING_DIM , MAX_SEQUENCE_LENGTH, KERNEL_WIDTH , NUMBER_DENSE_UNITS, 
 					    RATE_DROP_CNN, RATE_DROP_DENSE, ACTIVATION_FUNCTION, VALIDATION_SPLIT, LOSS_FUNCTION)
 
 # normalize labels to be used with to_categorical
@@ -124,8 +128,8 @@ plot_model(model, show_shapes=True)
 
 # cleanup text
 for x in x_test:
-    x[0] = cleanup_text(x[0])
-    x[1] = cleanup_text(x[1])
+    x[0] = cleanup_text(x[0], False)
+    x[1] = cleanup_text(x[1], False)
 
 test_data_x1, test_data_x2, leaks_test = create_test_data(tokenizer,x_test, MAX_SEQUENCE_LENGTH)
 y_pred_arr = model.predict([test_data_x1, test_data_x2], verbose=1)

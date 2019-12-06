@@ -29,7 +29,7 @@ import os
 from EmbeddingUtils import create_train_dev_set
 
 
-class SiameseBiCNN:
+class SiameseCNN:
     def __init__(self, embedding_dim, max_sequence_length, kernel_width, number_dense, rate_drop_cnn, 
                  rate_drop_dense, hidden_activation, validation_split_ratio, loss_function):
         self.embedding_dim = embedding_dim
@@ -109,10 +109,10 @@ class SiameseBiCNN:
         # CNN base network
         # TODO use bias?
         # TODO multi filters (2,3,4) + concat
-        cnn_layer = Sequential([Conv1D(200, self.kernel_width, activation=self.activation_function),
+        cnn_layer = Sequential([Conv1D(512, self.kernel_width, activation=self.activation_function),
                                 #Dropout(0.2),
                                 GlobalMaxPooling1D(),
-                                Dense(200, activation=self.activation_function),
+                                #Dense(512, activation=self.activation_function),
                                 Dropout(0.4)
                                 #BatchNormalization(),
                                 #MaxPooling1D(3),
@@ -161,14 +161,14 @@ class SiameseBiCNN:
         #average_embedded_2 = np.expand_dims(average_embedded_2, axis=-1)
         x2 = cnn_layer(embedded_sequences_2)
            
-        distance = Lambda(self.cosine_distance, output_shape=self.eucl_dist_output_shape)([x1, x2])
+        distance = Lambda(self.euclidean_distance, output_shape=self.eucl_dist_output_shape)([x1, x2])
         # if dense layer after concat/merging
         #dense1 = Dense(1024, activation=self.activation_function)(distance)
         #dense2 = Dense(256, activation=self.activation_function)(dense1)
         
         # comment either one out
-        #output = Dense(categories.shape[1], activation='softmax')(distance)
-        output = Dense(1, activation='sigmoid')(distance)
+        output = Dense(categories.shape[1], activation='softmax')(distance)
+        #output = Dense(1, activation='sigmoid')(distance)
 
         model = Model([sequence_1_input, sequence_2_input], output)
 
@@ -190,7 +190,7 @@ class SiameseBiCNN:
         # comment either one out
         rms = RMSprop()
         #adam = Adam(lr=0.0001)
-        model.compile(loss=self.loss_function, optimizer='adam', metrics=['accuracy'])
+        model.compile(loss=self.loss_function, optimizer='nadam', metrics=['accuracy'])
         #model.compile(loss=self.contrastive_loss, optimizer=rms)
 
         # print model
@@ -216,8 +216,8 @@ class SiameseBiCNN:
 		# happy training
         history = model.fit([train_data_x1, train_data_x2], train_labels,
                   validation_data=([val_data_x1, val_data_x2], val_labels),
-                  epochs=30, batch_size=256, shuffle=True, verbose=1,
-                  callbacks=[early_stopping, model_checkpoint, tensorboard])
+                  epochs=10, batch_size=32, shuffle=True, verbose=1,
+                  callbacks=[model_checkpoint, tensorboard])
         
 		# plot metrics graphs
         plt.plot(history.history['loss'], 'bo', label='Loss')

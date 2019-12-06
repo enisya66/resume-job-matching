@@ -63,7 +63,8 @@ x_train, x_test, y_train, y_test = train_test_split(pairs, labels, test_size=TES
 start = time.time()
 
 # initialize count vectorizer
-cvec = CountVectorizer(ngram_range=(1,3))
+#cvec = CountVectorizer(ngram_range=(1,3))
+cvec = CountVectorizer()
 similarity = []
 
 # learn the vocabulary dictionary and return term-document matrix
@@ -112,4 +113,4 @@ plot_confusion_matrix(y_test, y_pred, LABELS)
 # stop the clock
 print('Total time taken: %s seconds' % (time.time() - start))
 # store the predicted values
-save_predictions('BoW', x_test[:,0], x_test[:,1], y_test, y_pred)
+#save_predictions('BoW', x_test[:,0], x_test[:,1], y_test, y_pred)

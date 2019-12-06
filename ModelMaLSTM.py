@@ -105,7 +105,8 @@ class SiameseMaLSTM:
         
 
         # LSTM base network      
-        lstm_layer = LSTM(self.number_lstm_units)
+        lstm_layer = LSTM(self.number_lstm_units,
+                          recurrent_activation='sigmoid')
         #lstm_layer = Bidirectional(LSTM(self.number_lstm_units, dropout=self.rate_drop_lstm, recurrent_dropout=self.rate_drop_lstm))
 
         # Connect LSTM layer for first sentence
@@ -122,7 +123,7 @@ class SiameseMaLSTM:
         distance = Lambda(self.manhattan_distance, output_shape=self.eucl_dist_output_shape)([x1, x2])
         
         # comment either one out
-        output = Dense(categories.shape[1], activation='sigmoid')(distance)
+        output = Dense(categories.shape[1], activation='softmax')(distance)
         #output = Dense(1, activation='sigmoid')(distance)
 
 
@@ -150,16 +151,17 @@ class SiameseMaLSTM:
             os.makedirs(checkpoint_dir)
 
         bst_model_path = checkpoint_dir + STAMP + '.h5'
+        print('*** MODEL NAME ', bst_model_path, ' ***')
 
-        #model_checkpoint = ModelCheckpoint(bst_model_path, save_best_only=True, save_weights_only=False)
+        model_checkpoint = ModelCheckpoint(bst_model_path, save_best_only=True, save_weights_only=False)
 
-        #tensorboard = TensorBoard(log_dir=checkpoint_dir + "logs/{}".format(time.time()))
+        tensorboard = TensorBoard(log_dir=checkpoint_dir + "logs/{}".format(time.time()))
 
 		# happy training
         history = model.fit([train_data_x1, train_data_x2], train_labels,
                   validation_data=([val_data_x1, val_data_x2], val_labels),
-                  epochs=25, batch_size=128, shuffle=True, verbose=1,
-                  callbacks=[early_stopping])
+                  epochs=30, batch_size=128, shuffle=True, verbose=1,
+                  callbacks=[model_checkpoint, tensorboard])
  
 		# plot metrics graphs
         plt.plot(history.history['loss'], 'bo', label='Loss')

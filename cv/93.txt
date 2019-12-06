@@ -46,7 +46,7 @@ Fachliche Unterstützung im Bereich DSGVO
 Kenntnisse
 Scrum agile Projectmanagement Agile Entwicklung Agile Coaching Agile PMO
 Produkte
-Azure DevOpsVSTS
+Azure DevOps VSTS
 07/2017 - 04/2018
 
 10 Monate

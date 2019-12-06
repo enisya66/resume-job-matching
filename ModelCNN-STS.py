@@ -14,7 +14,8 @@ import csv
 from FileReader import generate_data_for_sts
 from DataGenerator import cleanup_text
 from EmbeddingUtils import word_embedding_metadata, create_test_data
-from ModelCNN import SiameseBiCNN
+from ModelCNN import SiameseCNN
+from ModelCNNMultiFilter import SiameseMultiCNN
 from ModelEvaluation import evaluate_continuous_data
 
 # constants
@@ -48,7 +49,7 @@ sts_train, sts_test = generate_data_for_sts()
 
 # trial data augmentation
 sts_train = sts_train.append(sts_other, ignore_index=True)
-sts_train = sts_train.append(sts_dev, ignore_index=True)
+#sts_train = sts_train.append(sts_dev, ignore_index=True)
 sts_test = sts_test.append(sts_mt, ignore_index=True)
 
 # 
@@ -76,7 +77,7 @@ for i in range(len(y_train)):
 tokenizer, embedding_matrix = word_embedding_metadata(x_train.ravel().astype('U'), MAX_NUM_WORDS, EMBEDDING_DIM)
 # 
 # create model
-siamese = SiameseBiCNN(EMBEDDING_DIM , MAX_SEQUENCE_LENGTH, KERNEL_WIDTH , NUMBER_DENSE_UNITS, 
+siamese = SiameseMultiCNN(EMBEDDING_DIM , MAX_SEQUENCE_LENGTH, KERNEL_WIDTH , NUMBER_DENSE_UNITS, 
 					    RATE_DROP_CNN, RATE_DROP_DENSE, ACTIVATION_FUNCTION, VALIDATION_SPLIT, LOSS_FUNCTION)
 
  
